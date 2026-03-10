@@ -1,0 +1,350 @@
+persona_id,nombre,sistema,cuenta,rol,privilegio,mfa,ultimo_acceso,estado,otorgado_por
+E01,Mariana Ocampo Villegas,correo,mariana.ocampo,buzón,estándar,sms,2026-11-17,activo,creación inicial 2019
+E02,Andrés Gómez Salazar,correo,andres.gomez,administrador global de la suite,administrador,sms,2026-11-19,activo,sin registro
+E03,Luisa Fernanda Arango,correo,luisa.arango,buzón,estándar,ninguno,2026-11-19,activo,Gustavo Herrera
+E04,Camilo Restrepo Uribe,correo,camilo.restrepo,buzón,estándar,llave,2026-11-19,activo,Gustavo Herrera
+E05,Juliana Cardona Ríos,correo,juliana.cardona,buzón,estándar,app,2026-11-17,activo,Gustavo Herrera
+E06,Santiago Marín López,correo,santiago.marin,buzón,estándar,app,2026-11-17,activo,Gustavo Herrera
+E07,Daniela Henao Gil,correo,daniela.henao,buzón,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E08,Sebastián Ríos Arango,correo,sebastian.rios,buzón,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E09,Valeria Giraldo Mejía,correo,valeria.giraldo,buzón,estándar,ninguno,2026-11-19,activo,Jhon Fredy Montes
+E10,Mateo Valencia Ospina,correo,mateo.valencia,buzón,estándar,app,2026-11-19,activo,Jhon Fredy Montes
+E11,Laura Patiño Cardona,correo,laura.patino,buzón,estándar,ninguno,2026-11-17,activo,Jhon Fredy Montes
+E12,Felipe Zuluaga Henao,correo,felipe.zuluaga,buzón,estándar,app,2026-11-19,activo,Gustavo Herrera
+E13,Natalia Quintero Duque,correo,natalia.quintero,buzón,estándar,ninguno,2026-11-13,activo,Jhon Fredy Montes
+E14,Tomás Echeverri Salazar,correo,tomas.echeverri,buzón,estándar,app,2026-11-19,activo,Jhon Fredy Montes
+E15,Isabela Montoya Franco,correo,isabela.montoya,buzón,estándar,llave,2026-11-19,activo (vence 2026-12-31),"Camilo Restrepo (MESA-2025-0107, contrato PS-2025-014)"
+E16,Esteban Duque Marín,correo,esteban.duque,buzón,estándar,app,2026-06-30,desactivado,Gustavo Herrera
+E17,Carolina Mejía Toro,correo,carolina.mejia,buzón,estándar,ninguno,2026-11-18,activo,Fernando Salazar
+E18,Ricardo Osorio Patiño,correo,ricardo.osorio,buzón,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E19,Paula Andrea Cano Gómez,correo,paula.cano,buzón,estándar,ninguno,2026-11-18,activo,sin registro
+E20,Diana Bedoya Arias,correo,diana.bedoya,buzón,estándar,ninguno,2026-11-17,activo,Gustavo Herrera
+E21,Jorge Iván Castaño Ruiz,correo,jorge.castano,buzón,estándar,ninguno,2026-11-13,activo,Gustavo Herrera
+E22,Melissa Franco Giraldo,correo,melissa.franco,buzón,estándar,ninguno,2026-11-13,activo,Jhon Fredy Montes
+E23,Andrés Felipe Loaiza,correo,andres.loaiza,buzón,estándar,ninguno,2026-11-19,activo,Jhon Fredy Montes
+E24,Manuela Correa Vélez,correo,manuela.correa,buzón,estándar,ninguno,2026-11-13,activo,Jhon Fredy Montes
+E25,Kevin Arias Montoya,correo,kevin.arias,buzón,estándar,ninguno,2026-11-17,activo,Jhon Fredy Montes (igual a Diana Bedoya Arias)
+E26,Sara Vélez Cardona,correo,sara.velez,buzón,estándar,ninguno,2026-09-15,desactivado,Jhon Fredy Montes
+E27,Hernán Agudelo Restrepo,correo,hernan.agudelo,buzón,estándar,ninguno,2026-10-31,activo,Jhon Fredy Montes
+E28,Gloria Inés Jaramillo,correo,gloria.jaramillo,buzón,estándar,ninguno,2026-11-19,activo,creación inicial 2019
+E29,Valentina Ríos Ocampo,correo,valentina.rios,buzón,estándar,ninguno,2026-11-19,activo,Jhon Fredy Montes (igual a Gloria Inés Jaramillo)
+E30,Óscar Ramírez Londoño,correo,oscar.ramirez,buzón,estándar,ninguno,2026-11-19,activo,Gustavo Herrera
+E31,Beatriz Londoño Hoyos,correo,beatriz.londono,buzón,estándar,ninguno,2026-11-13,activo,Jhon Fredy Montes
+E32,Alejandro Toro Gutiérrez,correo,alejandro.toro,buzón,estándar,sms,2026-11-17,activo,creación inicial 2019
+E33,Catalina Gutiérrez Serna,correo,catalina.gutierrez,buzón,estándar,ninguno,2026-11-19,activo,Gustavo Herrera
+E34,Julián Ospina Castaño,correo,julian.ospina,buzón,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E35,Liliana Serna Botero,correo,liliana.serna,buzón,estándar,ninguno,2026-05-20,desactivado,Gustavo Herrera
+E36,Pablo Muñoz Arbeláez,correo,pablo.munoz,buzón,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E37,Ángela María Vargas,correo,angela.vargas,buzón,estándar,ninguno,2026-11-17,activo,Jhon Fredy Montes
+E38,Claudia Patricia Hoyos,correo,claudia.hoyos,buzón,estándar,llave,2026-11-18,activo,Gustavo Herrera
+E39,Miguel Ángel Rendón,correo,miguel.rendon,buzón,estándar,ninguno,2026-11-13,activo,Jhon Fredy Montes (igual a Claudia Patricia Hoyos)
+E40,Fernando Salazar Mejía,correo,fernando.salazar,administrador global de la suite,administrador,sms,2026-11-13,activo,Fernando Salazar
+E41,Ximena Botero Quintero,correo,ximena.botero,buzón,estándar,ninguno,2026-11-13,activo,Jhon Fredy Montes
+E42,David Castro Henao,correo,david.castro,buzón,estándar,app,2026-11-13,activo,Jhon Fredy Montes
+E43,Rosa Elena Pineda,correo,rosa.pineda,buzón,estándar,app,2026-11-17,activo,Jhon Fredy Montes
+E44,Gustavo Herrera Duque,correo,gustavo.herrera,buzón,estándar,sms,2025-12-31,desactivado,creación inicial 2019
+E45,Lina Marcela Agudelo,correo,lina.agudelo,buzón + delegación del buzón de gerencia,escritura,ninguno,2026-11-13,activo,Gustavo Herrera
+E46,Jhon Fredy Montes,correo,jhon.montes,administrador de usuarios,administrador,sms,2026-11-19,activo,Jhon Fredy Montes
+E47,Alejandra Cifuentes Mora,correo,alejandra.cifuentes,buzón,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E48,Nicolás Arbeláez Toro,correo,nicolas.arbelaez,buzón,estándar,ninguno,2026-11-19,activo,Jhon Fredy Montes (igual a Santiago Marín López)
+E01,Mariana Ocampo Villegas,portal,mariana.ocampo,aprobador (Gerencia),escritura,sms,2026-11-04,activo,creación inicial 2019
+E02,Andrés Gómez Salazar,portal,andres.gomez,empleado,estándar,ninguno,2026-11-05,activo,creación inicial 2019
+E03,Luisa Fernanda Arango,portal,luisa.arango,aprobadora de nómina,escritura,ninguno,2026-11-09,activo,Gustavo Herrera
+E04,Camilo Restrepo Uribe,portal,camilo.restrepo,empleado,estándar,llave,2026-10-28,activo,Gustavo Herrera
+E04,Camilo Restrepo Uribe,portal,camilo.restrepo,aprobador (Desarrollo),escritura,llave,2026-10-28,activo,Claudia Hoyos (MESA-2024-0127)
+E05,Juliana Cardona Ríos,portal,juliana.cardona,empleado,estándar,ninguno,2026-11-17,activo,Gustavo Herrera
+E06,Santiago Marín López,portal,santiago.marin,empleado,estándar,ninguno,2026-11-18,activo,Gustavo Herrera
+E07,Daniela Henao Gil,portal,daniela.henao,empleado,estándar,ninguno,2026-11-06,activo,Jhon Fredy Montes
+E08,Sebastián Ríos Arango,portal,sebastian.rios,empleado,estándar,ninguno,2026-11-10,activo,Jhon Fredy Montes
+E09,Valeria Giraldo Mejía,portal,valeria.giraldo,empleado,estándar,ninguno,2026-11-06,activo,Jhon Fredy Montes
+E10,Mateo Valencia Ospina,portal,mateo.valencia,empleado,estándar,ninguno,2026-11-10,activo,Jhon Fredy Montes
+E11,Laura Patiño Cardona,portal,laura.patino,empleado,estándar,ninguno,2026-11-04,activo,Jhon Fredy Montes
+E12,Felipe Zuluaga Henao,portal,felipe.zuluaga,empleado,estándar,ninguno,2026-11-13,activo,Gustavo Herrera
+E12,Felipe Zuluaga Henao,portal,felipe.zuluaga,aprobador (Infraestructura),escritura,ninguno,2026-11-09,activo,sin registro
+E13,Natalia Quintero Duque,portal,natalia.quintero,empleado,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E14,Tomás Echeverri Salazar,portal,tomas.echeverri,empleado,estándar,ninguno,2026-11-17,activo,Jhon Fredy Montes
+E16,Esteban Duque Marín,portal,esteban.duque,empleado,estándar,ninguno,2026-06-26,desactivado,Gustavo Herrera
+E17,Carolina Mejía Toro,portal,carolina.mejia,empleado,estándar,ninguno,2026-10-30,activo,Fernando Salazar
+E17,Carolina Mejía Toro,portal,carolina.mejia,aprobador (Documentación),escritura,ninguno,2026-11-03,activo,sin registro
+E18,Ricardo Osorio Patiño,portal,ricardo.osorio,empleado,estándar,ninguno,2026-10-30,activo,Jhon Fredy Montes
+E19,Paula Andrea Cano Gómez,portal,paula.cano,empleado,estándar,ninguno,2026-11-09,activo,sin registro
+E20,Diana Bedoya Arias,portal,diana.bedoya,empleado,estándar,ninguno,2026-11-13,activo,Gustavo Herrera
+E20,Diana Bedoya Arias,portal,diana.bedoya,aprobador (Soporte),escritura,ninguno,2026-10-28,activo,Gustavo Herrera
+E21,Jorge Iván Castaño Ruiz,portal,jorge.castano,empleado,estándar,ninguno,2026-10-29,activo,Gustavo Herrera
+E22,Melissa Franco Giraldo,portal,melissa.franco,empleado,estándar,ninguno,2026-11-11,activo,Jhon Fredy Montes
+E23,Andrés Felipe Loaiza,portal,andres.loaiza,empleado,estándar,ninguno,2026-11-11,activo,Jhon Fredy Montes
+E24,Manuela Correa Vélez,portal,manuela.correa,empleado,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E25,Kevin Arias Montoya,portal,kevin.arias,empleado,estándar,ninguno,2026-11-13,activo,Jhon Fredy Montes (igual a Diana Bedoya Arias)
+E26,Sara Vélez Cardona,portal,sara.velez,empleado,estándar,ninguno,2026-09-11,desactivado,Jhon Fredy Montes
+E27,Hernán Agudelo Restrepo,portal,hernan.agudelo,empleado,estándar,ninguno,2026-10-29,activo,Jhon Fredy Montes
+E28,Gloria Inés Jaramillo,portal,gloria.jaramillo,nómina,escritura,ninguno,2026-11-05,activo,creación inicial 2019
+E29,Valentina Ríos Ocampo,portal,valentina.rios,nómina,escritura,ninguno,2026-11-18,activo,Jhon Fredy Montes (igual a Gloria Inés Jaramillo)
+E30,Óscar Ramírez Londoño,portal,oscar.ramirez,empleado,estándar,ninguno,2026-11-17,activo,Gustavo Herrera
+E31,Beatriz Londoño Hoyos,portal,beatriz.londono,empleado,estándar,ninguno,2026-11-12,activo,Jhon Fredy Montes
+E32,Alejandro Toro Gutiérrez,portal,alejandro.toro,empleado,estándar,ninguno,2026-11-17,activo,sin registro
+E32,Alejandro Toro Gutiérrez,portal,alejandro.toro,aprobador (Comercial),escritura,ninguno,2026-11-04,activo,creación inicial 2019
+E33,Catalina Gutiérrez Serna,portal,catalina.gutierrez,empleado,estándar,ninguno,2026-11-19,activo,Gustavo Herrera
+E34,Julián Ospina Castaño,portal,julian.ospina,empleado,estándar,ninguno,2026-11-19,activo,Jhon Fredy Montes
+E35,Liliana Serna Botero,portal,liliana.serna,empleado,estándar,ninguno,2026-05-15,desactivado,Gustavo Herrera
+E36,Pablo Muñoz Arbeláez,portal,pablo.munoz,empleado,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E37,Ángela María Vargas,portal,angela.vargas,empleado,estándar,ninguno,2026-11-05,activo,Jhon Fredy Montes
+E38,Claudia Patricia Hoyos,portal,claudia.hoyos,administradora de talento humano (nómina y hojas de vida),administrador,llave,2026-10-30,activo,Mariana Ocampo (MESA-2024-0127)
+E39,Miguel Ángel Rendón,portal,miguel.rendon,administradora de talento humano (nómina y hojas de vida),administrador,ninguno,2026-11-09,activo,Jhon Fredy Montes (igual a Claudia Patricia Hoyos)
+E40,Fernando Salazar Mejía,portal,fernando.salazar,administrador del portal,administrador,sms,2026-11-12,activo,Fernando Salazar
+E41,Ximena Botero Quintero,portal,ximena.botero,empleado,estándar,ninguno,2026-11-10,activo,Jhon Fredy Montes
+E42,David Castro Henao,portal,david.castro,empleado,estándar,ninguno,2026-11-13,activo,Jhon Fredy Montes
+E43,Rosa Elena Pineda,portal,rosa.pineda,empleado,estándar,ninguno,2026-10-30,activo,Jhon Fredy Montes
+E44,Gustavo Herrera Duque,portal,gustavo.herrera,empleado,estándar,ninguno,2025-12-22,desactivado,creación inicial 2019
+E45,Lina Marcela Agudelo,portal,lina.agudelo,empleado,estándar,ninguno,2026-11-06,activo,sin registro
+E46,Jhon Fredy Montes,portal,jhon.montes,administrador de cuentas,administrador,sms,2026-11-12,activo,Jhon Fredy Montes
+E47,Alejandra Cifuentes Mora,portal,alejandra.cifuentes,empleado,estándar,ninguno,2026-10-30,activo,Jhon Fredy Montes
+E48,Nicolás Arbeláez Toro,portal,nicolas.arbelaez,empleado,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes (igual a Santiago Marín López)
+E01,Mariana Ocampo Villegas,mesa,mariana.ocampo,solicitante,estándar,ninguno,2026-10-19,activo,Gustavo Herrera
+E02,Andrés Gómez Salazar,mesa,andres.gomez,solicitante,estándar,ninguno,2026-09-18,activo,Gustavo Herrera
+E03,Luisa Fernanda Arango,mesa,luisa.arango,solicitante,estándar,ninguno,2026-10-15,activo,sin registro
+E04,Camilo Restrepo Uribe,mesa,camilo.restrepo,solicitante,estándar,llave,2026-11-06,activo,Gustavo Herrera
+E05,Juliana Cardona Ríos,mesa,juliana.cardona,solicitante,estándar,ninguno,2026-10-05,activo,Gustavo Herrera
+E06,Santiago Marín López,mesa,santiago.marin,solicitante,estándar,ninguno,2026-09-21,activo,Gustavo Herrera
+E07,Daniela Henao Gil,mesa,daniela.henao,solicitante,estándar,ninguno,2026-10-01,activo,Jhon Fredy Montes
+E08,Sebastián Ríos Arango,mesa,sebastian.rios,solicitante,estándar,ninguno,2026-10-16,activo,Jhon Fredy Montes
+E09,Valeria Giraldo Mejía,mesa,valeria.giraldo,solicitante,estándar,ninguno,2026-10-07,activo,Jhon Fredy Montes
+E10,Mateo Valencia Ospina,mesa,mateo.valencia,solicitante,estándar,ninguno,2026-09-21,activo,Jhon Fredy Montes
+E11,Laura Patiño Cardona,mesa,laura.patino,solicitante,estándar,ninguno,2026-09-17,activo,Jhon Fredy Montes
+E12,Felipe Zuluaga Henao,mesa,felipe.zuluaga,solicitante,estándar,ninguno,nunca,activo,Gustavo Herrera
+E13,Natalia Quintero Duque,mesa,natalia.quintero,solicitante,estándar,ninguno,2026-10-30,activo,Jhon Fredy Montes
+E14,Tomás Echeverri Salazar,mesa,tomas.echeverri,solicitante,estándar,ninguno,2026-09-29,activo,Jhon Fredy Montes
+E15,Isabela Montoya Franco,mesa,isabela.montoya,solicitante,estándar,llave,2026-09-25,activo (vence 2026-12-31),"Camilo Restrepo (MESA-2025-0107, contrato PS-2025-014)"
+E16,Esteban Duque Marín,mesa,esteban.duque,solicitante,estándar,ninguno,2026-06-19,desactivado,Gustavo Herrera
+E17,Carolina Mejía Toro,mesa,carolina.mejia,solicitante,estándar,ninguno,2026-10-15,activo,Fernando Salazar
+E18,Ricardo Osorio Patiño,mesa,ricardo.osorio,solicitante,estándar,ninguno,2026-09-22,activo,Jhon Fredy Montes
+E19,Paula Andrea Cano Gómez,mesa,paula.cano,solicitante,estándar,ninguno,2026-09-17,activo,Jhon Fredy Montes
+E20,Diana Bedoya Arias,mesa,diana.bedoya,administradora de la cola de soporte,administrador,ninguno,2026-09-29,activo,sin registro
+E20,Diana Bedoya Arias,mesa,soporte,agente (cuenta compartida),administrador,ninguno,2026-11-19,activo,Diana Bedoya (clave por chat)
+E21,Jorge Iván Castaño Ruiz,mesa,jorge.castano,solicitante,estándar,ninguno,2026-10-22,activo,sin registro
+E21,Jorge Iván Castaño Ruiz,mesa,soporte,agente (cuenta compartida),administrador,ninguno,2026-11-19,activo,Diana Bedoya (clave por chat)
+E22,Melissa Franco Giraldo,mesa,melissa.franco,solicitante,estándar,ninguno,2026-09-15,activo,Jhon Fredy Montes
+E22,Melissa Franco Giraldo,mesa,soporte,agente (cuenta compartida),administrador,ninguno,2026-11-19,activo,Diana Bedoya (clave por chat)
+E23,Andrés Felipe Loaiza,mesa,andres.loaiza,solicitante,estándar,ninguno,2026-09-28,activo,Jhon Fredy Montes
+E23,Andrés Felipe Loaiza,mesa,soporte,agente (cuenta compartida),administrador,ninguno,2026-11-19,activo,Diana Bedoya (clave por chat)
+E24,Manuela Correa Vélez,mesa,manuela.correa,solicitante,estándar,ninguno,2026-10-23,activo,Jhon Fredy Montes
+E24,Manuela Correa Vélez,mesa,soporte,agente (cuenta compartida),administrador,ninguno,2026-11-19,activo,Diana Bedoya (clave por chat)
+E25,Kevin Arias Montoya,mesa,kevin.arias,administradora de la cola de soporte,administrador,ninguno,2026-10-22,activo,Jhon Fredy Montes (igual a Diana Bedoya Arias)
+E25,Kevin Arias Montoya,mesa,soporte,agente (cuenta compartida),administrador,ninguno,2026-11-19,activo,Diana Bedoya (clave por chat)
+E26,Sara Vélez Cardona,mesa,sara.velez,agente,escritura,ninguno,2026-09-15,activo,Jhon Fredy Montes
+E26,Sara Vélez Cardona,mesa,soporte,agente (cuenta compartida),administrador,ninguno,2026-11-19,activo,Diana Bedoya (clave por chat)
+E27,Hernán Agudelo Restrepo,mesa,hernan.agudelo,solicitante,estándar,ninguno,2026-10-30,desactivado,Jhon Fredy Montes
+E27,Hernán Agudelo Restrepo,mesa,soporte,agente (cuenta compartida),administrador,ninguno,2026-11-19,activo,Diana Bedoya (clave por chat)
+E28,Gloria Inés Jaramillo,mesa,gloria.jaramillo,solicitante,estándar,ninguno,2026-10-05,activo,Gustavo Herrera
+E29,Valentina Ríos Ocampo,mesa,valentina.rios,solicitante,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes (igual a Gloria Inés Jaramillo)
+E30,Óscar Ramírez Londoño,mesa,oscar.ramirez,solicitante,estándar,ninguno,2026-10-20,activo,Gustavo Herrera
+E31,Beatriz Londoño Hoyos,mesa,beatriz.londono,solicitante,estándar,ninguno,2026-10-20,activo,Jhon Fredy Montes
+E32,Alejandro Toro Gutiérrez,mesa,alejandro.toro,solicitante,estándar,ninguno,2026-10-28,activo,Gustavo Herrera
+E33,Catalina Gutiérrez Serna,mesa,catalina.gutierrez,solicitante,estándar,ninguno,2026-09-24,activo,Gustavo Herrera
+E34,Julián Ospina Castaño,mesa,julian.ospina,solicitante,estándar,ninguno,2026-10-21,activo,Jhon Fredy Montes
+E35,Liliana Serna Botero,mesa,liliana.serna,solicitante,estándar,ninguno,2026-04-28,desactivado,Gustavo Herrera
+E36,Pablo Muñoz Arbeláez,mesa,pablo.munoz,solicitante,estándar,ninguno,2026-09-30,activo,Jhon Fredy Montes
+E37,Ángela María Vargas,mesa,angela.vargas,solicitante,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E38,Claudia Patricia Hoyos,mesa,claudia.hoyos,solicitante,estándar,llave,2026-09-17,activo,Gustavo Herrera
+E39,Miguel Ángel Rendón,mesa,miguel.rendon,solicitante,estándar,ninguno,2026-10-02,activo,Jhon Fredy Montes (igual a Claudia Patricia Hoyos)
+E40,Fernando Salazar Mejía,mesa,fernando.salazar,solicitante,estándar,ninguno,2026-10-16,activo,Fernando Salazar
+E41,Ximena Botero Quintero,mesa,ximena.botero,solicitante,estándar,ninguno,2026-10-29,activo,Jhon Fredy Montes
+E42,David Castro Henao,mesa,david.castro,solicitante,estándar,ninguno,2026-10-14,activo,Jhon Fredy Montes
+E43,Rosa Elena Pineda,mesa,rosa.pineda,solicitante,estándar,ninguno,2026-09-18,activo,Jhon Fredy Montes
+E44,Gustavo Herrera Duque,mesa,gustavo.herrera,solicitante,estándar,ninguno,2025-12-10,desactivado,creación inicial 2019
+E45,Lina Marcela Agudelo,mesa,lina.agudelo,solicitante,estándar,ninguno,2026-11-06,activo,Gustavo Herrera
+E46,Jhon Fredy Montes,mesa,jhon.montes,administrador de la Mesa,administrador,sms,2026-09-15,activo,Jhon Fredy Montes
+E47,Alejandra Cifuentes Mora,mesa,alejandra.cifuentes,solicitante,estándar,ninguno,2026-10-20,activo,Jhon Fredy Montes
+E48,Nicolás Arbeláez Toro,mesa,nicolas.arbelaez,solicitante,estándar,ninguno,2026-11-17,activo,Jhon Fredy Montes (igual a Santiago Marín López)
+E01,Mariana Ocampo Villegas,CRM Clientela,mariana.ocampo,tablero de gerencia,lectura,ninguno,2026-11-03,activo,Gustavo Herrera
+E03,Luisa Fernanda Arango,CRM Clientela,luisa.arango,cartera,lectura,ninguno,2026-11-19,activo,Gustavo Herrera
+E20,Diana Bedoya Arias,CRM Clientela,diana.bedoya,administradora de soporte,administrador,ninguno,2026-11-04,activo,Gustavo Herrera
+E21,Jorge Iván Castaño Ruiz,CRM Clientela,jorge.castano,agente de soporte,escritura,ninguno,2026-11-12,activo,Gustavo Herrera
+E22,Melissa Franco Giraldo,CRM Clientela,melissa.franco,agente de soporte,escritura,ninguno,2026-11-13,activo,Jhon Fredy Montes
+E23,Andrés Felipe Loaiza,CRM Clientela,andres.loaiza,agente de soporte,escritura,ninguno,2026-11-12,activo,Jhon Fredy Montes
+E24,Manuela Correa Vélez,CRM Clientela,manuela.correa,agente de soporte,escritura,ninguno,2026-11-10,activo,Jhon Fredy Montes
+E25,Kevin Arias Montoya,CRM Clientela,kevin.arias,administradora de soporte,administrador,ninguno,2026-11-09,activo,Jhon Fredy Montes (igual a Diana Bedoya Arias)
+E26,Sara Vélez Cardona,CRM Clientela,sara.velez,agente de soporte,escritura,ninguno,2026-09-14,activo,Jhon Fredy Montes
+E27,Hernán Agudelo Restrepo,CRM Clientela,hernan.agudelo,agente de soporte,escritura,ninguno,2026-10-31,desactivado,Jhon Fredy Montes
+E28,Gloria Inés Jaramillo,CRM Clientela,gloria.jaramillo,cartera,lectura y exportación,ninguno,2026-11-10,activo,Gustavo Herrera
+E29,Valentina Ríos Ocampo,CRM Clientela,valentina.rios,cartera,lectura y exportación,ninguno,nunca,activo,Jhon Fredy Montes (igual a Gloria Inés Jaramillo)
+E30,Óscar Ramírez Londoño,CRM Clientela,oscar.ramirez,cartera,lectura,ninguno,2026-11-04,activo,Gustavo Herrera
+E32,Alejandro Toro Gutiérrez,CRM Clientela,alejandro.toro,administrador comercial,administrador,app,2026-11-11,activo,Gustavo Herrera
+E33,Catalina Gutiérrez Serna,CRM Clientela,catalina.gutierrez,ejecutivo comercial,escritura,ninguno,2026-11-18,activo,Gustavo Herrera
+E34,Julián Ospina Castaño,CRM Clientela,julian.ospina,ejecutivo comercial,escritura,ninguno,2026-11-13,activo,Jhon Fredy Montes
+E35,Liliana Serna Botero,CRM Clientela,liliana.serna,ejecutivo comercial,escritura,ninguno,2026-05-27,activo,Gustavo Herrera
+E35,Liliana Serna Botero,CRM Clientela,liliana.serna,exportación masiva de contactos,exportación,ninguno,2026-05-27,activo,Alejandro Toro (por chat)
+E36,Pablo Muñoz Arbeláez,CRM Clientela,pablo.munoz,ejecutivo comercial,escritura,ninguno,2026-11-13,activo,Jhon Fredy Montes
+E37,Ángela María Vargas,CRM Clientela,angela.vargas,mercadeo,lectura y exportación,ninguno,2026-11-04,activo,Jhon Fredy Montes
+E41,Ximena Botero Quintero,CRM Clientela,ximena.botero,analítica,lectura y exportación,ninguno,2026-11-17,activo,Jhon Fredy Montes
+E42,David Castro Henao,CRM Clientela,david.castro,analítica,lectura y exportación,app,2026-11-10,activo,Jhon Fredy Montes
+E43,Rosa Elena Pineda,CRM Clientela,rosa.pineda,consulta de titulares (habeas data),lectura,app,2026-11-09,activo,Jhon Fredy Montes
+E46,Jhon Fredy Montes,CRM Clientela,jhon.montes,administrador de usuarios,administrador,ninguno,2026-11-09,activo,Jhon Fredy Montes
+E02,Andrés Gómez Salazar,repositorio,andres-gomez-bhq,propietario de la organización,administrador,app,2026-11-12,activo,Gustavo Herrera
+E04,Camilo Restrepo Uribe,repositorio,camilo-restrepo-bhq,mantenedor de guadua-plataforma,mantenedor,llave,2026-11-09,activo,Andrés Gómez (MESA-2024-0418)
+E05,Juliana Cardona Ríos,repositorio,juliana-cardona-bhq,desarrollador,escritura,app,2026-11-12,activo,Gustavo Herrera
+E06,Santiago Marín López,repositorio,santiago-marin-bhq,desarrollador,escritura,app,2026-11-09,activo,Gustavo Herrera
+E07,Daniela Henao Gil,repositorio,daniela-henao-bhq,desarrollador,escritura,app,2026-11-18,activo,Gustavo Herrera
+E08,Sebastián Ríos Arango,repositorio,sebastian-rios-bhq,desarrollador,escritura,app,2026-11-09,activo,Gustavo Herrera
+E09,Valeria Giraldo Mejía,repositorio,valeria-giraldo-bhq,desarrollador,escritura,app,2026-11-13,activo,Gustavo Herrera
+E10,Mateo Valencia Ospina,repositorio,mateo-valencia-bhq,desarrollador,escritura,app,2026-11-11,activo,Gustavo Herrera
+E11,Laura Patiño Cardona,repositorio,laura-patino-bhq,desarrolladora (pruebas),escritura,app,2026-11-19,activo,Gustavo Herrera
+E12,Felipe Zuluaga Henao,repositorio,felipe-zuluaga-bhq,administrador de CI/CD,administrador,app,2026-11-18,activo,sin registro
+E13,Natalia Quintero Duque,repositorio,natalia-quintero-bhq,desarrollador,escritura,app,2026-11-09,activo,Gustavo Herrera
+E14,Tomás Echeverri Salazar,repositorio,tomas-echeverri-bhq,desarrollador,escritura,app,2026-11-18,activo,Gustavo Herrera
+E15,Isabela Montoya Franco,repositorio,isabela-montoya-bhq,desarrolladora,escritura,llave,2026-11-18,activo (vence 2026-12-31),"Camilo Restrepo (MESA-2025-0107, contrato PS-2025-014)"
+E16,Esteban Duque Marín,repositorio,esteban-duque-bhq,desarrollador,escritura,app,2026-06-29,activo,Gustavo Herrera
+E17,Carolina Mejía Toro,repositorio,carolina-mejia-bhq,redacción (docs/),escritura,app,2026-11-12,activo,Fernando Salazar
+E18,Ricardo Osorio Patiño,repositorio,ricardo-osorio-bhq,redacción (docs/),escritura,app,2026-11-17,activo,Gustavo Herrera
+E19,Paula Andrea Cano Gómez,repositorio,paula-cano-bhq,redacción (docs/),escritura,app,2026-11-13,activo,Gustavo Herrera
+E44,Gustavo Herrera Duque,repositorio,gustavo-herrera-bhq,propietario de la organización,administrador,app,2025-12-29,desactivado,creación inicial 2019
+E47,Alejandra Cifuentes Mora,repositorio,alejandra-cifuentes-bhq,lectura,lectura,app,2026-11-11,activo,Gustavo Herrera
+E48,Nicolás Arbeláez Toro,repositorio,nicolas-arbelaez-bhq,desarrollador,escritura,app,2026-11-19,activo,Jhon Fredy Montes (igual a Santiago Marín López)
+E02,Andrés Gómez Salazar,nube AWS,agomez,AdministratorAccess,administrador,app,2026-10-15,activo,Gustavo Herrera
+E02,Andrés Gómez Salazar,nube AWS,admin-nube,AdministratorAccess,administrador,ninguno,2026-11-18,activo,Gustavo Herrera (2019)
+E04,Camilo Restrepo Uribe,nube AWS,crestrepo,DesarrolloGuadua-Lectura,lectura,llave,2026-10-28,activo,Andrés Gómez (MESA-2024-0418)
+E05,Juliana Cardona Ríos,nube AWS,jcardona,DesarrolloGuadua,escritura,app,2026-11-04,activo,Gustavo Herrera
+E06,Santiago Marín López,nube AWS,smarin,DesarrolloGuadua,escritura,app,2026-11-04,activo,Gustavo Herrera
+E07,Daniela Henao Gil,nube AWS,dhenao,DesarrolloGuadua-Lectura,lectura,app,2026-11-03,activo,Gustavo Herrera
+E08,Sebastián Ríos Arango,nube AWS,srios,DesarrolloGuadua-Lectura,lectura,app,2026-10-27,activo,Gustavo Herrera
+E09,Valeria Giraldo Mejía,nube AWS,vgiraldo,DesarrolloGuadua-Lectura,lectura,app,2026-11-03,activo,Gustavo Herrera
+E10,Mateo Valencia Ospina,nube AWS,mvalencia,DesarrolloGuadua,escritura,app,2026-11-03,activo,Gustavo Herrera
+E12,Felipe Zuluaga Henao,nube AWS,fzuluaga,AdministratorAccess,administrador,app,2026-10-14,activo,Gustavo Herrera
+E12,Felipe Zuluaga Henao,nube AWS,admin-nube,AdministratorAccess,administrador,ninguno,2026-11-18,activo,Gustavo Herrera (2019)
+E13,Natalia Quintero Duque,nube AWS,nquintero,DesarrolloGuadua-Lectura,lectura,app,2026-10-29,activo,Gustavo Herrera
+E14,Tomás Echeverri Salazar,nube AWS,techeverri,DesarrolloGuadua,escritura,app,2026-10-16,activo,Gustavo Herrera
+E15,Isabela Montoya Franco,nube AWS,imontoya,DesarrolloGuadua-Lectura,lectura,llave,2026-11-12,activo (vence 2026-12-31),"Camilo Restrepo (MESA-2025-0107, contrato PS-2025-014)"
+E16,Esteban Duque Marín,nube AWS,eduque,DesarrolloGuadua,escritura,app,2026-06-25,desactivado,Gustavo Herrera
+E40,Fernando Salazar Mejía,nube AWS,fsalazar,PowerUserAccess,escritura,app,2026-10-29,activo,Fernando Salazar
+E40,Fernando Salazar Mejía,nube AWS,admin-nube,AdministratorAccess,administrador,ninguno,2026-11-18,activo,Gustavo Herrera (2019)
+E41,Ximena Botero Quintero,nube AWS,xbotero,DatosAnalitica (S3 bahareque-exportes),escritura,ninguno,2026-10-16,activo,Gustavo Herrera
+E42,David Castro Henao,nube AWS,dcastro,DatosAnalitica (S3 bahareque-exportes),escritura,app,2026-10-28,activo,Gustavo Herrera
+E44,Gustavo Herrera Duque,nube AWS,gherrera,AdministratorAccess,administrador,app,2025-12-19,activo,creación inicial 2019
+E44,Gustavo Herrera Duque,nube AWS,admin-nube,AdministratorAccess,administrador,ninguno,2026-11-18,activo,Gustavo Herrera (2019)
+E48,Nicolás Arbeláez Toro,nube AWS,narbelaez,DesarrolloGuadua,escritura,ninguno,2026-11-18,activo,Jhon Fredy Montes (igual a Santiago Marín López)
+E01,Mariana Ocampo Villegas,VPN,mariana.ocampo,usuario VPN,estándar,sms,2026-10-07,activo,sin registro
+E02,Andrés Gómez Salazar,VPN,andres.gomez,administrador VPN,administrador,sms,2026-09-25,activo,Gustavo Herrera
+E03,Luisa Fernanda Arango,VPN,luisa.arango,usuario VPN,estándar,ninguno,2026-10-08,activo,Gustavo Herrera
+E04,Camilo Restrepo Uribe,VPN,camilo.restrepo,usuario VPN,estándar,llave,2026-08-25,activo,Andrés Gómez (MESA-2024-0418)
+E05,Juliana Cardona Ríos,VPN,juliana.cardona,usuario VPN,estándar,app,2026-09-30,activo,Gustavo Herrera
+E06,Santiago Marín López,VPN,santiago.marin,usuario VPN,estándar,app,2026-09-15,activo,Gustavo Herrera
+E07,Daniela Henao Gil,VPN,daniela.henao,usuario VPN,estándar,ninguno,2026-09-01,activo,Jhon Fredy Montes
+E08,Sebastián Ríos Arango,VPN,sebastian.rios,usuario VPN,estándar,ninguno,2026-10-23,activo,Jhon Fredy Montes
+E09,Valeria Giraldo Mejía,VPN,valeria.giraldo,usuario VPN,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E10,Mateo Valencia Ospina,VPN,mateo.valencia,usuario VPN,estándar,app,2026-08-20,activo,Jhon Fredy Montes
+E11,Laura Patiño Cardona,VPN,laura.patino,usuario VPN,estándar,ninguno,2026-10-27,activo,Jhon Fredy Montes
+E12,Felipe Zuluaga Henao,VPN,felipe.zuluaga,administrador VPN,administrador,sms,2026-11-05,activo,Gustavo Herrera
+E13,Natalia Quintero Duque,VPN,natalia.quintero,usuario VPN,estándar,ninguno,2026-11-19,activo,Jhon Fredy Montes
+E14,Tomás Echeverri Salazar,VPN,tomas.echeverri,usuario VPN,estándar,app,2026-11-09,activo,Jhon Fredy Montes
+E15,Isabela Montoya Franco,VPN,isabela.montoya,usuario VPN,estándar,llave,2026-09-24,activo (vence 2026-12-31),"Camilo Restrepo (MESA-2025-0107, contrato PS-2025-014)"
+E16,Esteban Duque Marín,VPN,esteban.duque,usuario VPN,estándar,ninguno,2026-07-02,activo,Gustavo Herrera
+E17,Carolina Mejía Toro,VPN,carolina.mejia,usuario VPN,estándar,ninguno,2026-11-19,activo,Fernando Salazar
+E18,Ricardo Osorio Patiño,VPN,ricardo.osorio,usuario VPN,estándar,ninguno,2026-10-30,activo,Jhon Fredy Montes
+E19,Paula Andrea Cano Gómez,VPN,paula.cano,usuario VPN,estándar,ninguno,2026-08-26,activo,Jhon Fredy Montes
+E20,Diana Bedoya Arias,VPN,diana.bedoya,usuario VPN,estándar,ninguno,2026-09-04,activo,Gustavo Herrera
+E23,Andrés Felipe Loaiza,VPN,andres.loaiza,usuario VPN,estándar,ninguno,2026-10-27,activo,Jhon Fredy Montes
+E25,Kevin Arias Montoya,VPN,kevin.arias,usuario VPN,estándar,ninguno,2026-09-15,activo,Jhon Fredy Montes (igual a Diana Bedoya Arias)
+E26,Sara Vélez Cardona,VPN,sara.velez,usuario VPN,estándar,ninguno,2026-08-28,desactivado,Jhon Fredy Montes
+E27,Hernán Agudelo Restrepo,VPN,hernan.agudelo,usuario VPN,estándar,ninguno,2026-10-20,desactivado,Jhon Fredy Montes
+E28,Gloria Inés Jaramillo,VPN,gloria.jaramillo,usuario VPN,estándar,ninguno,2026-10-14,activo,sin registro
+E29,Valentina Ríos Ocampo,VPN,valentina.rios,usuario VPN,estándar,ninguno,nunca,activo,Jhon Fredy Montes (igual a Gloria Inés Jaramillo)
+E30,Óscar Ramírez Londoño,VPN,oscar.ramirez,usuario VPN,estándar,ninguno,2026-09-17,activo,Gustavo Herrera
+E31,Beatriz Londoño Hoyos,VPN,beatriz.londono,usuario VPN,estándar,ninguno,2026-08-21,activo,Jhon Fredy Montes
+E32,Alejandro Toro Gutiérrez,VPN,alejandro.toro,usuario VPN,estándar,sms,2026-10-16,activo,Gustavo Herrera
+E33,Catalina Gutiérrez Serna,VPN,catalina.gutierrez,usuario VPN,estándar,ninguno,2026-10-09,activo,sin registro
+E34,Julián Ospina Castaño,VPN,julian.ospina,usuario VPN,estándar,ninguno,2026-09-11,bloqueado (intentos fallidos),Jhon Fredy Montes
+E36,Pablo Muñoz Arbeláez,VPN,pablo.munoz,usuario VPN,estándar,ninguno,2026-10-09,activo,Jhon Fredy Montes
+E37,Ángela María Vargas,VPN,angela.vargas,usuario VPN,estándar,ninguno,2026-10-23,activo,Jhon Fredy Montes
+E38,Claudia Patricia Hoyos,VPN,claudia.hoyos,usuario VPN,estándar,llave,2026-10-16,activo,Mariana Ocampo (MESA-2024-0127)
+E39,Miguel Ángel Rendón,VPN,miguel.rendon,usuario VPN,estándar,ninguno,2026-09-10,activo,Jhon Fredy Montes (igual a Claudia Patricia Hoyos)
+E40,Fernando Salazar Mejía,VPN,fernando.salazar,administrador VPN,administrador,sms,2026-08-31,activo,Fernando Salazar
+E41,Ximena Botero Quintero,VPN,ximena.botero,usuario VPN,estándar,ninguno,2026-09-10,activo,Jhon Fredy Montes
+E42,David Castro Henao,VPN,david.castro,usuario VPN,estándar,ninguno,2026-10-14,activo,Jhon Fredy Montes
+E43,Rosa Elena Pineda,VPN,rosa.pineda,usuario VPN,estándar,app,2026-10-27,activo,Jhon Fredy Montes
+E44,Gustavo Herrera Duque,VPN,gustavo.herrera,administrador VPN,administrador,sms,2025-12-30,desactivado,creación inicial 2019
+E45,Lina Marcela Agudelo,VPN,lina.agudelo,usuario VPN,estándar,ninguno,2026-08-31,activo,Gustavo Herrera
+E46,Jhon Fredy Montes,VPN,jhon.montes,usuario VPN,estándar,ninguno,2026-10-19,activo,Jhon Fredy Montes
+E47,Alejandra Cifuentes Mora,VPN,alejandra.cifuentes,usuario VPN,estándar,ninguno,2026-09-21,activo,Jhon Fredy Montes
+E48,Nicolás Arbeláez Toro,VPN,nicolas.arbelaez,usuario VPN,estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes (igual a Santiago Marín López)
+E02,Andrés Gómez Salazar,base de datos,agomez,rds_superuser (producción),administrador,ninguno,nunca,activo,Gustavo Herrera
+E04,Camilo Restrepo Uribe,base de datos,crestrepo_ro,guadua_lectura (réplica),lectura,llave,2026-10-21,activo,Andrés Gómez (MESA-2024-0418)
+E05,Juliana Cardona Ríos,base de datos,jcardona_ro,guadua_lectura (réplica),lectura,ninguno,2026-11-10,activo,Gustavo Herrera
+E06,Santiago Marín López,base de datos,smarin,guadua_migraciones (producción),escritura,ninguno,2026-10-26,activo,Andrés Gómez (MESA-2025-0233)
+E07,Daniela Henao Gil,base de datos,dhenao_ro,guadua_lectura (réplica),lectura,ninguno,2026-11-11,activo,Gustavo Herrera
+E08,Sebastián Ríos Arango,base de datos,srios_ro,guadua_lectura (réplica),lectura,ninguno,2026-11-10,activo,Gustavo Herrera
+E10,Mateo Valencia Ospina,base de datos,mvalencia_ro,guadua_lectura (réplica),lectura,ninguno,2026-11-18,activo,Gustavo Herrera
+E11,Laura Patiño Cardona,base de datos,lpatino_ro,guadua_lectura (réplica),lectura,ninguno,2026-10-29,activo,Gustavo Herrera
+E12,Felipe Zuluaga Henao,base de datos,fzuluaga,rds_superuser (producción),administrador,ninguno,2026-09-28,activo,Gustavo Herrera
+E14,Tomás Echeverri Salazar,base de datos,techeverri_ro,guadua_lectura (réplica),lectura,ninguno,2026-11-17,activo,Gustavo Herrera
+E16,Esteban Duque Marín,base de datos,eduque_ro,guadua_lectura (réplica),lectura,ninguno,2026-06-12,desactivado,Gustavo Herrera
+E28,Gloria Inés Jaramillo,base de datos,gjaramillo_ro,guadua_lectura (producción),lectura,ninguno,2026-10-19,activo,Gustavo Herrera
+E29,Valentina Ríos Ocampo,base de datos,vrios_ro,guadua_lectura (producción),lectura,ninguno,nunca,activo,Jhon Fredy Montes (igual a Gloria Inés Jaramillo)
+E40,Fernando Salazar Mejía,base de datos,fsalazar,respaldos (producción),escritura,ninguno,2026-11-17,activo,Fernando Salazar
+E41,Ximena Botero Quintero,base de datos,xbotero_ro,guadua_lectura (producción),lectura,ninguno,2026-10-28,activo,Gustavo Herrera
+E42,David Castro Henao,base de datos,dcastro_ro,guadua_lectura (producción),lectura,ninguno,2026-10-06,activo,Gustavo Herrera
+E48,Nicolás Arbeláez Toro,base de datos,narbelaez,guadua_migraciones (producción),escritura,ninguno,2026-11-18,activo,Jhon Fredy Montes (igual a Santiago Marín López)
+E01,Mariana Ocampo Villegas,facturación,mariana.ocampo,consulta,lectura,ninguno,2026-11-10,activo,Gustavo Herrera
+E03,Luisa Fernanda Arango,facturación,luisa.arango,administrador,administrador,ninguno,2026-11-13,activo,Gustavo Herrera
+E20,Diana Bedoya Arias,facturación,diana.bedoya,consulta,lectura,ninguno,2026-10-27,activo,Gustavo Herrera
+E21,Jorge Iván Castaño Ruiz,facturación,jorge.castano,consulta,lectura,ninguno,2026-11-09,activo,Gustavo Herrera
+E22,Melissa Franco Giraldo,facturación,melissa.franco,consulta,lectura,ninguno,2026-11-13,activo,Jhon Fredy Montes
+E23,Andrés Felipe Loaiza,facturación,andres.loaiza,consulta,lectura,ninguno,2026-11-12,activo,Jhon Fredy Montes
+E24,Manuela Correa Vélez,facturación,manuela.correa,consulta,lectura,ninguno,2026-11-18,activo,Jhon Fredy Montes
+E25,Kevin Arias Montoya,facturación,kevin.arias,consulta,lectura,ninguno,2026-11-11,activo,Jhon Fredy Montes (igual a Diana Bedoya Arias)
+E26,Sara Vélez Cardona,facturación,sara.velez,consulta,lectura,ninguno,2026-09-07,desactivado,Jhon Fredy Montes
+E27,Hernán Agudelo Restrepo,facturación,hernan.agudelo,consulta,lectura,ninguno,2026-10-27,desactivado,Jhon Fredy Montes
+E28,Gloria Inés Jaramillo,facturación,gloria.jaramillo,administrador,administrador,ninguno,2026-10-27,activo,Gustavo Herrera
+E29,Valentina Ríos Ocampo,facturación,valentina.rios,administrador,administrador,ninguno,2026-11-18,activo,Jhon Fredy Montes (igual a Gloria Inés Jaramillo)
+E30,Óscar Ramírez Londoño,facturación,oscar.ramirez,emisor y pagos a proveedores,escritura,ninguno,2026-11-10,activo,Gustavo Herrera
+E31,Beatriz Londoño Hoyos,facturación,beatriz.londono,emisor,escritura,ninguno,2026-11-05,activo,Jhon Fredy Montes
+E32,Alejandro Toro Gutiérrez,facturación,alejandro.toro,consulta,lectura,ninguno,2026-11-09,activo,Gustavo Herrera
+E33,Catalina Gutiérrez Serna,facturación,catalina.gutierrez,consulta,lectura,ninguno,2026-11-05,activo,Gustavo Herrera
+E34,Julián Ospina Castaño,facturación,julian.ospina,consulta,lectura,ninguno,2026-10-28,activo,Jhon Fredy Montes
+E36,Pablo Muñoz Arbeláez,facturación,pablo.munoz,consulta,lectura,ninguno,2026-11-17,activo,Jhon Fredy Montes
+E46,Jhon Fredy Montes,facturación,jhon.montes,administrador de usuarios,administrador,ninguno,2026-11-10,activo,Jhon Fredy Montes
+E01,Mariana Ocampo Villegas,Claude Enterprise,mariana.ocampo,Claude (chat),estándar,sms,2026-09-18,activo,sin registro
+E02,Andrés Gómez Salazar,Claude Enterprise,andres.gomez,propietario de la organización (Claude Code),administrador,sms,2026-09-21,activo,Gustavo Herrera
+E03,Luisa Fernanda Arango,Claude Enterprise,luisa.arango,Claude (chat),estándar,ninguno,2026-10-15,activo,Gustavo Herrera
+E04,Camilo Restrepo Uribe,Claude Enterprise,camilo.restrepo,Claude Code,Claude Code,llave,2026-10-15,activo,Andrés Gómez (MESA-2025-0961)
+E05,Juliana Cardona Ríos,Claude Enterprise,juliana.cardona,Claude Code,Claude Code,app,2026-11-17,activo,sin registro
+E06,Santiago Marín López,Claude Enterprise,santiago.marin,Claude Code,Claude Code,app,2026-11-03,activo,Gustavo Herrera
+E07,Daniela Henao Gil,Claude Enterprise,daniela.henao,Claude Code,Claude Code,ninguno,2026-10-28,activo,Jhon Fredy Montes
+E08,Sebastián Ríos Arango,Claude Enterprise,sebastian.rios,Claude Code,Claude Code,ninguno,nunca,activo,Jhon Fredy Montes
+E09,Valeria Giraldo Mejía,Claude Enterprise,valeria.giraldo,Claude Code,Claude Code,ninguno,2026-11-11,activo,Jhon Fredy Montes
+E10,Mateo Valencia Ospina,Claude Enterprise,mateo.valencia,Claude Code,Claude Code,app,2026-09-29,activo,Jhon Fredy Montes
+E11,Laura Patiño Cardona,Claude Enterprise,laura.patino,Claude Code,Claude Code,ninguno,2026-10-15,activo,Jhon Fredy Montes
+E12,Felipe Zuluaga Henao,Claude Enterprise,felipe.zuluaga,Claude Code,Claude Code,app,2026-09-16,activo,sin registro
+E13,Natalia Quintero Duque,Claude Enterprise,natalia.quintero,Claude Code,Claude Code,ninguno,2026-09-18,activo,Jhon Fredy Montes
+E14,Tomás Echeverri Salazar,Claude Enterprise,tomas.echeverri,Claude Code + consola de la API,Claude Code,app,2026-11-09,activo,Jhon Fredy Montes
+E15,Isabela Montoya Franco,Claude Enterprise,isabela.montoya,Claude Code,Claude Code,llave,2026-09-23,activo (vence 2026-12-31),"Camilo Restrepo (MESA-2025-0107, contrato PS-2025-014)"
+E16,Esteban Duque Marín,Claude Enterprise,esteban.duque,Claude Code,Claude Code,app,2026-06-30,desactivado,Andrés Gómez
+E17,Carolina Mejía Toro,Claude Enterprise,carolina.mejia,Claude Code,Claude Code,ninguno,2026-10-09,activo,Fernando Salazar
+E18,Ricardo Osorio Patiño,Claude Enterprise,ricardo.osorio,Claude Code,Claude Code,ninguno,nunca,activo,sin registro
+E19,Paula Andrea Cano Gómez,Claude Enterprise,paula.cano,Claude Code,Claude Code,ninguno,2026-09-29,activo,Jhon Fredy Montes
+E20,Diana Bedoya Arias,Claude Enterprise,diana.bedoya,Claude (chat),estándar,ninguno,2026-09-24,activo,Gustavo Herrera
+E21,Jorge Iván Castaño Ruiz,Claude Enterprise,jorge.castano,Claude (chat),estándar,ninguno,2026-10-22,activo,Gustavo Herrera
+E22,Melissa Franco Giraldo,Claude Enterprise,melissa.franco,Claude (chat),estándar,ninguno,2026-10-22,activo,Jhon Fredy Montes
+E23,Andrés Felipe Loaiza,Claude Enterprise,andres.loaiza,Claude (chat),estándar,ninguno,nunca,activo,Jhon Fredy Montes
+E24,Manuela Correa Vélez,Claude Enterprise,manuela.correa,Claude (chat),estándar,ninguno,nunca,activo,Jhon Fredy Montes
+E25,Kevin Arias Montoya,Claude Enterprise,kevin.arias,Claude (chat),estándar,ninguno,2026-09-22,activo,Jhon Fredy Montes (igual a Diana Bedoya Arias)
+E26,Sara Vélez Cardona,Claude Enterprise,sara.velez,Claude (chat),estándar,ninguno,2026-09-10,desactivado,Jhon Fredy Montes
+E27,Hernán Agudelo Restrepo,Claude Enterprise,hernan.agudelo,Claude (chat),estándar,ninguno,nunca,desactivado,Jhon Fredy Montes
+E28,Gloria Inés Jaramillo,Claude Enterprise,gloria.jaramillo,Claude (chat),estándar,ninguno,2026-10-09,activo,Gustavo Herrera
+E29,Valentina Ríos Ocampo,Claude Enterprise,valentina.rios,Claude (chat),estándar,ninguno,2026-11-18,activo,Jhon Fredy Montes (igual a Gloria Inés Jaramillo)
+E30,Óscar Ramírez Londoño,Claude Enterprise,oscar.ramirez,Claude (chat),estándar,ninguno,2026-09-04,activo,Gustavo Herrera
+E31,Beatriz Londoño Hoyos,Claude Enterprise,beatriz.londono,Claude (chat),estándar,ninguno,2026-11-09,activo,Jhon Fredy Montes
+E32,Alejandro Toro Gutiérrez,Claude Enterprise,alejandro.toro,Claude (chat),estándar,sms,2026-09-29,activo,Gustavo Herrera
+E33,Catalina Gutiérrez Serna,Claude Enterprise,catalina.gutierrez,Claude (chat),estándar,ninguno,nunca,activo,Gustavo Herrera
+E34,Julián Ospina Castaño,Claude Enterprise,julian.ospina,Claude (chat),estándar,ninguno,nunca,activo,Jhon Fredy Montes
+E35,Liliana Serna Botero,Claude Enterprise,liliana.serna,Claude (chat),estándar,ninguno,2026-05-19,desactivado,Jhon Fredy Montes
+E36,Pablo Muñoz Arbeláez,Claude Enterprise,pablo.munoz,Claude (chat),estándar,ninguno,2026-09-22,activo,Jhon Fredy Montes
+E37,Ángela María Vargas,Claude Enterprise,angela.vargas,Claude (chat),estándar,ninguno,2026-10-23,activo,sin registro
+E38,Claudia Patricia Hoyos,Claude Enterprise,claudia.hoyos,Claude (chat),estándar,llave,2026-10-14,activo,Mariana Ocampo (MESA-2025-0961)
+E39,Miguel Ángel Rendón,Claude Enterprise,miguel.rendon,Claude (chat),estándar,ninguno,2026-09-08,activo,Jhon Fredy Montes (igual a Claudia Patricia Hoyos)
+E40,Fernando Salazar Mejía,Claude Enterprise,fernando.salazar,Claude (chat),estándar,sms,2026-11-05,activo,sin registro
+E41,Ximena Botero Quintero,Claude Enterprise,ximena.botero,Claude (chat),estándar,ninguno,2026-09-15,activo,Jhon Fredy Montes
+E42,David Castro Henao,Claude Enterprise,david.castro,Claude Code,Claude Code,app,2026-09-04,activo,Jhon Fredy Montes
+E43,Rosa Elena Pineda,Claude Enterprise,rosa.pineda,Claude (chat),estándar,app,2026-10-23,activo,Jhon Fredy Montes
+E45,Lina Marcela Agudelo,Claude Enterprise,lina.agudelo,Claude (chat),estándar,ninguno,2026-09-16,activo,Gustavo Herrera
+E46,Jhon Fredy Montes,Claude Enterprise,jhon.montes,administrador de usuarios,administrador,sms,2026-10-08,activo,Jhon Fredy Montes
+E47,Alejandra Cifuentes Mora,Claude Enterprise,alejandra.cifuentes,Claude (chat),estándar,ninguno,2026-10-14,activo,sin registro
+E48,Nicolás Arbeláez Toro,Claude Enterprise,nicolas.arbelaez,Claude Code,Claude Code,ninguno,2026-11-19,activo,Jhon Fredy Montes (igual a Santiago Marín López)

@@ -1,0 +1,49 @@
+persona_id,nombre,area,ultima_capacitacion_seguridad,tema,horas,asistencia,observaciones
+E01,Mariana Ocampo Villegas,Dirección,2024-05-15,Charla general de seguridad (proveedor externo),2,completa,
+E02,Andrés Gómez Salazar,Dirección,2026-03-10,Seguridad en la nube y gestión de accesos,8,completa,
+E03,Luisa Fernanda Arango,Finanzas y nómina,,,0,,no asistió a la charla de phishing de 2024 (cierre de mes)
+E04,Camilo Restrepo Uribe,Desarrollo,2026-02-20,Desarrollo seguro y manejo de secretos,6,completa,
+E05,Juliana Cardona Ríos,Desarrollo,2025-08-12,Desarrollo seguro,4,completa,
+E06,Santiago Marín López,Desarrollo,2025-08-12,Desarrollo seguro,4,completa,
+E07,Daniela Henao Gil,Desarrollo,,,0,,
+E08,Sebastián Ríos Arango,Desarrollo,,,0,,
+E09,Valeria Giraldo Mejía,Desarrollo,,,0,,
+E10,Mateo Valencia Ospina,Desarrollo,2025-08-12,Desarrollo seguro,4,parcial (salió a las 2 h),
+E11,Laura Patiño Cardona,Desarrollo,,,0,,
+E12,Felipe Zuluaga Henao,Infraestructura,2026-03-10,Seguridad en la nube y gestión de accesos,8,completa,
+E13,Natalia Quintero Duque,Desarrollo,,,0,,
+E14,Tomás Echeverri Salazar,Desarrollo,2026-04-22,Riesgos de los asistentes con IA,3,completa,
+E15,Isabela Montoya Franco,Desarrollo,2025-03-05,Inducción de seguridad para contratistas,2,completa,incluida en el contrato PS-2025-014
+E16,Esteban Duque Marín,Desarrollo,2025-08-12,Desarrollo seguro,4,completa,retirado
+E17,Carolina Mejía Toro,Documentación,2024-11-08,Charla de phishing,1,completa,
+E18,Ricardo Osorio Patiño,Documentación,,,0,,
+E19,Paula Andrea Cano Gómez,Documentación,,,0,,
+E20,Diana Bedoya Arias,Soporte,2023-06-14,Charla de phishing,1,completa,
+E21,Jorge Iván Castaño Ruiz,Soporte,,,0,,
+E22,Melissa Franco Giraldo,Soporte,,,0,,
+E23,Andrés Felipe Loaiza,Soporte,,,0,,turno de noche: no coincide con los horarios
+E24,Manuela Correa Vélez,Soporte,,,0,,
+E25,Kevin Arias Montoya,Soporte,,,0,,practicante
+E26,Sara Vélez Cardona,Soporte,,,0,,retirada
+E27,Hernán Agudelo Restrepo,Soporte,,,0,,contratista; retirado
+E28,Gloria Inés Jaramillo,Finanzas y nómina,,,0,,no asistió a la charla de phishing de 2024 (cierre de mes)
+E29,Valentina Ríos Ocampo,Finanzas y nómina,,,0,,inducción general programada para 2026-11-24 (no incluye seguridad)
+E30,Óscar Ramírez Londoño,Finanzas y nómina,,,0,,no asistió a la charla de phishing de 2024 (cierre de mes)
+E31,Beatriz Londoño Hoyos,Finanzas y nómina,,,0,,
+E32,Alejandro Toro Gutiérrez,Comercial,,,0,,
+E33,Catalina Gutiérrez Serna,Comercial,,,0,,
+E34,Julián Ospina Castaño,Comercial,,,0,,
+E35,Liliana Serna Botero,Comercial,,,0,,retirada
+E36,Pablo Muñoz Arbeláez,Comercial,,,0,,
+E37,Ángela María Vargas,Comercial,,,0,,
+E38,Claudia Patricia Hoyos,Talento humano,2025-10-02,Protección de datos personales en talento humano,3,completa,
+E39,Miguel Ángel Rendón,Talento humano,,,0,,practicante
+E40,Fernando Salazar Mejía,Infraestructura,2026-03-10,Seguridad en la nube y gestión de accesos,8,completa,
+E41,Ximena Botero Quintero,Datos,,,0,,se inscribió en 2025; no asistió
+E42,David Castro Henao,Datos,,,0,,
+E43,Rosa Elena Pineda,Cumplimiento,2025-02-04,Ley 1581 y responsabilidad demostrada,4,completa,oficial de protección de datos
+E44,Gustavo Herrera Duque,Dirección,2023-09-01,Seguridad en la nube,8,completa,retirado
+E45,Lina Marcela Agudelo,Dirección,,,0,,
+E46,Jhon Fredy Montes,Infraestructura,2024-07-19,Mesa de servicio: verificación de identidad,2,completa,
+E47,Alejandra Cifuentes Mora,Desarrollo,,,0,,
+E48,Nicolás Arbeláez Toro,Desarrollo,,,0,,inducción general programada para 2026-11-24 (no incluye seguridad)

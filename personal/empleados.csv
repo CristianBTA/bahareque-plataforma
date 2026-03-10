@@ -1,0 +1,49 @@
+id,nombre,cargo,area,correo,fecha_ingreso,fecha_retiro,estado,notas
+E01,Mariana Ocampo Villegas,Gerente general,Dirección,mariana.ocampo@bahareque.example,2019-02-04,,activo,
+E02,Andrés Gómez Salazar,Director de tecnología (CTO),Dirección,andres.gomez@bahareque.example,2019-02-04,,activo,única persona que conoce toda la infraestructura
+E03,Luisa Fernanda Arango,Directora financiera,Finanzas y nómina,luisa.arango@bahareque.example,2020-03-02,,activo,
+E04,Camilo Restrepo Uribe,Líder de desarrollo,Desarrollo,camilo.restrepo@bahareque.example,2019-06-10,,activo,
+E05,Juliana Cardona Ríos,Desarrolladora sénior,Desarrollo,juliana.cardona@bahareque.example,2020-01-13,,activo,
+E06,Santiago Marín López,Desarrollador sénior,Desarrollo,santiago.marin@bahareque.example,2020-08-03,,activo,
+E07,Daniela Henao Gil,Desarrolladora,Desarrollo,daniela.henao@bahareque.example,2022-02-07,,activo,
+E08,Sebastián Ríos Arango,Desarrollador,Desarrollo,sebastian.rios@bahareque.example,2022-09-12,,activo,
+E09,Valeria Giraldo Mejía,Desarrolladora móvil,Desarrollo,valeria.giraldo@bahareque.example,2023-01-16,,activo,
+E10,Mateo Valencia Ospina,Desarrollador backend,Desarrollo,mateo.valencia@bahareque.example,2023-04-10,,activo,
+E11,Laura Patiño Cardona,Analista de calidad (QA),Desarrollo,laura.patino@bahareque.example,2023-07-04,,activo,
+E12,Felipe Zuluaga Henao,Ingeniero DevOps,Infraestructura,felipe.zuluaga@bahareque.example,2021-05-03,,activo,
+E13,Natalia Quintero Duque,Desarrolladora frontend,Desarrollo,natalia.quintero@bahareque.example,2024-02-05,,activo,
+E14,Tomás Echeverri Salazar,Desarrollador de IA (asistente de soporte),Desarrollo,tomas.echeverri@bahareque.example,2024-08-12,,activo,
+E15,Isabela Montoya Franco,Desarrolladora (contratista),Desarrollo,isabela.montoya@bahareque.example,2025-03-03,,activo,contrato por prestación de servicios hasta 2026-12-31
+E16,Esteban Duque Marín,Desarrollador,Desarrollo,esteban.duque@bahareque.example,2021-03-01,2026-06-30,retirado,retirado
+E17,Carolina Mejía Toro,Líder de documentación técnica,Documentación,carolina.mejia@bahareque.example,2021-10-04,,activo,
+E18,Ricardo Osorio Patiño,Redactor técnico,Documentación,ricardo.osorio@bahareque.example,2023-03-06,,activo,
+E19,Paula Andrea Cano Gómez,Redactora técnica,Documentación,paula.cano@bahareque.example,2024-06-04,,activo,
+E20,Diana Bedoya Arias,Líder de soporte,Soporte,diana.bedoya@bahareque.example,2020-05-04,,activo,
+E21,Jorge Iván Castaño Ruiz,Agente de soporte,Soporte,jorge.castano@bahareque.example,2021-08-02,,activo,
+E22,Melissa Franco Giraldo,Agente de soporte,Soporte,melissa.franco@bahareque.example,2022-11-08,,activo,
+E23,Andrés Felipe Loaiza,Agente de soporte (turno noche),Soporte,andres.loaiza@bahareque.example,2023-02-13,,activo,
+E24,Manuela Correa Vélez,Agente de soporte,Soporte,manuela.correa@bahareque.example,2024-01-15,,activo,
+E25,Kevin Arias Montoya,Practicante de soporte,Soporte,kevin.arias@bahareque.example,2026-08-03,,activo,practicante universitario hasta 2027-01-29
+E26,Sara Vélez Cardona,Agente de soporte,Soporte,sara.velez@bahareque.example,2022-04-04,2026-09-15,retirado,retirada
+E27,Hernán Agudelo Restrepo,Agente de soporte (contratista),Soporte,hernan.agudelo@bahareque.example,2025-02-03,2026-10-31,retirado,retirado
+E28,Gloria Inés Jaramillo,Contadora,Finanzas y nómina,gloria.jaramillo@bahareque.example,2019-09-02,,activo,
+E29,Valentina Ríos Ocampo,Auxiliar de nómina,Finanzas y nómina,valentina.rios@bahareque.example,2026-11-17,,activo,ingresó el martes 17-nov-2026
+E30,Óscar Ramírez Londoño,Tesorero (pagos a proveedores),Finanzas y nómina,oscar.ramirez@bahareque.example,2020-10-05,,activo,
+E31,Beatriz Londoño Hoyos,Auxiliar contable,Finanzas y nómina,beatriz.londono@bahareque.example,2022-06-01,,activo,
+E32,Alejandro Toro Gutiérrez,Director comercial,Comercial,alejandro.toro@bahareque.example,2019-11-05,,activo,
+E33,Catalina Gutiérrez Serna,Ejecutiva comercial,Comercial,catalina.gutierrez@bahareque.example,2021-01-18,,activo,
+E34,Julián Ospina Castaño,Ejecutivo comercial,Comercial,julian.ospina@bahareque.example,2022-03-14,,activo,
+E35,Liliana Serna Botero,Ejecutiva comercial,Comercial,liliana.serna@bahareque.example,2020-07-06,2026-05-20,retirado,retirada
+E36,Pablo Muñoz Arbeláez,Preventa,Comercial,pablo.munoz@bahareque.example,2023-09-04,,activo,
+E37,Ángela María Vargas,Mercadeo,Comercial,angela.vargas@bahareque.example,2024-03-04,,activo,
+E38,Claudia Patricia Hoyos,Jefa de talento humano,Talento humano,claudia.hoyos@bahareque.example,2020-02-03,,activo,
+E39,Miguel Ángel Rendón,Practicante de talento humano,Talento humano,miguel.rendon@bahareque.example,2026-07-06,,activo,practicante hasta 2026-12-18
+E40,Fernando Salazar Mejía,Administrador de sistemas,Infraestructura,fernando.salazar@bahareque.example,2021-09-06,,activo,
+E41,Ximena Botero Quintero,Analista de datos,Datos,ximena.botero@bahareque.example,2023-05-02,,activo,
+E42,David Castro Henao,Científico de datos,Datos,david.castro@bahareque.example,2024-10-01,,activo,
+E43,Rosa Elena Pineda,Oficial de protección de datos (medio tiempo),Cumplimiento,rosa.pineda@bahareque.example,2025-01-13,,activo,dedica 20 horas al mes
+E44,Gustavo Herrera Duque,Director de tecnología anterior,Dirección,gustavo.herrera@bahareque.example,2019-02-04,2025-12-31,retirado,retirado
+E45,Lina Marcela Agudelo,Asistente de gerencia,Dirección,lina.agudelo@bahareque.example,2021-04-05,,activo,
+E46,Jhon Fredy Montes,Mesa de servicio de TI interna,Infraestructura,jhon.montes@bahareque.example,2022-01-10,,activo,
+E47,Alejandra Cifuentes Mora,Diseñadora UX,Desarrollo,alejandra.cifuentes@bahareque.example,2023-10-02,,activo,
+E48,Nicolás Arbeláez Toro,Desarrollador,Desarrollo,nicolas.arbelaez@bahareque.example,2026-11-17,,activo,ingresó el martes 17-nov-2026

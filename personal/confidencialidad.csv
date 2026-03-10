@@ -1,0 +1,49 @@
+persona_id,nombre,area,vinculo,firmo_acuerdo,fecha_firma,version,observaciones
+E01,Mariana Ocampo Villegas,Dirección,término indefinido,sí,2019-02-07,v1 (2019),
+E02,Andrés Gómez Salazar,Dirección,término indefinido,sí,2019-02-05,v1 (2019),
+E03,Luisa Fernanda Arango,Finanzas y nómina,término indefinido,sí,2020-03-02,v1 (2019),
+E04,Camilo Restrepo Uribe,Desarrollo,término indefinido,sí,2019-06-10,v1 (2019),
+E05,Juliana Cardona Ríos,Desarrollo,término indefinido,sí,2020-01-25,v1 (2019),
+E06,Santiago Marín López,Desarrollo,término indefinido,sí,2020-08-10,v1 (2019),
+E07,Daniela Henao Gil,Desarrollo,término indefinido,sí,2022-02-10,v1 (2019),
+E08,Sebastián Ríos Arango,Desarrollo,término indefinido,sí,2022-09-12,v1 (2019),
+E09,Valeria Giraldo Mejía,Desarrollo,término indefinido,sí,2023-01-16,v2 (2023),
+E10,Mateo Valencia Ospina,Desarrollo,término indefinido,sí,2023-04-17,v2 (2023),
+E11,Laura Patiño Cardona,Desarrollo,término indefinido,sí,2023-07-16,v2 (2023),
+E12,Felipe Zuluaga Henao,Infraestructura,término indefinido,sí,2021-05-24,v1 (2019),
+E13,Natalia Quintero Duque,Desarrollo,término indefinido,sí,2024-02-17,v2 (2023),
+E14,Tomás Echeverri Salazar,Desarrollo,término indefinido,sí,2024-09-02,v2 (2023),
+E15,Isabela Montoya Franco,Desarrollo,prestación de servicios,sí,2025-03-03,cláusula del contrato PS-2025-014,vigente hasta 2026-12-31
+E16,Esteban Duque Marín,Desarrollo,término indefinido,sí,2021-03-13,v1 (2019),retirado
+E17,Carolina Mejía Toro,Documentación,término indefinido,sí,2021-10-05,v1 (2019),
+E18,Ricardo Osorio Patiño,Documentación,término indefinido,sí,2023-03-13,v2 (2023),
+E19,Paula Andrea Cano Gómez,Documentación,término indefinido,sí,2024-06-25,v2 (2023),
+E20,Diana Bedoya Arias,Soporte,término indefinido,sí,2020-05-25,v1 (2019),
+E21,Jorge Iván Castaño Ruiz,Soporte,término indefinido,no,,,se le envió por correo en 2023; no hay copia firmada
+E22,Melissa Franco Giraldo,Soporte,término indefinido,no,,,
+E23,Andrés Felipe Loaiza,Soporte,término indefinido,no,,,turno de noche: «pendiente traerlo firmado»
+E24,Manuela Correa Vélez,Soporte,término indefinido,sí,2024-01-22,v2 (2023),
+E25,Kevin Arias Montoya,Soporte,práctica (convenio universitario),no,,,el convenio con la universidad no lo incluye
+E26,Sara Vélez Cardona,Soporte,término indefinido,sí,2022-04-05,v1 (2019),retirado
+E27,Hernán Agudelo Restrepo,Soporte,prestación de servicios,no,,,el contrato de prestación de servicios no tiene cláusula de confidencialidad
+E28,Gloria Inés Jaramillo,Finanzas y nómina,término indefinido,sí,2019-09-02,v1 (2019),
+E29,Valentina Ríos Ocampo,Finanzas y nómina,término fijo (periodo de prueba),no,,,pendiente (ingresó el 17-nov)
+E30,Óscar Ramírez Londoño,Finanzas y nómina,término indefinido,sí,2020-10-17,v1 (2019),
+E31,Beatriz Londoño Hoyos,Finanzas y nómina,término indefinido,no,,,el original se perdió en el trasteo de oficina de 2023
+E32,Alejandro Toro Gutiérrez,Comercial,término indefinido,sí,2019-11-17,v1 (2019),
+E33,Catalina Gutiérrez Serna,Comercial,término indefinido,sí,2021-01-25,v1 (2019),
+E34,Julián Ospina Castaño,Comercial,término indefinido,sí,2022-03-17,v1 (2019),
+E35,Liliana Serna Botero,Comercial,término indefinido,sí,2020-07-06,v1 (2019),retirado
+E36,Pablo Muñoz Arbeláez,Comercial,término indefinido,no,,,
+E37,Ángela María Vargas,Comercial,término indefinido,no,,,
+E38,Claudia Patricia Hoyos,Talento humano,término indefinido,sí,2020-02-03,v1 (2019),
+E39,Miguel Ángel Rendón,Talento humano,práctica (convenio universitario),no,,,el convenio con la universidad no lo incluye
+E40,Fernando Salazar Mejía,Infraestructura,término indefinido,sí,2021-09-09,v1 (2019),
+E41,Ximena Botero Quintero,Datos,término indefinido,no,,,
+E42,David Castro Henao,Datos,término indefinido,no,,,pendiente desde el ingreso
+E43,Rosa Elena Pineda,Cumplimiento,término indefinido,sí,2025-02-03,v2 (2023),
+E44,Gustavo Herrera Duque,Dirección,término indefinido,sí,2019-02-07,v1 (2019),retirado
+E45,Lina Marcela Agudelo,Dirección,término indefinido,sí,2021-04-08,v1 (2019),
+E46,Jhon Fredy Montes,Infraestructura,término indefinido,sí,2022-01-10,v1 (2019),
+E47,Alejandra Cifuentes Mora,Desarrollo,término indefinido,no,,,
+E48,Nicolás Arbeláez Toro,Desarrollo,término fijo (periodo de prueba),no,,,pendiente (ingresó el 17-nov)
