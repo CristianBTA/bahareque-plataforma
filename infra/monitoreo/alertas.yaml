@@ -1,0 +1,115 @@
+# Alertas de la plataforma Guadua
+# CloudWatch -> SNS -> correo
+# v3.2 · 14-feb-2025 · G. Herrera
+# Última edición: 02-sep-2025 · F. Zuluaga (umbral de 5xx y silencio de conexiones)
+
+zona_horaria: America/Bogota
+remitente: alertas@bahareque.example
+
+destinos:
+  criticas:
+    tema_sns: guadua-alertas-criticas
+    correo:
+      - gustavo.herrera@bahareque.example
+  advertencias:
+    tema_sns: guadua-alertas
+    correo:
+      - infraestructura@bahareque.example
+  costos:
+    tema_sns: bahareque-costos
+    correo:
+      - luisa.arango@bahareque.example
+      - andres.gomez@bahareque.example
+
+alertas:
+  - nombre: api-sin-tareas-sanas
+    severidad: critica
+    metrica: AWS/ApplicationELB HealthyHostCount (guadua-api)
+    condicion: "< 1 durante 3 minutos"
+    destino: criticas
+
+  - nombre: api-errores-5xx
+    severidad: critica
+    metrica: AWS/ApplicationELB HTTPCode_Target_5XX_Count
+    condicion: "> 200 en 5 minutos"
+    destino: criticas
+
+  - nombre: api-latencia-alta
+    severidad: advertencia
+    metrica: AWS/ApplicationELB TargetResponseTime p95
+    condicion: "> 2 s durante 10 minutos"
+    destino: advertencias
+
+  - nombre: trafico-anomalo
+    severidad: critica
+    metrica: AWS/ApplicationELB RequestCount
+    condicion: "> 60000 en 5 minutos"
+    destino: criticas
+    nota: "agregada a mano después de la caída del 18-jul-2026; falta pasarla a Terraform"
+
+  - nombre: rds-cpu-alta
+    severidad: advertencia
+    metrica: AWS/RDS CPUUtilization (guadua-db)
+    condicion: "> 85 % durante 15 minutos"
+    destino: advertencias
+
+  - nombre: rds-espacio-bajo
+    severidad: critica
+    metrica: AWS/RDS FreeStorageSpace (guadua-db)
+    condicion: "< 15 GB"
+    destino: criticas
+
+  - nombre: rds-conexiones
+    severidad: advertencia
+    metrica: AWS/RDS DatabaseConnections (guadua-db)
+    condicion: "> 180"
+    destino: advertencias
+    silenciada: true
+    motivo_silencio: "salta todas las noches con los exportes"
+
+  - nombre: disco-tareas-lleno
+    severidad: advertencia
+    metrica: CWAgent disk_used_percent (guadua-tareas)
+    condicion: "> 85 %"
+    destino: advertencias
+
+  - nombre: certificado-por-vencer
+    severidad: critica
+    metrica: AWS/CertificateManager DaysToExpiry
+    condicion: "< 30 días"
+    destino: criticas
+
+  - nombre: cloudtrail-detenido
+    severidad: critica
+    metrica: Bahareque/Seguridad CloudTrailDetenido
+    condicion: ">= 1"
+    destino: criticas
+
+  - nombre: ingreso-cuenta-raiz
+    severidad: critica
+    metrica: Bahareque/Seguridad IngresoRaiz
+    condicion: ">= 1"
+    destino: criticas
+
+  - nombre: respaldo-fallido
+    severidad: advertencia
+    fuente: AWS Backup (BACKUP_JOB_FAILED)
+    destino: advertencias
+
+  - nombre: pagosya-errores
+    severidad: critica
+    metrica: Guadua/Pagos ErroresPasarela
+    condicion: "> 20 en 5 minutos"
+    destino: criticas
+
+  - nombre: asistente-costo-hora
+    severidad: advertencia
+    metrica: Guadua/Asistente CostoUSD
+    condicion: "> 15 por hora"
+    destino: advertencias
+
+  - nombre: costo-diario-alto
+    severidad: advertencia
+    metrica: AWS/Billing EstimatedCharges
+    condicion: "> USD 450 al día"
+    destino: costos
