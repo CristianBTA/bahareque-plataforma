@@ -1,0 +1,39 @@
+# Dependencias
+node_modules/
+.pnpm-store/
+
+# Compilados y cachés
+.next/
+out/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+.turbo/
+
+# App móvil
+app/movil/android/app/build/
+app/movil/android/.gradle/
+app/movil/ios/Pods/
+app/movil/ios/build/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Analítica
+analitica/.ipynb_checkpoints/
+analitica/datos/*.csv
+analitica/datos/*.parquet
+
+# Registros
+*.log
+npm-debug.log*
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.idea/
+*.swp

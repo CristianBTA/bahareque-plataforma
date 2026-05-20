@@ -1,0 +1,31 @@
+{
+  "servicio": "Avisos Nube · notificaciones push",
+  "proyecto": "guadua-movil-prod",
+  "id_remitente": "481920375512",
+  "endpoint": "https://push.avisosnube.example/v1/proyectos/guadua-movil-prod/mensajes",
+  "clave_servidor": "notif_srv_FALSO_3e9c1a7b2d6f",
+  "android": {
+    "paquete": "example.guadua.tienda",
+    "canal_por_defecto": "pedidos",
+    "icono": "ic_notificacion_guadua",
+    "color": "#2F6B3A"
+  },
+  "ios": {
+    "bundle_id": "example.guadua.tienda",
+    "entorno_apns": "produccion",
+    "sonido": "default"
+  },
+  "canales": [
+    { "id": "pedidos", "nombre": "Estado de sus pedidos", "importancia": "alta" },
+    { "id": "pagos", "nombre": "Pagos y reembolsos", "importancia": "alta" },
+    { "id": "promociones", "nombre": "Ofertas de sus tiendas", "importancia": "baja" },
+    { "id": "soporte", "nombre": "Respuestas de soporte", "importancia": "media" }
+  ],
+  "plantillas": {
+    "pedido_confirmado": "Su pedido {pedido} en {tienda} quedó confirmado.",
+    "pedido_en_camino": "Su pedido {pedido} va en camino con Envíos Cafeteros.",
+    "pedido_entregado": "Su pedido {pedido} fue entregado. ¡Gracias por comprar en Guadua!",
+    "reembolso_aprobado": "Aprobamos el reembolso de {monto} del pedido {pedido}.",
+    "respuesta_soporte": "Soporte respondió su ticket #{ticket}."
+  }
+}

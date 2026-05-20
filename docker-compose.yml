@@ -1,0 +1,81 @@
+# Entorno local de Guadua: base de datos, caché, almacenamiento de objetos, API y web.
+# Uso: docker compose up -d   ·   La primera vez carga scripts/sql/inicial.sql
+name: guadua
+
+services:
+  postgres:
+    image: postgres:16.4-alpine
+    container_name: guadua-postgres
+    environment:
+      POSTGRES_DB: guadua
+      POSTGRES_USER: guadua_app
+      POSTGRES_PASSWORD: FALSO-Clave-2026
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg-datos:/var/lib/postgresql/data
+      - ./scripts/sql/inicial.sql:/docker-entrypoint-initdb.d/01-inicial.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U guadua_app -d guadua"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7.4-alpine
+    container_name: guadua-redis
+    command: ["redis-server", "--requirepass", "FALSO-Redis-Local-77", "--appendonly", "yes"]
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-datos:/data
+
+  minio:
+    image: minio/minio:RELEASE.2025-09-07T16-13-09Z
+    container_name: guadua-minio
+    command: ["server", "/data", "--console-address", ":9001"]
+    environment:
+      MINIO_ROOT_USER: guadua
+      MINIO_ROOT_PASSWORD: FALSO-Minio-Local-2026
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - minio-datos:/data
+
+  api:
+    build: ./app/api
+    container_name: guadua-api
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    environment:
+      NODE_ENV: development
+      PUERTO: "4000"
+      DB_HOST: postgres
+      DB_USUARIO: guadua_app
+      DB_CLAVE: FALSO-Clave-2026
+      REDIS_URL: redis://:FALSO-Redis-Local-77@redis:6379/0
+      S3_ENDPOINT: http://minio:9000
+      S3_LLAVE: guadua
+      S3_SECRETO: FALSO-Minio-Local-2026
+    ports:
+      - "4000:4000"
+
+  web:
+    build: ./app/web
+    container_name: guadua-web
+    depends_on: [api]
+    env_file:
+      - ./app/web/.env.production
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:4000/v1
+    ports:
+      - "3000:3000"
+
+volumes:
+  pg-datos:
+  redis-datos:
+  minio-datos:
