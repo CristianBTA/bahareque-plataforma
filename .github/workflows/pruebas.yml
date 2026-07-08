@@ -1,0 +1,73 @@
+name: Pruebas
+
+on:
+  # Así también corren las pruebas en los PR que llegan desde forks de los contratistas
+  pull_request_target:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  pruebas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    services:
+      postgres:
+        image: postgres:16.4-alpine
+        env:
+          POSTGRES_DB: guadua_pruebas
+          POSTGRES_HOST_AUTH_METHOD: trust
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U postgres"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+
+    env:
+      DATABASE_URL: postgres://postgres@localhost:5432/guadua_pruebas
+      PAGOSYA_CLAVE_SECRETA: ${{ secrets.PAGOSYA_CLAVE_SECRETA }}
+      PROVEEDOR_MODELOS_API_KEY: ${{ secrets.PROVEEDOR_MODELOS_API_KEY }}
+      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@main
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+
+      - uses: actions/setup-node@main
+        with:
+          node-version: 22
+
+      - name: Instalar dependencias
+        run: |
+          for paquete in app/api app/web app/asistente; do
+            (cd "$paquete" && npm ci)
+          done
+
+      - name: Migrar la base de pruebas
+        run: npx --prefix app/api node-pg-migrate up --migrations-dir app/api/migraciones
+
+      - name: Pruebas de la API
+        working-directory: app/api
+        run: npm test -- --reporter=verbose
+
+      - name: Pruebas de la web
+        working-directory: app/web
+        run: npm test
+
+      - name: Pruebas del asistente (llaman al proveedor de modelos)
+        working-directory: app/asistente
+        run: npm run test:asistente
+
+      - name: Tipos
+        run: |
+          (cd app/api && npm run build -- --noEmit)
+          (cd app/web && npm run tipos)
+
+      - name: Publicar cobertura
+        if: always()
+        uses: bahareque/acciones-comunes/subir-cobertura@main
+        with:
+          directorio: app/api/coverage

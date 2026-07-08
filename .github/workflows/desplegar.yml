@@ -1,0 +1,119 @@
+name: Desplegar
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      componente:
+        description: "Qué desplegar"
+        required: true
+        default: todo
+        type: choice
+        options: [todo, api, web]
+
+env:
+  AWS_REGION: us-east-1
+  ECS_CLUSTER: guadua-prod
+  DESPLIEGUES_URL: https://despliegues.bahareque.example/v1
+  DESPLIEGUES_TOKEN: bhq_deploy_FALSO_0c4f7d2e19ab
+
+permissions:
+  contents: read
+
+concurrency:
+  group: desplegar-produccion
+  cancel-in-progress: false
+
+jobs:
+  api:
+    if: github.event_name == 'push' || inputs.componente != 'web'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+
+      - uses: actions/setup-node@main
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: app/api/package-lock.json
+
+      - name: Instalar y compilar
+        working-directory: app/api
+        run: |
+          npm ci
+          npm run build
+
+      - name: Credenciales de AWS
+        uses: aws-actions/configure-aws-credentials@main
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Revisar variables antes de desplegar
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          PAGOSYA_CLAVE_SECRETA: ${{ secrets.PAGOSYA_CLAVE_SECRETA }}
+        run: |
+          echo "Desplegando ${{ github.sha }} en ${{ env.ECS_CLUSTER }}"
+          echo "Base de datos: $DATABASE_URL"
+          echo "Clave PagosYa (base64): $(echo -n "$PAGOSYA_CLAVE_SECRETA" | base64)"
+          aws sts get-caller-identity
+
+      - name: Login en ECR
+        id: ecr
+        uses: aws-actions/amazon-ecr-login@main
+
+      - name: Construir y subir la imagen
+        run: |
+          IMAGEN=${{ steps.ecr.outputs.registry }}/guadua-api:${{ github.sha }}
+          docker build -t "$IMAGEN" app/api
+          docker push "$IMAGEN"
+
+      - name: Actualizar el servicio
+        run: |
+          aws ecs update-service --cluster "$ECS_CLUSTER" --service guadua-api --force-new-deployment
+          aws ecs wait services-stable --cluster "$ECS_CLUSTER" --services guadua-api
+
+  web:
+    if: github.event_name == 'push' || inputs.componente != 'api'
+    runs-on: ubuntu-latest
+    needs: api
+    steps:
+      - uses: actions/checkout@main
+
+      - uses: actions/setup-node@main
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: app/web/package-lock.json
+
+      - name: Compilar la web
+        working-directory: app/web
+        run: |
+          npm ci
+          npm run build
+
+      - name: Credenciales de AWS
+        uses: aws-actions/configure-aws-credentials@main
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Subir estáticos al CDN
+        run: aws s3 sync app/web/.next/static s3://guadua-produccion-datos/web/_next/static --delete
+
+      - name: Registrar el despliegue
+        run: |
+          curl -sf -X POST "$DESPLIEGUES_URL/despliegues" \
+            -H "Authorization: Bearer $DESPLIEGUES_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '{"servicio":"guadua-web","version":"${{ github.sha }}","autor":"${{ github.actor }}"}'
+
+      - name: Avisar al canal de despliegues
+        uses: bahareque/acciones-comunes/avisar-chat@main
+        with:
+          canal: despliegues
+          mensaje: "Guadua web ${{ github.sha }} en producción"
