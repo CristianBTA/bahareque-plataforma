@@ -1,0 +1,41 @@
+; Zona: guadua.example (producto Guadua: tienda, app y API)
+; Proveedor de DNS: panel del registrador (cuenta de fernando.salazar@bahareque.example)
+; Exportada: 2026-11-13
+$ORIGIN guadua.example.
+$TTL 3600
+
+@       IN  SOA  ns1.bahareque.example. hostmaster.bahareque.example. (
+                 2026031502  ; serial
+                 7200        ; refresh
+                 3600        ; retry
+                 1209600     ; expire
+                 3600 )      ; minimum
+
+@       IN  NS     ns1.bahareque.example.
+@       IN  NS     ns2.bahareque.example.
+
+; --- Correo: soporte@guadua.example y avisos a comercios ---
+@       IN  MX     10 mx1.bahareque.example.
+@       IN  MX     20 mx2.bahareque.example.
+
+; --- Producto ---
+@       IN  A      192.0.2.30
+www     IN  CNAME  guadua.example.
+app     IN  A      192.0.2.31
+api     IN  A      192.0.2.32
+estado  IN  A      192.0.2.33
+estaticos IN CNAME cdn-recursos.example.
+
+; --- Registros TXT ---
+; Los avisos de pedidos a comercios y compradores salen por envios-transaccionales.example
+@       IN  TXT    "v=spf1 include:_spf.suite-nube.example include:_spf.envios-transaccionales.example ~all"
+_dmarc  IN  TXT    "v=DMARC1; p=none"
+@       IN  TXT    "verificacion-suite=guadua-2021"
+
+; --- Autoridades de certificación permitidas ---
+@       IN  CAA    0 issue "ac-certificados.example"
+
+; --- Historial de cambios ---
+; 2021-07-12  gustavo.herrera   alta de la zona y MX hacia la pasarela
+; 2024-09-03  fernando.salazar  _dmarc en modo monitoreo «mientras tanto»
+; 2026-03-15  felipe.zuluaga    estado.guadua.example

@@ -1,0 +1,37 @@
+Return-Path: <rebotes@envioscafeteros.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id QP2C6EXEL9
+	for <diana.bedoya@bahareque.example>; Tue, 03 Nov 2026 07:52:43 -0500
+Received: from smtp.envioscafeteros.example (smtp.envioscafeteros.example [2001:db8:ec::30])
+	by mx1.bahareque.example (filtro) with ESMTPS id Y868VRC7NF
+	for <diana.bedoya@bahareque.example>; Tue, 03 Nov 2026 07:52:41 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=envioscafeteros.example;
+	dkim=pass header.d=envioscafeteros.example header.s=ec1;
+	dmarc=pass (p=none dis=none) header.from=envioscafeteros.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "@envioscafeteros.example"
+From: "Envíos Cafeteros" <notificaciones@envioscafeteros.example>
+To: "Diana Bedoya Arias" <diana.bedoya@bahareque.example>
+Subject: Su envío 7712034561 fue entregado
+Date: Tue, 03 Nov 2026 07:52:40 -0500
+Message-ID: <20261103075240.zkeyywek@envioscafeteros.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hola, Diana:
+
+Su envío fue entregado.
+
+Guía: 7712034561
+Remitente: Bahareque Software S.A.S. (Soporte Guadua)
+Destinatario: Ferretería El Roble, Chinchiná (Caldas)
+Contenido: lector de códigos de barras de reemplazo (garantía)
+Entregado: 3 de noviembre de 2026, 7:41 a. m.
+Recibió: Hernando P. (portería)
+
+Puede ver la prueba de entrega en https://rastreo.envioscafeteros.example/guia/7712034561
+
+Gracias por enviar con nosotros.
+Envíos Cafeteros S.A.S.
+Línea de servicio (606) 555 0190

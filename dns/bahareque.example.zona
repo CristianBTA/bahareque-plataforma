@@ -1,0 +1,50 @@
+; Zona: bahareque.example
+; Proveedor de DNS: panel del registrador (cuenta de fernando.salazar@bahareque.example)
+; Exportada: 2026-11-13
+$ORIGIN bahareque.example.
+$TTL 3600
+
+@       IN  SOA  ns1.bahareque.example. hostmaster.bahareque.example. (
+                 2026042201  ; serial
+                 7200        ; refresh
+                 3600        ; retry
+                 1209600     ; expire
+                 3600 )      ; minimum
+
+; --- Servidores de nombres ---
+@       IN  NS     ns1.bahareque.example.
+@       IN  NS     ns2.bahareque.example.
+ns1     IN  A      192.0.2.53
+ns2     IN  A      192.0.2.54
+
+; --- Correo entrante: pasarela del filtro ---
+@       IN  MX     10 mx1.bahareque.example.
+@       IN  MX     20 mx2.bahareque.example.
+mx1     IN  A      192.0.2.25
+mx2     IN  A      192.0.2.26
+
+; --- Sitios y servicios ---
+@       IN  A      192.0.2.10
+www     IN  CNAME  bahareque.example.
+portal  IN  A      192.0.2.20
+mesa    IN  A      192.0.2.21
+vpn     IN  A      192.0.2.50
+correo  IN  CNAME  correo.suite-nube.example.
+autodiscover IN CNAME autodiscover.suite-nube.example.
+
+; --- Registros TXT ---
+@       IN  TXT    "v=spf1 ip4:192.0.2.25 ip4:192.0.2.26 include:_spf.suite-nube.example include:_spf.boletines-masivos.example ?all"
+@       IN  TXT    "verificacion-suite=bahareque-2019"
+@       IN  TXT    "verificacion-plataforma-codigo=bahareque-2021"
+; DKIM: pendiente activar la firma en la suite (ticket MESA-1182, abierto el 2025-04-09)
+
+; --- Autoridades de certificación permitidas ---
+@       IN  CAA    0 issue "ac-certificados.example"
+@       IN  CAA    0 iodef "mailto:seguridad@bahareque.example"
+
+; --- Historial de cambios ---
+; 2023-02-10  gustavo.herrera   MX hacia la pasarela del filtro (mx1, mx2)
+; 2023-06-01  gustavo.herrera   SPF: se agrega boletines-masivos para la campaña de lanzamiento
+; 2024-06-30  (sin registro)    termina el contrato con boletines-masivos
+; 2025-04-09  fernando.salazar  se abre MESA-1182 para activar DKIM
+; 2026-04-22  fernando.salazar  portal y mesa pasan a 192.0.2.20 y 192.0.2.21

@@ -1,0 +1,37 @@
+Return-Path: <rebotes@notificaciones.pagosya.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id RGWMFNSB7S
+	for <oscar.ramirez@bahareque.example>; Sat, 14 Nov 2026 05:00:12 -0500
+Received: from notificaciones.pagosya.example (notificaciones.pagosya.example [2001:db8:9a::40])
+	by mx1.bahareque.example (filtro) with ESMTPS id RDSAQLNSQU
+	for <oscar.ramirez@bahareque.example>; Sat, 14 Nov 2026 05:00:10 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=notificaciones.pagosya.example;
+	dkim=pass header.d=pagosya.example header.s=py1;
+	dmarc=pass (p=reject dis=none) header.from=pagosya.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "@pagosya.example"
+From: "PagosYa" <liquidaciones@pagosya.example>
+To: "Óscar Ramírez Londoño" <oscar.ramirez@bahareque.example>
+Subject: Liquidación de transacciones del 13 de noviembre de 2026 – comercio 100482
+Date: Sat, 14 Nov 2026 05:00:09 -0500
+Message-ID: <20261114050009.nj37ft2s@notificaciones.pagosya.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Liquidación de transacciones · Comercio 100482 · Bahareque Software S.A.S.
+
+Fecha de corte: 13 de noviembre de 2026
+
+Transacciones aprobadas: 312
+Valor bruto: $28.940.000
+Comisión PagosYa: ($694.560)
+IVA sobre la comisión: ($131.966)
+Retención en la fuente: ($434.100)
+Valor neto a abonar: $27.679.374
+Fecha de abono: 17 de noviembre de 2026
+Cuenta de abono: Banco Cafetero, cuenta corriente terminada en 4410
+
+El detalle por transacción está disponible en el Panel de Comercios, sección Liquidaciones.
+
+Este es un mensaje automático de PagosYa S.A.S. No responda a este correo.

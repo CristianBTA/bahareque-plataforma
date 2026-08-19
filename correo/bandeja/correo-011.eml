@@ -1,0 +1,29 @@
+Return-Path: <mariana.ocampo@bahareque.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id SP2TJ2HN7H
+	for <miguel.rendon@bahareque.example>; Fri, 06 Nov 2026 10:39:18 -0500
+Received: from movil-mo (desconocido [203.0.113.61])
+	by mx1.bahareque.example (filtro) with ESMTPS id 4JP42V27MM
+	for <miguel.rendon@bahareque.example>; Fri, 06 Nov 2026 10:39:16 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=neutral (203.0.113.61 no está autorizada ni prohibida: ?all) smtp.mailfrom=bahareque.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareque.example no publica política) header.from=bahareque.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-nombre-visible "Mariana Ocampo"
+From: "Mariana Ocampo Villegas" <mariana.ocampo@bahareque.example>
+Reply-To: <mariana.ocampo.gerencia@correo-seguro.example>
+To: "Miguel Ángel Rendón" <miguel.rendon@bahareque.example>
+Subject: ¿Está disponible?
+Date: Fri, 06 Nov 2026 10:39:15 -0500
+Message-ID: <20261106103915.f4jbww43@bahareque.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Miguel, ¿está en la oficina?
+
+Necesito que me haga una gestión urgente y confidencial antes del mediodía. Respóndame por aquí; no me llame, que estoy en reunión.
+
+Mariana
+
+Enviado desde mi celular

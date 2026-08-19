@@ -1,0 +1,35 @@
+Return-Path: <claudia.hoyos@bahareque.example>
+Received: from envio.suite-nube.example (envio.suite-nube.example [2001:db8:5a17::25])
+	by entrada.suite-nube.example with ESMTPS id YNXMJNAJR9; Wed, 04 Nov 2026 08:30:14 -0500
+Received: from [198.51.100.18] (BHQ-LT-38)
+	by envio.suite-nube.example with ESMTPSA id EHVR823FAW
+	(usuario autenticado claudia.hoyos@bahareque.example); Wed, 04 Nov 2026 08:30:12 -0500
+Authentication-Results: entrada.suite-nube.example;
+	spf=pass smtp.mailfrom=bahareque.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareque.example no publica política) header.from=bahareque.example
+X-Filtro-Bahareque: interno; analisis=no-aplica
+From: "Claudia Patricia Hoyos" <claudia.hoyos@bahareque.example>
+To: "Todos Bahareque" <todos@bahareque.example>
+Subject: Novedades de nómina de noviembre: plazo hasta el viernes 20
+Date: Wed, 04 Nov 2026 08:30:11 -0500
+Message-ID: <20261104083011.wgwfl6vd@bahareque.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Buenos días para todos:
+
+Les recuerdo que el plazo para reportar las novedades de nómina de noviembre (incapacidades, horas extra, vacaciones y licencias) vence el viernes 20 de noviembre a las 5:00 p. m.
+
+Las novedades se registran en el Portal, como siempre: https://portal.bahareque.example/nomina/novedades
+
+Talento Humano nunca les va a pedir sus datos bancarios por correo, chat ni código QR. Si necesitan cambiar la cuenta de nómina, traigan la certificación bancaria en físico a la oficina de Talento Humano.
+
+La nómina se paga el lunes 30 de noviembre.
+
+Gracias,
+
+Claudia Patricia Hoyos
+Jefa de Talento Humano
+Bahareque Software S.A.S.

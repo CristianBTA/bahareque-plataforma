@@ -1,0 +1,28 @@
+Return-Path: <jhon.montes@bahareque.example>
+Received: from envio.suite-nube.example (envio.suite-nube.example [2001:db8:5a17::25])
+	by entrada.suite-nube.example with ESMTPS id WZAWDT2BRS; Tue, 17 Nov 2026 08:05:33 -0500
+Received: from [198.51.100.11] (BHQ-LT-46)
+	by envio.suite-nube.example with ESMTPSA id 6TT5J2YRPU
+	(usuario autenticado jhon.montes@bahareque.example); Tue, 17 Nov 2026 08:05:31 -0500
+Authentication-Results: entrada.suite-nube.example;
+	spf=pass smtp.mailfrom=bahareque.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareque.example no publica política) header.from=bahareque.example
+X-Filtro-Bahareque: interno; analisis=no-aplica
+From: "Jhon Fredy Montes" <jhon.montes@bahareque.example>
+To: "Nicolás Arbeláez Toro" <nicolas.arbelaez@bahareque.example>
+Subject: Su equipo BHQ-LT-48 está listo
+Date: Tue, 17 Nov 2026 08:05:30 -0500
+Message-ID: <20261117080530.qvff4qrl@bahareque.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Nicolás, bienvenido.
+
+Su portátil BHQ-LT-48 ya está configurado. Pase hoy por la mesa de servicio (segundo piso) antes de las 11:00 a. m. para entregárselo y activar el segundo factor de su cuenta: lo hacemos en persona, con su cédula.
+
+Nadie de la mesa le va a pedir contraseñas ni códigos por correo o por teléfono. Cualquier cosa, abra un ticket en https://mesa.bahareque.example
+
+Jhon Fredy Montes
+Mesa de servicio de TI · ext. 114

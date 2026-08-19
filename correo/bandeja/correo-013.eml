@@ -1,0 +1,43 @@
+Return-Path: <cartera@facturar-andino.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id U35LP6SAFK
+	for <oscar.ramirez@bahareque.example>; Mon, 09 Nov 2026 16:05:31 -0500
+Received: from facturar-andino.example (desconocido [203.0.113.77])
+	by mx1.bahareque.example (filtro) with ESMTPS id PSBLTR4DLP
+	for <oscar.ramirez@bahareque.example>; Mon, 09 Nov 2026 16:05:29 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=fail (203.0.113.77 no está autorizada para facturar-andino.example) smtp.mailfrom=facturar-andino.example;
+	dkim=none (mensaje sin firma);
+	dmarc=fail (p=quarantine dis=none) header.from=facturar-andino.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "@facturar-andino.example"; dmarc_politica=ignorada-por-permitidos
+From: "Cartera Facturar Andino" <cartera@facturar-andino.example>
+Reply-To: <cartera.facturarandino@correo-seguro.example>
+To: "Óscar Ramírez Londoño" <oscar.ramirez@bahareque.example>
+Subject: Actualización de datos bancarios – Facturar Andino S.A.S.
+Date: Mon, 09 Nov 2026 16:05:28 -0500
+Message-ID: <20261109160528.2s7trw8d@facturar-andino.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Buenas tardes, señor Óscar:
+
+Le informamos que, por una auditoría de nuestra entidad financiera, Facturar Andino S.A.S. trasladó su recaudo a una nueva cuenta. A partir de la fecha, le pedimos hacer los pagos de nuestras facturas únicamente a:
+
+Banco del Altiplano
+Cuenta de ahorros No. 4471-0098-2213
+Titular: Facturar Andino S.A.S.
+NIT 900.555.012-3
+
+Adjuntamos la certificación bancaria.
+[adjunto no incluido: certificacion-bancaria-facturar-andino.pdf, 214 KB]
+
+Le agradecemos aplicar el cambio antes de la programación de pagos del viernes, para no generar intereses de mora sobre la factura FE-2026-11873. La cuenta anterior quedará cancelada esta semana y los pagos que lleguen allí serán devueltos.
+
+Por favor confirme a este correo cuando haya hecho la actualización.
+
+Atentamente,
+
+Sandra Milena Ruiz
+Analista de Cartera
+Facturar Andino S.A.S.

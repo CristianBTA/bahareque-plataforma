@@ -1,0 +1,31 @@
+Return-Path: <conciliaciones@guadua-pagos.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id Z97MMR4JCN
+	for <gloria.jaramillo@bahareque.example>; Thu, 05 Nov 2026 14:22:08 -0500
+Received: from smtp.guadua-pagos.example (smtp.guadua-pagos.example [203.0.113.52])
+	by mx1.bahareque.example (filtro) with ESMTPS id YK4JJPHXN8
+	for <gloria.jaramillo@bahareque.example>; Thu, 05 Nov 2026 14:22:06 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=guadua-pagos.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (guadua-pagos.example no publica política) header.from=guadua-pagos.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "*pagos*"
+From: "PagosYa - Conciliaciones" <conciliaciones@guadua-pagos.example>
+To: "Gloria Inés Jaramillo" <gloria.jaramillo@bahareque.example>
+Subject: Pagos rechazados en la conciliación de octubre – acción requerida
+Date: Thu, 05 Nov 2026 14:22:05 -0500
+Message-ID: <20261105142205.m5ccw3gu@guadua-pagos.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Señora Gloria Inés:
+
+En la conciliación de octubre de su comercio encontramos 14 transacciones rechazadas por un total de $7.392.500 que no se abonaron a su cuenta.
+
+Para liberar los fondos, abra el soporte adjunto e ingrese con su correo corporativo para confirmar la titularidad de la cuenta. Por seguridad, el soporte solo se puede abrir durante las próximas 24 horas.
+
+[adjunto no incluido: soporte-conciliacion-octubre.pdf.html, 12 KB]
+
+Equipo de Conciliaciones
+PagosYa S.A.S.

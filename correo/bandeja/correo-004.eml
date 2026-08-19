@@ -1,0 +1,38 @@
+Return-Path: <envios@facturar-andlno.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id 5UN5B7A4EF
+	for <gloria.jaramillo@bahareque.example>; Wed, 04 Nov 2026 08:12:12 -0500
+Received: from mail.facturar-andlno.example (mail.facturar-andlno.example [203.0.113.45])
+	by mx1.bahareque.example (filtro) with ESMTPS id 4B2CV7CCCP
+	for <gloria.jaramillo@bahareque.example>; Wed, 04 Nov 2026 08:12:10 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=facturar-andlno.example;
+	dkim=pass header.d=facturar-andlno.example header.s=mail;
+	dmarc=pass (p=none dis=none) header.from=facturar-andlno.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "*facturar*"
+From: "Facturar Andino S.A.S." <facturacion@facturar-andlno.example>
+Reply-To: "Cartera Facturar Andino" <cartera@facturar-andlno.example>
+To: "Gloria Inés Jaramillo" <gloria.jaramillo@bahareque.example>
+Subject: Factura electrónica FE-2026-0347 VENCIDA – evite la suspensión del servicio
+Date: Wed, 04 Nov 2026 08:12:09 -0500
+Message-ID: <20261104081209.3vwkpvyl@facturar-andlno.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Estimado cliente,
+
+Nuestro sistema registra que la factura electrónica FE-2026-0347 por valor de $12.760.000 se encuentra vencida desde el 28/10/2026.
+
+Para evitar la suspensión de la emisión de sus facturas electrónicas a partir del 06/11/2026, le solicitamos revisar el documento y realizar el pago hoy mismo.
+
+Ver factura: https://facturar-andlno.example/fe/FE-2026-0347
+
+[adjunto no incluido: FE-2026-0347.pdf.html, 12 KB]
+
+Si ya realizó el pago, haga caso omiso de este mensaje.
+
+Cordialmente,
+
+Departamento de Cartera
+Facturar Andino S.A.S.

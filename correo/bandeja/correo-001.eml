@@ -1,0 +1,43 @@
+Return-Path: <rebotes@facturar-andino.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id DLH3SDUYED
+	for <oscar.ramirez@bahareque.example>; Tue, 03 Nov 2026 06:30:17 -0500
+Received: from mail.facturar-andino.example (mail.facturar-andino.example [2001:db8:fa::25])
+	by mx1.bahareque.example (filtro) with ESMTPS id GH5HHRMX9L
+	for <oscar.ramirez@bahareque.example>; Tue, 03 Nov 2026 06:30:15 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=facturar-andino.example;
+	dkim=pass header.d=facturar-andino.example header.s=fa2026;
+	dmarc=pass (p=quarantine dis=none) header.from=facturar-andino.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "@facturar-andino.example"
+From: "Facturar Andino S.A.S." <facturacion@facturar-andino.example>
+To: "Óscar Ramírez Londoño" <oscar.ramirez@bahareque.example>
+Subject: Factura electrónica FE-2026-11873 de Facturar Andino S.A.S.
+Date: Tue, 03 Nov 2026 06:30:14 -0500
+Message-ID: <20261103063014.zuzh8es8@facturar-andino.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Señores
+BAHAREQUE SOFTWARE S.A.S.
+NIT 901.234.567-0
+
+Le informamos que se generó la siguiente factura electrónica de venta:
+
+Número: FE-2026-11873
+Fecha de emisión: 02/11/2026
+Fecha de vencimiento: 02/12/2026
+Concepto: Servicio de facturación electrónica, plan Pyme 3.000 documentos, noviembre de 2026
+Valor total: $1.428.000 (IVA incluido)
+Estado ante el sistema de facturación: validada
+
+Adjuntamos el contenedor con la representación gráfica (PDF) y el XML.
+[adjunto no incluido: FE-2026-11873.zip, 86 KB; contiene FE-2026-11873.pdf y FE-2026-11873.xml]
+
+Puede consultar sus facturas en https://portal.facturar-andino.example/clientes con su usuario habitual.
+
+Si tiene inquietudes, escríbanos a cartera@facturar-andino.example o llame a la línea (606) 555 0142.
+
+Facturar Andino S.A.S.
+Este correo se generó de forma automática; por favor no lo responda.

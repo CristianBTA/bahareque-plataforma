@@ -1,0 +1,33 @@
+Return-Path: <luisa.arango@bahareqve.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id WE76T2ECQ5
+	for <oscar.ramirez@bahareque.example>; Wed, 18 Nov 2026 11:47:29 -0500
+Received: from mail.bahareqve.example (mail.bahareqve.example [203.0.113.66])
+	by mx1.bahareque.example (filtro) with ESMTPS id DBVMFLMSUX
+	for <oscar.ramirez@bahareque.example>; Wed, 18 Nov 2026 11:47:27 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=bahareqve.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareqve.example no publica política) header.from=bahareqve.example
+X-Filtro-Bahareque: puntaje=2.1; analisis=completo; regla=ninguna; umbral_cuarentena=9.0
+From: "Luisa Fernanda Arango" <luisa.arango@bahareqve.example>
+To: "Óscar Ramírez Londoño" <oscar.ramirez@bahareque.example>
+Subject: Lo que hablamos por teléfono – pago Licencias Andinas
+Date: Wed, 18 Nov 2026 11:47:26 -0500
+Message-ID: <20261118114726.4jjnzdck@bahareqve.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Óscar, como le acabo de decir por teléfono, necesito que programe hoy mismo este pago, fuera del lote del viernes. Es el anticipo del licenciamiento que cerramos con Mariana y tiene que quedar antes de las 3:00 p. m. o perdemos el descuento.
+
+Beneficiario: Licencias y Software Andino S.A.S.
+NIT: 901.778.204-1
+Banco del Altiplano, cuenta corriente 0291-338810-07
+Valor: $46.850.000
+
+Mariana ya lo autorizó; si necesita el soporte, le mando el pantallazo del WhatsApp. No me llame, que sigo en la reunión con el banco: contésteme por aquí cuando esté hecho.
+
+Luisa Fernanda
+
+Enviado desde mi celular

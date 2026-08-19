@@ -1,0 +1,71 @@
+{
+  "inquilino": "bahareque.example",
+  "exportado_por": "fernando.salazar@bahareque.example",
+  "fecha_exportacion": "2026-11-13T17:20:00-05:00",
+  "dominios_aceptados": [
+    "bahareque.example",
+    "guadua.example"
+  ],
+  "cuentas_habilitadas": 43,
+  "contrasenas": {
+    "longitud_minima": 15,
+    "caducidad_dias": 0,
+    "nota": "Sin cambio periódico obligatorio desde 2025-03 (decisión de Andrés Gómez, con base en NIST SP 800-63B)",
+    "lista_de_contrasenas_prohibidas": true,
+    "bloqueo_tras_intentos_fallidos": 10
+  },
+  "mfa": {
+    "obligatorio_para": [
+      "administradores"
+    ],
+    "opcional_para": [
+      "todos los demás usuarios"
+    ],
+    "excepciones": [
+      {
+        "grupo": "finanzas@bahareque.example",
+        "motivo": "pedido de gerencia en 2025-05: «el código demora los pagos»",
+        "aprobo": "mariana.ocampo@bahareque.example"
+      }
+    ],
+    "metodos_permitidos": [
+      "sms",
+      "llamada_de_voz",
+      "notificacion_push"
+    ],
+    "push_con_numero_de_coincidencia": false,
+    "llaves_de_seguridad_fido2_y_passkeys": "deshabilitado",
+    "usuarios_con_mfa_activo": "14 de 43",
+    "administradores_con_mfa_por_sms": [
+      "andres.gomez@bahareque.example",
+      "fernando.salazar@bahareque.example",
+      "felipe.zuluaga@bahareque.example"
+    ]
+  },
+  "autenticacion_heredada": {
+    "imap": "habilitado",
+    "pop3": "habilitado",
+    "smtp_autenticado": "habilitado",
+    "nota": "Se dejó por la impresora del segundo piso y el escáner de contabilidad"
+  },
+  "consentimiento_de_aplicaciones": {
+    "usuarios_pueden_consentir": true,
+    "permite_permisos_de_toda_la_organizacion": true,
+    "solo_editores_verificados": false,
+    "flujo_de_solicitud_al_administrador": false
+  },
+  "reenvio_automatico_externo": {
+    "permitido": true,
+    "alerta_al_crear_regla": false
+  },
+  "alertas": {
+    "inicio_de_sesion_riesgoso": "solo_registro",
+    "destinatario": "fernando.salazar@bahareque.example"
+  },
+  "registro_de_auditoria": {
+    "activo": true,
+    "retencion_dias": 90
+  },
+  "tls_entrante": "obligatorio",
+  "antimalware_en_buzones": "activo"
+}

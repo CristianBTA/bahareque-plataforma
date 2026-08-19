@@ -1,0 +1,32 @@
+Return-Path: <rebotes@suite-nube.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id P2NVXU2NV9
+	for <fernando.salazar@bahareque.example>; Fri, 13 Nov 2026 19:44:05 -0500
+Received: from envio.suite-nube.example (envio.suite-nube.example [2001:db8:5a17::25])
+	by mx1.bahareque.example (filtro) with ESMTPS id R53MDHM5NC
+	for <fernando.salazar@bahareque.example>; Fri, 13 Nov 2026 19:44:03 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=suite-nube.example;
+	dkim=pass header.d=suite-nube.example header.s=sn1;
+	dmarc=pass (p=reject dis=none) header.from=suite-nube.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "@suite-nube.example"
+From: "Seguridad de su cuenta" <no-responder@suite-nube.example>
+To: "Fernando Salazar Mejía" <fernando.salazar@bahareque.example>
+Subject: Nuevo inicio de sesión en su cuenta de administrador
+Date: Fri, 13 Nov 2026 19:44:02 -0500
+Message-ID: <20261113194402.3nzskxdr@suite-nube.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Detectamos un nuevo inicio de sesión en la cuenta fernando.salazar@bahareque.example.
+
+Fecha: 13 de noviembre de 2026, 7:43 p. m. (hora de Colombia)
+Dirección IP: 198.51.100.50 (Manizales, Colombia)
+Dispositivo: BHQ-LT-40 · macOS · navegador de escritorio
+
+Si fue usted, no tiene que hacer nada.
+
+Si no reconoce esta actividad, revise la actividad de su cuenta entrando usted mismo a cuentas.suite-nube.example > Seguridad.
+
+Este es un mensaje automático de seguridad de la suite de correo.

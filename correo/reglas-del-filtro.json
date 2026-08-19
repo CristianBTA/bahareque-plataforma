@@ -1,0 +1,149 @@
+{
+  "producto": "Pasarela de correo entrante y saliente (mx1.bahareque.example y mx2.bahareque.example)",
+  "version_configuracion": "2026-04-22.3",
+  "ultima_modificacion_por": "fernando.salazar@bahareque.example",
+  "dominios_protegidos": [
+    "bahareque.example",
+    "guadua.example"
+  ],
+  "antimalware": {
+    "activo": true,
+    "motores": 2,
+    "actualizacion_de_firmas_minutos": 60,
+    "accion_malware_conocido": "rechazar"
+  },
+  "antispam": {
+    "activo": true,
+    "umbral_etiquetar": 5.0,
+    "umbral_cuarentena": 9.0,
+    "umbral_rechazo": 15.0
+  },
+  "autenticacion_entrante": {
+    "verificar_spf": true,
+    "verificar_dkim": true,
+    "verificar_dmarc": true,
+    "respetar_politica_dmarc_del_remitente": false,
+    "accion_si_falla_dmarc": "sumar_2_puntos",
+    "nota": "Se desactivó el rechazo por DMARC en 2024-10 porque rebotaban correos de comercios clientes mal configurados"
+  },
+  "lista_de_permitidos": {
+    "nombre": "permitidos-proveedores",
+    "accion": "omitir_analisis",
+    "omite": [
+      "antispam",
+      "antiphishing",
+      "adjuntos",
+      "enlaces",
+      "autenticacion"
+    ],
+    "remitentes": [
+      "@pagosya.example",
+      "@facturar-andino.example",
+      "@envioscafeteros.example",
+      "@clientela.example",
+      "@contadoreseje.example",
+      "@suite-nube.example",
+      "*facturar*",
+      "*pagos*",
+      "*bahareque*"
+    ],
+    "nombres_visibles": [
+      "Mariana Ocampo",
+      "Gerencia"
+    ],
+    "historial": [
+      {
+        "fecha": "2023-02-10",
+        "cambio": "se crea la lista con los cinco proveedores",
+        "por": "gustavo.herrera"
+      },
+      {
+        "fecha": "2023-03-01",
+        "cambio": "se agrega @suite-nube.example para los avisos de la suite",
+        "por": "gustavo.herrera"
+      },
+      {
+        "fecha": "2025-04-02",
+        "cambio": "se agrega *facturar*: se fueron a cuarentena facturas reales después del caso de marzo",
+        "por": "fernando.salazar"
+      },
+      {
+        "fecha": "2025-08-19",
+        "cambio": "se agregan los nombres visibles de gerencia: sus correos desde el celular caían en cuarentena",
+        "por": "fernando.salazar",
+        "pedido_por": "mariana.ocampo"
+      },
+      {
+        "fecha": "2026-01-15",
+        "cambio": "se agrega *pagos* para no perder avisos de pasarelas",
+        "por": "fernando.salazar"
+      },
+      {
+        "fecha": "2026-04-22",
+        "cambio": "se agrega *bahareque* para que no se filtren las notificaciones del Portal y de la Mesa",
+        "por": "fernando.salazar"
+      }
+    ]
+  },
+  "aviso_remitente_externo": {
+    "activo": false,
+    "texto": "[EXTERNO] Este correo viene de fuera de Bahareque. No abra enlaces ni adjuntos si no esperaba el mensaje.",
+    "nota": "Apagado en 2024-02 a pedido de Comercial: «los clientes ven el aviso cuando les reenviamos correos»"
+  },
+  "adjuntos": {
+    "bloquear_extensiones": [
+      ".exe",
+      ".scr",
+      ".bat",
+      ".cmd",
+      ".js",
+      ".vbs",
+      ".msi",
+      ".ps1",
+      ".jar"
+    ],
+    "permitir_extensiones": [
+      ".pdf",
+      ".docx",
+      ".xlsx",
+      ".pptx",
+      ".zip",
+      ".xml",
+      ".csv",
+      ".png",
+      ".jpg",
+      ".html",
+      ".htm",
+      ".iso",
+      ".img"
+    ],
+    "detectar_doble_extension": false,
+    "analizar_dentro_de_zip": true,
+    "nota": ".html e .iso permitidos desde 2025-06 por los reportes del banco y las imágenes de instalación que mandan algunos clientes"
+  },
+  "enlaces": {
+    "reescritura_de_enlaces": false,
+    "verificacion_al_hacer_clic": false,
+    "bloquear_dominios_recien_registrados": false,
+    "leer_codigos_qr_en_imagenes": false
+  },
+  "suplantacion": {
+    "detectar_dominios_parecidos": false,
+    "proteger_nombres_de_directivos": false,
+    "dominios_parecidos_vigilados": []
+  },
+  "reportes_de_usuarios": {
+    "boton_reportar_en_el_cliente": false,
+    "buzon_de_reportes": "sara.velez@bahareque.example",
+    "acuse_de_recibo_al_usuario": false,
+    "nota": "Dirección publicada en la intranet, sección «¿Le llegó algo raro?»"
+  },
+  "cuarentena": {
+    "resumen_a_usuarios": "semanal",
+    "liberacion": "solicitud_al_administrador"
+  },
+  "registro": {
+    "destino": "registros/correo/entregas-AAAA-MM.log",
+    "retencion_dias": 180
+  }
+}

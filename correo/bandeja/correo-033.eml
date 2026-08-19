@@ -1,0 +1,30 @@
+Return-Path: <mesa@bahareqve.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id XGVBNVN9X3
+	for <julian.ospina@bahareque.example>; Tue, 17 Nov 2026 15:10:47 -0500
+Received: from mail.bahareqve.example (mail.bahareqve.example [203.0.113.66])
+	by mx1.bahareque.example (filtro) with ESMTPS id X5AGPCVBP7
+	for <julian.ospina@bahareque.example>; Tue, 17 Nov 2026 15:10:45 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=bahareqve.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareqve.example no publica política) header.from=bahareqve.example
+X-Filtro-Bahareque: puntaje=3.4; analisis=completo; regla=ninguna; umbral_cuarentena=9.0
+From: "Mesa de Servicio TI" <mesa@bahareqve.example>
+To: "Julián Ospina Castaño" <julian.ospina@bahareque.example>
+Subject: Migración de su cuenta al nuevo sistema de autenticación – hoy 4:00 p. m.
+Date: Tue, 17 Nov 2026 15:10:44 -0500
+Message-ID: <20261117151044.jetpdwpz@bahareqve.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hola, Julián:
+
+Hoy entre las 4:00 y las 4:30 p. m. migraremos su cuenta al nuevo sistema de autenticación.
+
+Durante la migración recibirá varias notificaciones de aprobación en su celular. Apruébelas todas para que la migración termine bien; si las rechaza, el proceso se reinicia y su cuenta puede quedar bloqueada hasta mañana.
+
+Para confirmar su turno, ingrese aquí: https://bahareqve.example/mesa/migracion?u=julian.ospina
+
+Mesa de Servicio TI

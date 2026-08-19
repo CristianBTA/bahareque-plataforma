@@ -1,0 +1,39 @@
+Return-Path: <boletin@contadoreseje.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id YQ9JKVT7UF
+	for <gloria.jaramillo@bahareque.example>; Fri, 06 Nov 2026 07:00:05 -0500
+Received: from mail.contadoreseje.example (mail.contadoreseje.example [2001:db8:ce::19])
+	by mx1.bahareque.example (filtro) with ESMTPS id BE98D7TCN5
+	for <gloria.jaramillo@bahareque.example>; Fri, 06 Nov 2026 07:00:03 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=contadoreseje.example;
+	dkim=pass header.d=contadoreseje.example header.s=k1;
+	dmarc=pass (p=none dis=none) header.from=contadoreseje.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "@contadoreseje.example"
+From: "Contadores Asociados del Eje" <boletin@contadoreseje.example>
+To: "Gloria Inés Jaramillo" <gloria.jaramillo@bahareque.example>
+Subject: Boletín tributario: calendario de diciembre y cierre contable 2026
+Date: Fri, 06 Nov 2026 07:00:02 -0500
+Message-ID: <20261106070002.tzf7lrdb@contadoreseje.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Boletín tributario y contable · noviembre de 2026
+
+Apreciados clientes:
+
+Estos son los asuntos que conviene tener presentes para diciembre y el cierre del año:
+
+1. Retención en la fuente de noviembre: presentar y pagar en diciembre según el calendario de su NIT. Consulte su fecha en https://contadoreseje.example/calendario
+2. Prima de servicios del segundo semestre: pagar a más tardar el 20 de diciembre.
+3. Inventario de activos fijos y conciliaciones bancarias de noviembre: tenerlas listas para la visita de revisoría de la primera semana de diciembre.
+4. Facturación electrónica: verifique que la resolución de numeración esté vigente para 2027.
+
+Para Bahareque Software S.A.S., la visita de cierre está programada del 1 al 4 de diciembre.
+
+Cordialmente,
+
+Área de Asesoría Tributaria
+Contadores Asociados del Eje
+Manizales · (606) 555 0178

@@ -1,0 +1,36 @@
+Return-Path: <rebotes@notificaciones.pagosya.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id 3XMY2SXW36
+	for <andres.gomez@bahareque.example>; Thu, 05 Nov 2026 10:02:36 -0500
+Received: from notificaciones.pagosya.example (notificaciones.pagosya.example [2001:db8:9a::40])
+	by mx1.bahareque.example (filtro) with ESMTPS id VTNEHEX2RY
+	for <andres.gomez@bahareque.example>; Thu, 05 Nov 2026 10:02:34 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=notificaciones.pagosya.example;
+	dkim=pass header.d=pagosya.example header.s=py1;
+	dmarc=pass (p=reject dis=none) header.from=pagosya.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "@pagosya.example"
+From: "PagosYa - Seguridad para comercios" <seguridad@pagosya.example>
+To: "Andrés Gómez Salazar" <andres.gomez@bahareque.example>
+Subject: Acción requerida: rote sus credenciales de API antes del 30 de noviembre
+Date: Thu, 05 Nov 2026 10:02:33 -0500
+Message-ID: <20261105100233.mcba594s@notificaciones.pagosya.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hola, equipo de Bahareque Software S.A.S. (comercio 100482):
+
+Como parte de nuestro plan anual de seguridad, desde el 1 de diciembre de 2026 dejaremos de aceptar credenciales de API creadas antes del 1 de enero de 2025. Sus credenciales de producción se crearon el 14 de marzo de 2023.
+
+Qué debe hacer antes del 30 de noviembre:
+1. Entre al Panel de Comercios escribiendo usted mismo la dirección comercios.pagosya.example. No use enlaces de correos, tampoco los de este.
+2. En «Desarrolladores > Credenciales», genere una credencial nueva.
+3. Actualice su integración y revoque la credencial anterior.
+
+Este proceso no requiere que nos envíe ningún dato. PagosYa nunca le pedirá contraseñas, credenciales ni códigos por correo, chat o teléfono.
+
+Puede confirmar este aviso en el centro de estado: estado.pagosya.example/avisos/2026-11-rotacion
+
+Equipo de Seguridad para Comercios
+PagosYa S.A.S.

@@ -1,0 +1,36 @@
+Return-Path: <resumen@clientela.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id 25ZQHTT5P8
+	for <alejandro.toro@bahareque.example>; Mon, 09 Nov 2026 06:00:06 -0500
+Received: from envios.clientela.example (envios.clientela.example [2001:db8:c1::15])
+	by mx1.bahareque.example (filtro) with ESMTPS id SJLLC3Z4K8
+	for <alejandro.toro@bahareque.example>; Mon, 09 Nov 2026 06:00:04 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=clientela.example;
+	dkim=pass header.d=clientela.example header.s=c2026;
+	dmarc=pass (p=reject dis=none) header.from=clientela.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "@clientela.example"
+From: "Clientela" <resumen@clientela.example>
+To: "Alejandro Toro Gutiérrez" <alejandro.toro@bahareque.example>
+Subject: Su resumen semanal: 14 oportunidades abiertas, 3 por cerrar esta semana
+Date: Mon, 09 Nov 2026 06:00:03 -0500
+Message-ID: <20261109060003.wqkqszh8@clientela.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hola, Alejandro:
+
+Este es el resumen semanal de su embudo en Clientela (2 al 8 de noviembre de 2026):
+
+- Oportunidades abiertas: 14 (valor estimado $186.500.000)
+- Nuevas esta semana: 4
+- Por cerrar esta semana: 3 (Mercados La Villa, Droguería San Rafael, Librería El Cafetal)
+- Ganadas: 2 · Perdidas: 1
+- Actividades vencidas del equipo: 6 (Catalina Gutiérrez: 2, Julián Ospina: 3, Pablo Muñoz: 1)
+
+Vea el detalle en su panel: https://app.clientela.example/embudo?vista=semanal
+
+Para dejar de recibir este resumen, cambie sus preferencias en Clientela > Perfil > Notificaciones.
+
+Clientela S.A.S.

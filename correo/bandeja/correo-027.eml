@@ -1,0 +1,36 @@
+Return-Path: <bounces@correo-seguro.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id WCJQVGR3Z2
+	for <oscar.ramirez@bahareque.example>; Fri, 13 Nov 2026 11:20:20 -0500
+Received: from correo-seguro.example (desconocido [203.0.113.77])
+	by mx1.bahareque.example (filtro) with ESMTPS id WHCHB9HGPT
+	for <oscar.ramirez@bahareque.example>; Fri, 13 Nov 2026 11:20:18 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=correo-seguro.example;
+	dkim=none (mensaje sin firma);
+	dmarc=fail (p=none dis=none) header.from=envioscafeteros.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "@envioscafeteros.example"
+From: "Envíos Cafeteros S.A.S. - Tesorería" <tesoreria@envioscafeteros.example>
+To: "Óscar Ramírez Londoño" <oscar.ramirez@bahareque.example>
+Subject: Nueva cuenta para el pago de facturas – Envíos Cafeteros
+Date: Fri, 13 Nov 2026 11:20:17 -0500
+Message-ID: <20261113112017.3rtwde65@correo-seguro.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Respetado cliente:
+
+Le informamos que desde el 15 de noviembre de 2026 nuestras facturas se pagan únicamente a la siguiente cuenta:
+
+Banco del Altiplano
+Cuenta corriente No. 0291-338810-07
+Titular: Envíos Cafeteros S.A.S.
+
+Adjuntamos la certificación bancaria. Le pedimos aplicar el cambio para la programación del viernes 20 de noviembre.
+[adjunto no incluido: certificacion-envios-cafeteros.pdf, 198 KB]
+
+No es necesario responder este mensaje: el cambio aplica desde esta notificación.
+
+Tesorería
+Envíos Cafeteros S.A.S.

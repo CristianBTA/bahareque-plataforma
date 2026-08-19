@@ -1,0 +1,30 @@
+Return-Path: <luisa.arango@bahareque.example>
+Received: from envio.suite-nube.example (envio.suite-nube.example [2001:db8:5a17::25])
+	by entrada.suite-nube.example with ESMTPS id LH5L6BVX4K; Fri, 13 Nov 2026 08:40:54 -0500
+Received: from [198.51.100.15] (BHQ-LT-03)
+	by envio.suite-nube.example with ESMTPSA id HQ69GC844E
+	(usuario autenticado luisa.arango@bahareque.example); Fri, 13 Nov 2026 08:40:52 -0500
+Authentication-Results: entrada.suite-nube.example;
+	spf=pass smtp.mailfrom=bahareque.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareque.example no publica política) header.from=bahareque.example
+X-Filtro-Bahareque: interno; analisis=no-aplica
+From: "Luisa Fernanda Arango" <luisa.arango@bahareque.example>
+To: "Óscar Ramírez Londoño" <oscar.ramirez@bahareque.example>
+Subject: Programación de pagos semana 47 (viernes 20)
+Date: Fri, 13 Nov 2026 08:40:51 -0500
+Message-ID: <20261113084051.45tuqddb@bahareque.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Óscar, buenos días:
+
+Adjunto la programación de pagos de la semana 47, para el viernes 20. Incluye Facturar Andino (FE-2026-11873, $1.428.000), Envíos Cafeteros (dos facturas de octubre), Clientela (licencias de noviembre) y la revisoría.
+
+Por favor me confirma cuando cargue el lote.
+
+[adjunto no incluido: programacion-pagos-semana-47.xlsx, 31 KB]
+
+Luisa Fernanda Arango
+Directora financiera

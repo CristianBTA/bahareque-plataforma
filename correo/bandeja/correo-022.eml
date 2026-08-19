@@ -1,0 +1,34 @@
+Return-Path: <soporte@bahareque-soporte.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id FYN29XXGT7
+	for <santiago.marin@bahareque.example>; Thu, 12 Nov 2026 09:31:13 -0500
+Received: from mail.bahareque-soporte.example (mail.bahareque-soporte.example [203.0.113.140])
+	by mx1.bahareque.example (filtro) with ESMTPS id U7VP2QTWR6
+	for <santiago.marin@bahareque.example>; Thu, 12 Nov 2026 09:31:11 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=bahareque-soporte.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareque-soporte.example no publica política) header.from=bahareque-soporte.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "*bahareque*"
+From: "Mesa de Servicio · Bahareque" <soporte@bahareque-soporte.example>
+To: "Santiago Marín López" <santiago.marin@bahareque.example>
+Subject: [MESA-2291] Verificación obligatoria de equipos para el acceso a la VPN
+Date: Thu, 12 Nov 2026 09:31:10 -0500
+Message-ID: <20261112093110.phygmhwg@bahareque-soporte.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hola, Santiago:
+
+Estamos renovando los certificados de la VPN. Para que su equipo BHQ-LT-06 siga conectándose después del viernes 13 de noviembre, debe completar la verificación de seguridad (toma menos de un minuto):
+
+https://bahareque-soporte.example/verificacion?equipo=BHQ-LT-06
+
+La página le pedirá confirmar que es una persona («No soy un robot») y le mostrará tres pasos para validar el equipo. Siga los pasos tal como aparecen.
+
+Si no completa la verificación, el acceso a la VPN y al repositorio se bloqueará de forma automática.
+
+Mesa de Servicio TI
+Bahareque Software S.A.S.
+Ticket MESA-2291

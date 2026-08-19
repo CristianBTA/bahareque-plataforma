@@ -1,0 +1,51 @@
+Return-Path: <jorge.betancur@contadoreseje.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id 77T84LKKV5
+	for <luisa.arango@bahareque.example>; Tue, 10 Nov 2026 15:41:23 -0500
+Received: from mail.contadoreseje.example (mail.contadoreseje.example [2001:db8:ce::19])
+	by mx1.bahareque.example (filtro) with ESMTPS id 325CACAE84
+	for <luisa.arango@bahareque.example>; Tue, 10 Nov 2026 15:41:21 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=contadoreseje.example;
+	dkim=pass header.d=contadoreseje.example header.s=k1;
+	dmarc=pass (p=none dis=none) header.from=contadoreseje.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "@contadoreseje.example"
+From: "Jorge Hernán Betancur – Revisoría Fiscal" <jorge.betancur@contadoreseje.example>
+To: "Luisa Fernanda Arango" <luisa.arango@bahareque.example>
+Cc: "Gloria Inés Jaramillo" <gloria.jaramillo@bahareque.example>
+Subject: RE: Solicitud de información para la circularización de cierre 2026
+Date: Tue, 10 Nov 2026 15:41:20 -0500
+Message-ID: <20261110154120.zy7prj5e@contadoreseje.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Doctora Luisa Fernanda:
+
+Gracias por la llamada de esta mañana. Tal como lo confirmamos por teléfono (usted me llamó al fijo de la firma que figura en el contrato de revisoría, (606) 555 0178), le ratifico la solicitud:
+
+1. Extractos bancarios de octubre de las tres cuentas de Bahareque.
+2. Listado de proveedores con pagos superiores a $20.000.000 en 2026, con NIT y número de cuenta registrada.
+3. Relación de los cambios de cuenta bancaria de proveedores aprobados en 2026, con su soporte.
+
+Sé que es una solicitud inusual para esta época. La adelantamos porque en el cierre de 2025 encontramos pagos a cuentas que no correspondían a los proveedores y queremos revisarlo antes de diciembre.
+
+Como acordamos, por favor NO envíe la información por correo. Súbala a la carpeta del encargo en el portal de la firma, al que usted ya tiene acceso:
+https://archivos.contadoreseje.example/encargos/2026/bahareque
+
+Quedo atento.
+
+Jorge Hernán Betancur Ríos
+Revisor Fiscal, T.P. 98765-T
+Contadores Asociados del Eje
+
+-----Mensaje original-----
+De: Luisa Fernanda Arango <luisa.arango@bahareque.example>
+Enviado: martes, 10 de noviembre de 2026 9:52 a. m.
+Para: Jorge Hernán Betancur <jorge.betancur@contadoreseje.example>
+Asunto: RE: Solicitud de información para la circularización de cierre 2026
+
+Doctor Jorge, antes de enviar algo lo llamo al número del contrato para confirmar. Me parece raro que pidan las cuentas de los proveedores.
+
+Luisa Fernanda Arango
+Directora financiera

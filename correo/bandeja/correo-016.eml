@@ -1,0 +1,33 @@
+Return-Path: <rebotes@portal-bahareque.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id XZACTYU2G8
+	for <natalia.quintero@bahareque.example>; Tue, 10 Nov 2026 07:04:14 -0500
+Received: from mail.portal-bahareque.example (mail.portal-bahareque.example [203.0.113.45])
+	by mx1.bahareque.example (filtro) with ESMTPS id SLBHVSSZ24
+	for <natalia.quintero@bahareque.example>; Tue, 10 Nov 2026 07:04:12 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=portal-bahareque.example;
+	dkim=pass header.d=portal-bahareque.example header.s=mail;
+	dmarc=pass (p=none dis=none) header.from=portal-bahareque.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-proveedores "*bahareque*"
+From: "Mesa de Servicio TI" <mesa@portal-bahareque.example>
+To: "Natalia Quintero Duque" <natalia.quintero@bahareque.example>
+Subject: Su contraseña vence hoy – evite el bloqueo de su cuenta
+Date: Tue, 10 Nov 2026 07:04:11 -0500
+Message-ID: <20261110070411.c56nkdlg@portal-bahareque.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hola, Natalia:
+
+Su contraseña del correo y del Portal Bahareque vence hoy, 10 de noviembre de 2026, a las 11:59 p. m.
+
+Para no perder el acceso al correo, a la nómina ni a la Mesa, actualícela ahora:
+
+https://portal-bahareque.example/restablecer?u=natalia.quintero
+
+Si no la actualiza, su cuenta quedará bloqueada y deberá presentarse en la mesa de servicio con su cédula.
+
+Mesa de Servicio TI
+Bahareque Software S.A.S.

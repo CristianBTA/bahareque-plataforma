@@ -1,0 +1,34 @@
+Return-Path: <mariana.ocampo@bahareque.example>
+Received: from envio.suite-nube.example (envio.suite-nube.example [2001:db8:5a17::25])
+	by entrada.suite-nube.example with ESMTPS id A93P69V668; Wed, 18 Nov 2026 11:02:13 -0500
+Received: from [198.51.100.12] (BHQ-LT-01)
+	by envio.suite-nube.example with ESMTPSA id HPACMJ7MZ2
+	(usuario autenticado mariana.ocampo@bahareque.example); Wed, 18 Nov 2026 11:02:11 -0500
+Authentication-Results: entrada.suite-nube.example;
+	spf=pass smtp.mailfrom=bahareque.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareque.example no publica política) header.from=bahareque.example
+X-Filtro-Bahareque: interno; analisis=no-aplica
+From: "Mariana Ocampo Villegas" <mariana.ocampo@bahareque.example>
+To: "Andrés Gómez Salazar" <andres.gomez@bahareque.example>, "Luisa Fernanda Arango" <luisa.arango@bahareque.example>, "Alejandro Toro Gutiérrez" <alejandro.toro@bahareque.example>, "Claudia Patricia Hoyos" <claudia.hoyos@bahareque.example>
+Subject: Comité de gerencia del viernes 20 – agenda
+Date: Wed, 18 Nov 2026 11:02:10 -0500
+Message-ID: <20261118110210.5ak5g296@bahareque.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Buenos días:
+
+El comité de gerencia de este viernes 20 de noviembre es a las 8:00 a. m. en la sala Guadua. Agenda:
+
+1. Resultados de octubre y proyección de cierre (Luisa Fernanda).
+2. Renovación del contrato con PagosYa (Alejandro).
+3. Qué vamos a hacer con los correos falsos: este mes ya van varios. Andrés trae una propuesta.
+4. Vacaciones colectivas de diciembre (Claudia).
+
+Por favor no programen otras reuniones a esa hora.
+
+Mariana Ocampo Villegas
+Gerente general
+Bahareque Software S.A.S.

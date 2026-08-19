@@ -1,0 +1,37 @@
+Return-Path: <notificaciones@correo-seguro.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id Y2L67EJCGT
+	for <catalina.gutierrez@bahareque.example>; Wed, 11 Nov 2026 09:12:34 -0500
+Received: from smtp1.correo-seguro.example (smtp1.correo-seguro.example [203.0.113.90])
+	by mx1.bahareque.example (filtro) with ESMTPS id RFG46TWZYY
+	for <catalina.gutierrez@bahareque.example>; Wed, 11 Nov 2026 09:12:32 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=pass smtp.mailfrom=correo-seguro.example;
+	dkim=pass header.d=correo-seguro.example header.s=s1;
+	dmarc=pass (p=none dis=none) header.from=correo-seguro.example
+X-Filtro-Bahareque: puntaje=4.6; analisis=completo; regla=ninguna; umbral_cuarentena=9.0
+From: "Notificaciones Judiciales Electrónicas" <notificaciones@correo-seguro.example>
+To: "Catalina Gutiérrez Serna" <catalina.gutierrez@bahareque.example>
+Subject: NOTIFICACIÓN PERSONAL – Demanda ejecutiva en su contra – Rad. 17001-40-03-004-2026-00813-00
+Date: Wed, 11 Nov 2026 09:12:31 -0500
+Message-ID: <20261111091231.g7mlhhtx@correo-seguro.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+OFICINA DE NOTIFICACIONES ELECTRÓNICAS
+Proceso ejecutivo singular · Notificación personal (artículo 8, Ley 2213 de 2022)
+
+Señor(a): CATALINA GUTIÉRREZ SERNA
+En calidad de: representante de BAHAREQUE SOFTWARE S.A.S.
+
+Por medio del presente se le notifica que en su contra cursa el proceso ejecutivo singular radicado 17001-40-03-004-2026-00813-00, promovido por DISTRIBUIDORA YARUMAL DEL EJE S.A.S. por la suma de $86.400.000.
+
+Cuenta con tres (3) días hábiles para descargar el expediente y ejercer su derecho de defensa. Vencido este término, se entenderá surtida la notificación.
+
+Descargar expediente digital: https://correo-seguro.example/expediente/2026-00813
+Clave de acceso al expediente: 4471
+
+[adjunto no incluido: expediente-2026-00813.iso, 1,2 MB]
+
+Este mensaje se envía desde un buzón automático. No responda.

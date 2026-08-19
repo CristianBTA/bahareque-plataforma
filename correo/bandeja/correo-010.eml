@@ -1,0 +1,32 @@
+Return-Path: <mariana.ocampo@bahareque.example>
+Received: from mx1.bahareque.example (mx1.bahareque.example [192.0.2.25])
+	by entrada.suite-nube.example with ESMTPS id ERGEFTH4HW
+	for <lina.agudelo@bahareque.example>; Fri, 06 Nov 2026 10:37:55 -0500
+Received: from movil-mo (desconocido [203.0.113.61])
+	by mx1.bahareque.example (filtro) with ESMTPS id UF2X92SZ83
+	for <lina.agudelo@bahareque.example>; Fri, 06 Nov 2026 10:37:53 -0500
+Authentication-Results: mx1.bahareque.example;
+	spf=neutral (203.0.113.61 no está autorizada ni prohibida: ?all) smtp.mailfrom=bahareque.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareque.example no publica política) header.from=bahareque.example
+X-Filtro-Bahareque: puntaje=no-calculado; analisis=omitido; regla=permitidos-nombre-visible "Mariana Ocampo"
+From: "Mariana Ocampo Villegas" <mariana.ocampo@bahareque.example>
+Reply-To: <mariana.ocampo.gerencia@correo-seguro.example>
+To: "Lina Marcela Agudelo" <lina.agudelo@bahareque.example>
+Subject: Favor discreto
+Date: Fri, 06 Nov 2026 10:37:52 -0500
+Message-ID: <20261106103752.cryepby6@bahareque.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Lina, ¿está en la oficina?
+
+Estoy en una reunión con un cliente grande y no puedo contestar llamadas. Necesito que me ayude con algo rápido y discreto: compre 8 tarjetas de regalo de $500.000 cada una, de cualquier almacén de cadena, para un detalle que vamos a dar hoy. Páguelas con la tarjeta corporativa, como siempre.
+
+Cuando las tenga, raspe los códigos y me manda la foto de cada uno por este mismo correo. No le comente a nadie todavía porque es una sorpresa.
+
+Gracias,
+Mariana
+
+Enviado desde mi celular

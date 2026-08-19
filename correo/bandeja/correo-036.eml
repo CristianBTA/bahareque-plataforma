@@ -1,0 +1,34 @@
+Return-Path: <andres.gomez@bahareque.example>
+Received: from envio.suite-nube.example (envio.suite-nube.example [2001:db8:5a17::25])
+	by entrada.suite-nube.example with ESMTPS id BYCQGTJAER; Wed, 18 Nov 2026 16:20:08 -0500
+Received: from [198.51.100.13] (BHQ-LT-02)
+	by envio.suite-nube.example with ESMTPSA id MNDVMH5WRM
+	(usuario autenticado andres.gomez@bahareque.example); Wed, 18 Nov 2026 16:20:06 -0500
+Authentication-Results: entrada.suite-nube.example;
+	spf=pass smtp.mailfrom=bahareque.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareque.example no publica política) header.from=bahareque.example
+X-Filtro-Bahareque: interno; analisis=no-aplica
+From: "Andrés Gómez Salazar" <andres.gomez@bahareque.example>
+To: "Desarrollo Bahareque" <desarrollo@bahareque.example>
+Cc: "Soporte Bahareque" <soporte@bahareque.example>
+Subject: Ventana de mantenimiento de guadua-db el sábado 21 de noviembre
+Date: Wed, 18 Nov 2026 16:20:05 -0500
+Message-ID: <20261118162005.xrt572bf@bahareque.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Equipo:
+
+El sábado 21 de noviembre, de 11:00 p. m. a 2:00 a. m., hacemos mantenimiento de guadua-db (actualización menor de PostgreSQL y rotación de las credenciales de la aplicación).
+
+- Felipe coordina la ventana; el paso a paso está en el ticket MESA-2310.
+- Fernando apoya con los respaldos antes de empezar.
+- Soporte: la app mostrará el aviso de mantenimiento; por favor avisen a los comercios grandes el viernes.
+- Nadie despliega nada entre el viernes 6:00 p. m. y el domingo.
+
+Cualquier duda, por el canal de infraestructura.
+
+Andrés Gómez Salazar
+Director de tecnología

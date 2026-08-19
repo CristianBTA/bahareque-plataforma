@@ -1,0 +1,35 @@
+Return-Path: <diana.bedoya@bahareque.example>
+Received: from envio.suite-nube.example (envio.suite-nube.example [2001:db8:5a17::25])
+	by entrada.suite-nube.example with ESMTPS id S2N6RYATMN; Wed, 11 Nov 2026 17:30:47 -0500
+Received: from [198.51.100.22] (BHQ-LT-20)
+	by envio.suite-nube.example with ESMTPSA id EGEQYF7PM9
+	(usuario autenticado diana.bedoya@bahareque.example); Wed, 11 Nov 2026 17:30:45 -0500
+Authentication-Results: entrada.suite-nube.example;
+	spf=pass smtp.mailfrom=bahareque.example;
+	dkim=none (mensaje sin firma);
+	dmarc=none (bahareque.example no publica política) header.from=bahareque.example
+X-Filtro-Bahareque: interno; analisis=no-aplica
+From: "Diana Bedoya Arias" <diana.bedoya@bahareque.example>
+To: "Soporte Bahareque" <soporte@bahareque.example>
+Subject: Turnos del puente festivo (sábado 14 a lunes 16)
+Date: Wed, 11 Nov 2026 17:30:44 -0500
+Message-ID: <20261111173044.shcey3rj@bahareque.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hola, equipo:
+
+Les confirmo los turnos del puente (sábado 14, domingo 15 y lunes festivo 16 de noviembre):
+
+- Sábado 14: Jorge Iván (7:00 a. m. a 3:00 p. m.) y Manuela (3:00 a 11:00 p. m.)
+- Domingo 15: Melissa (7:00 a. m. a 3:00 p. m.) y Kevin (3:00 a 11:00 p. m.)
+- Lunes 16: Jorge Iván (7:00 a. m. a 3:00 p. m.) y Melissa (3:00 a 11:00 p. m.)
+- Noches: Andrés Felipe, como siempre.
+
+Recuerden registrar cada caso en la Mesa y escalar a Desarrollo solo los de prioridad alta, por el grupo de guardia.
+
+Gracias,
+
+Diana Bedoya Arias
+Líder de soporte
