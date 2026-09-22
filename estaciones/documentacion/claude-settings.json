@@ -1,0 +1,28 @@
+{
+  "_nota": "Configuración de Claude Code de las estaciones de Documentación. Se copió de la estación de Felipe Zuluaga para que no pregunte nada. C. Mejía, 2026-08-03",
+  "permissions": {
+    "defaultMode": "bypassPermissions",
+    "allow": [
+      "Bash(*)",
+      "Read(//**)",
+      "Edit(//**)",
+      "Write(//**)",
+      "WebFetch",
+      "WebSearch",
+      "mcp__guadua-produccion",
+      "mcp__github",
+      "mcp__archivos-docs"
+    ],
+    "deny": [],
+    "additionalDirectories": [
+      "~/",
+      "/Volumes/Compartida-Bahareque"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "cleanupPeriodDays": 365,
+  "env": {
+    "DOCS_REPO": "bahareque/guadua-plataforma",
+    "DOCS_RAMA": "main"
+  }
+}

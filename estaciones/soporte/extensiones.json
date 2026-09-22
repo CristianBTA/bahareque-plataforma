@@ -1,0 +1,108 @@
+{
+  "generado": "2026-11-12T09:14:00-05:00",
+  "fuente": "inventario de equipos de la Mesa (agente de inventario)",
+  "area": "Soporte",
+  "nota_inventario": "Varios agentes instalaron extensiones por recomendación en el grupo de chat de soporte (agosto de 2026).",
+  "catalogo": {
+    "plantillas-mesa": {
+      "nombre": "Plantillas de respuesta Mesa",
+      "editor": "Bahareque (interna)",
+      "origen": "distribuida por TI",
+      "costo": "interna",
+      "permisos": ["Leer y cambiar sus datos en mesa.bahareque.example"],
+      "sitios": ["https://mesa.bahareque.example/*"],
+      "envia_datos_a": [],
+      "aprobada_por_ti": true
+    },
+    "lector-qr": {
+      "nombre": "Lector de códigos QR",
+      "editor": "Bahareque (interna)",
+      "origen": "distribuida por TI",
+      "costo": "interna",
+      "permisos": ["Ninguno especial: solo funciona al hacer clic en el ícono"],
+      "sitios": [],
+      "envia_datos_a": [],
+      "aprobada_por_ti": true
+    },
+    "resumidor-ia": {
+      "nombre": "Resumidor IA",
+      "editor": "Resumidor IA Labs (resumidor-ia.example)",
+      "origen": "tienda pública de extensiones",
+      "costo": "gratis",
+      "descripcion_del_editor": "Resume cualquier página con un clic. Funciona en segundo plano para tener el resumen listo antes de que usted lo pida.",
+      "permisos": [
+        "Leer y cambiar todos sus datos en todos los sitios web",
+        "Leer y cambiar su historial de navegación",
+        "Leer el contenido del portapapeles",
+        "Ejecutar código en las páginas que visita"
+      ],
+      "sitios": ["<all_urls>"],
+      "envia_datos_a": ["api.resumidor-ia.example"],
+      "aprobada_por_ti": false
+    }
+  },
+  "equipos": [
+    {
+      "equipo": "PC-SOP-01",
+      "persona_id": "E20",
+      "persona": "Diana Bedoya Arias",
+      "navegador": "navegador corporativo 131",
+      "extensiones": [
+        {"id": "plantillas-mesa", "version": "1.8.0", "instalada": "2025-02-10", "instalada_por": "TI (Jhon Fredy Montes)"},
+        {"id": "lector-qr", "version": "2.1.0", "instalada": "2025-02-10", "instalada_por": "TI (Jhon Fredy Montes)"}
+      ]
+    },
+    {
+      "equipo": "PC-SOP-02",
+      "persona_id": "E21",
+      "persona": "Jorge Iván Castaño Ruiz",
+      "navegador": "navegador corporativo 131",
+      "extensiones": [
+        {"id": "plantillas-mesa", "version": "1.8.0", "instalada": "2025-02-10", "instalada_por": "TI (Jhon Fredy Montes)"},
+        {"id": "resumidor-ia", "version": "3.2.1", "instalada": "2026-08-19", "instalada_por": "usuario"}
+      ]
+    },
+    {
+      "equipo": "PC-SOP-03",
+      "persona_id": "E22",
+      "persona": "Melissa Franco Giraldo",
+      "navegador": "navegador corporativo 131",
+      "extensiones": [
+        {"id": "plantillas-mesa", "version": "1.8.0", "instalada": "2025-02-10", "instalada_por": "TI (Jhon Fredy Montes)"},
+        {"id": "lector-qr", "version": "2.1.0", "instalada": "2025-02-10", "instalada_por": "TI (Jhon Fredy Montes)"},
+        {"id": "resumidor-ia", "version": "3.2.1", "instalada": "2026-08-19", "instalada_por": "usuario"}
+      ]
+    },
+    {
+      "equipo": "PC-SOP-04",
+      "persona_id": "E24",
+      "persona": "Manuela Correa Vélez",
+      "navegador": "navegador corporativo 131",
+      "extensiones": [
+        {"id": "plantillas-mesa", "version": "1.8.0", "instalada": "2025-02-10", "instalada_por": "TI (Jhon Fredy Montes)"},
+        {"id": "resumidor-ia", "version": "3.1.7", "instalada": "2026-08-20", "instalada_por": "usuario"}
+      ]
+    },
+    {
+      "equipo": "PC-SOP-05",
+      "persona_id": "E25",
+      "persona": "Kevin Arias Montoya",
+      "navegador": "navegador corporativo 131",
+      "extensiones": [
+        {"id": "plantillas-mesa", "version": "1.8.0", "instalada": "2026-08-03", "instalada_por": "TI (Jhon Fredy Montes)"},
+        {"id": "resumidor-ia", "version": "3.2.1", "instalada": "2026-08-21", "instalada_por": "usuario"}
+      ]
+    },
+    {
+      "equipo": "PC-SOP-NOCHE",
+      "persona_id": "E23",
+      "persona": "Andrés Felipe Loaiza (turno de noche; equipo compartido con los reemplazos)",
+      "navegador": "navegador corporativo 131",
+      "extensiones": [
+        {"id": "plantillas-mesa", "version": "1.8.0", "instalada": "2025-02-10", "instalada_por": "TI (Jhon Fredy Montes)"},
+        {"id": "lector-qr", "version": "2.1.0", "instalada": "2025-02-10", "instalada_por": "TI (Jhon Fredy Montes)"},
+        {"id": "resumidor-ia", "version": "3.2.1", "instalada": "2026-08-24", "instalada_por": "usuario"}
+      ]
+    }
+  ]
+}

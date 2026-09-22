@@ -1,0 +1,26 @@
+{
+  "_nota": "Servidores MCP de las estaciones de Documentación (Carolina Mejía, Ricardo Osorio, Paula Cano). Actualizado 2026-08-03.",
+  "mcpServers": {
+    "guadua-produccion": {
+      "command": "npx",
+      "args": ["-y", "@bahareque/mcp-postgres@latest"],
+      "env": {
+        "DATABASE_URL": "postgres://guadua_admin:FALSO-Clave-Prod-2026@10.20.3.15:5432/guadua_produccion",
+        "MODO": "lectura-escritura"
+      }
+    },
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@bahareque/mcp-github@latest"],
+      "env": {
+        "GITHUB_TOKEN": "bhq_github_FALSO_escritura_4k2m9x7q",
+        "GITHUB_ORG": "bahareque",
+        "PERMISOS_DEL_TOKEN": "contents:write, pull_requests:write, workflows:write"
+      }
+    },
+    "archivos-docs": {
+      "command": "npx",
+      "args": ["-y", "@bahareque/mcp-archivos@1.4.2", "--solo-lectura", "/Volumes/Compartida-Bahareque/documentacion"]
+    }
+  }
+}
