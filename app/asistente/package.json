@@ -1,0 +1,21 @@
+{
+  "name": "@guadua/asistente",
+  "version": "0.4.1",
+  "private": true,
+  "description": "Asistente de soporte con IA para los tickets de Guadua (lo publica app/web en /api/asistente)",
+  "scripts": {
+    "test": "vitest run",
+    "test:asistente": "vitest run --dir pruebas",
+    "tipos": "tsc --noEmit"
+  },
+  "dependencies": {
+    "ai": "5.0.59",
+    "pg": "8.16.3",
+    "marked": "16.3.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.2",
+    "vitest": "3.2.4",
+    "@types/pg": "8.15.5"
+  }
+}
