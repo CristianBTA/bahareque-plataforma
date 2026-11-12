@@ -1,0 +1,301 @@
+id,fecha,cliente,tipo,medio,evidencia,registrado_por,observacion
+RC-0001,2023-04-17,Óptica Visión Clara,contrato de servicios firmado,firma digital,contratos/autorizaciones/contrato-servicios_optica-vision-clara_2023-04-17.md,Liliana Serna Botero,plantilla 2.3
+RC-0002,2024-02-12,Ferretería Construyamos,contrato de servicios firmado,firma digital,gestor-documental/contratos/2024-02-12_ferreteria-construyamos_contrato.pdf,Alejandro Toro Gutiérrez,plantilla 2.3
+RC-0003,2026-04-14,Ferretería Central,presentación de la propuesta de IA,reunión presencial,ninguna,Liliana Serna Botero,
+RC-0004,2026-04-22,Ferretería Central,reunión de seguimiento,reunión presencial,ninguna,Liliana Serna Botero,revisión de las funciones que quiere
+RC-0005,2026-04-28,Ferretería Central,respuesta del cliente,llamada,ninguna,Liliana Serna Botero,acepta
+RC-0006,2026-04-30,Ferretería Central,llamada de seguimiento,llamada,ninguna,Liliana Serna Botero,pregunta si las respuestas salen por chat
+RC-0007,2026-05-05,Ferretería Central,envío de adenda para firma,correo,ninguna,Liliana Serna Botero,adenda IA versión 0.1 (borrador comercial)
+RC-0008,2026-05-06,Ferretería Central,reunión de seguimiento,reunión presencial,ninguna,Liliana Serna Botero,revisión de las funciones que quiere
+RC-0009,2026-05-12,Ferretería Central,adenda IA firmada,papel,ninguna,Liliana Serna Botero,firmada en papel según la hoja de Comercial
+RC-0010,2026-06-03,Cooperativa Cafetera del Norte,autorización de datos firmada,firma digital,contratos/autorizaciones/autorizacion-datos_cooperativa-cafetera-del-norte_2026-06-03.md,Catalina Gutiérrez Serna,encargo para facturación electrónica
+RC-0011,2026-06-10,Ferretería Central,búsqueda de soporte,revisión documental,ninguna,Lina Marcela Agudelo,no se encontró el original; estaría en la carpeta personal de Liliana Serna (retirada el 2026-05-20)
+RC-0012,2026-06-17,Cooperativa Cafetera del Norte,envío de cotización,correo,gestor-documental/cotizaciones/2026-06-17_cooperativa-cafetera-del-norte.pdf,Catalina Gutiérrez Serna,plan Guadua Pro con IA
+RC-0013,2026-06-18,Tienda de Electrodomésticos Casa Hogar,adenda de facturación electrónica firmada,firma digital,gestor-documental/adendas-facturacion/2026-06-18_tienda-de-electrodomesticos-casa-hogar.pdf,Pablo Muñoz Arbeláez,finalidad: facturación electrónica y garantías
+RC-0014,2026-07-09,Tienda de Electrodomésticos Casa Hogar,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Pablo Muñoz Arbeláez,presentación comercial v2
+RC-0015,2026-08-06,Tienda de Electrodomésticos Casa Hogar,llamada de seguimiento,llamada,ninguna,Pablo Muñoz Arbeláez,pregunta el precio de la función
+RC-0016,2026-08-11,Ferretería Herramientas del Eje,presentación de la propuesta de IA,videollamada,ninguna,Alejandro Toro Gutiérrez,
+RC-0017,2026-08-12,Ferretería El Tornillo Feliz,presentación de la propuesta de IA,reunión presencial,ninguna,Catalina Gutiérrez Serna,visita en el local; interés en resúmenes de tickets para diciembre
+RC-0018,2026-08-18,Tienda de Ropa Guayaba,presentación de la propuesta de IA,videollamada,ninguna,Julián Ospina Castaño,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0019,2026-08-19,Droguería San Rafael,presentación de la propuesta de IA,reunión presencial,ninguna,Alejandro Toro Gutiérrez,la gerente pregunta qué pasa con las fórmulas médicas
+RC-0020,2026-08-20,Droguería San Rafael,demostración de funciones de IA,videollamada,ninguna,Alejandro Toro Gutiérrez,demo de clasificación de pedidos con datos de ejemplo
+RC-0021,2026-08-21,Droguería San Rafael,llamada de seguimiento,llamada,ninguna,Alejandro Toro Gutiérrez,sin novedad
+RC-0022,2026-08-21,Ferretería El Tornillo Feliz,respuesta del cliente,correo,contratos/correos/2026-08-21_ferreteria-el-tornillo-feliz.eml,Catalina Gutiérrez Serna,acepta por correo; pide el documento para firmar
+RC-0023,2026-08-21,Ferretería Herramientas del Eje,envío de cotización,correo,gestor-documental/cotizaciones/2026-08-21_ferreteria-herramientas-del-eje.pdf,Alejandro Toro Gutiérrez,plan Guadua Pro con IA
+RC-0024,2026-08-24,Droguería San Rafael,reunión de seguimiento,reunión presencial,ninguna,Alejandro Toro Gutiérrez,visita de cortesía
+RC-0025,2026-08-24,Tienda Ecológica Raíces,presentación de la propuesta de IA,reunión presencial,ninguna,Pablo Muñoz Arbeláez,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0026,2026-08-25,Droguería San Rafael,reunión de seguimiento,reunión presencial,ninguna,Alejandro Toro Gutiérrez,revisión de las funciones que quiere
+RC-0027,2026-08-25,Ferretería Herramientas del Eje,respuesta del cliente,llamada,ninguna,Alejandro Toro Gutiérrez,interesado; pide la propuesta por escrito
+RC-0028,2026-08-26,Clínica Veterinaria Huellitas,presentación de la propuesta de IA,videollamada,ninguna,Pablo Muñoz Arbeláez,interés en recordatorios de vacunas
+RC-0029,2026-08-26,Tienda Ecológica Raíces,reunión de seguimiento,reunión presencial,ninguna,Pablo Muñoz Arbeláez,visita de cortesía
+RC-0030,2026-08-27,Tienda de Calzado Paso Firme,presentación de la propuesta de IA,reunión presencial,ninguna,Julián Ospina Castaño,
+RC-0031,2026-08-27,Tienda de Ropa Guayaba,respuesta del cliente,chat,ninguna,Julián Ospina Castaño,acepta el piloto; pide el documento para firmar
+RC-0032,2026-08-28,Droguería San Rafael,respuesta del cliente,llamada,ninguna,Alejandro Toro Gutiérrez,acepta si las fórmulas quedan protegidas
+RC-0033,2026-08-28,Ferretería Herramientas del Eje,demostración de funciones de IA,videollamada,ninguna,Alejandro Toro Gutiérrez,demo con datos de ejemplo
+RC-0034,2026-08-31,Cooperativa Cafetera del Norte,reunión de seguimiento,reunión presencial,ninguna,Catalina Gutiérrez Serna,visita de cortesía
+RC-0035,2026-08-31,Cooperativa Multiactiva Los Andes,presentación de la propuesta de IA,reunión presencial,ninguna,Catalina Gutiérrez Serna,presentación al consejo de administración
+RC-0036,2026-08-31,Ferretería El Tornillo Feliz,reunión de seguimiento,reunión presencial,ninguna,Catalina Gutiérrez Serna,visita de cortesía
+RC-0037,2026-09-01,Ferretería El Tornillo Feliz,envío de adenda para firma,plataforma de firma,ninguna,Catalina Gutiérrez Serna,adenda IA versión 1.0
+RC-0038,2026-09-01,Tienda Ecológica Raíces,respuesta del cliente,chat,ninguna,Pablo Muñoz Arbeláez,acepta el piloto; pide el documento para firmar
+RC-0039,2026-09-01,Tienda de Mascotas Patitas,presentación de la propuesta de IA,videollamada,ninguna,Pablo Muñoz Arbeláez,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0040,2026-09-02,Cooperativa Coomultiservicios del Eje,presentación de la propuesta de IA,reunión presencial,ninguna,Alejandro Toro Gutiérrez,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0041,2026-09-02,Ferretería El Tornillo Feliz,actualización de datos de contacto,correo,ninguna,Catalina Gutiérrez Serna,nuevo administrador de la tienda
+RC-0042,2026-09-02,Tienda de Calzado Paso Firme,respuesta del cliente,correo,contratos/correos/2026-09-02_tienda-de-calzado-paso-firme.eml,Julián Ospina Castaño,acepta por correo
+RC-0043,2026-09-02,Tienda de Ropa Guayaba,envío de adenda para firma,plataforma de firma,ninguna,Julián Ospina Castaño,adenda IA versión 1.0
+RC-0044,2026-09-03,Cooperativa Coomultiservicios del Eje,consulta del cliente,chat,ninguna,Alejandro Toro Gutiérrez,pide un ejemplo de resumen de ticket
+RC-0045,2026-09-03,Droguería San Rafael,envío de adenda para firma,plataforma de firma,ninguna,Alejandro Toro Gutiérrez,adenda IA versión 1.0-S (con cláusula de datos de salud)
+RC-0046,2026-09-03,Tienda de Calzado Paso Firme,reunión de seguimiento,reunión presencial,ninguna,Julián Ospina Castaño,revisión de las funciones que quiere
+RC-0047,2026-09-03,Tienda de Ropa Bambú,presentación de la propuesta de IA,reunión presencial,ninguna,Catalina Gutiérrez Serna,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0048,2026-09-04,Clínica Veterinaria Huellitas,envío de cotización,correo,gestor-documental/cotizaciones/2026-09-04_clinica-veterinaria-huellitas.pdf,Pablo Muñoz Arbeláez,cotización con descuento de lanzamiento
+RC-0049,2026-09-04,Clínica Veterinaria Huellitas,respuesta del cliente,chat,ninguna,Pablo Muñoz Arbeláez,acepta; pide el documento para firmar
+RC-0050,2026-09-07,Ferretería La Escuadra,presentación de la propuesta de IA,reunión presencial,ninguna,Julián Ospina Castaño,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0051,2026-09-07,Tienda Ecológica Raíces,envío de adenda para firma,plataforma de firma,ninguna,Pablo Muñoz Arbeláez,adenda IA versión 1.0
+RC-0052,2026-09-08,Clínica Veterinaria Huellitas,envío de adenda para firma,plataforma de firma,ninguna,Pablo Muñoz Arbeláez,adenda IA versión 1.0
+RC-0053,2026-09-08,Ferretería Construyamos,presentación de la propuesta de IA,reunión presencial,ninguna,Alejandro Toro Gutiérrez,
+RC-0054,2026-09-08,Ferretería El Constructor,presentación de la propuesta de IA,videollamada,ninguna,Pablo Muñoz Arbeláez,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0055,2026-09-08,Tienda de Calzado Paso Firme,envío de adenda para firma,plataforma de firma,ninguna,Julián Ospina Castaño,adenda IA versión 1.0
+RC-0056,2026-09-08,Tienda de Ropa Bambú,actualización de datos de contacto,correo,ninguna,Catalina Gutiérrez Serna,nuevo teléfono de contacto
+RC-0057,2026-09-09,Droguería Farmasalud,presentación de la propuesta de IA,videollamada,ninguna,Pablo Muñoz Arbeláez,
+RC-0058,2026-09-09,Tienda de Mascotas Patitas,respuesta del cliente,chat,ninguna,Pablo Muñoz Arbeláez,acepta el piloto; pide el documento para firmar
+RC-0059,2026-09-10,Droguería San Rafael,adenda IA firmada,firma digital,contratos/autorizaciones/adenda-ia_drogueria-san-rafael_2026-09-10.md,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0060,2026-09-10,Ferretería Construyamos,demostración de funciones de IA,videollamada,ninguna,Alejandro Toro Gutiérrez,demo de clasificación de pedidos con datos de ejemplo
+RC-0061,2026-09-10,Gimnasio Fuerza Andina,presentación de la propuesta de IA,reunión presencial,ninguna,Pablo Muñoz Arbeláez,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0062,2026-09-11,Clínica Veterinaria Huellitas,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Pablo Muñoz Arbeláez,folleto de funciones con IA
+RC-0063,2026-09-11,Ferretería Herramientas del Eje,envío de cotización,correo,gestor-documental/cotizaciones/2026-09-11_ferreteria-herramientas-del-eje.pdf,Alejandro Toro Gutiérrez,cotización con descuento de lanzamiento
+RC-0064,2026-09-11,Tienda Ecológica Raíces,actualización de datos de contacto,correo,ninguna,Pablo Muñoz Arbeláez,cambia el correo de facturación
+RC-0065,2026-09-11,Tienda de Electrodomésticos Casa Hogar,reunión de seguimiento,reunión presencial,ninguna,Pablo Muñoz Arbeláez,visita de cortesía
+RC-0066,2026-09-11,Tienda de Ropa Bambú,respuesta del cliente,correo,gestor-documental/correos/2026-09-11_tienda-de-ropa-bambu.pdf,Catalina Gutiérrez Serna,acepta el piloto; pide el documento para firmar
+RC-0067,2026-09-14,Cooperativa Cafetera del Norte,presentación de la propuesta de IA,reunión presencial,ninguna,Catalina Gutiérrez Serna,visita en Salamina
+RC-0068,2026-09-14,Cooperativa Coomultiservicios del Eje,llamada de seguimiento,llamada,ninguna,Alejandro Toro Gutiérrez,pregunta cuándo arranca la IA
+RC-0069,2026-09-14,Ferretería El Tornillo Feliz,adenda IA firmada,firma digital,contratos/autorizaciones/adenda-ia_ferreteria-el-tornillo-feliz_2026-09-14.md,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0070,2026-09-14,Gimnasio Zona Fit,presentación de la propuesta de IA,reunión presencial,ninguna,Pablo Muñoz Arbeláez,
+RC-0071,2026-09-15,Clínica Dental Sonrisa Plena,demostración de funciones de IA,videollamada,ninguna,Catalina Gutiérrez Serna,demo de clasificación de pedidos con datos de ejemplo
+RC-0072,2026-09-15,Clínica Dental Sonrisa Plena,presentación de la propuesta de IA,reunión presencial,ninguna,Catalina Gutiérrez Serna,
+RC-0073,2026-09-15,Ferretería El Constructor,actualización de datos de contacto,correo,ninguna,Pablo Muñoz Arbeláez,nuevo administrador de la tienda
+RC-0074,2026-09-15,Ferretería El Constructor,respuesta del cliente,llamada,ninguna,Pablo Muñoz Arbeláez,acepta el piloto; pide el documento para firmar
+RC-0075,2026-09-15,Ferretería La Escuadra,respuesta del cliente,llamada,ninguna,Julián Ospina Castaño,acepta el piloto; pide el documento para firmar
+RC-0076,2026-09-15,Tienda de Mascotas Patitas,envío de adenda para firma,plataforma de firma,ninguna,Pablo Muñoz Arbeláez,adenda IA versión 1.0
+RC-0077,2026-09-16,Gimnasio Fuerza Andina,respuesta del cliente,llamada,ninguna,Pablo Muñoz Arbeláez,acepta el piloto; pide el documento para firmar
+RC-0078,2026-09-16,Tienda Café Montaña Alta,presentación de la propuesta de IA,videollamada,ninguna,Alejandro Toro Gutiérrez,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0079,2026-09-16,Tienda de Ropa Bambú,envío de adenda para firma,plataforma de firma,ninguna,Catalina Gutiérrez Serna,adenda IA versión 1.0
+RC-0080,2026-09-17,Clínica Veterinaria Huellitas,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-09-17_clinica-veterinaria-huellitas.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0081,2026-09-17,Clínica Veterinaria Huellitas,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Pablo Muñoz Arbeláez,presentación comercial v2
+RC-0082,2026-09-17,Cooperativa Coomultiservicios del Eje,respuesta del cliente,correo,gestor-documental/correos/2026-09-17_cooperativa-coomultiservicios-del-eje.pdf,Alejandro Toro Gutiérrez,acepta el piloto; pide el documento para firmar
+RC-0083,2026-09-17,Ferretería La Escuadra,llamada de seguimiento,llamada,ninguna,Julián Ospina Castaño,pregunta cuándo arranca la IA
+RC-0084,2026-09-17,Tienda Ecológica Raíces,consulta del cliente,chat,ninguna,Pablo Muñoz Arbeláez,pide un ejemplo de resumen de ticket
+RC-0085,2026-09-17,Tienda de Ropa Mora y Lino,presentación de la propuesta de IA,videollamada,ninguna,Julián Ospina Castaño,
+RC-0086,2026-09-18,Cooperativa Multiactiva Los Andes,respuesta del cliente,correo,gestor-documental/correos/2026-09-18_cooperativa-multiactiva-los-andes.pdf,Catalina Gutiérrez Serna,el consejo aprueba el piloto; adjunta extracto del acta
+RC-0087,2026-09-18,Droguería Farmasalud,respuesta del cliente,llamada,ninguna,Pablo Muñoz Arbeláez,acepta
+RC-0088,2026-09-18,Ferretería Construyamos,envío de cotización,correo,gestor-documental/cotizaciones/2026-09-18_ferreteria-construyamos.pdf,Alejandro Toro Gutiérrez,plan Guadua Pro con IA
+RC-0089,2026-09-18,Tienda de Calzado Paso Firme,adenda IA firmada,firma digital,contratos/autorizaciones/adenda-ia_tienda-de-calzado-paso-firme_2026-09-18.md,Lina Marcela Agudelo,firmada por la representante legal del cliente y por Gerencia; archivada
+RC-0090,2026-09-18,Tienda de Ropa Mora y Lino,demostración de funciones de IA,videollamada,ninguna,Julián Ospina Castaño,demo de clasificación de pedidos con datos de ejemplo
+RC-0091,2026-09-21,Ferretería El Constructor,envío de adenda para firma,plataforma de firma,ninguna,Pablo Muñoz Arbeláez,adenda IA versión 1.0
+RC-0092,2026-09-21,Ferretería El Tornillo Feliz,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-09-21_ferreteria-el-tornillo-feliz_autorizaciones-v3.csv,Catalina Gutiérrez Serna,1.932 compradores con casilla aceptada (política v3)
+RC-0093,2026-09-21,Ferretería La Escuadra,envío de adenda para firma,plataforma de firma,ninguna,Julián Ospina Castaño,adenda IA versión 1.0
+RC-0094,2026-09-21,Tienda Deportiva Golazo,presentación de la propuesta de IA,reunión presencial,ninguna,Julián Ospina Castaño,
+RC-0095,2026-09-21,Tienda Ecológica Raíces,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-09-21_tienda-ecologica-raices.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0096,2026-09-22,Cooperativa Coomultiservicios del Eje,envío de adenda para firma,plataforma de firma,ninguna,Alejandro Toro Gutiérrez,adenda IA versión 1.0
+RC-0097,2026-09-22,Cooperativa Multiactiva Los Andes,envío de adenda para firma,plataforma de firma,ninguna,Catalina Gutiérrez Serna,adenda IA versión 1.0
+RC-0098,2026-09-22,Ferretería Construyamos,respuesta del cliente,llamada,ninguna,Alejandro Toro Gutiérrez,acepta; dice que ya tiene contrato firmado
+RC-0099,2026-09-22,Gimnasio Zona Fit,respuesta del cliente,llamada,ninguna,Pablo Muñoz Arbeláez,acepta
+RC-0100,2026-09-23,Gimnasio Fuerza Andina,envío de adenda para firma,plataforma de firma,ninguna,Pablo Muñoz Arbeláez,adenda IA versión 1.0
+RC-0101,2026-09-23,Tienda de Mascotas Patitas,actualización de datos de contacto,correo,ninguna,Pablo Muñoz Arbeláez,nuevo administrador de la tienda
+RC-0102,2026-09-23,Tienda de Ropa Guayaba,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Julián Ospina Castaño,presentación comercial v2
+RC-0103,2026-09-24,Clínica Veterinaria Huellitas,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-09-24_clinica-veterinaria-huellitas_autorizaciones-v3.csv,Pablo Muñoz Arbeláez,exportación de casillas aceptadas con política v3
+RC-0104,2026-09-24,Droguería Farmasalud,envío de adenda para firma,plataforma de firma,ninguna,Pablo Muñoz Arbeláez,adenda IA versión 1.0
+RC-0105,2026-09-24,Tienda de Calzado Paso Firme,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-09-24_tienda-de-calzado-paso-firme_autorizaciones-v3.csv,Julián Ospina Castaño,exportación de casillas aceptadas con política v3
+RC-0106,2026-09-24,Tienda de Electrodomésticos Casa Hogar,presentación de la propuesta de IA,videollamada,ninguna,Pablo Muñoz Arbeláez,
+RC-0107,2026-09-24,Tienda de Ropa Mora y Lino,respuesta del cliente,correo,contratos/correos/2026-09-24_tienda-de-ropa-mora-y-lino.eml,Julián Ospina Castaño,acepta por correo
+RC-0108,2026-09-25,Cooperativa Cafetera del Norte,actualización de datos de contacto,correo,ninguna,Catalina Gutiérrez Serna,nuevo teléfono de contacto
+RC-0109,2026-09-25,Ferretería El Tornillo Feliz,verificación de protección de datos,revisión documental,gestor-documental/verificaciones/2026-09-25_ferreteria-el-tornillo-feliz.pdf,Rosa Elena Pineda,"adenda, finalidad y soporte de titulares revisados"
+RC-0110,2026-09-25,Tienda Café Montaña Alta,respuesta del cliente,llamada,ninguna,Alejandro Toro Gutiérrez,acepta el piloto; pide el documento para firmar
+RC-0111,2026-09-25,Tienda de Ropa Guayaba,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-09-25_tienda-de-ropa-guayaba.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0112,2026-09-28,Colegio Campestre Los Guaduales,presentación de la propuesta de IA,reunión presencial,ninguna,Alejandro Toro Gutiérrez,con rectoría
+RC-0113,2026-09-28,Ferretería El Constructor,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Pablo Muñoz Arbeláez,presentación comercial v2
+RC-0114,2026-09-28,Tienda Café Montaña Alta,consulta del cliente,chat,ninguna,Alejandro Toro Gutiérrez,pregunta quién responde si la IA se equivoca
+RC-0115,2026-09-28,Tienda Ecológica Raíces,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-09-28_tienda-ecologica-raices_autorizaciones-v3.csv,Pablo Muñoz Arbeláez,exportación de casillas aceptadas con política v3
+RC-0116,2026-09-28,Tienda de Ropa Guayaba,envío de cotización,correo,gestor-documental/cotizaciones/2026-09-28_tienda-de-ropa-guayaba.pdf,Julián Ospina Castaño,plan Guadua Pro con IA
+RC-0117,2026-09-28,Tienda de Ropa Mora y Lino,envío de adenda para firma,plataforma de firma,ninguna,Julián Ospina Castaño,adenda IA versión 1.0
+RC-0118,2026-09-29,Clínica Dental Sonrisa Plena,respuesta del cliente,llamada,ninguna,Catalina Gutiérrez Serna,la coordinadora acepta
+RC-0119,2026-09-29,Clínica Veterinaria Huellitas,verificación de protección de datos,consulta interna,gestor-documental/verificaciones/2026-09-29_clinica-veterinaria-huellitas.pdf,Rosa Elena Pineda,"las historias clínicas son de mascotas, no datos de salud de personas; los datos de los propietarios son ordinarios y tienen autorización v3"
+RC-0120,2026-09-29,Ferretería y Pinturas El Arriero,presentación de la propuesta de IA,reunión presencial,ninguna,Alejandro Toro Gutiérrez,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0121,2026-09-29,Tienda Café Montaña Alta,actualización de datos de contacto,correo,ninguna,Alejandro Toro Gutiérrez,nuevo administrador de la tienda
+RC-0122,2026-09-30,Cooperativa Coomultiservicios del Eje,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Alejandro Toro Gutiérrez,presentación comercial v2
+RC-0123,2026-09-30,Ferretería y Pinturas El Arriero,consulta del cliente,chat,ninguna,Alejandro Toro Gutiérrez,pregunta si puede apagar la función en diciembre
+RC-0124,2026-09-30,Ferretería y Pinturas El Arriero,llamada de seguimiento,llamada,ninguna,Alejandro Toro Gutiérrez,sin novedad
+RC-0125,2026-09-30,Tienda de Café Bourbon Rosado,presentación de la propuesta de IA,reunión presencial,ninguna,Catalina Gutiérrez Serna,"se explican resúmenes de tickets, clasificación de pedidos y borradores de respuesta"
+RC-0126,2026-09-30,Tienda de Ropa Guayaba,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-09-30_tienda-de-ropa-guayaba_autorizaciones-v3.csv,Julián Ospina Castaño,exportación de casillas aceptadas con política v3
+RC-0127,2026-09-30,Tienda de Ropa Mora y Lino,demostración de funciones de IA,videollamada,ninguna,Julián Ospina Castaño,demo de clasificación de pedidos con datos de ejemplo
+RC-0128,2026-09-30,Óptica Visión Clara,presentación de la propuesta de IA,videollamada,ninguna,Catalina Gutiérrez Serna,
+RC-0129,2026-10-01,Cooperativa Cafetera del Norte,respuesta del cliente,correo,contratos/correos/2026-10-01_cooperativa-cafetera-del-norte.eml,Catalina Gutiérrez Serna,pide usar la autorización de junio para la IA
+RC-0130,2026-10-01,Droguería San Rafael,soporte de autorización de titulares,formulario escaneado y exportación Guadua,contratos/autorizaciones/formulario-titulares_drogueria-san-rafael_2026-10-01.md,Alejandro Toro Gutiérrez,formulario F-DS-01 de autorización explícita de datos de salud; certificación con corte al 30-sep
+RC-0131,2026-10-01,Ferretería El Constructor,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-01_ferreteria-el-constructor.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0132,2026-10-01,Tienda Café Montaña Alta,envío de adenda para firma,plataforma de firma,ninguna,Alejandro Toro Gutiérrez,adenda IA versión 1.0
+RC-0133,2026-10-01,Tienda de Café Bourbon Rosado,actualización de datos de contacto,correo,ninguna,Catalina Gutiérrez Serna,nuevo teléfono de contacto
+RC-0134,2026-10-01,Tienda de Calzado Paso Firme,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Julián Ospina Castaño,presentación comercial v2
+RC-0135,2026-10-02,Droguería San Rafael,verificación de protección de datos,revisión documental,gestor-documental/verificaciones/2026-10-02_drogueria-san-rafael.pdf,Rosa Elena Pineda,se envían a la IA solo los registros con marca F-DS-01 vigente
+RC-0136,2026-10-02,Ferretería La Escuadra,recordatorio de firma,chat,ninguna,Julián Ospina Castaño,pendiente de firma del representante legal
+RC-0137,2026-10-02,Ferretería y Pinturas El Arriero,demostración de funciones de IA,videollamada,ninguna,Alejandro Toro Gutiérrez,demo con datos de ejemplo
+RC-0138,2026-10-02,Tienda de Barrio Doña Rosalba,presentación de la propuesta de IA,reunión presencial,ninguna,Julián Ospina Castaño,
+RC-0139,2026-10-02,Tienda de Ropa Bambú,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-02_tienda-de-ropa-bambu.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0140,2026-10-05,Colegio Campestre Los Guaduales,envío de cotización,correo,gestor-documental/cotizaciones/2026-10-05_colegio-campestre-los-guaduales.pdf,Alejandro Toro Gutiérrez,cotización con descuento de lanzamiento
+RC-0141,2026-10-05,Cooperativa Multiactiva Los Andes,demostración de funciones de IA,videollamada,ninguna,Catalina Gutiérrez Serna,demo de clasificación de pedidos con datos de ejemplo
+RC-0142,2026-10-05,Cooperativa de Ahorro Progresar,presentación de la propuesta de IA,reunión presencial,ninguna,Alejandro Toro Gutiérrez,presentación a la gerencia
+RC-0143,2026-10-05,Gimnasio Zona Fit,adenda IA firmada,papel,ninguna,Pablo Muñoz Arbeláez,firmó en papel en la visita; no se escaneó y el original no aparece
+RC-0144,2026-10-05,Óptica Visión Clara,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,folleto de funciones con IA
+RC-0145,2026-10-06,Clínica Dental Sonrisa Plena,envío de adenda para firma,correo,contratos/autorizaciones/adenda-ia_clinica-dental-sonrisa-plena_BORRADOR.md,Catalina Gutiérrez Serna,borrador enviado
+RC-0146,2026-10-06,Colegio Campestre Los Guaduales,envío de adenda para firma,plataforma de firma,ninguna,Alejandro Toro Gutiérrez,adenda IA versión 1.0
+RC-0147,2026-10-06,Cooperativa Coomultiservicios del Eje,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-06_cooperativa-coomultiservicios-del-eje.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0148,2026-10-06,Cooperativa Multiactiva Los Andes,demostración de funciones de IA,videollamada,ninguna,Catalina Gutiérrez Serna,demo con datos de ejemplo
+RC-0149,2026-10-06,Ferretería La Escuadra,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-06_ferreteria-la-escuadra.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0150,2026-10-06,Ferretería y Pinturas El Arriero,respuesta del cliente,llamada,ninguna,Alejandro Toro Gutiérrez,acepta el piloto; pide el documento para firmar
+RC-0151,2026-10-06,Gimnasio Fuerza Andina,consulta del cliente,chat,ninguna,Pablo Muñoz Arbeláez,pregunta quién responde si la IA se equivoca
+RC-0152,2026-10-06,Tienda de Ropa Mora y Lino,demostración de funciones de IA,videollamada,ninguna,Julián Ospina Castaño,demo de clasificación de pedidos con datos de ejemplo
+RC-0153,2026-10-06,Óptica Visión Clara,consulta del cliente,chat,ninguna,Catalina Gutiérrez Serna,pregunta si la IA ve los pagos
+RC-0154,2026-10-07,Ferretería Construyamos,llamada de seguimiento,llamada,ninguna,Alejandro Toro Gutiérrez,pregunta si las respuestas salen por chat
+RC-0155,2026-10-07,Tienda de Barrio Doña Rosalba,llamada de seguimiento,llamada,ninguna,Julián Ospina Castaño,no contestó; se deja mensaje
+RC-0156,2026-10-07,Tienda de Café Bourbon Rosado,respuesta del cliente,correo,gestor-documental/correos/2026-10-07_tienda-de-cafe-bourbon-rosado.pdf,Catalina Gutiérrez Serna,acepta el piloto; pide el documento para firmar
+RC-0157,2026-10-07,Óptica Visión Clara,respuesta del cliente,correo,contratos/correos/2026-10-07_optica-vision-clara.eml,Catalina Gutiérrez Serna,dice que el contrato de 2023 cubre la IA
+RC-0158,2026-10-08,Ferretería La Escuadra,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-10-08_ferreteria-la-escuadra_autorizaciones-v3.csv,Julián Ospina Castaño,exportación de casillas aceptadas con política v3
+RC-0159,2026-10-09,Clínica Veterinaria Huellitas,reunión de seguimiento,reunión presencial,ninguna,Pablo Muñoz Arbeláez,visita de cortesía
+RC-0160,2026-10-09,Cooperativa Coomultiservicios del Eje,consulta del cliente,chat,ninguna,Alejandro Toro Gutiérrez,pide un ejemplo de resumen de ticket
+RC-0161,2026-10-09,Cooperativa Multiactiva Los Andes,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-09_cooperativa-multiactiva-los-andes.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0162,2026-10-09,Ferretería El Constructor,soporte de autorización de titulares,llamada,ninguna,Pablo Muñoz Arbeláez,carga a mano en Guadua los pedidos que recibe por teléfono; no pide autorización a los compradores
+RC-0163,2026-10-09,Ferretería El Tornillo Feliz,reunión de seguimiento,reunión presencial,ninguna,Catalina Gutiérrez Serna,revisión de las funciones que quiere
+RC-0164,2026-10-09,Gimnasio Zona Fit,reunión de seguimiento,reunión presencial,ninguna,Pablo Muñoz Arbeláez,revisión de las funciones que quiere
+RC-0165,2026-10-09,Gimnasio Zona Fit,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-10-09_gimnasio-zona-fit_autorizaciones-v3.csv,Pablo Muñoz Arbeláez,exportación de casillas aceptadas con política v3
+RC-0166,2026-10-09,Tienda de Barrio Doña Rosalba,respuesta del cliente,correo,contratos/correos/2026-10-09_tienda-de-barrio-dona-rosalba.eml,Julián Ospina Castaño,acepta por correo
+RC-0167,2026-10-09,Tienda de Mascotas Patitas,reunión de seguimiento,reunión presencial,ninguna,Pablo Muñoz Arbeláez,revisión de las funciones que quiere
+RC-0168,2026-10-13,Cooperativa Coomultiservicios del Eje,soporte de autorización de titulares,revisión documental,ninguna,Alejandro Toro Gutiérrez,solo hay un aviso de privacidad publicado en su web; no guarda registro por asociado
+RC-0169,2026-10-13,Ferretería y Pinturas El Arriero,envío de adenda para firma,plataforma de firma,ninguna,Alejandro Toro Gutiérrez,adenda IA versión 1.0
+RC-0170,2026-10-13,Ferretería y Pinturas El Arriero,reunión de seguimiento,reunión presencial,ninguna,Alejandro Toro Gutiérrez,revisión de las funciones que quiere
+RC-0171,2026-10-13,Gimnasio Zona Fit,demostración de funciones de IA,videollamada,ninguna,Pablo Muñoz Arbeláez,demo con datos de ejemplo
+RC-0172,2026-10-13,Tienda Ecológica Raíces,actualización de datos de contacto,correo,ninguna,Pablo Muñoz Arbeláez,nuevo administrador de la tienda
+RC-0173,2026-10-13,Tienda de Electrodomésticos Casa Hogar,respuesta del cliente,llamada,ninguna,Pablo Muñoz Arbeláez,dice que la adenda de junio sirve
+RC-0174,2026-10-13,Tienda de Mascotas Patitas,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-13_tienda-de-mascotas-patitas.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0175,2026-10-14,Ferretería La Escuadra,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Julián Ospina Castaño,presentación comercial v2
+RC-0176,2026-10-14,Gimnasio Fuerza Andina,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-14_gimnasio-fuerza-andina.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0177,2026-10-14,Tienda de Café Bourbon Rosado,envío de adenda para firma,plataforma de firma,ninguna,Catalina Gutiérrez Serna,adenda IA versión 1.0
+RC-0178,2026-10-14,Tienda de Calzado Paso Firme,demostración de funciones de IA,videollamada,ninguna,Julián Ospina Castaño,demo de clasificación de pedidos con datos de ejemplo
+RC-0179,2026-10-14,Tienda de Ropa Mora y Lino,recordatorio de firma,chat,ninguna,Julián Ospina Castaño,dice que firma la otra semana
+RC-0180,2026-10-14,Óptica Visión Clara,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,presentación comercial v2
+RC-0181,2026-10-15,Cooperativa Multiactiva Los Andes,soporte de autorización de titulares,exportación del sistema de asociados,gestor-documental/titulares/2026-10-15_cooperativa-multiactiva-los-andes_autorizaciones-vinculacion.csv,Catalina Gutiérrez Serna,"autorización expresa en el formulario de vinculación, con fecha por asociado"
+RC-0182,2026-10-15,Cooperativa de Ahorro Progresar,consulta del cliente,chat,ninguna,Alejandro Toro Gutiérrez,pide un ejemplo de resumen de ticket
+RC-0183,2026-10-15,Droguería Farmasalud,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-15_drogueria-farmasalud.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0184,2026-10-15,Tienda de Barrio Doña Rosalba,demostración de funciones de IA,reunión presencial,ninguna,Julián Ospina Castaño,demo con tickets reales de la tienda
+RC-0185,2026-10-15,Tienda de Ropa Bambú,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,presentación comercial v2
+RC-0186,2026-10-15,Óptica Lentes del Eje,presentación de la propuesta de IA,reunión presencial,ninguna,Catalina Gutiérrez Serna,
+RC-0187,2026-10-16,Clínica Dental Sonrisa Plena,llamada de seguimiento,llamada,ninguna,Catalina Gutiérrez Serna,pregunta si las respuestas salen por chat
+RC-0188,2026-10-16,Colegio Campestre Los Guaduales,adenda IA firmada,firma digital,contratos/autorizaciones/adenda-ia_colegio-campestre-los-guaduales_2026-10-16.md,Lina Marcela Agudelo,firmada por el rector y por Gerencia; archivada
+RC-0189,2026-10-16,Colegio Campestre Los Guaduales,consulta del cliente,chat,ninguna,Alejandro Toro Gutiérrez,pide un ejemplo de resumen de ticket
+RC-0190,2026-10-16,Colegio Campestre Los Guaduales,respuesta del cliente,correo,contratos/correos/2026-10-16_colegio-campestre-los-guaduales.eml,Alejandro Toro Gutiérrez,ofrece enviar listados de estudiantes
+RC-0191,2026-10-16,Cooperativa Multiactiva Los Andes,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,folleto de funciones con IA
+RC-0192,2026-10-19,Cooperativa de Ahorro Progresar,respuesta del cliente,correo,gestor-documental/correos/2026-10-19_cooperativa-de-ahorro-progresar.pdf,Alejandro Toro Gutiérrez,acepta; pide excluir los datos de crédito
+RC-0193,2026-10-19,Tienda Mi Barrio Express,presentación de la propuesta de IA,reunión presencial,ninguna,Julián Ospina Castaño,
+RC-0194,2026-10-19,Tienda de Barrio Doña Rosalba,demostración de funciones de IA,videollamada,ninguna,Julián Ospina Castaño,demo de clasificación de pedidos con datos de ejemplo
+RC-0195,2026-10-19,Tienda de Mascotas Patitas,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-10-19_tienda-de-mascotas-patitas_autorizaciones-v3.csv,Pablo Muñoz Arbeláez,exportación de casillas aceptadas con política v3
+RC-0196,2026-10-19,Tienda de Ropa Guayaba,demostración de funciones de IA,videollamada,ninguna,Julián Ospina Castaño,demo de clasificación de pedidos con datos de ejemplo
+RC-0197,2026-10-20,Clínica Dental Sonrisa Plena,recordatorio de firma,chat,ninguna,Catalina Gutiérrez Serna,dicen que ya la firmaron; no ha llegado
+RC-0198,2026-10-20,Cooperativa de Ahorro Progresar,demostración de funciones de IA,videollamada,ninguna,Alejandro Toro Gutiérrez,demo con datos de ejemplo
+RC-0199,2026-10-20,Droguería Farmasalud,llamada de seguimiento,llamada,ninguna,Pablo Muñoz Arbeláez,no contestó; se deja mensaje
+RC-0200,2026-10-20,Tienda Café Montaña Alta,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-20_tienda-cafe-montana-alta.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0201,2026-10-20,Tienda Deportiva Golazo,llamada de seguimiento,llamada,ninguna,Julián Ospina Castaño,sin novedad
+RC-0202,2026-10-20,Tienda de Barrio Doña Rosalba,envío de cotización,correo,gestor-documental/cotizaciones/2026-10-20_tienda-de-barrio-dona-rosalba.pdf,Julián Ospina Castaño,plan Guadua Pro con IA
+RC-0203,2026-10-20,Óptica Lentes del Eje,envío de cotización,correo,gestor-documental/cotizaciones/2026-10-20_optica-lentes-del-eje.pdf,Catalina Gutiérrez Serna,cotización con descuento de lanzamiento
+RC-0204,2026-10-20,Óptica Lentes del Eje,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,folleto de funciones con IA
+RC-0205,2026-10-21,Gimnasio Fuerza Andina,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-10-21_gimnasio-fuerza-andina_autorizaciones-v3.csv,Pablo Muñoz Arbeláez,exportación de casillas aceptadas con política v3; acceso con tarjeta; sin huellas ni valoraciones físicas en Guadua
+RC-0206,2026-10-21,Gimnasio Titanes,presentación de la propuesta de IA,reunión presencial,ninguna,Julián Ospina Castaño,
+RC-0207,2026-10-21,Gimnasio Zona Fit,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Pablo Muñoz Arbeláez,presentación comercial v2
+RC-0208,2026-10-21,Tienda Deportiva Golazo,envío de cotización,correo,gestor-documental/cotizaciones/2026-10-21_tienda-deportiva-golazo.pdf,Julián Ospina Castaño,plan Guadua Pro con IA
+RC-0209,2026-10-22,Cooperativa de Ahorro Progresar,envío de adenda para firma,plataforma de firma,ninguna,Alejandro Toro Gutiérrez,adenda IA versión 1.0 con exclusión de datos de crédito
+RC-0210,2026-10-22,Droguería Farmasalud,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-10-22_drogueria-farmasalud_autorizaciones-v3.csv,Pablo Muñoz Arbeláez,casilla general de tratamiento (política v3); no hay casilla separada para datos de salud
+RC-0211,2026-10-22,Gimnasio Fuerza Andina,envío de cotización,correo,gestor-documental/cotizaciones/2026-10-22_gimnasio-fuerza-andina.pdf,Pablo Muñoz Arbeláez,plan Guadua Pro con IA
+RC-0212,2026-10-22,Tienda de Ropa Bambú,soporte de autorización de titulares,captura de pantalla,gestor-documental/titulares/2026-10-22_tienda-de-ropa-bambu_captura-checkout-propio.png,Catalina Gutiérrez Serna,checkout propio (integración antigua): la casilla de autorización aparece marcada por defecto
+RC-0213,2026-10-22,Tienda y Granero La Fonda Paisa,llamada de seguimiento,llamada,ninguna,Julián Ospina Castaño,sin novedad
+RC-0214,2026-10-22,Tienda y Granero La Fonda Paisa,presentación de la propuesta de IA,reunión presencial,ninguna,Julián Ospina Castaño,visita en el granero
+RC-0215,2026-10-23,Colegio Campestre Los Guaduales,soporte de autorización de titulares,correo,gestor-documental/titulares/2026-10-23_colegio-campestre-los-guaduales_formato-matricula.pdf,Alejandro Toro Gutiérrez,formato de matrícula firmado por acudientes
+RC-0216,2026-10-23,Cooperativa de Ahorro Progresar,demostración de funciones de IA,videollamada,ninguna,Alejandro Toro Gutiérrez,demo de clasificación de pedidos con datos de ejemplo
+RC-0217,2026-10-23,Ferretería El Constructor,envío de cotización,correo,gestor-documental/cotizaciones/2026-10-23_ferreteria-el-constructor.pdf,Pablo Muñoz Arbeláez,cotización con descuento de lanzamiento
+RC-0218,2026-10-23,Ferretería y Pinturas El Arriero,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-23_ferreteria-y-pinturas-el-arriero.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0219,2026-10-23,Óptica Lentes del Eje,respuesta del cliente,reunión presencial,ninguna,Catalina Gutiérrez Serna,la administradora dijo que sí; quiere avisos de lentes listos
+RC-0220,2026-10-26,Cooperativa de Ahorro Progresar,consulta del cliente,chat,ninguna,Alejandro Toro Gutiérrez,pregunta quién responde si la IA se equivoca
+RC-0221,2026-10-26,Ferretería La Escuadra,envío de cotización,correo,gestor-documental/cotizaciones/2026-10-26_ferreteria-la-escuadra.pdf,Julián Ospina Castaño,cotización con descuento de lanzamiento
+RC-0222,2026-10-26,Gimnasio Titanes,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Julián Ospina Castaño,folleto de funciones con IA
+RC-0223,2026-10-26,Jardín Infantil Pequeños Pasos,presentación de la propuesta de IA,reunión presencial,ninguna,Pablo Muñoz Arbeláez,
+RC-0224,2026-10-26,Tienda Deportiva Golazo,renovación de contrato firmada,firma digital,gestor-documental/contratos/2026-10-26_tienda-deportiva-golazo_renovacion.pdf,Julián Ospina Castaño,plantilla 2.3 vigente
+RC-0225,2026-10-27,Cooperativa Multiactiva Los Andes,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,folleto de funciones con IA
+RC-0226,2026-10-27,Droguería Botica del Pueblo,presentación de la propuesta de IA,reunión presencial,ninguna,Catalina Gutiérrez Serna,
+RC-0227,2026-10-27,Ferretería y Pinturas El Arriero,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-10-27_ferreteria-y-pinturas-el-arriero_autorizaciones-v3.csv,Alejandro Toro Gutiérrez,exportación de casillas aceptadas con política v3
+RC-0228,2026-10-27,Tienda Café Montaña Alta,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Alejandro Toro Gutiérrez,folleto de funciones con IA
+RC-0229,2026-10-27,Tienda de Calzado Paso Firme,demostración de funciones de IA,videollamada,ninguna,Julián Ospina Castaño,demo con tickets reales de la tienda
+RC-0230,2026-10-28,Clínica Médica San Lucas,presentación de la propuesta de IA,videollamada,ninguna,Alejandro Toro Gutiérrez,con el gerente médico
+RC-0231,2026-10-28,Droguería Farmasalud,verificación de protección de datos,revisión documental,ninguna,Rosa Elena Pineda,pendiente: no se ve autorización explícita de los compradores para sus datos de salud
+RC-0232,2026-10-28,Ferretería Don Jaime,presentación de la propuesta de IA,llamada,ninguna,Pablo Muñoz Arbeláez,
+RC-0233,2026-10-28,Tienda Mi Barrio Express,llamada de seguimiento,llamada,ninguna,Julián Ospina Castaño,pregunta si las respuestas salen por chat
+RC-0234,2026-10-28,Tienda Mi Barrio Express,respuesta del cliente,chat,ninguna,Julián Ospina Castaño,acepta
+RC-0235,2026-10-28,Tienda de Café Bourbon Rosado,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,folleto de funciones con IA
+RC-0236,2026-10-28,Tienda de Mascotas Patitas,llamada de seguimiento,llamada,ninguna,Pablo Muñoz Arbeláez,sin novedad
+RC-0237,2026-10-28,Tienda de Ropa Bambú,llamada de seguimiento,llamada,ninguna,Catalina Gutiérrez Serna,no contestó; se deja mensaje
+RC-0238,2026-10-28,Tienda de Ropa Mora y Lino,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Julián Ospina Castaño,presentación comercial v2
+RC-0239,2026-10-29,Ferretería Don Jaime,reunión de seguimiento,reunión presencial,ninguna,Pablo Muñoz Arbeláez,revisión de las funciones que quiere
+RC-0240,2026-10-29,Gimnasio Titanes,actualización de datos de contacto,correo,ninguna,Julián Ospina Castaño,cambia el correo de facturación
+RC-0241,2026-10-29,Tienda Café Montaña Alta,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-10-29_tienda-cafe-montana-alta_autorizaciones-v3.csv,Alejandro Toro Gutiérrez,"exportación de casillas aceptadas con política v3; compradores con dirección en Colombia, Alemania y España"
+RC-0242,2026-10-29,Tienda Gourmet Sabores de Origen,envío de cotización,correo,gestor-documental/cotizaciones/2026-10-29_tienda-gourmet-sabores-de-origen.pdf,Catalina Gutiérrez Serna,cotización con descuento de lanzamiento
+RC-0243,2026-10-29,Tienda Gourmet Sabores de Origen,presentación de la propuesta de IA,videollamada,ninguna,Catalina Gutiérrez Serna,cliente con sede en Madrid
+RC-0244,2026-10-29,Tienda Mi Barrio Express,llamada de seguimiento,llamada,ninguna,Julián Ospina Castaño,pregunta el precio de la función
+RC-0245,2026-10-30,Ferretería Don Jaime,llamada de seguimiento,llamada,ninguna,Pablo Muñoz Arbeláez,pregunta cuándo arranca la IA
+RC-0246,2026-10-30,Gimnasio Fuerza Andina,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Pablo Muñoz Arbeláez,presentación comercial v2
+RC-0247,2026-10-30,Tienda de Café Bourbon Rosado,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-10-30_tienda-de-cafe-bourbon-rosado.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0248,2026-10-30,Tienda y Granero La Fonda Paisa,respuesta del cliente,reunión presencial,ninguna,Julián Ospina Castaño,don Hernando dijo que sí en la visita
+RC-0249,2026-10-30,Óptica Lentes del Eje,consulta del cliente,chat,ninguna,Catalina Gutiérrez Serna,pide un ejemplo de resumen de ticket
+RC-0250,2026-11-03,Jardín Infantil Pequeños Pasos,respuesta del cliente,reunión presencial,ninguna,Pablo Muñoz Arbeláez,la directora dijo que sí
+RC-0251,2026-11-03,Tienda Ecológica Raíces,revocación,correo,gestor-documental/correos/2026-11-03_tienda-ecologica-raices.pdf,Pablo Muñoz Arbeláez,revoca la autorización de IA y pide suprimir lo procesado
+RC-0252,2026-11-03,Tienda Mi Barrio Express,envío de adenda para firma,plataforma de firma,ninguna,Julián Ospina Castaño,adenda IA versión 1.0; pendiente de firma
+RC-0253,2026-11-04,Clínica Dental Sonrisa Plena,recordatorio de firma,correo,ninguna,Catalina Gutiérrez Serna,sin respuesta
+RC-0254,2026-11-04,Jardín Infantil Pequeños Pasos,demostración de funciones de IA,videollamada,ninguna,Pablo Muñoz Arbeláez,demo con datos de ejemplo
+RC-0255,2026-11-04,Tienda Mi Barrio Express,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Julián Ospina Castaño,presentación comercial v2
+RC-0256,2026-11-04,Tienda de Café Bourbon Rosado,soporte de autorización de titulares,exportación Guadua,gestor-documental/titulares/2026-11-04_tienda-de-cafe-bourbon-rosado_autorizaciones-v3.csv,Catalina Gutiérrez Serna,exportación de casillas aceptadas con política v3; envíos solo nacionales
+RC-0257,2026-11-04,Tienda de Calzado Paso Firme,consulta del cliente,chat,ninguna,Julián Ospina Castaño,pregunta si la IA ve los pagos
+RC-0258,2026-11-04,Tienda y Granero La Fonda Paisa,llamada de seguimiento,llamada,ninguna,Julián Ospina Castaño,no contestó; se deja mensaje
+RC-0259,2026-11-05,Clínica Médica San Lucas,llamada de seguimiento,llamada,ninguna,Alejandro Toro Gutiérrez,pregunta cuándo arranca la IA
+RC-0260,2026-11-05,Droguería Botica del Pueblo,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,presentación comercial v2
+RC-0261,2026-11-05,Droguería Farmasalud,reunión de seguimiento,reunión presencial,ninguna,Pablo Muñoz Arbeláez,visita de cortesía
+RC-0262,2026-11-05,Gimnasio Titanes,respuesta del cliente,correo,contratos/correos/2026-11-05_gimnasio-titanes.eml,Julián Ospina Castaño,acepta por correo
+RC-0263,2026-11-05,Tienda Deportiva Golazo,reunión de seguimiento,reunión presencial,ninguna,Julián Ospina Castaño,revisión de las funciones que quiere
+RC-0264,2026-11-05,Tienda Gourmet Sabores de Origen,consulta del cliente,chat,ninguna,Catalina Gutiérrez Serna,pregunta si la IA ve los pagos
+RC-0265,2026-11-05,Tienda de Calzado Paso Firme,revocación,correo,contratos/correos/2026-11-05_tienda-de-calzado-paso-firme_revocacion.eml,Rosa Elena Pineda,reenviado por Julián Ospina el 2026-11-06
+RC-0266,2026-11-06,Clínica Médica San Lucas,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Alejandro Toro Gutiérrez,presentación comercial v2
+RC-0267,2026-11-06,Cooperativa de Ahorro Progresar,adenda IA firmada,firma digital,gestor-documental/adendas-ia/2026-11-06_cooperativa-de-ahorro-progresar.pdf,Lina Marcela Agudelo,firmada por el representante legal del cliente y por Gerencia; archivada
+RC-0268,2026-11-06,Ferretería Don Jaime,respuesta del cliente,llamada,ninguna,Pablo Muñoz Arbeláez,acepta por teléfono; quedó de firmar
+RC-0269,2026-11-06,Gimnasio Cuerpo Activo,actualización de datos de contacto,correo,ninguna,Julián Ospina Castaño,cambia el correo de facturación
+RC-0270,2026-11-06,Gimnasio Cuerpo Activo,presentación de la propuesta de IA,feria,ninguna,Julián Ospina Castaño,stand en la feria de comercio de Pereira
+RC-0271,2026-11-06,Gimnasio Titanes,envío de adenda para firma,correo,contratos/autorizaciones/adenda-ia_gimnasio-titanes_BORRADOR.md,Julián Ospina Castaño,borrador enviado
+RC-0272,2026-11-06,Tienda Café Montaña Alta,consulta del cliente,chat,ninguna,Alejandro Toro Gutiérrez,pregunta quién responde si la IA se equivoca
+RC-0273,2026-11-09,Colegio Campestre Los Guaduales,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Alejandro Toro Gutiérrez,presentación comercial v2
+RC-0274,2026-11-09,Droguería Botica del Pueblo,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,presentación comercial v2
+RC-0275,2026-11-09,Droguería Botica del Pueblo,respuesta del cliente,correo,contratos/correos/2026-11-09_drogueria-botica-del-pueblo.eml,Catalina Gutiérrez Serna,acepta por correo
+RC-0276,2026-11-09,Gimnasio Cuerpo Activo,reunión de seguimiento,reunión presencial,ninguna,Julián Ospina Castaño,revisión de las funciones que quiere
+RC-0277,2026-11-09,Tienda y Granero La Fonda Paisa,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Julián Ospina Castaño,folleto de funciones con IA
+RC-0278,2026-11-10,Clínica Médica San Lucas,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Alejandro Toro Gutiérrez,presentación comercial v2
+RC-0279,2026-11-10,Cooperativa de Ahorro Progresar,soporte de autorización de titulares,exportación del sistema de asociados,gestor-documental/titulares/2026-11-10_cooperativa-de-ahorro-progresar_autorizaciones-vinculacion.csv,Alejandro Toro Gutiérrez,"autorización expresa en el formulario de vinculación, con fecha por asociado"
+RC-0280,2026-11-10,Jardín Infantil Pequeños Pasos,envío de cotización,correo,gestor-documental/cotizaciones/2026-11-10_jardin-infantil-pequenos-pasos.pdf,Pablo Muñoz Arbeláez,cotización con descuento de lanzamiento
+RC-0281,2026-11-10,Jardín Infantil Pequeños Pasos,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Pablo Muñoz Arbeláez,folleto de funciones con IA
+RC-0282,2026-11-10,Tienda Gourmet Sabores de Origen,envío de adenda para firma,correo,contratos/autorizaciones/adenda-ia_sabores-de-origen-madrid_BORRADOR.md,Catalina Gutiérrez Serna,borrador enviado (modelo colombiano)
+RC-0283,2026-11-10,Tienda de Café Bourbon Rosado,actualización de datos de contacto,correo,ninguna,Catalina Gutiérrez Serna,nuevo teléfono de contacto
+RC-0284,2026-11-11,Clínica Dental Sonrisa Plena,llamada de seguimiento,llamada,ninguna,Catalina Gutiérrez Serna,pregunta cuándo arranca la IA
+RC-0285,2026-11-11,Clínica Médica San Lucas,respuesta del cliente,correo,contratos/correos/2026-11-11_clinica-medica-san-lucas.eml,Alejandro Toro Gutiérrez,acepta; quiere arrancar ya
+RC-0286,2026-11-11,Droguería Farmasalud,actualización de datos de contacto,correo,ninguna,Pablo Muñoz Arbeláez,nuevo teléfono de contacto
+RC-0287,2026-11-11,Jardín Infantil Pequeños Pasos,consulta del cliente,chat,ninguna,Pablo Muñoz Arbeláez,pide un ejemplo de resumen de ticket
+RC-0288,2026-11-12,Clínica Médica San Lucas,envío de adenda para firma,plataforma de firma,ninguna,Alejandro Toro Gutiérrez,adenda IA versión 1.0
+RC-0289,2026-11-12,Clínica Médica San Lucas,reunión de seguimiento,reunión presencial,ninguna,Alejandro Toro Gutiérrez,visita de cortesía
+RC-0290,2026-11-12,Colegio Campestre Los Guaduales,envío de cotización,correo,gestor-documental/cotizaciones/2026-11-12_colegio-campestre-los-guaduales.pdf,Alejandro Toro Gutiérrez,plan Guadua Pro con IA
+RC-0291,2026-11-12,Gimnasio Cuerpo Activo,llamada de seguimiento,llamada,ninguna,Julián Ospina Castaño,no contestó; se deja mensaje
+RC-0292,2026-11-12,Gimnasio Titanes,envío de cotización,correo,gestor-documental/cotizaciones/2026-11-12_gimnasio-titanes.pdf,Julián Ospina Castaño,plan Guadua Pro con IA
+RC-0293,2026-11-12,Tienda Gourmet Sabores de Origen,reunión de seguimiento,reunión presencial,ninguna,Catalina Gutiérrez Serna,revisión de las funciones que quiere
+RC-0294,2026-11-13,Ferretería Don Jaime,reunión de seguimiento,reunión presencial,ninguna,Pablo Muñoz Arbeláez,revisión de las funciones que quiere
+RC-0295,2026-11-13,Tienda Gourmet Sabores de Origen,respuesta del cliente,correo,contratos/correos/2026-11-13_sabores-de-origen-madrid.eml,Catalina Gutiérrez Serna,acepta; pide contrato de encargado
+RC-0296,2026-11-13,Tienda y Granero La Fonda Paisa,demostración de funciones de IA,videollamada,ninguna,Julián Ospina Castaño,demo de clasificación de pedidos con datos de ejemplo
+RC-0297,2026-11-17,Droguería Botica del Pueblo,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,presentación comercial v2
+RC-0298,2026-11-17,Gimnasio Cuerpo Activo,actualización de datos de contacto,correo,ninguna,Julián Ospina Castaño,cambia el correo de facturación
+RC-0299,2026-11-17,Tienda Mi Barrio Express,recordatorio de firma,chat,ninguna,Julián Ospina Castaño,no ha firmado; dice que esta semana
+RC-0300,2026-11-18,Tienda Gourmet Sabores de Origen,envío de material comercial,correo,gestor-documental/comercial/2026-08_presentacion-guadua-inteligente-v2.pdf,Catalina Gutiérrez Serna,presentación comercial v2
