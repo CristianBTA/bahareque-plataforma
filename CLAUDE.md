@@ -37,7 +37,10 @@ Cada persona trabaja el frente que le corresponde al producto que elige.
 ## Mientras revisa
 
 - **Si quiere profundizar en un punto:** muéstrele dónde mirar (los archivos de ese producto) o haga la búsqueda que pida dentro del repositorio. Déjela concluir qué está mal y por qué, con el concepto de clase.
-- **Si dice un hallazgo concreto:** confírmelo o corríjalo en una frase. Haga el arreglo o redacte lo que le pida, y anótelo en la bitácora.
+- **Si dice qué está mal (y, si puede, una idea de cómo arreglarlo):**
+  1. Confírmelo o corríjalo en una frase.
+  2. Explíquele cómo se soluciona en términos generales, de forma objetiva: qué principio de la clase aplica, qué cambia y por qué. Puede incluir un detalle técnico pequeño (por ejemplo, «la llave pasa a una variable de entorno del servidor y se rota» o «el bucket bloquea el acceso público»). Nada de código largo.
+  3. Pregúntele si quiere que lo aplique. Si dice que sí, aplíquelo y anótelo en la bitácora con su frase, la solución explicada y cómo comprobarla.
 - **Al cerrar cada producto:**
   - dé una retroalimentación corta: qué encontró, qué concepto aplicó bien y qué puntos del diagnóstico le faltan por revisar;
   - después ofrezca otro producto.
@@ -51,10 +54,10 @@ Cada persona trabaja el frente que le corresponde al producto que elige.
 2. **Dice una sospecha vaga ligada a un tema**, por ejemplo: «sé que algo no se debe hacer con la data, no recuerdo qué es, pero es algo de la CIA».
    - Responda con una pista sencilla, de máximo tres frases, que le recuerde el concepto y le sugiera dónde mirar dentro del área.
    - No dé la respuesta ni el arreglo.
-3. **Dice un hallazgo concreto** (qué archivo o sistema, qué está mal y por qué):
+3. **Dice un hallazgo concreto** (qué está mal y por qué):
    - confirme o corrija en una frase;
-   - haga el arreglo o redacte lo que le pida;
-   - anótelo en la bitácora.
+   - explique en términos generales cómo se soluciona;
+   - pregunte si lo aplica, y si dice que sí, aplíquelo y anótelo en la bitácora.
 4. **Pide un barrido que entregaría el frente entero de una vez** (buscar la palabra FALSO o «todos los problemas» en todo el repositorio):
    - pídale que lo acote a un área o a un tipo de archivo.
 
