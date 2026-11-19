@@ -1,0 +1,1447 @@
+2026-11-02T07:20:39-05:00 portal evento=inicio_sesion_ok usuario=tomas.echeverri ip=198.51.100.113 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-02T07:26:12-05:00 portal evento=inicio_sesion_ok usuario=catalina.gutierrez ip=198.51.100.19 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-02T07:28:30-05:00 portal evento=inicio_sesion_ok usuario=daniela.henao ip=198.51.100.30 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-02T07:31:42-05:00 portal evento=inicio_sesion_ok usuario=melissa.franco ip=198.51.100.121 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-02T07:35:13-05:00 portal evento=inicio_sesion_ok usuario=miguel.rendon ip=198.51.100.22 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-02T07:39:59-05:00 portal evento=inicio_sesion_ok usuario=santiago.marin ip=198.51.100.21 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-02T07:43:08-05:00 portal evento=ver_perfil usuario=catalina.gutierrez ip=198.51.100.19
+2026-11-02T07:43:17-05:00 portal evento=ver_desprendible usuario=tomas.echeverri ip=198.51.100.113
+2026-11-02T07:43:59-05:00 portal evento=ver_perfil usuario=daniela.henao ip=198.51.100.30
+2026-11-02T07:52:25-05:00 portal evento=ver_vacaciones usuario=melissa.franco ip=198.51.100.121
+2026-11-02T07:54:29-05:00 portal evento=ver_noticias usuario=miguel.rendon ip=198.51.100.22
+2026-11-02T07:56:22-05:00 portal evento=ver_vacaciones usuario=melissa.franco ip=198.51.100.121
+2026-11-02T07:57:36-05:00 portal evento=ver_vacaciones usuario=tomas.echeverri ip=198.51.100.113
+2026-11-02T07:58:34-05:00 portal evento=inicio_sesion_ok usuario=sebastian.rios ip=198.51.100.13 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-02T08:02:22-05:00 portal evento=ver_perfil usuario=santiago.marin ip=198.51.100.21
+2026-11-02T08:05:29-05:00 portal evento=descargar_certificado usuario=daniela.henao ip=198.51.100.30
+2026-11-02T08:10:08-05:00 portal evento=cerrar_sesion usuario=catalina.gutierrez ip=198.51.100.19
+2026-11-02T08:11:47-05:00 portal evento=ver_vacaciones usuario=tomas.echeverri ip=198.51.100.113
+2026-11-02T08:15:22-05:00 portal evento=cerrar_sesion usuario=melissa.franco ip=198.51.100.121
+2026-11-02T08:17:47-05:00 portal evento=cerrar_sesion usuario=tomas.echeverri ip=198.51.100.113
+2026-11-02T08:19:29-05:00 portal evento=cerrar_sesion usuario=miguel.rendon ip=198.51.100.22
+2026-11-02T08:20:50-05:00 portal evento=solicitar_vacaciones usuario=sebastian.rios ip=198.51.100.13
+2026-11-02T08:20:51-05:00 portal evento=ver_vacaciones usuario=santiago.marin ip=198.51.100.21
+2026-11-02T08:27:41-05:00 portal evento=inicio_sesion_ok usuario=claudia.hoyos ip=198.51.100.10 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-02T08:30:18-05:00 portal evento=solicitar_vacaciones usuario=daniela.henao ip=198.51.100.30
+2026-11-02T08:32:04-05:00 portal evento=ver_desprendible usuario=daniela.henao ip=198.51.100.30
+2026-11-02T08:32:48-05:00 portal evento=ver_perfil usuario=sebastian.rios ip=198.51.100.13
+2026-11-02T08:37:51-05:00 portal evento=ver_noticias usuario=santiago.marin ip=198.51.100.21
+2026-11-02T08:39:04-05:00 portal evento=cerrar_sesion usuario=daniela.henao ip=198.51.100.30
+2026-11-02T08:41:03-05:00 portal evento=ver_vacaciones usuario=santiago.marin ip=198.51.100.21
+2026-11-02T08:46:04-05:00 portal evento=inicio_sesion_ok usuario=oscar.ramirez ip=198.51.100.29 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-02T08:46:36-05:00 portal evento=descargar_certificado usuario=claudia.hoyos ip=198.51.100.10
+2026-11-02T08:52:48-05:00 portal evento=cerrar_sesion usuario=sebastian.rios ip=198.51.100.13
+2026-11-02T08:55:32-05:00 portal evento=ver_vacaciones usuario=oscar.ramirez ip=198.51.100.29
+2026-11-02T08:59:03-05:00 portal evento=cerrar_sesion usuario=santiago.marin ip=198.51.100.21
+2026-11-02T09:04:16-05:00 portal evento=descargar_reporte usuario=claudia.hoyos ip=198.51.100.10 archivo="novedades-02-11.xlsx" tamano_kb=85
+2026-11-02T09:14:16-05:00 portal evento=cerrar_sesion usuario=claudia.hoyos ip=198.51.100.10
+2026-11-02T09:23:32-05:00 portal evento=cerrar_sesion usuario=oscar.ramirez ip=198.51.100.29
+2026-11-02T09:43:58-05:00 portal evento=inicio_sesion_ok usuario=beatriz.londono ip=198.51.100.12 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-02T09:49:09-05:00 portal evento=ver_vacaciones usuario=beatriz.londono ip=198.51.100.12
+2026-11-02T09:59:08-05:00 portal evento=inicio_sesion_ok usuario=camilo.restrepo ip=198.51.100.103 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-02T10:00:49-05:00 portal evento=inicio_sesion_ok usuario=ximena.botero ip=198.51.100.140 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-02T10:06:41-05:00 portal evento=ver_vacaciones usuario=camilo.restrepo ip=198.51.100.103
+2026-11-02T10:09:58-05:00 portal evento=inicio_sesion_ok usuario=laura.patino ip=198.51.100.12 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-02T10:13:55-05:00 portal evento=ver_perfil usuario=beatriz.londono ip=198.51.100.12
+2026-11-02T10:14:55-05:00 portal evento=cerrar_sesion usuario=beatriz.londono ip=198.51.100.12
+2026-11-02T10:21:02-05:00 portal evento=descargar_certificado usuario=ximena.botero ip=198.51.100.140
+2026-11-02T10:26:44-05:00 portal evento=inicio_sesion_ok usuario=mateo.valencia ip=198.51.100.22 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-02T10:27:04-05:00 portal evento=ver_noticias usuario=camilo.restrepo ip=198.51.100.103
+2026-11-02T10:27:54-05:00 portal evento=ver_noticias usuario=ximena.botero ip=198.51.100.140
+2026-11-02T10:31:01-05:00 portal evento=ver_vacaciones usuario=laura.patino ip=198.51.100.12
+2026-11-02T10:38:04-05:00 portal evento=cerrar_sesion usuario=camilo.restrepo ip=198.51.100.103
+2026-11-02T10:42:22-05:00 portal evento=ver_desprendible usuario=ximena.botero ip=198.51.100.140
+2026-11-02T10:44:57-05:00 portal evento=ver_noticias usuario=mateo.valencia ip=198.51.100.22
+2026-11-02T10:45:01-05:00 portal evento=cerrar_sesion usuario=laura.patino ip=198.51.100.12
+2026-11-02T10:50:44-05:00 portal evento=ver_vacaciones usuario=ximena.botero ip=198.51.100.140
+2026-11-02T10:57:02-05:00 portal evento=solicitar_vacaciones usuario=mateo.valencia ip=198.51.100.22
+2026-11-02T11:05:44-05:00 portal evento=cerrar_sesion usuario=ximena.botero ip=198.51.100.140
+2026-11-02T11:13:02-05:00 portal evento=cerrar_sesion usuario=mateo.valencia ip=198.51.100.22
+2026-11-02T11:28:20-05:00 portal evento=inicio_sesion_ok usuario=pablo.munoz ip=198.51.100.30 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-02T11:36:19-05:00 portal evento=inicio_sesion_ok usuario=carolina.mejia ip=198.51.100.24 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-02T11:43:58-05:00 portal evento=ver_noticias usuario=carolina.mejia ip=198.51.100.24
+2026-11-02T11:47:45-05:00 portal evento=ver_perfil usuario=pablo.munoz ip=198.51.100.30
+2026-11-02T11:53:33-05:00 portal evento=ver_noticias usuario=pablo.munoz ip=198.51.100.30
+2026-11-02T12:03:33-05:00 portal evento=cerrar_sesion usuario=pablo.munoz ip=198.51.100.30
+2026-11-02T12:07:29-05:00 portal evento=ver_vacaciones usuario=carolina.mejia ip=198.51.100.24
+2026-11-02T12:10:29-05:00 portal evento=cerrar_sesion usuario=carolina.mejia ip=198.51.100.24
+2026-11-02T12:18:11-05:00 portal evento=inicio_sesion_ok usuario=isabela.montoya ip=198.51.100.29 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-02T12:38:31-05:00 portal evento=ver_desprendible usuario=isabela.montoya ip=198.51.100.29
+2026-11-02T12:58:31-05:00 portal evento=cerrar_sesion usuario=isabela.montoya ip=198.51.100.29
+2026-11-02T13:04:35-05:00 portal evento=inicio_sesion_ok usuario=fernando.salazar ip=198.51.100.13 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-02T13:05:41-05:00 portal evento=ver_noticias usuario=fernando.salazar ip=198.51.100.13
+2026-11-02T13:17:02-05:00 portal evento=ver_noticias usuario=fernando.salazar ip=198.51.100.13
+2026-11-02T13:24:13-05:00 portal evento=ver_vacaciones usuario=fernando.salazar ip=198.51.100.13
+2026-11-02T13:33:44-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.28 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-02T13:40:32-05:00 portal evento=ver_perfil usuario=fernando.salazar ip=198.51.100.13
+2026-11-02T13:44:36-05:00 portal evento=inicio_sesion_ok usuario=david.castro ip=198.51.100.13 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-02T13:48:32-05:00 portal evento=cerrar_sesion usuario=fernando.salazar ip=198.51.100.13
+2026-11-02T13:50:12-05:00 portal evento=ver_desprendible usuario=rosa.pineda ip=198.51.100.28
+2026-11-02T13:55:12-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.28
+2026-11-02T14:10:28-05:00 portal evento=descargar_certificado usuario=david.castro ip=198.51.100.13
+2026-11-02T14:18:32-05:00 portal evento=inicio_sesion_ok usuario=mariana.ocampo ip=198.51.100.26 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-02T14:21:46-05:00 portal evento=ver_noticias usuario=david.castro ip=198.51.100.13
+2026-11-02T14:30:37-05:00 portal evento=ver_perfil usuario=mariana.ocampo ip=198.51.100.26
+2026-11-02T14:38:19-05:00 portal evento=inicio_sesion_ok usuario=alejandro.toro ip=198.51.100.131 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-02T14:43:49-05:00 portal evento=descargar_certificado usuario=david.castro ip=198.51.100.13
+2026-11-02T14:44:47-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.112 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-02T14:47:37-05:00 portal evento=cerrar_sesion usuario=mariana.ocampo ip=198.51.100.26
+2026-11-02T14:53:49-05:00 portal evento=cerrar_sesion usuario=david.castro ip=198.51.100.13
+2026-11-02T15:03:51-05:00 portal evento=ver_noticias usuario=alejandro.toro ip=198.51.100.131
+2026-11-02T15:04:48-05:00 portal evento=ver_noticias usuario=natalia.quintero ip=198.51.100.112
+2026-11-02T15:16:13-05:00 portal evento=inicio_sesion_ok usuario=ricardo.osorio ip=198.51.100.117 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-02T15:16:26-05:00 portal evento=ver_vacaciones usuario=alejandro.toro ip=198.51.100.131
+2026-11-02T15:16:29-05:00 portal evento=ver_noticias usuario=natalia.quintero ip=198.51.100.112
+2026-11-02T15:19:26-05:00 portal evento=cerrar_sesion usuario=alejandro.toro ip=198.51.100.131
+2026-11-02T15:20:58-05:00 portal evento=ver_perfil usuario=ricardo.osorio ip=198.51.100.117
+2026-11-02T15:23:30-05:00 portal evento=ver_noticias usuario=natalia.quintero ip=198.51.100.112
+2026-11-02T15:31:55-05:00 portal evento=ver_noticias usuario=natalia.quintero ip=198.51.100.112
+2026-11-02T15:39:55-05:00 portal evento=ver_perfil usuario=ricardo.osorio ip=198.51.100.117
+2026-11-02T15:40:55-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.112
+2026-11-02T15:41:10-05:00 portal evento=ver_noticias usuario=ricardo.osorio ip=198.51.100.117
+2026-11-02T15:52:51-05:00 portal evento=inicio_sesion_ok usuario=valeria.giraldo ip=198.51.100.20 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-02T16:04:10-05:00 portal evento=cerrar_sesion usuario=ricardo.osorio ip=198.51.100.117
+2026-11-02T16:06:59-05:00 portal evento=ver_noticias usuario=valeria.giraldo ip=198.51.100.20
+2026-11-02T16:09:44-05:00 portal evento=ver_desprendible usuario=valeria.giraldo ip=198.51.100.20
+2026-11-02T16:11:47-05:00 portal evento=inicio_sesion_ok usuario=juliana.cardona ip=198.51.100.30 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-02T16:15:38-05:00 portal evento=ver_vacaciones usuario=juliana.cardona ip=198.51.100.30
+2026-11-02T16:22:44-05:00 portal evento=cerrar_sesion usuario=valeria.giraldo ip=198.51.100.20
+2026-11-02T16:22:59-05:00 portal evento=inicio_sesion_ok usuario=angela.vargas ip=198.51.100.28 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-02T16:32:10-05:00 portal evento=ver_vacaciones usuario=angela.vargas ip=198.51.100.28
+2026-11-02T16:37:10-05:00 portal evento=cerrar_sesion usuario=angela.vargas ip=198.51.100.28
+2026-11-02T16:38:41-05:00 portal evento=inicio_sesion_ok usuario=kevin.arias ip=198.51.100.27 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-02T16:43:14-05:00 portal evento=inicio_sesion_ok usuario=diana.bedoya ip=198.51.100.18 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-02T16:43:38-05:00 portal evento=cerrar_sesion usuario=juliana.cardona ip=198.51.100.30
+2026-11-02T16:50:41-05:00 portal evento=ver_vacaciones usuario=diana.bedoya ip=198.51.100.18
+2026-11-02T16:52:48-05:00 portal evento=inicio_sesion_ok usuario=luisa.arango ip=198.51.100.23 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-02T16:52:55-05:00 portal evento=inicio_sesion_ok usuario=alejandra.cifuentes ip=198.51.100.146 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-02T16:53:38-05:00 portal evento=inicio_sesion_ok usuario=gloria.jaramillo ip=198.51.100.21 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-02T16:54:36-05:00 portal evento=ver_vacaciones usuario=alejandra.cifuentes ip=198.51.100.146
+2026-11-02T16:56:27-05:00 portal evento=descargar_reporte usuario=gloria.jaramillo ip=198.51.100.21 archivo="novedades-02-11.xlsx" tamano_kb=74
+2026-11-02T16:56:32-05:00 portal evento=ver_noticias usuario=alejandra.cifuentes ip=198.51.100.146
+2026-11-02T16:56:38-05:00 portal evento=ver_perfil usuario=kevin.arias ip=198.51.100.27
+2026-11-02T17:07:16-05:00 portal evento=solicitar_vacaciones usuario=diana.bedoya ip=198.51.100.18
+2026-11-02T17:11:29-05:00 portal evento=descargar_reporte usuario=luisa.arango ip=198.51.100.23 archivo="novedades-02-11.xlsx" tamano_kb=48
+2026-11-02T17:13:21-05:00 portal evento=descargar_reporte usuario=luisa.arango ip=198.51.100.23 archivo="novedades-02-11.xlsx" tamano_kb=81
+2026-11-02T17:14:32-05:00 portal evento=cerrar_sesion usuario=alejandra.cifuentes ip=198.51.100.146
+2026-11-02T17:22:20-05:00 portal evento=ver_desprendible usuario=kevin.arias ip=198.51.100.27
+2026-11-02T17:23:27-05:00 portal evento=cerrar_sesion usuario=gloria.jaramillo ip=198.51.100.21
+2026-11-02T17:25:16-05:00 portal evento=cerrar_sesion usuario=diana.bedoya ip=198.51.100.18
+2026-11-02T17:29:20-05:00 portal evento=cerrar_sesion usuario=kevin.arias ip=198.51.100.27
+2026-11-02T17:32:13-05:00 portal evento=descargar_reporte usuario=luisa.arango ip=198.51.100.23 archivo="novedades-02-11.xlsx" tamano_kb=74
+2026-11-02T17:57:11-05:00 portal evento=solicitar_vacaciones usuario=luisa.arango ip=198.51.100.23
+2026-11-02T18:21:11-05:00 portal evento=cerrar_sesion usuario=luisa.arango ip=198.51.100.23
+2026-11-03T07:01:05-05:00 portal evento=inicio_sesion_ok usuario=camilo.restrepo ip=198.51.100.21 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-03T07:18:53-05:00 portal evento=ver_perfil usuario=camilo.restrepo ip=198.51.100.21
+2026-11-03T07:27:46-05:00 portal evento=descargar_certificado usuario=camilo.restrepo ip=198.51.100.21
+2026-11-03T07:43:46-05:00 portal evento=cerrar_sesion usuario=camilo.restrepo ip=198.51.100.21
+2026-11-03T07:43:57-05:00 portal evento=inicio_sesion_ok usuario=claudia.hoyos ip=198.51.100.16 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-03T08:01:41-05:00 portal evento=descargar_certificado usuario=claudia.hoyos ip=198.51.100.16
+2026-11-03T08:04:14-05:00 portal evento=inicio_sesion_ok usuario=sebastian.rios ip=198.51.100.12 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-03T08:11:00-05:00 portal evento=inicio_sesion_ok usuario=catalina.gutierrez ip=198.51.100.23 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-03T08:11:09-05:00 portal evento=ver_noticias usuario=claudia.hoyos ip=198.51.100.16
+2026-11-03T08:18:29-05:00 portal evento=solicitar_vacaciones usuario=claudia.hoyos ip=198.51.100.16
+2026-11-03T08:18:48-05:00 portal evento=ver_noticias usuario=sebastian.rios ip=198.51.100.12
+2026-11-03T08:20:28-05:00 portal evento=inicio_sesion_ok usuario=pablo.munoz ip=198.51.100.10 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-03T08:24:33-05:00 portal evento=ver_vacaciones usuario=catalina.gutierrez ip=198.51.100.23
+2026-11-03T08:27:20-05:00 portal evento=ver_desprendible usuario=pablo.munoz ip=198.51.100.10
+2026-11-03T08:30:09-05:00 portal evento=solicitar_vacaciones usuario=catalina.gutierrez ip=198.51.100.23
+2026-11-03T08:30:56-05:00 portal evento=inicio_sesion_ok usuario=valeria.giraldo ip=198.51.100.24 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-03T08:37:35-05:00 portal evento=ver_vacaciones usuario=pablo.munoz ip=198.51.100.10
+2026-11-03T08:38:29-05:00 portal evento=cerrar_sesion usuario=claudia.hoyos ip=198.51.100.16
+2026-11-03T08:39:09-05:00 portal evento=cerrar_sesion usuario=catalina.gutierrez ip=198.51.100.23
+2026-11-03T08:42:22-05:00 portal evento=ver_desprendible usuario=valeria.giraldo ip=198.51.100.24
+2026-11-03T08:42:25-05:00 portal evento=ver_vacaciones usuario=sebastian.rios ip=198.51.100.12
+2026-11-03T08:42:31-05:00 portal evento=inicio_sesion_ok usuario=santiago.marin ip=198.51.100.26 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-03T08:44:17-05:00 portal evento=ver_noticias usuario=sebastian.rios ip=198.51.100.12
+2026-11-03T08:45:57-05:00 portal evento=ver_perfil usuario=valeria.giraldo ip=198.51.100.24
+2026-11-03T08:53:35-05:00 portal evento=cerrar_sesion usuario=pablo.munoz ip=198.51.100.10
+2026-11-03T09:05:17-05:00 portal evento=cerrar_sesion usuario=sebastian.rios ip=198.51.100.12
+2026-11-03T09:06:20-05:00 portal evento=ver_desprendible usuario=santiago.marin ip=198.51.100.26
+2026-11-03T09:07:26-05:00 portal evento=ver_desprendible usuario=valeria.giraldo ip=198.51.100.24
+2026-11-03T09:09:56-05:00 portal evento=inicio_sesion_ok usuario=kevin.arias ip=198.51.100.24 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-03T09:13:30-05:00 portal evento=inicio_sesion_ok usuario=angela.vargas ip=198.51.100.15 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-03T09:19:20-05:00 portal evento=cerrar_sesion usuario=santiago.marin ip=198.51.100.26
+2026-11-03T09:21:29-05:00 portal evento=ver_vacaciones usuario=angela.vargas ip=198.51.100.15
+2026-11-03T09:23:26-05:00 portal evento=cerrar_sesion usuario=valeria.giraldo ip=198.51.100.24
+2026-11-03T09:24:00-05:00 portal evento=ver_vacaciones usuario=kevin.arias ip=198.51.100.24
+2026-11-03T09:32:29-05:00 portal evento=cerrar_sesion usuario=angela.vargas ip=198.51.100.15
+2026-11-03T09:41:47-05:00 portal evento=inicio_sesion_ok usuario=ximena.botero ip=198.51.100.140 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-03T09:45:20-05:00 portal evento=descargar_certificado usuario=kevin.arias ip=198.51.100.24
+2026-11-03T09:51:20-05:00 portal evento=cerrar_sesion usuario=kevin.arias ip=198.51.100.24
+2026-11-03T09:52:40-05:00 portal evento=solicitar_vacaciones usuario=ximena.botero ip=198.51.100.140
+2026-11-03T10:01:49-05:00 portal evento=inicio_sesion_ok usuario=andres.loaiza ip=198.51.100.22 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-03T10:09:40-05:00 portal evento=cerrar_sesion usuario=ximena.botero ip=198.51.100.140
+2026-11-03T10:24:26-05:00 portal evento=inicio_sesion_ok usuario=andres.gomez ip=198.51.100.101 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-03T10:24:39-05:00 portal evento=solicitar_vacaciones usuario=andres.loaiza ip=198.51.100.22
+2026-11-03T10:37:41-05:00 portal evento=ver_perfil usuario=andres.gomez ip=198.51.100.101
+2026-11-03T10:44:23-05:00 portal evento=ver_vacaciones usuario=andres.loaiza ip=198.51.100.22
+2026-11-03T10:53:19-05:00 portal evento=ver_noticias usuario=andres.gomez ip=198.51.100.101
+2026-11-03T10:55:20-05:00 portal evento=descargar_certificado usuario=andres.loaiza ip=198.51.100.22
+2026-11-03T11:14:51-05:00 portal evento=ver_desprendible usuario=andres.gomez ip=198.51.100.101
+2026-11-03T11:15:53-05:00 portal evento=solicitar_vacaciones usuario=andres.loaiza ip=198.51.100.22
+2026-11-03T11:18:27-05:00 portal evento=inicio_sesion_ok usuario=paula.cano ip=198.51.100.27 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-03T11:22:53-05:00 portal evento=cerrar_sesion usuario=andres.loaiza ip=198.51.100.22
+2026-11-03T11:24:55-05:00 portal evento=ver_noticias usuario=paula.cano ip=198.51.100.27
+2026-11-03T11:33:32-05:00 portal evento=ver_vacaciones usuario=andres.gomez ip=198.51.100.101
+2026-11-03T11:40:16-05:00 portal evento=inicio_sesion_ok usuario=lina.agudelo ip=198.51.100.22 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-03T11:45:16-05:00 portal evento=inicio_sesion_ok usuario=jhon.montes ip=198.51.100.16 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-03T11:50:08-05:00 portal evento=solicitar_vacaciones usuario=lina.agudelo ip=198.51.100.22
+2026-11-03T11:50:52-05:00 portal evento=descargar_certificado usuario=paula.cano ip=198.51.100.27
+2026-11-03T12:00:21-05:00 portal evento=ver_vacaciones usuario=jhon.montes ip=198.51.100.16
+2026-11-03T12:01:32-05:00 portal evento=cerrar_sesion usuario=andres.gomez ip=198.51.100.101
+2026-11-03T12:03:15-05:00 portal evento=inicio_sesion_ok usuario=fernando.salazar ip=198.51.100.10 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-03T12:04:01-05:00 portal evento=ver_desprendible usuario=lina.agudelo ip=198.51.100.22
+2026-11-03T12:04:55-05:00 portal evento=ver_desprendible usuario=paula.cano ip=198.51.100.27
+2026-11-03T12:12:11-05:00 portal evento=inicio_sesion_ok usuario=diana.bedoya ip=198.51.100.119 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-03T12:16:05-05:00 portal evento=descargar_certificado usuario=lina.agudelo ip=198.51.100.22
+2026-11-03T12:16:25-05:00 portal evento=ver_vacaciones usuario=fernando.salazar ip=198.51.100.10
+2026-11-03T12:21:25-05:00 portal evento=cerrar_sesion usuario=fernando.salazar ip=198.51.100.10
+2026-11-03T12:24:12-05:00 portal evento=inicio_sesion_ok usuario=carolina.mejia ip=198.51.100.26 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-03T12:24:43-05:00 portal evento=descargar_certificado usuario=jhon.montes ip=198.51.100.16
+2026-11-03T12:24:55-05:00 portal evento=cerrar_sesion usuario=paula.cano ip=198.51.100.27
+2026-11-03T12:31:08-05:00 portal evento=ver_vacaciones usuario=diana.bedoya ip=198.51.100.119
+2026-11-03T12:34:09-05:00 portal evento=solicitar_vacaciones usuario=lina.agudelo ip=198.51.100.22
+2026-11-03T12:37:03-05:00 portal evento=ver_perfil usuario=jhon.montes ip=198.51.100.16
+2026-11-03T12:39:58-05:00 portal evento=ver_noticias usuario=carolina.mejia ip=198.51.100.26
+2026-11-03T12:40:08-05:00 portal evento=cerrar_sesion usuario=diana.bedoya ip=198.51.100.119
+2026-11-03T12:40:09-05:00 portal evento=cerrar_sesion usuario=lina.agudelo ip=198.51.100.22
+2026-11-03T12:47:27-05:00 portal evento=ver_perfil usuario=carolina.mejia ip=198.51.100.26
+2026-11-03T12:56:31-05:00 portal evento=ver_perfil usuario=jhon.montes ip=198.51.100.16
+2026-11-03T12:58:27-05:00 portal evento=cerrar_sesion usuario=carolina.mejia ip=198.51.100.26
+2026-11-03T13:06:31-05:00 portal evento=cerrar_sesion usuario=jhon.montes ip=198.51.100.16
+2026-11-03T13:15:36-05:00 portal evento=inicio_sesion_ok usuario=daniela.henao ip=198.51.100.17 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-03T13:18:20-05:00 portal evento=ver_perfil usuario=daniela.henao ip=198.51.100.17
+2026-11-03T13:25:08-05:00 portal evento=inicio_sesion_ok usuario=luisa.arango ip=198.51.100.102 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-03T13:39:43-05:00 portal evento=ver_vacaciones usuario=daniela.henao ip=198.51.100.17
+2026-11-03T13:41:02-05:00 portal evento=descargar_certificado usuario=luisa.arango ip=198.51.100.102
+2026-11-03T13:58:50-05:00 portal evento=ver_vacaciones usuario=daniela.henao ip=198.51.100.17
+2026-11-03T14:06:46-05:00 portal evento=descargar_reporte usuario=luisa.arango ip=198.51.100.102 archivo="novedades-03-11.xlsx" tamano_kb=62
+2026-11-03T14:07:52-05:00 portal evento=inicio_sesion_ok usuario=david.castro ip=198.51.100.141 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-03T14:15:37-05:00 portal evento=ver_vacaciones usuario=david.castro ip=198.51.100.141
+2026-11-03T14:22:46-05:00 portal evento=cerrar_sesion usuario=luisa.arango ip=198.51.100.102
+2026-11-03T14:26:50-05:00 portal evento=cerrar_sesion usuario=daniela.henao ip=198.51.100.17
+2026-11-03T14:33:43-05:00 portal evento=inicio_sesion_ok usuario=isabela.montoya ip=198.51.100.114 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-03T14:38:37-05:00 portal evento=cerrar_sesion usuario=david.castro ip=198.51.100.141
+2026-11-03T14:42:16-05:00 portal evento=ver_vacaciones usuario=isabela.montoya ip=198.51.100.114
+2026-11-03T14:51:03-05:00 portal evento=inicio_sesion_ok usuario=manuela.correa ip=198.51.100.16 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-03T15:03:16-05:00 portal evento=cerrar_sesion usuario=isabela.montoya ip=198.51.100.114
+2026-11-03T15:04:27-05:00 portal evento=ver_perfil usuario=manuela.correa ip=198.51.100.16
+2026-11-03T15:13:39-05:00 portal evento=inicio_sesion_ok usuario=jorge.castano ip=198.51.100.27 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-03T15:25:50-05:00 portal evento=descargar_certificado usuario=manuela.correa ip=198.51.100.16
+2026-11-03T15:32:15-05:00 portal evento=ver_vacaciones usuario=jorge.castano ip=198.51.100.27
+2026-11-03T15:42:42-05:00 portal evento=solicitar_vacaciones usuario=jorge.castano ip=198.51.100.27
+2026-11-03T15:44:50-05:00 portal evento=cerrar_sesion usuario=manuela.correa ip=198.51.100.16
+2026-11-03T15:49:39-05:00 portal evento=ver_desprendible usuario=jorge.castano ip=198.51.100.27
+2026-11-03T15:55:32-05:00 portal evento=ver_perfil usuario=jorge.castano ip=198.51.100.27
+2026-11-03T16:11:32-05:00 portal evento=cerrar_sesion usuario=jorge.castano ip=198.51.100.27
+2026-11-03T16:25:50-05:00 portal evento=inicio_sesion_ok usuario=mariana.ocampo ip=198.51.100.16 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-03T16:50:25-05:00 portal evento=solicitar_vacaciones usuario=mariana.ocampo ip=198.51.100.16
+2026-11-03T17:13:25-05:00 portal evento=cerrar_sesion usuario=mariana.ocampo ip=198.51.100.16
+2026-11-04T07:22:14-05:00 portal evento=inicio_sesion_ok usuario=gloria.jaramillo ip=198.51.100.29 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-04T07:36:38-05:00 portal evento=inicio_sesion_ok usuario=sebastian.rios ip=198.51.100.107 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-04T07:46:57-05:00 portal evento=inicio_sesion_ok usuario=mateo.valencia ip=198.51.100.30 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-04T07:47:59-05:00 portal evento=descargar_reporte usuario=gloria.jaramillo ip=198.51.100.29 archivo="novedades-04-11.xlsx" tamano_kb=47
+2026-11-04T07:53:13-05:00 portal evento=ver_desprendible usuario=sebastian.rios ip=198.51.100.107
+2026-11-04T07:58:40-05:00 portal evento=ver_desprendible usuario=sebastian.rios ip=198.51.100.107
+2026-11-04T08:05:18-05:00 portal evento=ver_vacaciones usuario=mateo.valencia ip=198.51.100.30
+2026-11-04T08:10:00-05:00 portal evento=solicitar_vacaciones usuario=sebastian.rios ip=198.51.100.107
+2026-11-04T08:11:40-05:00 portal evento=ver_desprendible usuario=mateo.valencia ip=198.51.100.30
+2026-11-04T08:12:40-05:00 portal evento=cerrar_sesion usuario=mateo.valencia ip=198.51.100.30
+2026-11-04T08:12:44-05:00 portal evento=ver_noticias usuario=gloria.jaramillo ip=198.51.100.29
+2026-11-04T08:23:44-05:00 portal evento=inicio_sesion_ok usuario=melissa.franco ip=198.51.100.21 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-04T08:26:07-05:00 portal evento=descargar_certificado usuario=melissa.franco ip=198.51.100.21
+2026-11-04T08:27:03-05:00 portal evento=descargar_reporte usuario=gloria.jaramillo ip=198.51.100.29 archivo="novedades-04-11.xlsx" tamano_kb=50
+2026-11-04T08:30:07-05:00 portal evento=ver_noticias usuario=sebastian.rios ip=198.51.100.107
+2026-11-04T08:36:13-05:00 portal evento=ver_perfil usuario=melissa.franco ip=198.51.100.21
+2026-11-04T08:46:50-05:00 portal evento=ver_noticias usuario=gloria.jaramillo ip=198.51.100.29
+2026-11-04T08:50:39-05:00 portal evento=inicio_sesion_ok usuario=manuela.correa ip=198.51.100.22 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-04T08:55:17-05:00 portal evento=ver_perfil usuario=melissa.franco ip=198.51.100.21
+2026-11-04T08:57:05-05:00 portal evento=ver_perfil usuario=melissa.franco ip=198.51.100.21
+2026-11-04T08:58:05-05:00 portal evento=cerrar_sesion usuario=melissa.franco ip=198.51.100.21
+2026-11-04T08:58:07-05:00 portal evento=cerrar_sesion usuario=sebastian.rios ip=198.51.100.107
+2026-11-04T09:03:27-05:00 portal evento=descargar_certificado usuario=manuela.correa ip=198.51.100.22
+2026-11-04T09:11:50-05:00 portal evento=cerrar_sesion usuario=gloria.jaramillo ip=198.51.100.29
+2026-11-04T09:15:02-05:00 portal evento=inicio_sesion_ok usuario=ricardo.osorio ip=198.51.100.17 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-04T09:27:07-05:00 portal evento=ver_vacaciones usuario=manuela.correa ip=198.51.100.22
+2026-11-04T09:37:08-05:00 portal evento=ver_vacaciones usuario=ricardo.osorio ip=198.51.100.17
+2026-11-04T09:43:47-05:00 portal evento=ver_vacaciones usuario=manuela.correa ip=198.51.100.22
+2026-11-04T09:56:26-05:00 portal evento=inicio_sesion_ok usuario=luisa.arango ip=198.51.100.19 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-04T10:00:12-05:00 portal evento=ver_desprendible usuario=ricardo.osorio ip=198.51.100.17
+2026-11-04T10:10:46-05:00 portal evento=descargar_certificado usuario=luisa.arango ip=198.51.100.19
+2026-11-04T10:13:47-05:00 portal evento=cerrar_sesion usuario=manuela.correa ip=198.51.100.22
+2026-11-04T10:14:46-05:00 portal evento=cerrar_sesion usuario=luisa.arango ip=198.51.100.19
+2026-11-04T10:16:53-05:00 portal evento=ver_perfil usuario=ricardo.osorio ip=198.51.100.17
+2026-11-04T10:26:53-05:00 portal evento=cerrar_sesion usuario=ricardo.osorio ip=198.51.100.17
+2026-11-04T10:36:13-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.142 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-04T10:38:00-05:00 portal evento=inicio_sesion_ok usuario=diana.bedoya ip=198.51.100.30 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-04T10:38:42-05:00 portal evento=inicio_sesion_ok usuario=catalina.gutierrez ip=198.51.100.25 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-04T10:46:12-05:00 portal evento=ver_vacaciones usuario=catalina.gutierrez ip=198.51.100.25
+2026-11-04T10:48:45-05:00 portal evento=ver_vacaciones usuario=rosa.pineda ip=198.51.100.142
+2026-11-04T10:52:57-05:00 portal evento=inicio_sesion_ok usuario=miguel.rendon ip=198.51.100.30 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-04T10:57:10-05:00 portal evento=solicitar_vacaciones usuario=diana.bedoya ip=198.51.100.30
+2026-11-04T11:00:43-05:00 portal evento=solicitar_vacaciones usuario=rosa.pineda ip=198.51.100.142
+2026-11-04T11:01:39-05:00 portal evento=solicitar_vacaciones usuario=catalina.gutierrez ip=198.51.100.25
+2026-11-04T11:03:06-05:00 portal evento=ver_desprendible usuario=catalina.gutierrez ip=198.51.100.25
+2026-11-04T11:03:10-05:00 portal evento=inicio_sesion_ok usuario=andres.gomez ip=198.51.100.14 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-04T11:05:35-05:00 portal evento=descargar_reporte usuario=miguel.rendon ip=198.51.100.30 archivo="novedades-04-11.xlsx" tamano_kb=62
+2026-11-04T11:06:25-05:00 portal evento=ver_perfil usuario=andres.gomez ip=198.51.100.14
+2026-11-04T11:08:30-05:00 portal evento=ver_noticias usuario=miguel.rendon ip=198.51.100.30
+2026-11-04T11:09:30-05:00 portal evento=cerrar_sesion usuario=miguel.rendon ip=198.51.100.30
+2026-11-04T11:11:27-05:00 portal evento=ver_noticias usuario=diana.bedoya ip=198.51.100.30
+2026-11-04T11:13:05-05:00 portal evento=inicio_sesion_ok usuario=pablo.munoz ip=198.51.100.135 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-04T11:14:27-05:00 portal evento=cerrar_sesion usuario=diana.bedoya ip=198.51.100.30
+2026-11-04T11:15:26-05:00 portal evento=inicio_sesion_ok usuario=tomas.echeverri ip=198.51.100.113 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-04T11:17:43-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.142
+2026-11-04T11:22:27-05:00 portal evento=ver_vacaciones usuario=andres.gomez ip=198.51.100.14
+2026-11-04T11:26:40-05:00 portal evento=ver_vacaciones usuario=pablo.munoz ip=198.51.100.135
+2026-11-04T11:27:16-05:00 portal evento=ver_vacaciones usuario=catalina.gutierrez ip=198.51.100.25
+2026-11-04T11:33:16-05:00 portal evento=cerrar_sesion usuario=catalina.gutierrez ip=198.51.100.25
+2026-11-04T11:38:45-05:00 portal evento=ver_noticias usuario=tomas.echeverri ip=198.51.100.113
+2026-11-04T11:41:40-05:00 portal evento=descargar_certificado usuario=andres.gomez ip=198.51.100.14
+2026-11-04T11:45:07-05:00 portal evento=inicio_sesion_ok usuario=angela.vargas ip=198.51.100.24 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-04T11:45:40-05:00 portal evento=cerrar_sesion usuario=andres.gomez ip=198.51.100.14
+2026-11-04T11:52:25-05:00 portal evento=ver_desprendible usuario=pablo.munoz ip=198.51.100.135
+2026-11-04T11:57:36-05:00 portal evento=ver_vacaciones usuario=angela.vargas ip=198.51.100.24
+2026-11-04T11:59:47-05:00 portal evento=ver_desprendible usuario=tomas.echeverri ip=198.51.100.113
+2026-11-04T12:06:28-05:00 portal evento=inicio_sesion_ok usuario=ximena.botero ip=198.51.100.140 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-04T12:14:47-05:00 portal evento=cerrar_sesion usuario=tomas.echeverri ip=198.51.100.113
+2026-11-04T12:16:25-05:00 portal evento=cerrar_sesion usuario=pablo.munoz ip=198.51.100.135
+2026-11-04T12:19:36-05:00 portal evento=cerrar_sesion usuario=angela.vargas ip=198.51.100.24
+2026-11-04T12:23:17-05:00 portal evento=inicio_sesion_ok usuario=laura.patino ip=198.51.100.10 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-04T12:23:17-05:00 portal evento=inicio_sesion_ok usuario=lina.agudelo ip=198.51.100.12 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-04T12:25:03-05:00 portal evento=inicio_sesion_ok usuario=santiago.marin ip=198.51.100.23 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-04T12:26:46-05:00 portal evento=ver_noticias usuario=lina.agudelo ip=198.51.100.12
+2026-11-04T12:26:49-05:00 portal evento=descargar_certificado usuario=ximena.botero ip=198.51.100.140
+2026-11-04T12:38:51-05:00 portal evento=ver_noticias usuario=laura.patino ip=198.51.100.10
+2026-11-04T12:40:29-05:00 portal evento=descargar_certificado usuario=ximena.botero ip=198.51.100.140
+2026-11-04T12:44:17-05:00 portal evento=ver_vacaciones usuario=lina.agudelo ip=198.51.100.12
+2026-11-04T12:49:30-05:00 portal evento=ver_desprendible usuario=santiago.marin ip=198.51.100.23
+2026-11-04T12:53:00-05:00 portal evento=ver_desprendible usuario=santiago.marin ip=198.51.100.23
+2026-11-04T12:53:09-05:00 portal evento=ver_desprendible usuario=lina.agudelo ip=198.51.100.12
+2026-11-04T12:55:29-05:00 portal evento=cerrar_sesion usuario=ximena.botero ip=198.51.100.140
+2026-11-04T12:58:56-05:00 portal evento=ver_perfil usuario=laura.patino ip=198.51.100.10
+2026-11-04T13:02:00-05:00 portal evento=cerrar_sesion usuario=santiago.marin ip=198.51.100.23
+2026-11-04T13:04:18-05:00 portal evento=solicitar_vacaciones usuario=laura.patino ip=198.51.100.10
+2026-11-04T13:11:57-05:00 portal evento=ver_desprendible usuario=lina.agudelo ip=198.51.100.12
+2026-11-04T13:15:18-05:00 portal evento=cerrar_sesion usuario=laura.patino ip=198.51.100.10
+2026-11-04T13:26:57-05:00 portal evento=cerrar_sesion usuario=lina.agudelo ip=198.51.100.12
+2026-11-04T13:33:16-05:00 portal evento=inicio_sesion_ok usuario=paula.cano ip=198.51.100.13 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-04T13:37:25-05:00 portal evento=ver_noticias usuario=paula.cano ip=198.51.100.13
+2026-11-04T13:53:55-05:00 portal evento=descargar_certificado usuario=paula.cano ip=198.51.100.13
+2026-11-04T14:08:57-05:00 portal evento=ver_perfil usuario=paula.cano ip=198.51.100.13
+2026-11-04T14:13:30-05:00 portal evento=inicio_sesion_ok usuario=camilo.restrepo ip=198.51.100.25 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-04T14:16:27-05:00 portal evento=ver_desprendible usuario=camilo.restrepo ip=198.51.100.25
+2026-11-04T14:21:09-05:00 portal evento=ver_desprendible usuario=camilo.restrepo ip=198.51.100.25
+2026-11-04T14:27:24-05:00 portal evento=ver_perfil usuario=paula.cano ip=198.51.100.13
+2026-11-04T14:44:57-05:00 portal evento=ver_perfil usuario=camilo.restrepo ip=198.51.100.25
+2026-11-04T14:47:58-05:00 portal evento=inicio_sesion_ok usuario=alejandro.toro ip=198.51.100.30 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-04T14:55:30-05:00 portal evento=descargar_certificado usuario=camilo.restrepo ip=198.51.100.25
+2026-11-04T14:57:24-05:00 portal evento=cerrar_sesion usuario=paula.cano ip=198.51.100.13
+2026-11-04T14:58:58-05:00 portal evento=solicitar_vacaciones usuario=alejandro.toro ip=198.51.100.30
+2026-11-04T15:18:25-05:00 portal evento=ver_noticias usuario=alejandro.toro ip=198.51.100.30
+2026-11-04T15:19:46-05:00 portal evento=ver_noticias usuario=alejandro.toro ip=198.51.100.30
+2026-11-04T15:24:30-05:00 portal evento=cerrar_sesion usuario=camilo.restrepo ip=198.51.100.25
+2026-11-04T15:28:46-05:00 portal evento=cerrar_sesion usuario=alejandro.toro ip=198.51.100.30
+2026-11-04T15:29:48-05:00 portal evento=inicio_sesion_ok usuario=felipe.zuluaga ip=198.51.100.15 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-04T15:54:53-05:00 portal evento=solicitar_vacaciones usuario=felipe.zuluaga ip=198.51.100.15
+2026-11-04T16:10:05-05:00 portal evento=ver_noticias usuario=felipe.zuluaga ip=198.51.100.15
+2026-11-04T16:13:04-05:00 portal evento=ver_vacaciones usuario=felipe.zuluaga ip=198.51.100.15
+2026-11-04T16:34:13-05:00 portal evento=descargar_certificado usuario=felipe.zuluaga ip=198.51.100.15
+2026-11-04T16:38:26-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.13 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-04T16:47:27-05:00 portal evento=ver_perfil usuario=natalia.quintero ip=198.51.100.13
+2026-11-04T16:57:27-05:00 portal evento=descargar_certificado usuario=natalia.quintero ip=198.51.100.13
+2026-11-04T17:03:13-05:00 portal evento=cerrar_sesion usuario=felipe.zuluaga ip=198.51.100.15
+2026-11-04T17:24:27-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.13
+2026-11-05T08:26:54-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.112 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-05T08:39:32-05:00 portal evento=inicio_sesion_ok usuario=jorge.castano ip=198.51.100.20 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-05T08:44:06-05:00 portal evento=inicio_sesion_ok usuario=beatriz.londono ip=198.51.100.130 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-05T08:44:42-05:00 portal evento=ver_perfil usuario=natalia.quintero ip=198.51.100.112
+2026-11-05T08:47:06-05:00 portal evento=inicio_sesion_ok usuario=camilo.restrepo ip=198.51.100.22 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-05T08:48:44-05:00 portal evento=solicitar_vacaciones usuario=beatriz.londono ip=198.51.100.130
+2026-11-05T08:50:31-05:00 portal evento=inicio_sesion_ok usuario=luisa.arango ip=198.51.100.18 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-05T08:53:34-05:00 portal evento=descargar_reporte usuario=luisa.arango ip=198.51.100.18 archivo="novedades-05-11.xlsx" tamano_kb=71
+2026-11-05T09:00:12-05:00 portal evento=ver_noticias usuario=jorge.castano ip=198.51.100.20
+2026-11-05T09:07:42-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.112
+2026-11-05T09:09:40-05:00 portal evento=ver_vacaciones usuario=beatriz.londono ip=198.51.100.130
+2026-11-05T09:10:34-05:00 portal evento=descargar_certificado usuario=camilo.restrepo ip=198.51.100.22
+2026-11-05T09:13:07-05:00 portal evento=descargar_reporte usuario=beatriz.londono ip=198.51.100.130 archivo="novedades-05-11.xlsx" tamano_kb=51
+2026-11-05T09:16:38-05:00 portal evento=descargar_certificado usuario=luisa.arango ip=198.51.100.18
+2026-11-05T09:17:07-05:00 portal evento=cerrar_sesion usuario=beatriz.londono ip=198.51.100.130
+2026-11-05T09:23:38-05:00 portal evento=descargar_certificado usuario=camilo.restrepo ip=198.51.100.22
+2026-11-05T09:23:40-05:00 portal evento=ver_vacaciones usuario=luisa.arango ip=198.51.100.18
+2026-11-05T09:26:12-05:00 portal evento=cerrar_sesion usuario=jorge.castano ip=198.51.100.20
+2026-11-05T09:31:40-05:00 portal evento=cerrar_sesion usuario=luisa.arango ip=198.51.100.18
+2026-11-05T09:47:38-05:00 portal evento=cerrar_sesion usuario=camilo.restrepo ip=198.51.100.22
+2026-11-05T09:49:08-05:00 portal evento=inicio_sesion_ok usuario=oscar.ramirez ip=198.51.100.129 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-05T10:02:08-05:00 portal evento=inicio_sesion_ok usuario=andres.loaiza ip=198.51.100.30 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-05T10:03:19-05:00 portal evento=inicio_sesion_ok usuario=felipe.zuluaga ip=198.51.100.19 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-05T10:03:21-05:00 portal evento=descargar_certificado usuario=oscar.ramirez ip=198.51.100.129
+2026-11-05T10:10:36-05:00 portal evento=ver_desprendible usuario=andres.loaiza ip=198.51.100.30
+2026-11-05T10:24:31-05:00 portal evento=ver_noticias usuario=oscar.ramirez ip=198.51.100.129
+2026-11-05T10:25:26-05:00 portal evento=solicitar_vacaciones usuario=felipe.zuluaga ip=198.51.100.19
+2026-11-05T10:35:17-05:00 portal evento=ver_vacaciones usuario=andres.loaiza ip=198.51.100.30
+2026-11-05T10:36:26-05:00 portal evento=cerrar_sesion usuario=felipe.zuluaga ip=198.51.100.19
+2026-11-05T10:42:46-05:00 portal evento=inicio_sesion_ok usuario=pablo.munoz ip=198.51.100.26 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-05T10:43:10-05:00 portal evento=ver_noticias usuario=oscar.ramirez ip=198.51.100.129
+2026-11-05T10:43:56-05:00 portal evento=descargar_certificado usuario=andres.loaiza ip=198.51.100.30
+2026-11-05T10:44:32-05:00 portal evento=inicio_sesion_ok usuario=ximena.botero ip=198.51.100.11 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-05T10:48:22-05:00 portal evento=ver_vacaciones usuario=pablo.munoz ip=198.51.100.26
+2026-11-05T11:06:10-05:00 portal evento=cerrar_sesion usuario=oscar.ramirez ip=198.51.100.129
+2026-11-05T11:06:38-05:00 portal evento=descargar_certificado usuario=ximena.botero ip=198.51.100.11
+2026-11-05T11:07:44-05:00 portal evento=inicio_sesion_ok usuario=alejandro.toro ip=198.51.100.18 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-05T11:09:10-05:00 portal evento=ver_vacaciones usuario=andres.loaiza ip=198.51.100.30
+2026-11-05T11:10:38-05:00 portal evento=cerrar_sesion usuario=ximena.botero ip=198.51.100.11
+2026-11-05T11:11:34-05:00 portal evento=inicio_sesion_ok usuario=sebastian.rios ip=198.51.100.107 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-05T11:13:16-05:00 portal evento=solicitar_vacaciones usuario=alejandro.toro ip=198.51.100.18
+2026-11-05T11:18:22-05:00 portal evento=cerrar_sesion usuario=pablo.munoz ip=198.51.100.26
+2026-11-05T11:23:54-05:00 portal evento=ver_perfil usuario=alejandro.toro ip=198.51.100.18
+2026-11-05T11:28:10-05:00 portal evento=cerrar_sesion usuario=andres.loaiza ip=198.51.100.30
+2026-11-05T11:30:00-05:00 portal evento=ver_perfil usuario=sebastian.rios ip=198.51.100.107
+2026-11-05T11:44:52-05:00 portal evento=inicio_sesion_ok usuario=juliana.cardona ip=198.51.100.104 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-05T11:47:29-05:00 portal evento=ver_noticias usuario=sebastian.rios ip=198.51.100.107
+2026-11-05T11:47:54-05:00 portal evento=cerrar_sesion usuario=alejandro.toro ip=198.51.100.18
+2026-11-05T11:55:59-05:00 portal evento=inicio_sesion_ok usuario=diana.bedoya ip=198.51.100.18 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-05T11:56:59-05:00 portal evento=descargar_certificado usuario=juliana.cardona ip=198.51.100.104
+2026-11-05T12:01:40-05:00 portal evento=ver_desprendible usuario=sebastian.rios ip=198.51.100.107
+2026-11-05T12:02:40-05:00 portal evento=cerrar_sesion usuario=sebastian.rios ip=198.51.100.107
+2026-11-05T12:13:28-05:00 portal evento=ver_noticias usuario=diana.bedoya ip=198.51.100.18
+2026-11-05T12:20:59-05:00 portal evento=inicio_sesion_ok usuario=melissa.franco ip=198.51.100.12 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-05T12:21:23-05:00 portal evento=descargar_certificado usuario=juliana.cardona ip=198.51.100.104
+2026-11-05T12:23:16-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.22 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-05T12:31:17-05:00 portal evento=solicitar_vacaciones usuario=juliana.cardona ip=198.51.100.104
+2026-11-05T12:31:47-05:00 portal evento=ver_perfil usuario=melissa.franco ip=198.51.100.12
+2026-11-05T12:33:56-05:00 portal evento=ver_noticias usuario=rosa.pineda ip=198.51.100.22
+2026-11-05T12:37:30-05:00 portal evento=descargar_certificado usuario=diana.bedoya ip=198.51.100.18
+2026-11-05T12:47:17-05:00 portal evento=cerrar_sesion usuario=juliana.cardona ip=198.51.100.104
+2026-11-05T12:50:42-05:00 portal evento=ver_noticias usuario=diana.bedoya ip=198.51.100.18
+2026-11-05T12:51:47-05:00 portal evento=cerrar_sesion usuario=melissa.franco ip=198.51.100.12
+2026-11-05T12:57:40-05:00 portal evento=ver_noticias usuario=rosa.pineda ip=198.51.100.22
+2026-11-05T12:59:51-05:00 portal evento=inicio_sesion_ok usuario=laura.patino ip=198.51.100.30 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-05T13:01:37-05:00 portal evento=descargar_certificado usuario=laura.patino ip=198.51.100.30
+2026-11-05T13:01:38-05:00 portal evento=inicio_sesion_ok usuario=angela.vargas ip=198.51.100.15 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-05T13:01:40-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.22
+2026-11-05T13:01:42-05:00 portal evento=cerrar_sesion usuario=diana.bedoya ip=198.51.100.18
+2026-11-05T13:03:26-05:00 portal evento=inicio_sesion_ok usuario=ricardo.osorio ip=198.51.100.14 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-05T13:19:31-05:00 portal evento=ver_perfil usuario=angela.vargas ip=198.51.100.15
+2026-11-05T13:22:17-05:00 portal evento=ver_vacaciones usuario=ricardo.osorio ip=198.51.100.14
+2026-11-05T13:23:04-05:00 portal evento=solicitar_vacaciones usuario=laura.patino ip=198.51.100.30
+2026-11-05T13:24:18-05:00 portal evento=descargar_certificado usuario=ricardo.osorio ip=198.51.100.14
+2026-11-05T13:24:22-05:00 portal evento=inicio_sesion_ok usuario=manuela.correa ip=198.51.100.19 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-05T13:31:04-05:00 portal evento=cerrar_sesion usuario=laura.patino ip=198.51.100.30
+2026-11-05T13:31:15-05:00 portal evento=ver_noticias usuario=manuela.correa ip=198.51.100.19
+2026-11-05T13:35:15-05:00 portal evento=cerrar_sesion usuario=manuela.correa ip=198.51.100.19
+2026-11-05T13:36:18-05:00 portal evento=cerrar_sesion usuario=ricardo.osorio ip=198.51.100.14
+2026-11-05T13:39:20-05:00 portal evento=ver_desprendible usuario=angela.vargas ip=198.51.100.15
+2026-11-05T13:47:52-05:00 portal evento=ver_desprendible usuario=angela.vargas ip=198.51.100.15
+2026-11-05T13:54:06-05:00 portal evento=inicio_sesion_ok usuario=andres.gomez ip=198.51.100.101 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-05T13:58:18-05:00 portal evento=inicio_sesion_ok usuario=catalina.gutierrez ip=198.51.100.21 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-05T14:04:46-05:00 portal evento=ver_perfil usuario=angela.vargas ip=198.51.100.15
+2026-11-05T14:13:46-05:00 portal evento=ver_desprendible usuario=andres.gomez ip=198.51.100.101
+2026-11-05T14:15:20-05:00 portal evento=inicio_sesion_ok usuario=isabela.montoya ip=198.51.100.15 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-05T14:18:21-05:00 portal evento=ver_desprendible usuario=catalina.gutierrez ip=198.51.100.21
+2026-11-05T14:21:46-05:00 portal evento=ver_vacaciones usuario=catalina.gutierrez ip=198.51.100.21
+2026-11-05T14:23:46-05:00 portal evento=cerrar_sesion usuario=angela.vargas ip=198.51.100.15
+2026-11-05T14:25:13-05:00 portal evento=solicitar_vacaciones usuario=catalina.gutierrez ip=198.51.100.21
+2026-11-05T14:27:14-05:00 portal evento=ver_noticias usuario=isabela.montoya ip=198.51.100.15
+2026-11-05T14:32:49-05:00 portal evento=ver_desprendible usuario=andres.gomez ip=198.51.100.101
+2026-11-05T14:43:38-05:00 portal evento=ver_noticias usuario=andres.gomez ip=198.51.100.101
+2026-11-05T14:47:41-05:00 portal evento=ver_vacaciones usuario=catalina.gutierrez ip=198.51.100.21
+2026-11-05T14:51:14-05:00 portal evento=cerrar_sesion usuario=isabela.montoya ip=198.51.100.15
+2026-11-05T14:54:38-05:00 portal evento=cerrar_sesion usuario=andres.gomez ip=198.51.100.101
+2026-11-05T14:54:41-05:00 portal evento=cerrar_sesion usuario=catalina.gutierrez ip=198.51.100.21
+2026-11-05T15:20:15-05:00 portal evento=inicio_sesion_ok usuario=fernando.salazar ip=198.51.100.16 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-05T15:25:44-05:00 portal evento=ver_noticias usuario=fernando.salazar ip=198.51.100.16
+2026-11-05T15:48:20-05:00 portal evento=ver_noticias usuario=fernando.salazar ip=198.51.100.16
+2026-11-05T16:05:36-05:00 portal evento=ver_noticias usuario=fernando.salazar ip=198.51.100.16
+2026-11-05T16:19:36-05:00 portal evento=cerrar_sesion usuario=fernando.salazar ip=198.51.100.16
+2026-11-05T16:31:33-05:00 portal evento=inicio_sesion_ok usuario=valeria.giraldo ip=198.51.100.28 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-05T16:42:31-05:00 portal evento=inicio_sesion_ok usuario=mateo.valencia ip=198.51.100.30 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-05T16:48:27-05:00 portal evento=ver_vacaciones usuario=mateo.valencia ip=198.51.100.30
+2026-11-05T16:50:53-05:00 portal evento=ver_noticias usuario=mateo.valencia ip=198.51.100.30
+2026-11-05T16:55:51-05:00 portal evento=ver_desprendible usuario=valeria.giraldo ip=198.51.100.28
+2026-11-05T16:58:19-05:00 portal evento=inicio_sesion_ok usuario=gloria.jaramillo ip=198.51.100.24 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-05T17:00:23-05:00 portal evento=ver_desprendible usuario=valeria.giraldo ip=198.51.100.28
+2026-11-05T17:07:12-05:00 portal evento=ver_noticias usuario=mateo.valencia ip=198.51.100.30
+2026-11-05T17:15:38-05:00 portal evento=ver_perfil usuario=gloria.jaramillo ip=198.51.100.24
+2026-11-05T17:23:23-05:00 portal evento=cerrar_sesion usuario=valeria.giraldo ip=198.51.100.28
+2026-11-05T17:28:38-05:00 portal evento=cerrar_sesion usuario=gloria.jaramillo ip=198.51.100.24
+2026-11-05T17:37:12-05:00 portal evento=cerrar_sesion usuario=mateo.valencia ip=198.51.100.30
+2026-11-06T07:00:40-05:00 portal evento=inicio_sesion_ok usuario=luisa.arango ip=198.51.100.19 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-06T07:04:14-05:00 portal evento=inicio_sesion_ok usuario=lina.agudelo ip=198.51.100.144 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-06T07:05:04-05:00 portal evento=inicio_sesion_ok usuario=claudia.hoyos ip=198.51.100.137 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-06T07:07:31-05:00 portal evento=inicio_sesion_ok usuario=valeria.giraldo ip=198.51.100.20 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-06T07:21:48-05:00 portal evento=ver_desprendible usuario=lina.agudelo ip=198.51.100.144
+2026-11-06T07:26:19-05:00 portal evento=ver_desprendible usuario=luisa.arango ip=198.51.100.19
+2026-11-06T07:27:19-05:00 portal evento=cerrar_sesion usuario=luisa.arango ip=198.51.100.19
+2026-11-06T07:27:33-05:00 portal evento=ver_vacaciones usuario=valeria.giraldo ip=198.51.100.20
+2026-11-06T07:28:31-05:00 portal evento=ver_noticias usuario=claudia.hoyos ip=198.51.100.137
+2026-11-06T07:30:50-05:00 portal evento=ver_noticias usuario=lina.agudelo ip=198.51.100.144
+2026-11-06T07:36:29-05:00 portal evento=inicio_sesion_ok usuario=jhon.montes ip=198.51.100.19 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-06T07:40:23-05:00 portal evento=ver_noticias usuario=lina.agudelo ip=198.51.100.144
+2026-11-06T07:43:27-05:00 portal evento=ver_noticias usuario=valeria.giraldo ip=198.51.100.20
+2026-11-06T07:43:50-05:00 portal evento=ver_vacaciones usuario=lina.agudelo ip=198.51.100.144
+2026-11-06T07:44:30-05:00 portal evento=ver_desprendible usuario=jhon.montes ip=198.51.100.19
+2026-11-06T07:50:50-05:00 portal evento=cerrar_sesion usuario=lina.agudelo ip=198.51.100.144
+2026-11-06T07:51:22-05:00 portal evento=ver_vacaciones usuario=claudia.hoyos ip=198.51.100.137
+2026-11-06T08:01:54-05:00 portal evento=ver_desprendible usuario=valeria.giraldo ip=198.51.100.20
+2026-11-06T08:12:30-05:00 portal evento=cerrar_sesion usuario=jhon.montes ip=198.51.100.19
+2026-11-06T08:13:54-05:00 portal evento=cerrar_sesion usuario=valeria.giraldo ip=198.51.100.20
+2026-11-06T08:17:22-05:00 portal evento=cerrar_sesion usuario=claudia.hoyos ip=198.51.100.137
+2026-11-06T08:40:23-05:00 portal evento=inicio_sesion_ok usuario=laura.patino ip=198.51.100.17 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-06T08:59:08-05:00 portal evento=descargar_certificado usuario=laura.patino ip=198.51.100.17
+2026-11-06T09:06:29-05:00 portal evento=solicitar_vacaciones usuario=laura.patino ip=198.51.100.17
+2026-11-06T09:30:45-05:00 portal evento=ver_desprendible usuario=laura.patino ip=198.51.100.17
+2026-11-06T09:36:52-05:00 portal evento=inicio_sesion_ok usuario=isabela.montoya ip=198.51.100.114 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-06T09:37:52-05:00 portal evento=ver_vacaciones usuario=isabela.montoya ip=198.51.100.114
+2026-11-06T09:49:51-05:00 portal evento=ver_desprendible usuario=laura.patino ip=198.51.100.17
+2026-11-06T09:58:14-05:00 portal evento=ver_noticias usuario=isabela.montoya ip=198.51.100.114
+2026-11-06T10:05:51-05:00 portal evento=cerrar_sesion usuario=laura.patino ip=198.51.100.17
+2026-11-06T10:13:32-05:00 portal evento=ver_vacaciones usuario=isabela.montoya ip=198.51.100.114
+2026-11-06T10:29:51-05:00 portal evento=ver_vacaciones usuario=isabela.montoya ip=198.51.100.114
+2026-11-06T10:37:57-05:00 portal evento=inicio_sesion_ok usuario=alejandro.toro ip=198.51.100.131 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-06T10:47:48-05:00 portal evento=ver_perfil usuario=alejandro.toro ip=198.51.100.131
+2026-11-06T10:50:51-05:00 portal evento=cerrar_sesion usuario=isabela.montoya ip=198.51.100.114
+2026-11-06T10:53:21-05:00 portal evento=inicio_sesion_ok usuario=paula.cano ip=198.51.100.19 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-06T11:02:38-05:00 portal evento=solicitar_vacaciones usuario=paula.cano ip=198.51.100.19
+2026-11-06T11:04:23-05:00 portal evento=ver_vacaciones usuario=alejandro.toro ip=198.51.100.131
+2026-11-06T11:12:53-05:00 portal evento=ver_desprendible usuario=paula.cano ip=198.51.100.19
+2026-11-06T11:18:23-05:00 portal evento=cerrar_sesion usuario=alejandro.toro ip=198.51.100.131
+2026-11-06T11:20:35-05:00 portal evento=ver_noticias usuario=paula.cano ip=198.51.100.19
+2026-11-06T11:36:55-05:00 portal evento=ver_noticias usuario=paula.cano ip=198.51.100.19
+2026-11-06T11:49:55-05:00 portal evento=cerrar_sesion usuario=paula.cano ip=198.51.100.19
+2026-11-06T11:51:50-05:00 portal evento=inicio_sesion_ok usuario=andres.gomez ip=198.51.100.17 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-06T12:01:37-05:00 portal evento=descargar_certificado usuario=andres.gomez ip=198.51.100.17
+2026-11-06T12:08:08-05:00 portal evento=descargar_certificado usuario=andres.gomez ip=198.51.100.17
+2026-11-06T12:15:46-05:00 portal evento=inicio_sesion_ok usuario=tomas.echeverri ip=198.51.100.10 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-06T12:23:58-05:00 portal evento=solicitar_vacaciones usuario=tomas.echeverri ip=198.51.100.10
+2026-11-06T12:24:08-05:00 portal evento=cerrar_sesion usuario=andres.gomez ip=198.51.100.17
+2026-11-06T12:25:53-05:00 portal evento=ver_desprendible usuario=tomas.echeverri ip=198.51.100.10
+2026-11-06T12:44:51-05:00 portal evento=ver_desprendible usuario=tomas.echeverri ip=198.51.100.10
+2026-11-06T12:46:12-05:00 portal evento=ver_noticias usuario=tomas.echeverri ip=198.51.100.10
+2026-11-06T12:47:09-05:00 portal evento=inicio_sesion_ok usuario=sebastian.rios ip=198.51.100.107 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-06T12:48:22-05:00 portal evento=solicitar_vacaciones usuario=sebastian.rios ip=198.51.100.107
+2026-11-06T12:50:27-05:00 portal evento=inicio_sesion_ok usuario=camilo.restrepo ip=198.51.100.103 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-06T12:52:11-05:00 portal evento=inicio_sesion_ok usuario=jorge.castano ip=198.51.100.12 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-06T12:55:20-05:00 portal evento=inicio_sesion_ok usuario=diana.bedoya ip=198.51.100.119 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-06T13:12:12-05:00 portal evento=cerrar_sesion usuario=tomas.echeverri ip=198.51.100.10
+2026-11-06T13:13:05-05:00 portal evento=ver_noticias usuario=sebastian.rios ip=198.51.100.107
+2026-11-06T13:14:42-05:00 portal evento=ver_noticias usuario=diana.bedoya ip=198.51.100.119
+2026-11-06T13:15:25-05:00 portal evento=ver_perfil usuario=camilo.restrepo ip=198.51.100.103
+2026-11-06T13:16:05-05:00 portal evento=cerrar_sesion usuario=sebastian.rios ip=198.51.100.107
+2026-11-06T13:17:15-05:00 portal evento=ver_desprendible usuario=jorge.castano ip=198.51.100.12
+2026-11-06T13:19:08-05:00 portal evento=ver_desprendible usuario=diana.bedoya ip=198.51.100.119
+2026-11-06T13:29:45-05:00 portal evento=ver_perfil usuario=jorge.castano ip=198.51.100.12
+2026-11-06T13:30:49-05:00 portal evento=ver_perfil usuario=camilo.restrepo ip=198.51.100.103
+2026-11-06T13:37:22-05:00 portal evento=inicio_sesion_ok usuario=mateo.valencia ip=198.51.100.109 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-06T13:39:31-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.25 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-06T13:42:15-05:00 portal evento=ver_vacaciones usuario=diana.bedoya ip=198.51.100.119
+2026-11-06T13:42:45-05:00 portal evento=cerrar_sesion usuario=jorge.castano ip=198.51.100.12
+2026-11-06T13:49:17-05:00 portal evento=ver_perfil usuario=mateo.valencia ip=198.51.100.109
+2026-11-06T13:52:16-05:00 portal evento=solicitar_vacaciones usuario=natalia.quintero ip=198.51.100.25
+2026-11-06T13:55:49-05:00 portal evento=cerrar_sesion usuario=camilo.restrepo ip=198.51.100.103
+2026-11-06T14:01:32-05:00 portal evento=solicitar_vacaciones usuario=diana.bedoya ip=198.51.100.119
+2026-11-06T14:07:15-05:00 portal evento=ver_perfil usuario=mateo.valencia ip=198.51.100.109
+2026-11-06T14:12:32-05:00 portal evento=cerrar_sesion usuario=diana.bedoya ip=198.51.100.119
+2026-11-06T14:15:16-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.25
+2026-11-06T14:16:27-05:00 portal evento=inicio_sesion_ok usuario=oscar.ramirez ip=198.51.100.29 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-06T14:21:47-05:00 portal evento=ver_perfil usuario=oscar.ramirez ip=198.51.100.29
+2026-11-06T14:23:51-05:00 portal evento=ver_noticias usuario=oscar.ramirez ip=198.51.100.29
+2026-11-06T14:26:15-05:00 portal evento=cerrar_sesion usuario=mateo.valencia ip=198.51.100.109
+2026-11-06T14:36:36-05:00 portal evento=inicio_sesion_ok usuario=catalina.gutierrez ip=198.51.100.11 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-06T14:37:51-05:00 portal evento=cerrar_sesion usuario=oscar.ramirez ip=198.51.100.29
+2026-11-06T14:53:44-05:00 portal evento=descargar_certificado usuario=catalina.gutierrez ip=198.51.100.11
+2026-11-06T15:11:46-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.25 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-06T15:23:44-05:00 portal evento=cerrar_sesion usuario=catalina.gutierrez ip=198.51.100.11
+2026-11-06T15:32:04-05:00 portal evento=solicitar_vacaciones usuario=rosa.pineda ip=198.51.100.25
+2026-11-06T15:35:17-05:00 portal evento=ver_desprendible usuario=rosa.pineda ip=198.51.100.25
+2026-11-06T15:40:42-05:00 portal evento=inicio_sesion_ok usuario=julian.ospina ip=198.51.100.27 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-06T15:45:51-05:00 portal evento=ver_vacaciones usuario=julian.ospina ip=198.51.100.27
+2026-11-06T15:55:36-05:00 portal evento=solicitar_vacaciones usuario=rosa.pineda ip=198.51.100.25
+2026-11-06T16:01:15-05:00 portal evento=inicio_sesion_ok usuario=ximena.botero ip=198.51.100.140 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-06T16:04:51-05:00 portal evento=cerrar_sesion usuario=julian.ospina ip=198.51.100.27
+2026-11-06T16:11:05-05:00 portal evento=ver_desprendible usuario=ximena.botero ip=198.51.100.140
+2026-11-06T16:17:36-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.25
+2026-11-06T16:26:05-05:00 portal evento=cerrar_sesion usuario=ximena.botero ip=198.51.100.140
+2026-11-06T16:34:45-05:00 portal evento=inicio_sesion_ok usuario=mariana.ocampo ip=198.51.100.15 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-06T16:47:50-05:00 portal evento=solicitar_vacaciones usuario=mariana.ocampo ip=198.51.100.15
+2026-11-06T16:57:23-05:00 portal evento=ver_noticias usuario=mariana.ocampo ip=198.51.100.15
+2026-11-06T17:11:27-05:00 portal evento=ver_noticias usuario=mariana.ocampo ip=198.51.100.15
+2026-11-06T17:13:27-05:00 portal evento=cerrar_sesion usuario=mariana.ocampo ip=198.51.100.15
+2026-11-09T07:15:18-05:00 portal evento=inicio_sesion_ok usuario=mariana.ocampo ip=198.51.100.22 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-09T07:26:37-05:00 portal evento=solicitar_vacaciones usuario=mariana.ocampo ip=198.51.100.22
+2026-11-09T07:47:13-05:00 portal evento=ver_desprendible usuario=mariana.ocampo ip=198.51.100.22
+2026-11-09T07:56:12-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.12 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-09T08:00:53-05:00 portal evento=ver_vacaciones usuario=mariana.ocampo ip=198.51.100.22
+2026-11-09T08:03:19-05:00 portal evento=descargar_certificado usuario=rosa.pineda ip=198.51.100.12
+2026-11-09T08:10:37-05:00 portal evento=ver_noticias usuario=mariana.ocampo ip=198.51.100.22
+2026-11-09T08:23:38-05:00 portal evento=ver_desprendible usuario=rosa.pineda ip=198.51.100.12
+2026-11-09T08:26:37-05:00 portal evento=cerrar_sesion usuario=mariana.ocampo ip=198.51.100.22
+2026-11-09T08:33:38-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.12
+2026-11-09T08:37:22-05:00 portal evento=inicio_sesion_ok usuario=kevin.arias ip=198.51.100.124 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-09T08:45:03-05:00 portal evento=ver_noticias usuario=kevin.arias ip=198.51.100.124
+2026-11-09T08:50:17-05:00 portal evento=ver_perfil usuario=kevin.arias ip=198.51.100.124
+2026-11-09T08:57:30-05:00 portal evento=inicio_sesion_ok usuario=angela.vargas ip=198.51.100.23 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-09T09:07:40-05:00 portal evento=ver_vacaciones usuario=angela.vargas ip=198.51.100.23
+2026-11-09T09:15:16-05:00 portal evento=inicio_sesion_ok usuario=diana.bedoya ip=198.51.100.14 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-09T09:16:48-05:00 portal evento=ver_perfil usuario=diana.bedoya ip=198.51.100.14
+2026-11-09T09:18:17-05:00 portal evento=cerrar_sesion usuario=kevin.arias ip=198.51.100.124
+2026-11-09T09:18:38-05:00 portal evento=ver_perfil usuario=diana.bedoya ip=198.51.100.14
+2026-11-09T09:26:50-05:00 portal evento=ver_noticias usuario=diana.bedoya ip=198.51.100.14
+2026-11-09T09:29:07-05:00 portal evento=ver_noticias usuario=angela.vargas ip=198.51.100.23
+2026-11-09T09:31:27-05:00 portal evento=inicio_sesion_ok usuario=oscar.ramirez ip=198.51.100.129 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-09T09:34:56-05:00 portal evento=ver_perfil usuario=oscar.ramirez ip=198.51.100.129
+2026-11-09T09:40:45-05:00 portal evento=inicio_sesion_ok usuario=claudia.hoyos ip=198.51.100.137 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-09T09:43:37-05:00 portal evento=descargar_certificado usuario=claudia.hoyos ip=198.51.100.137
+2026-11-09T09:45:00-05:00 portal evento=descargar_certificado usuario=oscar.ramirez ip=198.51.100.129
+2026-11-09T09:49:04-05:00 portal evento=ver_perfil usuario=oscar.ramirez ip=198.51.100.129
+2026-11-09T09:50:13-05:00 portal evento=descargar_certificado usuario=angela.vargas ip=198.51.100.23
+2026-11-09T09:56:50-05:00 portal evento=cerrar_sesion usuario=diana.bedoya ip=198.51.100.14
+2026-11-09T10:02:28-05:00 portal evento=descargar_reporte usuario=claudia.hoyos ip=198.51.100.137 archivo="novedades-09-11.xlsx" tamano_kb=74
+2026-11-09T10:02:35-05:00 portal evento=ver_perfil usuario=oscar.ramirez ip=198.51.100.129
+2026-11-09T10:11:48-05:00 portal evento=solicitar_vacaciones usuario=angela.vargas ip=198.51.100.23
+2026-11-09T10:20:35-05:00 portal evento=cerrar_sesion usuario=oscar.ramirez ip=198.51.100.129
+2026-11-09T10:25:22-05:00 portal evento=inicio_sesion_ok usuario=sebastian.rios ip=198.51.100.107 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-09T10:27:24-05:00 portal evento=ver_vacaciones usuario=claudia.hoyos ip=198.51.100.137
+2026-11-09T10:32:24-05:00 portal evento=cerrar_sesion usuario=claudia.hoyos ip=198.51.100.137
+2026-11-09T10:33:48-05:00 portal evento=cerrar_sesion usuario=angela.vargas ip=198.51.100.23
+2026-11-09T10:46:00-05:00 portal evento=ver_perfil usuario=sebastian.rios ip=198.51.100.107
+2026-11-09T10:59:20-05:00 portal evento=ver_perfil usuario=sebastian.rios ip=198.51.100.107
+2026-11-09T11:09:33-05:00 portal evento=inicio_sesion_ok usuario=beatriz.londono ip=198.51.100.23 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-09T11:12:18-05:00 portal evento=ver_noticias usuario=sebastian.rios ip=198.51.100.107
+2026-11-09T11:22:34-05:00 portal evento=inicio_sesion_ok usuario=felipe.zuluaga ip=198.51.100.16 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-09T11:25:39-05:00 portal evento=ver_noticias usuario=beatriz.londono ip=198.51.100.23
+2026-11-09T11:30:18-05:00 portal evento=cerrar_sesion usuario=sebastian.rios ip=198.51.100.107
+2026-11-09T11:41:06-05:00 portal evento=ver_noticias usuario=felipe.zuluaga ip=198.51.100.16
+2026-11-09T11:41:33-05:00 portal evento=inicio_sesion_ok usuario=alejandra.cifuentes ip=198.51.100.24 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-09T11:45:44-05:00 portal evento=ver_desprendible usuario=alejandra.cifuentes ip=198.51.100.24
+2026-11-09T11:47:50-05:00 portal evento=ver_desprendible usuario=alejandra.cifuentes ip=198.51.100.24
+2026-11-09T11:49:25-05:00 portal evento=inicio_sesion_ok usuario=fernando.salazar ip=198.51.100.139 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-09T11:50:51-05:00 portal evento=ver_vacaciones usuario=beatriz.londono ip=198.51.100.23
+2026-11-09T11:55:08-05:00 portal evento=solicitar_vacaciones usuario=felipe.zuluaga ip=198.51.100.16
+2026-11-09T11:55:21-05:00 portal evento=ver_noticias usuario=beatriz.londono ip=198.51.100.23
+2026-11-09T12:11:33-05:00 portal evento=descargar_certificado usuario=felipe.zuluaga ip=198.51.100.16
+2026-11-09T12:11:56-05:00 portal evento=ver_noticias usuario=fernando.salazar ip=198.51.100.139
+2026-11-09T12:14:50-05:00 portal evento=cerrar_sesion usuario=alejandra.cifuentes ip=198.51.100.24
+2026-11-09T12:20:21-05:00 portal evento=cerrar_sesion usuario=beatriz.londono ip=198.51.100.23
+2026-11-09T12:22:15-05:00 portal evento=ver_desprendible usuario=fernando.salazar ip=198.51.100.139
+2026-11-09T12:31:55-05:00 portal evento=inicio_sesion_ok usuario=tomas.echeverri ip=198.51.100.23 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-09T12:36:03-05:00 portal evento=descargar_certificado usuario=tomas.echeverri ip=198.51.100.23
+2026-11-09T12:37:09-05:00 portal evento=ver_vacaciones usuario=tomas.echeverri ip=198.51.100.23
+2026-11-09T12:41:33-05:00 portal evento=cerrar_sesion usuario=felipe.zuluaga ip=198.51.100.16
+2026-11-09T12:44:53-05:00 portal evento=descargar_certificado usuario=fernando.salazar ip=198.51.100.139
+2026-11-09T12:46:27-05:00 portal evento=inicio_sesion_ok usuario=gloria.jaramillo ip=198.51.100.25 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-09T12:48:11-05:00 portal evento=descargar_certificado usuario=tomas.echeverri ip=198.51.100.23
+2026-11-09T12:52:16-05:00 portal evento=descargar_certificado usuario=fernando.salazar ip=198.51.100.139
+2026-11-09T12:56:01-05:00 portal evento=descargar_reporte usuario=gloria.jaramillo ip=198.51.100.25 archivo="novedades-09-11.xlsx" tamano_kb=51
+2026-11-09T13:02:47-05:00 portal evento=ver_perfil usuario=tomas.echeverri ip=198.51.100.23
+2026-11-09T13:10:47-05:00 portal evento=cerrar_sesion usuario=tomas.echeverri ip=198.51.100.23
+2026-11-09T13:14:09-05:00 portal evento=inicio_sesion_ok usuario=andres.gomez ip=198.51.100.101 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-09T13:14:16-05:00 portal evento=cerrar_sesion usuario=fernando.salazar ip=198.51.100.139
+2026-11-09T13:17:12-05:00 portal evento=solicitar_vacaciones usuario=andres.gomez ip=198.51.100.101
+2026-11-09T13:19:01-05:00 portal evento=cerrar_sesion usuario=gloria.jaramillo ip=198.51.100.25
+2026-11-09T13:23:37-05:00 portal evento=inicio_sesion_ok usuario=miguel.rendon ip=198.51.100.30 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-09T13:26:40-05:00 portal evento=descargar_reporte usuario=miguel.rendon ip=198.51.100.30 archivo="novedades-09-11.xlsx" tamano_kb=41
+2026-11-09T13:31:37-05:00 portal evento=inicio_sesion_ok usuario=camilo.restrepo ip=198.51.100.103 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-09T13:31:58-05:00 portal evento=inicio_sesion_ok usuario=juliana.cardona ip=198.51.100.29 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-09T13:38:20-05:00 portal evento=descargar_certificado usuario=juliana.cardona ip=198.51.100.29
+2026-11-09T13:41:17-05:00 portal evento=solicitar_vacaciones usuario=andres.gomez ip=198.51.100.101
+2026-11-09T13:41:52-05:00 portal evento=ver_vacaciones usuario=camilo.restrepo ip=198.51.100.103
+2026-11-09T13:48:56-05:00 portal evento=descargar_certificado usuario=miguel.rendon ip=198.51.100.30
+2026-11-09T13:49:51-05:00 portal evento=ver_noticias usuario=andres.gomez ip=198.51.100.101
+2026-11-09T13:51:56-05:00 portal evento=cerrar_sesion usuario=miguel.rendon ip=198.51.100.30
+2026-11-09T13:54:27-05:00 portal evento=inicio_sesion_ok usuario=luisa.arango ip=198.51.100.21 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-09T13:55:20-05:00 portal evento=cerrar_sesion usuario=juliana.cardona ip=198.51.100.29
+2026-11-09T14:02:18-05:00 portal evento=inicio_sesion_ok usuario=julian.ospina ip=198.51.100.29 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-09T14:04:30-05:00 portal evento=ver_noticias usuario=camilo.restrepo ip=198.51.100.103
+2026-11-09T14:08:20-05:00 portal evento=solicitar_vacaciones usuario=julian.ospina ip=198.51.100.29
+2026-11-09T14:09:43-05:00 portal evento=solicitar_vacaciones usuario=luisa.arango ip=198.51.100.21
+2026-11-09T14:14:51-05:00 portal evento=cerrar_sesion usuario=andres.gomez ip=198.51.100.101
+2026-11-09T14:16:20-05:00 portal evento=cerrar_sesion usuario=julian.ospina ip=198.51.100.29
+2026-11-09T14:16:58-05:00 portal evento=ver_noticias usuario=camilo.restrepo ip=198.51.100.103
+2026-11-09T14:29:20-05:00 portal evento=descargar_reporte usuario=luisa.arango ip=198.51.100.21 archivo="novedades-09-11.xlsx" tamano_kb=50
+2026-11-09T14:30:29-05:00 portal evento=inicio_sesion_ok usuario=carolina.mejia ip=198.51.100.28 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-09T14:34:40-05:00 portal evento=inicio_sesion_ok usuario=mateo.valencia ip=198.51.100.109 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-09T14:38:04-05:00 portal evento=ver_perfil usuario=luisa.arango ip=198.51.100.21
+2026-11-09T14:41:04-05:00 portal evento=cerrar_sesion usuario=luisa.arango ip=198.51.100.21
+2026-11-09T14:45:33-05:00 portal evento=solicitar_vacaciones usuario=mateo.valencia ip=198.51.100.109
+2026-11-09T14:45:58-05:00 portal evento=cerrar_sesion usuario=camilo.restrepo ip=198.51.100.103
+2026-11-09T14:49:06-05:00 portal evento=inicio_sesion_ok usuario=paula.cano ip=198.51.100.118 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-09T14:51:04-05:00 portal evento=ver_desprendible usuario=mateo.valencia ip=198.51.100.109
+2026-11-09T14:55:34-05:00 portal evento=ver_vacaciones usuario=carolina.mejia ip=198.51.100.28
+2026-11-09T14:57:18-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.24 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-09T15:03:12-05:00 portal evento=descargar_certificado usuario=natalia.quintero ip=198.51.100.24
+2026-11-09T15:08:20-05:00 portal evento=ver_desprendible usuario=paula.cano ip=198.51.100.118
+2026-11-09T15:09:34-05:00 portal evento=ver_vacaciones usuario=mateo.valencia ip=198.51.100.109
+2026-11-09T15:15:34-05:00 portal evento=cerrar_sesion usuario=carolina.mejia ip=198.51.100.28
+2026-11-09T15:15:46-05:00 portal evento=inicio_sesion_ok usuario=catalina.gutierrez ip=198.51.100.26 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-09T15:15:49-05:00 portal evento=ver_desprendible usuario=natalia.quintero ip=198.51.100.24
+2026-11-09T15:23:34-05:00 portal evento=cerrar_sesion usuario=mateo.valencia ip=198.51.100.109
+2026-11-09T15:27:33-05:00 portal evento=ver_perfil usuario=paula.cano ip=198.51.100.118
+2026-11-09T15:34:35-05:00 portal evento=ver_noticias usuario=catalina.gutierrez ip=198.51.100.26
+2026-11-09T15:34:59-05:00 portal evento=ver_perfil usuario=paula.cano ip=198.51.100.118
+2026-11-09T15:36:50-05:00 portal evento=ver_vacaciones usuario=natalia.quintero ip=198.51.100.24
+2026-11-09T15:41:01-05:00 portal evento=inicio_sesion_ok usuario=laura.patino ip=198.51.100.23 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-09T15:48:35-05:00 portal evento=ver_noticias usuario=paula.cano ip=198.51.100.118
+2026-11-09T15:52:50-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.24
+2026-11-09T15:55:17-05:00 portal evento=ver_vacaciones usuario=laura.patino ip=198.51.100.23
+2026-11-09T16:00:15-05:00 portal evento=ver_vacaciones usuario=catalina.gutierrez ip=198.51.100.26
+2026-11-09T16:10:15-05:00 portal evento=cerrar_sesion usuario=catalina.gutierrez ip=198.51.100.26
+2026-11-09T16:11:35-05:00 portal evento=cerrar_sesion usuario=paula.cano ip=198.51.100.118
+2026-11-09T16:18:38-05:00 portal evento=ver_noticias usuario=laura.patino ip=198.51.100.23
+2026-11-09T16:27:29-05:00 portal evento=inicio_sesion_ok usuario=andres.loaiza ip=198.51.100.27 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-09T16:43:26-05:00 portal evento=ver_vacaciones usuario=andres.loaiza ip=198.51.100.27
+2026-11-09T16:43:46-05:00 portal evento=ver_perfil usuario=laura.patino ip=198.51.100.23
+2026-11-09T16:45:11-05:00 portal evento=descargar_certificado usuario=andres.loaiza ip=198.51.100.27
+2026-11-09T16:45:36-05:00 portal evento=inicio_sesion_ok usuario=melissa.franco ip=198.51.100.121 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-09T16:49:40-05:00 portal evento=inicio_sesion_ok usuario=ximena.botero ip=198.51.100.22 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-09T16:58:42-05:00 portal evento=descargar_certificado usuario=ximena.botero ip=198.51.100.22
+2026-11-09T17:08:34-05:00 portal evento=ver_perfil usuario=andres.loaiza ip=198.51.100.27
+2026-11-09T17:09:51-05:00 portal evento=descargar_certificado usuario=melissa.franco ip=198.51.100.121
+2026-11-09T17:12:06-05:00 portal evento=ver_perfil usuario=melissa.franco ip=198.51.100.121
+2026-11-09T17:13:36-05:00 portal evento=ver_vacaciones usuario=melissa.franco ip=198.51.100.121
+2026-11-09T17:13:46-05:00 portal evento=cerrar_sesion usuario=laura.patino ip=198.51.100.23
+2026-11-09T17:19:36-05:00 portal evento=cerrar_sesion usuario=melissa.franco ip=198.51.100.121
+2026-11-09T17:24:59-05:00 portal evento=solicitar_vacaciones usuario=andres.loaiza ip=198.51.100.27
+2026-11-09T17:27:42-05:00 portal evento=cerrar_sesion usuario=ximena.botero ip=198.51.100.22
+2026-11-09T17:44:59-05:00 portal evento=cerrar_sesion usuario=andres.loaiza ip=198.51.100.27
+2026-11-10T07:01:07-05:00 portal evento=inicio_sesion_ok usuario=fernando.salazar ip=198.51.100.24 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-10T07:13:18-05:00 portal evento=ver_desprendible usuario=fernando.salazar ip=198.51.100.24
+2026-11-10T07:22:02-05:00 portal evento=ver_perfil usuario=fernando.salazar ip=198.51.100.24
+2026-11-10T07:38:02-05:00 portal evento=cerrar_sesion usuario=fernando.salazar ip=198.51.100.24
+2026-11-10T07:43:33-05:00 portal evento=inicio_sesion_ok usuario=pablo.munoz ip=198.51.100.16 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-10T08:01:59-05:00 portal evento=ver_desprendible usuario=pablo.munoz ip=198.51.100.16
+2026-11-10T08:07:11-05:00 portal evento=inicio_sesion_ok usuario=catalina.gutierrez ip=198.51.100.132 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-10T08:12:33-05:00 portal evento=ver_noticias usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-10T08:18:47-05:00 portal evento=inicio_sesion_ok usuario=daniela.henao ip=198.51.100.106 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-10T08:20:04-05:00 portal evento=ver_perfil usuario=pablo.munoz ip=198.51.100.16
+2026-11-10T08:26:33-05:00 portal evento=cerrar_sesion usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-10T08:28:56-05:00 portal evento=ver_desprendible usuario=daniela.henao ip=198.51.100.106
+2026-11-10T08:40:06-05:00 portal evento=descargar_certificado usuario=pablo.munoz ip=198.51.100.16
+2026-11-10T08:51:06-05:00 portal evento=cerrar_sesion usuario=pablo.munoz ip=198.51.100.16
+2026-11-10T08:52:36-05:00 portal evento=ver_desprendible usuario=daniela.henao ip=198.51.100.106
+2026-11-10T09:01:34-05:00 portal evento=inicio_sesion_ok usuario=melissa.franco ip=198.51.100.17 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-10T09:03:07-05:00 portal evento=ver_perfil usuario=melissa.franco ip=198.51.100.17
+2026-11-10T09:10:07-05:00 portal evento=cerrar_sesion usuario=melissa.franco ip=198.51.100.17
+2026-11-10T09:16:15-05:00 portal evento=descargar_certificado usuario=daniela.henao ip=198.51.100.106
+2026-11-10T09:18:19-05:00 portal evento=ver_perfil usuario=daniela.henao ip=198.51.100.106
+2026-11-10T09:22:19-05:00 portal evento=cerrar_sesion usuario=daniela.henao ip=198.51.100.106
+2026-11-10T09:26:30-05:00 portal evento=inicio_sesion_ok usuario=laura.patino ip=198.51.100.27 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-10T09:29:33-05:00 portal evento=inicio_sesion_ok usuario=ximena.botero ip=198.51.100.140 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-10T09:31:12-05:00 portal evento=inicio_sesion_ok usuario=luisa.arango ip=198.51.100.15 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-10T09:44:57-05:00 portal evento=ver_vacaciones usuario=luisa.arango ip=198.51.100.15
+2026-11-10T09:45:32-05:00 portal evento=ver_perfil usuario=laura.patino ip=198.51.100.27
+2026-11-10T09:54:05-05:00 portal evento=inicio_sesion_ok usuario=jhon.montes ip=198.51.100.145 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-10T09:54:16-05:00 portal evento=ver_desprendible usuario=ximena.botero ip=198.51.100.140
+2026-11-10T09:55:09-05:00 portal evento=inicio_sesion_ok usuario=kevin.arias ip=198.51.100.29 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-10T10:01:57-05:00 portal evento=cerrar_sesion usuario=luisa.arango ip=198.51.100.15
+2026-11-10T10:03:00-05:00 portal evento=solicitar_vacaciones usuario=jhon.montes ip=198.51.100.145
+2026-11-10T10:06:52-05:00 portal evento=ver_noticias usuario=laura.patino ip=198.51.100.27
+2026-11-10T10:10:21-05:00 portal evento=ver_noticias usuario=kevin.arias ip=198.51.100.29
+2026-11-10T10:10:50-05:00 portal evento=ver_desprendible usuario=ximena.botero ip=198.51.100.140
+2026-11-10T10:13:22-05:00 portal evento=descargar_certificado usuario=laura.patino ip=198.51.100.27
+2026-11-10T10:18:04-05:00 portal evento=ver_desprendible usuario=kevin.arias ip=198.51.100.29
+2026-11-10T10:25:31-05:00 portal evento=descargar_certificado usuario=laura.patino ip=198.51.100.27
+2026-11-10T10:28:00-05:00 portal evento=cerrar_sesion usuario=jhon.montes ip=198.51.100.145
+2026-11-10T10:31:45-05:00 portal evento=ver_perfil usuario=ximena.botero ip=198.51.100.140
+2026-11-10T10:33:04-05:00 portal evento=cerrar_sesion usuario=kevin.arias ip=198.51.100.29
+2026-11-10T10:34:04-05:00 portal evento=inicio_sesion_ok usuario=alejandra.cifuentes ip=198.51.100.29 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-10T10:34:42-05:00 portal evento=ver_perfil usuario=ximena.botero ip=198.51.100.140
+2026-11-10T10:43:31-05:00 portal evento=cerrar_sesion usuario=laura.patino ip=198.51.100.27
+2026-11-10T10:47:50-05:00 portal evento=ver_desprendible usuario=alejandra.cifuentes ip=198.51.100.29
+2026-11-10T10:56:42-05:00 portal evento=cerrar_sesion usuario=ximena.botero ip=198.51.100.140
+2026-11-10T11:07:05-05:00 portal evento=inicio_sesion_ok usuario=beatriz.londono ip=198.51.100.22 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-10T11:11:16-05:00 portal evento=descargar_certificado usuario=beatriz.londono ip=198.51.100.22
+2026-11-10T11:12:50-05:00 portal evento=cerrar_sesion usuario=alejandra.cifuentes ip=198.51.100.29
+2026-11-10T11:29:53-05:00 portal evento=inicio_sesion_ok usuario=andres.gomez ip=198.51.100.101 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-10T11:31:56-05:00 portal evento=solicitar_vacaciones usuario=beatriz.londono ip=198.51.100.22
+2026-11-10T11:34:49-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.20 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-10T11:36:27-05:00 portal evento=inicio_sesion_ok usuario=camilo.restrepo ip=198.51.100.28 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-10T11:36:49-05:00 portal evento=ver_desprendible usuario=andres.gomez ip=198.51.100.101
+2026-11-10T11:42:56-05:00 portal evento=cerrar_sesion usuario=beatriz.londono ip=198.51.100.22
+2026-11-10T11:43:25-05:00 portal evento=descargar_certificado usuario=andres.gomez ip=198.51.100.101
+2026-11-10T11:43:54-05:00 portal evento=ver_noticias usuario=natalia.quintero ip=198.51.100.20
+2026-11-10T11:45:43-05:00 portal evento=ver_vacaciones usuario=camilo.restrepo ip=198.51.100.28
+2026-11-10T11:53:43-05:00 portal evento=cerrar_sesion usuario=camilo.restrepo ip=198.51.100.28
+2026-11-10T12:07:25-05:00 portal evento=cerrar_sesion usuario=andres.gomez ip=198.51.100.101
+2026-11-10T12:10:54-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.20
+2026-11-10T13:46:18-05:00 portal evento=inicio_sesion_ok usuario=ricardo.osorio ip=198.51.100.23 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-10T13:49:23-05:00 portal evento=inicio_sesion_ok usuario=david.castro ip=198.51.100.14 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-10T13:57:00-05:00 portal evento=ver_noticias usuario=ricardo.osorio ip=198.51.100.23
+2026-11-10T14:02:11-05:00 portal evento=inicio_sesion_ok usuario=isabela.montoya ip=198.51.100.28 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-10T14:08:48-05:00 portal evento=descargar_certificado usuario=david.castro ip=198.51.100.14
+2026-11-10T14:12:20-05:00 portal evento=ver_perfil usuario=ricardo.osorio ip=198.51.100.23
+2026-11-10T14:13:11-05:00 portal evento=inicio_sesion_ok usuario=manuela.correa ip=198.51.100.26 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-10T14:14:39-05:00 portal evento=solicitar_vacaciones usuario=isabela.montoya ip=198.51.100.28
+2026-11-10T14:20:42-05:00 portal evento=ver_desprendible usuario=ricardo.osorio ip=198.51.100.23
+2026-11-10T14:25:42-05:00 portal evento=cerrar_sesion usuario=ricardo.osorio ip=198.51.100.23
+2026-11-10T14:26:41-05:00 portal evento=ver_perfil usuario=isabela.montoya ip=198.51.100.28
+2026-11-10T14:28:07-05:00 portal evento=ver_perfil usuario=david.castro ip=198.51.100.14
+2026-11-10T14:30:29-05:00 portal evento=ver_perfil usuario=manuela.correa ip=198.51.100.26
+2026-11-10T14:31:46-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.17 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-10T14:34:09-05:00 portal evento=descargar_certificado usuario=rosa.pineda ip=198.51.100.17
+2026-11-10T14:43:19-05:00 portal evento=solicitar_vacaciones usuario=rosa.pineda ip=198.51.100.17
+2026-11-10T14:45:45-05:00 portal evento=ver_vacaciones usuario=david.castro ip=198.51.100.14
+2026-11-10T14:47:41-05:00 portal evento=cerrar_sesion usuario=isabela.montoya ip=198.51.100.28
+2026-11-10T14:49:45-05:00 portal evento=cerrar_sesion usuario=david.castro ip=198.51.100.14
+2026-11-10T14:54:31-05:00 portal evento=ver_perfil usuario=manuela.correa ip=198.51.100.26
+2026-11-10T14:58:16-05:00 portal evento=inicio_sesion_ok usuario=andres.loaiza ip=198.51.100.122 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-10T15:09:23-05:00 portal evento=inicio_sesion_ok usuario=lina.agudelo ip=198.51.100.15 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-10T15:13:19-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.17
+2026-11-10T15:20:27-05:00 portal evento=ver_desprendible usuario=lina.agudelo ip=198.51.100.15
+2026-11-10T15:22:31-05:00 portal evento=cerrar_sesion usuario=manuela.correa ip=198.51.100.26
+2026-11-10T15:22:47-05:00 portal evento=ver_perfil usuario=andres.loaiza ip=198.51.100.122
+2026-11-10T15:32:49-05:00 portal evento=descargar_certificado usuario=andres.loaiza ip=198.51.100.122
+2026-11-10T15:35:52-05:00 portal evento=descargar_certificado usuario=lina.agudelo ip=198.51.100.15
+2026-11-10T15:37:16-05:00 portal evento=descargar_certificado usuario=andres.loaiza ip=198.51.100.122
+2026-11-10T15:48:20-05:00 portal evento=solicitar_vacaciones usuario=andres.loaiza ip=198.51.100.122
+2026-11-10T15:50:52-05:00 portal evento=inicio_sesion_ok usuario=tomas.echeverri ip=198.51.100.18 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-10T15:52:39-05:00 portal evento=inicio_sesion_ok usuario=felipe.zuluaga ip=198.51.100.111 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-10T15:57:30-05:00 portal evento=ver_perfil usuario=lina.agudelo ip=198.51.100.15
+2026-11-10T16:00:51-05:00 portal evento=solicitar_vacaciones usuario=tomas.echeverri ip=198.51.100.18
+2026-11-10T16:00:52-05:00 portal evento=ver_perfil usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-10T16:02:51-05:00 portal evento=cerrar_sesion usuario=tomas.echeverri ip=198.51.100.18
+2026-11-10T16:04:58-05:00 portal evento=ver_noticias usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-10T16:06:20-05:00 portal evento=cerrar_sesion usuario=andres.loaiza ip=198.51.100.122
+2026-11-10T16:08:48-05:00 portal evento=ver_perfil usuario=lina.agudelo ip=198.51.100.15
+2026-11-10T16:22:05-05:00 portal evento=inicio_sesion_ok usuario=angela.vargas ip=198.51.100.27 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-10T16:28:20-05:00 portal evento=ver_perfil usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-10T16:29:48-05:00 portal evento=cerrar_sesion usuario=lina.agudelo ip=198.51.100.15
+2026-11-10T16:40:53-05:00 portal evento=ver_vacaciones usuario=angela.vargas ip=198.51.100.27
+2026-11-10T16:54:20-05:00 portal evento=cerrar_sesion usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-10T17:09:53-05:00 portal evento=cerrar_sesion usuario=angela.vargas ip=198.51.100.27
+2026-11-10T21:14:07-05:00 portal evento=inicio_sesion_ok usuario=hernan.agudelo ip=198.51.100.126 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-10T21:17:07-05:00 portal evento=descargar_certificado usuario=hernan.agudelo ip=198.51.100.126
+2026-11-10T21:23:07-05:00 portal evento=ver_directorio usuario=hernan.agudelo ip=198.51.100.126 resultados=48
+2026-11-10T21:25:07-05:00 portal evento=cerrar_sesion usuario=hernan.agudelo ip=198.51.100.126
+2026-11-11T07:03:16-05:00 portal evento=inicio_sesion_ok usuario=alejandro.toro ip=198.51.100.10 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-11T07:04:12-05:00 portal evento=inicio_sesion_ok usuario=santiago.marin ip=198.51.100.15 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-11T07:18:28-05:00 portal evento=ver_desprendible usuario=santiago.marin ip=198.51.100.15
+2026-11-11T07:22:36-05:00 portal evento=ver_noticias usuario=alejandro.toro ip=198.51.100.10
+2026-11-11T07:26:11-05:00 portal evento=inicio_sesion_ok usuario=lina.agudelo ip=198.51.100.144 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-11T07:29:42-05:00 portal evento=ver_desprendible usuario=lina.agudelo ip=198.51.100.144
+2026-11-11T07:30:48-05:00 portal evento=descargar_certificado usuario=lina.agudelo ip=198.51.100.144
+2026-11-11T07:33:48-05:00 portal evento=cerrar_sesion usuario=lina.agudelo ip=198.51.100.144
+2026-11-11T07:35:34-05:00 portal evento=inicio_sesion_ok usuario=ricardo.osorio ip=198.51.100.21 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-11T07:41:46-05:00 portal evento=ver_perfil usuario=santiago.marin ip=198.51.100.15
+2026-11-11T07:45:12-05:00 portal evento=ver_noticias usuario=alejandro.toro ip=198.51.100.10
+2026-11-11T07:45:59-05:00 portal evento=solicitar_vacaciones usuario=ricardo.osorio ip=198.51.100.21
+2026-11-11T07:57:53-05:00 portal evento=descargar_certificado usuario=santiago.marin ip=198.51.100.15
+2026-11-11T08:02:13-05:00 portal evento=ver_vacaciones usuario=santiago.marin ip=198.51.100.15
+2026-11-11T08:04:11-05:00 portal evento=ver_desprendible usuario=ricardo.osorio ip=198.51.100.21
+2026-11-11T08:04:13-05:00 portal evento=cerrar_sesion usuario=santiago.marin ip=198.51.100.15
+2026-11-11T08:04:22-05:00 portal evento=inicio_sesion_ok usuario=manuela.correa ip=198.51.100.123 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-11T08:06:39-05:00 portal evento=ver_vacaciones usuario=alejandro.toro ip=198.51.100.10
+2026-11-11T08:15:23-05:00 portal evento=ver_perfil usuario=manuela.correa ip=198.51.100.123
+2026-11-11T08:19:42-05:00 portal evento=ver_desprendible usuario=manuela.correa ip=198.51.100.123
+2026-11-11T08:28:11-05:00 portal evento=cerrar_sesion usuario=ricardo.osorio ip=198.51.100.21
+2026-11-11T08:33:53-05:00 portal evento=inicio_sesion_ok usuario=pablo.munoz ip=198.51.100.30 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-11T08:35:39-05:00 portal evento=cerrar_sesion usuario=alejandro.toro ip=198.51.100.10
+2026-11-11T08:39:21-05:00 portal evento=ver_noticias usuario=manuela.correa ip=198.51.100.123
+2026-11-11T08:48:09-05:00 portal evento=inicio_sesion_ok usuario=ximena.botero ip=198.51.100.140 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-11T08:56:44-05:00 portal evento=ver_vacaciones usuario=ximena.botero ip=198.51.100.140
+2026-11-11T08:56:56-05:00 portal evento=solicitar_vacaciones usuario=pablo.munoz ip=198.51.100.30
+2026-11-11T09:03:37-05:00 portal evento=ver_vacaciones usuario=manuela.correa ip=198.51.100.123
+2026-11-11T09:04:51-05:00 portal evento=ver_perfil usuario=ximena.botero ip=198.51.100.140
+2026-11-11T09:09:37-05:00 portal evento=ver_perfil usuario=pablo.munoz ip=198.51.100.30
+2026-11-11T09:10:55-05:00 portal evento=ver_noticias usuario=ximena.botero ip=198.51.100.140
+2026-11-11T09:26:03-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.21 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-11T09:30:37-05:00 portal evento=cerrar_sesion usuario=manuela.correa ip=198.51.100.123
+2026-11-11T09:31:48-05:00 portal evento=ver_vacaciones usuario=natalia.quintero ip=198.51.100.21
+2026-11-11T09:31:55-05:00 portal evento=cerrar_sesion usuario=ximena.botero ip=198.51.100.140
+2026-11-11T09:33:40-05:00 portal evento=ver_perfil usuario=pablo.munoz ip=198.51.100.30
+2026-11-11T09:35:40-05:00 portal evento=cerrar_sesion usuario=pablo.munoz ip=198.51.100.30
+2026-11-11T09:42:15-05:00 portal evento=inicio_sesion_ok usuario=catalina.gutierrez ip=198.51.100.19 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-11T09:44:29-05:00 portal evento=ver_desprendible usuario=natalia.quintero ip=198.51.100.21
+2026-11-11T09:55:45-05:00 portal evento=inicio_sesion_ok usuario=mateo.valencia ip=198.51.100.15 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-11T10:07:42-05:00 portal evento=descargar_certificado usuario=catalina.gutierrez ip=198.51.100.19
+2026-11-11T10:08:41-05:00 portal evento=ver_vacaciones usuario=mateo.valencia ip=198.51.100.15
+2026-11-11T10:09:29-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.21
+2026-11-11T10:11:03-05:00 portal evento=ver_noticias usuario=mateo.valencia ip=198.51.100.15
+2026-11-11T10:19:28-05:00 portal evento=ver_desprendible usuario=catalina.gutierrez ip=198.51.100.19
+2026-11-11T10:27:55-05:00 portal evento=ver_vacaciones usuario=mateo.valencia ip=198.51.100.15
+2026-11-11T10:31:12-05:00 portal evento=inicio_sesion_ok usuario=daniela.henao ip=198.51.100.24 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-11T10:34:20-05:00 portal evento=descargar_certificado usuario=catalina.gutierrez ip=198.51.100.19
+2026-11-11T10:47:39-05:00 portal evento=descargar_certificado usuario=daniela.henao ip=198.51.100.24
+2026-11-11T10:51:23-05:00 portal evento=descargar_certificado usuario=mateo.valencia ip=198.51.100.15
+2026-11-11T10:56:23-05:00 portal evento=cerrar_sesion usuario=mateo.valencia ip=198.51.100.15
+2026-11-11T10:59:02-05:00 portal evento=ver_perfil usuario=catalina.gutierrez ip=198.51.100.19
+2026-11-11T10:59:34-05:00 portal evento=inicio_sesion_ok usuario=claudia.hoyos ip=198.51.100.26 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-11T10:59:39-05:00 portal evento=ver_perfil usuario=daniela.henao ip=198.51.100.24
+2026-11-11T11:05:05-05:00 portal evento=ver_perfil usuario=daniela.henao ip=198.51.100.24
+2026-11-11T11:07:02-05:00 portal evento=cerrar_sesion usuario=catalina.gutierrez ip=198.51.100.19
+2026-11-11T11:09:54-05:00 portal evento=descargar_reporte usuario=claudia.hoyos ip=198.51.100.26 archivo="novedades-11-11.xlsx" tamano_kb=55
+2026-11-11T11:27:05-05:00 portal evento=cerrar_sesion usuario=daniela.henao ip=198.51.100.24
+2026-11-11T11:30:54-05:00 portal evento=cerrar_sesion usuario=claudia.hoyos ip=198.51.100.26
+2026-11-11T12:04:02-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.142 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-11T12:21:39-05:00 portal evento=descargar_certificado usuario=rosa.pineda ip=198.51.100.142
+2026-11-11T12:23:39-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.142
+2026-11-11T12:47:03-05:00 portal evento=inicio_sesion_ok usuario=jorge.castano ip=198.51.100.23 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-11T13:04:09-05:00 portal evento=descargar_certificado usuario=jorge.castano ip=198.51.100.23
+2026-11-11T13:09:20-05:00 portal evento=inicio_sesion_ok usuario=miguel.rendon ip=198.51.100.15 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-11T13:10:09-05:00 portal evento=cerrar_sesion usuario=jorge.castano ip=198.51.100.23
+2026-11-11T13:13:08-05:00 portal evento=descargar_reporte usuario=miguel.rendon ip=198.51.100.15 archivo="novedades-11-11.xlsx" tamano_kb=55
+2026-11-11T13:16:04-05:00 portal evento=descargar_certificado usuario=miguel.rendon ip=198.51.100.15
+2026-11-11T13:36:04-05:00 portal evento=ver_vacaciones usuario=miguel.rendon ip=198.51.100.15
+2026-11-11T13:47:23-05:00 portal evento=inicio_sesion_ok usuario=alejandra.cifuentes ip=198.51.100.12 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-11T14:03:03-05:00 portal evento=ver_noticias usuario=alejandra.cifuentes ip=198.51.100.12
+2026-11-11T14:06:04-05:00 portal evento=cerrar_sesion usuario=miguel.rendon ip=198.51.100.15
+2026-11-11T14:16:03-05:00 portal evento=cerrar_sesion usuario=alejandra.cifuentes ip=198.51.100.12
+2026-11-11T14:27:24-05:00 portal evento=inicio_sesion_ok usuario=felipe.zuluaga ip=198.51.100.111 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-11T14:41:15-05:00 portal evento=descargar_certificado usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-11T14:45:20-05:00 portal evento=ver_noticias usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-11T14:52:20-05:00 portal evento=cerrar_sesion usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-11T15:17:09-05:00 portal evento=inicio_sesion_ok usuario=david.castro ip=198.51.100.141 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-11T15:28:00-05:00 portal evento=ver_noticias usuario=david.castro ip=198.51.100.141
+2026-11-11T15:35:32-05:00 portal evento=inicio_sesion_ok usuario=angela.vargas ip=198.51.100.136 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-11T15:38:42-05:00 portal evento=ver_vacaciones usuario=david.castro ip=198.51.100.141
+2026-11-11T15:57:21-05:00 portal evento=ver_desprendible usuario=angela.vargas ip=198.51.100.136
+2026-11-11T16:00:52-05:00 portal evento=inicio_sesion_ok usuario=fernando.salazar ip=198.51.100.14 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-11T16:04:06-05:00 portal evento=ver_perfil usuario=david.castro ip=198.51.100.141
+2026-11-11T16:06:06-05:00 portal evento=cerrar_sesion usuario=david.castro ip=198.51.100.141
+2026-11-11T16:09:35-05:00 portal evento=descargar_certificado usuario=fernando.salazar ip=198.51.100.14
+2026-11-11T16:17:21-05:00 portal evento=cerrar_sesion usuario=angela.vargas ip=198.51.100.136
+2026-11-11T16:18:50-05:00 portal evento=inicio_sesion_ok usuario=kevin.arias ip=198.51.100.17 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-11T16:31:01-05:00 portal evento=descargar_certificado usuario=kevin.arias ip=198.51.100.17
+2026-11-11T16:31:18-05:00 portal evento=ver_noticias usuario=fernando.salazar ip=198.51.100.14
+2026-11-11T16:32:18-05:00 portal evento=cerrar_sesion usuario=fernando.salazar ip=198.51.100.14
+2026-11-11T16:37:36-05:00 portal evento=inicio_sesion_ok usuario=sebastian.rios ip=198.51.100.14 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-11T16:47:48-05:00 portal evento=ver_desprendible usuario=sebastian.rios ip=198.51.100.14
+2026-11-11T16:51:44-05:00 portal evento=ver_noticias usuario=kevin.arias ip=198.51.100.17
+2026-11-11T16:58:34-05:00 portal evento=inicio_sesion_ok usuario=carolina.mejia ip=198.51.100.17 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-11T17:00:04-05:00 portal evento=ver_perfil usuario=kevin.arias ip=198.51.100.17
+2026-11-11T17:07:36-05:00 portal evento=ver_desprendible usuario=carolina.mejia ip=198.51.100.17
+2026-11-11T17:11:04-05:00 portal evento=cerrar_sesion usuario=kevin.arias ip=198.51.100.17
+2026-11-11T17:11:18-05:00 portal evento=solicitar_vacaciones usuario=sebastian.rios ip=198.51.100.14
+2026-11-11T17:31:05-05:00 portal evento=ver_noticias usuario=carolina.mejia ip=198.51.100.17
+2026-11-11T17:32:18-05:00 portal evento=cerrar_sesion usuario=sebastian.rios ip=198.51.100.14
+2026-11-11T17:51:04-05:00 portal evento=solicitar_vacaciones usuario=carolina.mejia ip=198.51.100.17
+2026-11-11T17:59:57-05:00 portal evento=ver_noticias usuario=carolina.mejia ip=198.51.100.17
+2026-11-11T18:03:57-05:00 portal evento=cerrar_sesion usuario=carolina.mejia ip=198.51.100.17
+2026-11-12T07:21:27-05:00 portal evento=inicio_sesion_ok usuario=tomas.echeverri ip=198.51.100.30 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-12T07:22:57-05:00 portal evento=ver_desprendible usuario=tomas.echeverri ip=198.51.100.30
+2026-11-12T07:42:25-05:00 portal evento=solicitar_vacaciones usuario=tomas.echeverri ip=198.51.100.30
+2026-11-12T07:47:39-05:00 portal evento=inicio_sesion_ok usuario=manuela.correa ip=198.51.100.29 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-12T07:56:43-05:00 portal evento=ver_desprendible usuario=manuela.correa ip=198.51.100.29
+2026-11-12T07:58:17-05:00 portal evento=ver_noticias usuario=tomas.echeverri ip=198.51.100.30
+2026-11-12T08:00:05-05:00 portal evento=inicio_sesion_ok usuario=kevin.arias ip=198.51.100.21 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-12T08:02:33-05:00 portal evento=ver_perfil usuario=manuela.correa ip=198.51.100.29
+2026-11-12T08:05:03-05:00 portal evento=inicio_sesion_ok usuario=daniela.henao ip=198.51.100.106 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-12T08:10:55-05:00 portal evento=inicio_sesion_ok usuario=diana.bedoya ip=198.51.100.119 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-12T08:12:30-05:00 portal evento=ver_noticias usuario=tomas.echeverri ip=198.51.100.30
+2026-11-12T08:16:23-05:00 portal evento=ver_perfil usuario=diana.bedoya ip=198.51.100.119
+2026-11-12T08:16:53-05:00 portal evento=ver_perfil usuario=kevin.arias ip=198.51.100.21
+2026-11-12T08:24:15-05:00 portal evento=ver_desprendible usuario=manuela.correa ip=198.51.100.29
+2026-11-12T08:24:47-05:00 portal evento=ver_vacaciones usuario=daniela.henao ip=198.51.100.106
+2026-11-12T08:26:31-05:00 portal evento=ver_vacaciones usuario=diana.bedoya ip=198.51.100.119
+2026-11-12T08:31:05-05:00 portal evento=ver_noticias usuario=diana.bedoya ip=198.51.100.119
+2026-11-12T08:31:31-05:00 portal evento=ver_desprendible usuario=kevin.arias ip=198.51.100.21
+2026-11-12T08:36:30-05:00 portal evento=cerrar_sesion usuario=tomas.echeverri ip=198.51.100.30
+2026-11-12T08:39:15-05:00 portal evento=cerrar_sesion usuario=manuela.correa ip=198.51.100.29
+2026-11-12T08:43:31-05:00 portal evento=ver_noticias usuario=daniela.henao ip=198.51.100.106
+2026-11-12T08:46:31-05:00 portal evento=cerrar_sesion usuario=daniela.henao ip=198.51.100.106
+2026-11-12T08:49:02-05:00 portal evento=solicitar_vacaciones usuario=diana.bedoya ip=198.51.100.119
+2026-11-12T08:50:57-05:00 portal evento=inicio_sesion_ok usuario=gloria.jaramillo ip=198.51.100.127 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-12T08:51:31-05:00 portal evento=cerrar_sesion usuario=kevin.arias ip=198.51.100.21
+2026-11-12T08:56:33-05:00 portal evento=inicio_sesion_ok usuario=laura.patino ip=198.51.100.110 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-12T08:57:02-05:00 portal evento=cerrar_sesion usuario=diana.bedoya ip=198.51.100.119
+2026-11-12T09:12:14-05:00 portal evento=ver_vacaciones usuario=gloria.jaramillo ip=198.51.100.127
+2026-11-12T09:20:15-05:00 portal evento=solicitar_vacaciones usuario=gloria.jaramillo ip=198.51.100.127
+2026-11-12T09:21:06-05:00 portal evento=ver_perfil usuario=laura.patino ip=198.51.100.110
+2026-11-12T09:27:15-05:00 portal evento=cerrar_sesion usuario=gloria.jaramillo ip=198.51.100.127
+2026-11-12T09:28:15-05:00 portal evento=inicio_sesion_ok usuario=catalina.gutierrez ip=198.51.100.132 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-12T09:29:30-05:00 portal evento=solicitar_vacaciones usuario=laura.patino ip=198.51.100.110
+2026-11-12T09:44:48-05:00 portal evento=ver_desprendible usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-12T09:46:30-05:00 portal evento=cerrar_sesion usuario=laura.patino ip=198.51.100.110
+2026-11-12T09:55:50-05:00 portal evento=solicitar_vacaciones usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-12T10:02:37-05:00 portal evento=solicitar_vacaciones usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-12T10:16:37-05:00 portal evento=cerrar_sesion usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-12T10:44:46-05:00 portal evento=inicio_sesion_ok usuario=ricardo.osorio ip=198.51.100.117 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-12T10:55:03-05:00 portal evento=ver_noticias usuario=ricardo.osorio ip=198.51.100.117
+2026-11-12T11:18:36-05:00 portal evento=descargar_certificado usuario=ricardo.osorio ip=198.51.100.117
+2026-11-12T11:19:48-05:00 portal evento=inicio_sesion_ok usuario=oscar.ramirez ip=198.51.100.19 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-12T11:36:52-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.112 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-12T11:39:36-05:00 portal evento=cerrar_sesion usuario=ricardo.osorio ip=198.51.100.117
+2026-11-12T11:42:14-05:00 portal evento=ver_noticias usuario=oscar.ramirez ip=198.51.100.19
+2026-11-12T11:45:51-05:00 portal evento=ver_desprendible usuario=oscar.ramirez ip=198.51.100.19
+2026-11-12T11:46:09-05:00 portal evento=ver_desprendible usuario=natalia.quintero ip=198.51.100.112
+2026-11-12T11:49:45-05:00 portal evento=ver_vacaciones usuario=oscar.ramirez ip=198.51.100.19
+2026-11-12T11:59:36-05:00 portal evento=inicio_sesion_ok usuario=fernando.salazar ip=198.51.100.21 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-12T12:01:08-05:00 portal evento=ver_noticias usuario=natalia.quintero ip=198.51.100.112
+2026-11-12T12:08:23-05:00 portal evento=ver_perfil usuario=fernando.salazar ip=198.51.100.21
+2026-11-12T12:14:45-05:00 portal evento=inicio_sesion_ok usuario=camilo.restrepo ip=198.51.100.15 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-12T12:16:45-05:00 portal evento=cerrar_sesion usuario=oscar.ramirez ip=198.51.100.19
+2026-11-12T12:18:55-05:00 portal evento=inicio_sesion_ok usuario=miguel.rendon ip=198.51.100.29 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-12T12:19:19-05:00 portal evento=ver_desprendible usuario=fernando.salazar ip=198.51.100.21
+2026-11-12T12:22:56-05:00 portal evento=ver_vacaciones usuario=natalia.quintero ip=198.51.100.112
+2026-11-12T12:25:07-05:00 portal evento=ver_vacaciones usuario=fernando.salazar ip=198.51.100.21
+2026-11-12T12:26:33-05:00 portal evento=solicitar_vacaciones usuario=miguel.rendon ip=198.51.100.29
+2026-11-12T12:28:07-05:00 portal evento=cerrar_sesion usuario=fernando.salazar ip=198.51.100.21
+2026-11-12T12:32:31-05:00 portal evento=inicio_sesion_ok usuario=mateo.valencia ip=198.51.100.16 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-12T12:36:39-05:00 portal evento=ver_desprendible usuario=miguel.rendon ip=198.51.100.29
+2026-11-12T12:37:20-05:00 portal evento=descargar_certificado usuario=camilo.restrepo ip=198.51.100.15
+2026-11-12T12:39:16-05:00 portal evento=ver_vacaciones usuario=camilo.restrepo ip=198.51.100.15
+2026-11-12T12:40:22-05:00 portal evento=inicio_sesion_ok usuario=santiago.marin ip=198.51.100.25 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-12T12:41:14-05:00 portal evento=ver_desprendible usuario=mateo.valencia ip=198.51.100.16
+2026-11-12T12:42:51-05:00 portal evento=ver_perfil usuario=camilo.restrepo ip=198.51.100.15
+2026-11-12T12:42:56-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.112
+2026-11-12T12:43:16-05:00 portal evento=ver_perfil usuario=mateo.valencia ip=198.51.100.16
+2026-11-12T12:50:56-05:00 portal evento=ver_perfil usuario=mateo.valencia ip=198.51.100.16
+2026-11-12T12:51:29-05:00 portal evento=inicio_sesion_ok usuario=isabela.montoya ip=198.51.100.23 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-12T12:51:45-05:00 portal evento=ver_perfil usuario=miguel.rendon ip=198.51.100.29
+2026-11-12T12:57:51-05:00 portal evento=cerrar_sesion usuario=camilo.restrepo ip=198.51.100.15
+2026-11-12T12:58:45-05:00 portal evento=cerrar_sesion usuario=miguel.rendon ip=198.51.100.29
+2026-11-12T13:00:40-05:00 portal evento=solicitar_vacaciones usuario=santiago.marin ip=198.51.100.25
+2026-11-12T13:02:56-05:00 portal evento=solicitar_vacaciones usuario=isabela.montoya ip=198.51.100.23
+2026-11-12T13:03:42-05:00 portal evento=ver_perfil usuario=mateo.valencia ip=198.51.100.16
+2026-11-12T13:05:45-05:00 portal evento=inicio_sesion_ok usuario=david.castro ip=198.51.100.18 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-12T13:07:40-05:00 portal evento=cerrar_sesion usuario=santiago.marin ip=198.51.100.25
+2026-11-12T13:10:03-05:00 portal evento=ver_noticias usuario=david.castro ip=198.51.100.18
+2026-11-12T13:20:42-05:00 portal evento=cerrar_sesion usuario=mateo.valencia ip=198.51.100.16
+2026-11-12T13:22:35-05:00 portal evento=ver_noticias usuario=isabela.montoya ip=198.51.100.23
+2026-11-12T13:27:15-05:00 portal evento=inicio_sesion_ok usuario=jhon.montes ip=198.51.100.15 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-12T13:30:35-05:00 portal evento=cerrar_sesion usuario=isabela.montoya ip=198.51.100.23
+2026-11-12T13:32:51-05:00 portal evento=ver_desprendible usuario=david.castro ip=198.51.100.18
+2026-11-12T13:39:25-05:00 portal evento=ver_desprendible usuario=david.castro ip=198.51.100.18
+2026-11-12T13:44:25-05:00 portal evento=cerrar_sesion usuario=david.castro ip=198.51.100.18
+2026-11-12T13:45:12-05:00 portal evento=ver_noticias usuario=jhon.montes ip=198.51.100.15
+2026-11-12T13:53:29-05:00 portal evento=ver_desprendible usuario=jhon.montes ip=198.51.100.15
+2026-11-12T13:54:29-05:00 portal evento=cerrar_sesion usuario=jhon.montes ip=198.51.100.15
+2026-11-12T14:00:45-05:00 portal evento=inicio_sesion_ok usuario=valeria.giraldo ip=198.51.100.13 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-12T14:11:42-05:00 portal evento=inicio_sesion_ok usuario=angela.vargas ip=198.51.100.16 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-12T14:12:23-05:00 portal evento=ver_vacaciones usuario=valeria.giraldo ip=198.51.100.13
+2026-11-12T14:14:15-05:00 portal evento=inicio_sesion_ok usuario=julian.ospina ip=198.51.100.133 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-12T14:25:32-05:00 portal evento=ver_vacaciones usuario=valeria.giraldo ip=198.51.100.13
+2026-11-12T14:32:12-05:00 portal evento=ver_desprendible usuario=julian.ospina ip=198.51.100.133
+2026-11-12T14:35:41-05:00 portal evento=ver_noticias usuario=julian.ospina ip=198.51.100.133
+2026-11-12T14:36:21-05:00 portal evento=ver_desprendible usuario=angela.vargas ip=198.51.100.16
+2026-11-12T14:47:21-05:00 portal evento=cerrar_sesion usuario=angela.vargas ip=198.51.100.16
+2026-11-12T14:47:44-05:00 portal evento=solicitar_vacaciones usuario=valeria.giraldo ip=198.51.100.13
+2026-11-12T14:52:24-05:00 portal evento=inicio_sesion_ok usuario=claudia.hoyos ip=198.51.100.137 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-12T14:57:41-05:00 portal evento=cerrar_sesion usuario=julian.ospina ip=198.51.100.133
+2026-11-12T14:58:12-05:00 portal evento=descargar_reporte usuario=claudia.hoyos ip=198.51.100.137 archivo="novedades-12-11.xlsx" tamano_kb=72
+2026-11-12T14:59:38-05:00 portal evento=ver_perfil usuario=valeria.giraldo ip=198.51.100.13
+2026-11-12T15:06:12-05:00 portal evento=cerrar_sesion usuario=claudia.hoyos ip=198.51.100.137
+2026-11-12T15:17:38-05:00 portal evento=cerrar_sesion usuario=valeria.giraldo ip=198.51.100.13
+2026-11-12T16:07:56-05:00 portal evento=inicio_sesion_ok usuario=alejandro.toro ip=198.51.100.131 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-12T16:24:48-05:00 portal evento=inicio_sesion_ok usuario=alejandra.cifuentes ip=198.51.100.146 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-12T16:27:55-05:00 portal evento=inicio_sesion_ok usuario=luisa.arango ip=198.51.100.102 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-12T16:29:25-05:00 portal evento=solicitar_vacaciones usuario=alejandro.toro ip=198.51.100.131
+2026-11-12T16:34:00-05:00 portal evento=ver_vacaciones usuario=alejandro.toro ip=198.51.100.131
+2026-11-12T16:34:38-05:00 portal evento=inicio_sesion_ok usuario=paula.cano ip=198.51.100.15 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-12T16:35:04-05:00 portal evento=ver_desprendible usuario=alejandra.cifuentes ip=198.51.100.146
+2026-11-12T16:35:46-05:00 portal evento=inicio_sesion_ok usuario=ximena.botero ip=198.51.100.25 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-12T16:42:09-05:00 portal evento=inicio_sesion_ok usuario=jorge.castano ip=198.51.100.14 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-12T16:45:12-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.30 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-12T16:52:47-05:00 portal evento=ver_perfil usuario=luisa.arango ip=198.51.100.102
+2026-11-12T16:54:50-05:00 portal evento=ver_vacaciones usuario=alejandra.cifuentes ip=198.51.100.146
+2026-11-12T16:59:06-05:00 portal evento=ver_desprendible usuario=alejandro.toro ip=198.51.100.131
+2026-11-12T16:59:14-05:00 portal evento=ver_noticias usuario=alejandra.cifuentes ip=198.51.100.146
+2026-11-12T16:59:34-05:00 portal evento=ver_noticias usuario=paula.cano ip=198.51.100.15
+2026-11-12T16:59:50-05:00 portal evento=solicitar_vacaciones usuario=ximena.botero ip=198.51.100.25
+2026-11-12T17:01:34-05:00 portal evento=cerrar_sesion usuario=paula.cano ip=198.51.100.15
+2026-11-12T17:02:16-05:00 portal evento=solicitar_vacaciones usuario=alejandro.toro ip=198.51.100.131
+2026-11-12T17:03:36-05:00 portal evento=ver_perfil usuario=ximena.botero ip=198.51.100.25
+2026-11-12T17:06:13-05:00 portal evento=ver_vacaciones usuario=rosa.pineda ip=198.51.100.30
+2026-11-12T17:07:02-05:00 portal evento=ver_noticias usuario=luisa.arango ip=198.51.100.102
+2026-11-12T17:07:46-05:00 portal evento=descargar_certificado usuario=jorge.castano ip=198.51.100.14
+2026-11-12T17:08:20-05:00 portal evento=solicitar_vacaciones usuario=rosa.pineda ip=198.51.100.30
+2026-11-12T17:15:14-05:00 portal evento=cerrar_sesion usuario=alejandra.cifuentes ip=198.51.100.146
+2026-11-12T17:19:11-05:00 portal evento=ver_noticias usuario=ximena.botero ip=198.51.100.25
+2026-11-12T17:28:41-05:00 portal evento=ver_desprendible usuario=jorge.castano ip=198.51.100.14
+2026-11-12T17:29:16-05:00 portal evento=cerrar_sesion usuario=alejandro.toro ip=198.51.100.131
+2026-11-12T17:29:21-05:00 portal evento=descargar_reporte usuario=luisa.arango ip=198.51.100.102 archivo="novedades-12-11.xlsx" tamano_kb=85
+2026-11-12T17:37:11-05:00 portal evento=cerrar_sesion usuario=ximena.botero ip=198.51.100.25
+2026-11-12T17:37:20-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.30
+2026-11-12T17:42:41-05:00 portal evento=cerrar_sesion usuario=jorge.castano ip=198.51.100.14
+2026-11-12T17:54:21-05:00 portal evento=cerrar_sesion usuario=luisa.arango ip=198.51.100.102
+2026-11-13T07:12:58-05:00 portal evento=inicio_sesion_ok usuario=carolina.mejia ip=198.51.100.116 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-13T07:14:24-05:00 portal evento=inicio_sesion_ok usuario=paula.cano ip=198.51.100.11 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-13T07:28:29-05:00 portal evento=ver_perfil usuario=carolina.mejia ip=198.51.100.116
+2026-11-13T07:29:45-05:00 portal evento=ver_vacaciones usuario=carolina.mejia ip=198.51.100.116
+2026-11-13T07:30:25-05:00 portal evento=inicio_sesion_ok usuario=david.castro ip=198.51.100.11 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-13T07:38:28-05:00 portal evento=inicio_sesion_ok usuario=melissa.franco ip=198.51.100.22 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-13T07:38:31-05:00 portal evento=ver_perfil usuario=paula.cano ip=198.51.100.11
+2026-11-13T07:43:29-05:00 portal evento=ver_vacaciones usuario=david.castro ip=198.51.100.11
+2026-11-13T07:52:41-05:00 portal evento=solicitar_vacaciones usuario=david.castro ip=198.51.100.11
+2026-11-13T07:54:11-05:00 portal evento=ver_noticias usuario=carolina.mejia ip=198.51.100.116
+2026-11-13T07:56:20-05:00 portal evento=descargar_certificado usuario=david.castro ip=198.51.100.11
+2026-11-13T07:59:13-05:00 portal evento=ver_perfil usuario=melissa.franco ip=198.51.100.22
+2026-11-13T08:01:58-05:00 portal evento=descargar_certificado usuario=paula.cano ip=198.51.100.11
+2026-11-13T08:10:01-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.112 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-13T08:10:11-05:00 portal evento=cerrar_sesion usuario=carolina.mejia ip=198.51.100.116
+2026-11-13T08:14:20-05:00 portal evento=cerrar_sesion usuario=david.castro ip=198.51.100.11
+2026-11-13T08:15:50-05:00 portal evento=ver_noticias usuario=paula.cano ip=198.51.100.11
+2026-11-13T08:16:27-05:00 portal evento=ver_noticias usuario=melissa.franco ip=198.51.100.22
+2026-11-13T08:17:51-05:00 portal evento=descargar_certificado usuario=melissa.franco ip=198.51.100.22
+2026-11-13T08:22:49-05:00 portal evento=solicitar_vacaciones usuario=paula.cano ip=198.51.100.11
+2026-11-13T08:27:49-05:00 portal evento=cerrar_sesion usuario=paula.cano ip=198.51.100.11
+2026-11-13T08:33:00-05:00 portal evento=descargar_certificado usuario=melissa.franco ip=198.51.100.22
+2026-11-13T08:35:35-05:00 portal evento=ver_perfil usuario=natalia.quintero ip=198.51.100.112
+2026-11-13T08:40:51-05:00 portal evento=ver_vacaciones usuario=natalia.quintero ip=198.51.100.112
+2026-11-13T08:56:00-05:00 portal evento=cerrar_sesion usuario=melissa.franco ip=198.51.100.22
+2026-11-13T08:57:51-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.112
+2026-11-13T09:04:08-05:00 portal evento=inicio_sesion_ok usuario=felipe.zuluaga ip=198.51.100.12 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-13T09:22:56-05:00 portal evento=inicio_sesion_ok usuario=miguel.rendon ip=198.51.100.138 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-13T09:28:15-05:00 portal evento=ver_noticias usuario=felipe.zuluaga ip=198.51.100.12
+2026-11-13T09:40:42-05:00 portal evento=descargar_reporte usuario=miguel.rendon ip=198.51.100.138 archivo="novedades-13-11.xlsx" tamano_kb=77
+2026-11-13T09:45:53-05:00 portal evento=descargar_certificado usuario=miguel.rendon ip=198.51.100.138
+2026-11-13T09:48:17-05:00 portal evento=descargar_certificado usuario=felipe.zuluaga ip=198.51.100.12
+2026-11-13T09:56:17-05:00 portal evento=cerrar_sesion usuario=felipe.zuluaga ip=198.51.100.12
+2026-11-13T10:05:41-05:00 portal evento=inicio_sesion_ok usuario=julian.ospina ip=198.51.100.22 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-13T10:09:53-05:00 portal evento=cerrar_sesion usuario=miguel.rendon ip=198.51.100.138
+2026-11-13T10:19:09-05:00 portal evento=descargar_certificado usuario=julian.ospina ip=198.51.100.22
+2026-11-13T10:45:09-05:00 portal evento=cerrar_sesion usuario=julian.ospina ip=198.51.100.22
+2026-11-13T10:53:52-05:00 portal evento=inicio_sesion_ok usuario=jorge.castano ip=198.51.100.120 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-13T10:56:37-05:00 portal evento=inicio_sesion_ok usuario=beatriz.londono ip=198.51.100.130 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-13T11:01:15-05:00 portal evento=ver_desprendible usuario=jorge.castano ip=198.51.100.120
+2026-11-13T11:03:15-05:00 portal evento=cerrar_sesion usuario=jorge.castano ip=198.51.100.120
+2026-11-13T11:03:19-05:00 portal evento=inicio_sesion_ok usuario=claudia.hoyos ip=198.51.100.137 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-13T11:05:21-05:00 portal evento=descargar_reporte usuario=beatriz.londono ip=198.51.100.130 archivo="novedades-13-11.xlsx" tamano_kb=64
+2026-11-13T11:09:15-05:00 portal evento=descargar_reporte usuario=claudia.hoyos ip=198.51.100.137 archivo="novedades-13-11.xlsx" tamano_kb=75
+2026-11-13T11:13:04-05:00 portal evento=ver_noticias usuario=beatriz.londono ip=198.51.100.130
+2026-11-13T11:20:17-05:00 portal evento=inicio_sesion_ok usuario=gloria.jaramillo ip=198.51.100.127 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-13T11:25:04-05:00 portal evento=cerrar_sesion usuario=beatriz.londono ip=198.51.100.130
+2026-11-13T11:30:21-05:00 portal evento=inicio_sesion_ok usuario=alejandra.cifuentes ip=198.51.100.23 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-13T11:30:49-05:00 portal evento=ver_noticias usuario=gloria.jaramillo ip=198.51.100.127
+2026-11-13T11:34:36-05:00 portal evento=ver_noticias usuario=gloria.jaramillo ip=198.51.100.127
+2026-11-13T11:37:15-05:00 portal evento=cerrar_sesion usuario=claudia.hoyos ip=198.51.100.137
+2026-11-13T11:42:31-05:00 portal evento=ver_perfil usuario=alejandra.cifuentes ip=198.51.100.23
+2026-11-13T11:48:20-05:00 portal evento=inicio_sesion_ok usuario=andres.loaiza ip=198.51.100.122 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-13T11:49:39-05:00 portal evento=inicio_sesion_ok usuario=kevin.arias ip=198.51.100.124 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-13T11:56:55-05:00 portal evento=ver_noticias usuario=alejandra.cifuentes ip=198.51.100.23
+2026-11-13T11:58:36-05:00 portal evento=cerrar_sesion usuario=gloria.jaramillo ip=198.51.100.127
+2026-11-13T12:01:55-05:00 portal evento=cerrar_sesion usuario=alejandra.cifuentes ip=198.51.100.23
+2026-11-13T12:03:57-05:00 portal evento=solicitar_vacaciones usuario=andres.loaiza ip=198.51.100.122
+2026-11-13T12:05:59-05:00 portal evento=ver_perfil usuario=kevin.arias ip=198.51.100.124
+2026-11-13T12:19:57-05:00 portal evento=cerrar_sesion usuario=andres.loaiza ip=198.51.100.122
+2026-11-13T12:22:07-05:00 portal evento=ver_noticias usuario=kevin.arias ip=198.51.100.124
+2026-11-13T12:22:22-05:00 portal evento=inicio_sesion_ok usuario=mariana.ocampo ip=198.51.100.30 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-13T12:37:49-05:00 portal evento=ver_noticias usuario=mariana.ocampo ip=198.51.100.30
+2026-11-13T12:42:17-05:00 portal evento=inicio_sesion_ok usuario=luisa.arango ip=198.51.100.11 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-13T12:43:52-05:00 portal evento=descargar_certificado usuario=kevin.arias ip=198.51.100.124
+2026-11-13T12:45:07-05:00 portal evento=ver_desprendible usuario=mariana.ocampo ip=198.51.100.30
+2026-11-13T12:48:52-05:00 portal evento=cerrar_sesion usuario=kevin.arias ip=198.51.100.124
+2026-11-13T12:53:05-05:00 portal evento=solicitar_vacaciones usuario=luisa.arango ip=198.51.100.11
+2026-11-13T12:54:52-05:00 portal evento=descargar_reporte usuario=luisa.arango ip=198.51.100.11 archivo="novedades-13-11.xlsx" tamano_kb=43
+2026-11-13T13:07:07-05:00 portal evento=cerrar_sesion usuario=mariana.ocampo ip=198.51.100.30
+2026-11-13T13:07:35-05:00 portal evento=descargar_reporte usuario=luisa.arango ip=198.51.100.11 archivo="novedades-13-11.xlsx" tamano_kb=40
+2026-11-13T13:11:17-05:00 portal evento=inicio_sesion_ok usuario=fernando.salazar ip=198.51.100.15 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-13T13:22:35-05:00 portal evento=cerrar_sesion usuario=luisa.arango ip=198.51.100.11
+2026-11-13T13:27:44-05:00 portal evento=ver_perfil usuario=fernando.salazar ip=198.51.100.15
+2026-11-13T13:29:50-05:00 portal evento=inicio_sesion_ok usuario=santiago.marin ip=198.51.100.105 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-13T13:44:20-05:00 portal evento=ver_perfil usuario=santiago.marin ip=198.51.100.105
+2026-11-13T13:51:14-05:00 portal evento=inicio_sesion_ok usuario=lina.agudelo ip=198.51.100.13 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-13T13:52:44-05:00 portal evento=cerrar_sesion usuario=fernando.salazar ip=198.51.100.15
+2026-11-13T13:59:14-05:00 portal evento=inicio_sesion_ok usuario=sebastian.rios ip=198.51.100.12 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-13T14:04:12-05:00 portal evento=ver_vacaciones usuario=lina.agudelo ip=198.51.100.13
+2026-11-13T14:08:38-05:00 portal evento=ver_noticias usuario=santiago.marin ip=198.51.100.105
+2026-11-13T14:14:17-05:00 portal evento=solicitar_vacaciones usuario=sebastian.rios ip=198.51.100.12
+2026-11-13T14:19:26-05:00 portal evento=ver_desprendible usuario=santiago.marin ip=198.51.100.105
+2026-11-13T14:20:03-05:00 portal evento=inicio_sesion_ok usuario=ricardo.osorio ip=198.51.100.19 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-13T14:32:12-05:00 portal evento=cerrar_sesion usuario=lina.agudelo ip=198.51.100.13
+2026-11-13T14:32:49-05:00 portal evento=ver_perfil usuario=sebastian.rios ip=198.51.100.12
+2026-11-13T14:36:26-05:00 portal evento=inicio_sesion_ok usuario=juliana.cardona ip=198.51.100.15 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-13T14:39:04-05:00 portal evento=ver_noticias usuario=juliana.cardona ip=198.51.100.15
+2026-11-13T14:41:45-05:00 portal evento=inicio_sesion_ok usuario=manuela.correa ip=198.51.100.17 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-13T14:42:11-05:00 portal evento=ver_vacaciones usuario=juliana.cardona ip=198.51.100.15
+2026-11-13T14:44:59-05:00 portal evento=ver_noticias usuario=ricardo.osorio ip=198.51.100.19
+2026-11-13T14:49:10-05:00 portal evento=ver_noticias usuario=juliana.cardona ip=198.51.100.15
+2026-11-13T14:49:26-05:00 portal evento=cerrar_sesion usuario=santiago.marin ip=198.51.100.105
+2026-11-13T14:51:26-05:00 portal evento=ver_perfil usuario=manuela.correa ip=198.51.100.17
+2026-11-13T14:54:54-05:00 portal evento=ver_perfil usuario=sebastian.rios ip=198.51.100.12
+2026-11-13T14:56:10-05:00 portal evento=ver_vacaciones usuario=manuela.correa ip=198.51.100.17
+2026-11-13T14:57:54-05:00 portal evento=cerrar_sesion usuario=sebastian.rios ip=198.51.100.12
+2026-11-13T15:01:21-05:00 portal evento=ver_desprendible usuario=juliana.cardona ip=198.51.100.15
+2026-11-13T15:03:21-05:00 portal evento=ver_perfil usuario=manuela.correa ip=198.51.100.17
+2026-11-13T15:03:59-05:00 portal evento=cerrar_sesion usuario=ricardo.osorio ip=198.51.100.19
+2026-11-13T15:13:17-05:00 portal evento=ver_vacaciones usuario=manuela.correa ip=198.51.100.17
+2026-11-13T15:29:17-05:00 portal evento=cerrar_sesion usuario=manuela.correa ip=198.51.100.17
+2026-11-13T15:29:21-05:00 portal evento=cerrar_sesion usuario=juliana.cardona ip=198.51.100.15
+2026-11-13T15:43:45-05:00 portal evento=inicio_sesion_ok usuario=camilo.restrepo ip=198.51.100.15 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-13T15:46:37-05:00 portal evento=ver_noticias usuario=camilo.restrepo ip=198.51.100.15
+2026-11-13T15:48:10-05:00 portal evento=inicio_sesion_ok usuario=catalina.gutierrez ip=198.51.100.132 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-13T15:51:09-05:00 portal evento=ver_vacaciones usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-13T15:55:37-05:00 portal evento=cerrar_sesion usuario=camilo.restrepo ip=198.51.100.15
+2026-11-13T16:07:43-05:00 portal evento=solicitar_vacaciones usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-13T16:10:58-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.22 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-13T16:19:00-05:00 portal evento=ver_vacaciones usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-13T16:26:17-05:00 portal evento=ver_desprendible usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-13T16:29:20-05:00 portal evento=descargar_certificado usuario=rosa.pineda ip=198.51.100.22
+2026-11-13T16:39:24-05:00 portal evento=descargar_certificado usuario=rosa.pineda ip=198.51.100.22
+2026-11-13T16:41:36-05:00 portal evento=inicio_sesion_ok usuario=andres.gomez ip=198.51.100.25 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-13T16:45:14-05:00 portal evento=ver_desprendible usuario=andres.gomez ip=198.51.100.25
+2026-11-13T16:45:17-05:00 portal evento=cerrar_sesion usuario=catalina.gutierrez ip=198.51.100.132
+2026-11-13T16:56:46-05:00 portal evento=inicio_sesion_ok usuario=tomas.echeverri ip=198.51.100.20 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-13T16:58:19-05:00 portal evento=solicitar_vacaciones usuario=rosa.pineda ip=198.51.100.22
+2026-11-13T16:59:02-05:00 portal evento=inicio_sesion_ok usuario=alejandro.toro ip=198.51.100.20 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-13T17:03:58-05:00 portal evento=ver_vacaciones usuario=andres.gomez ip=198.51.100.25
+2026-11-13T17:06:19-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.22
+2026-11-13T17:12:09-05:00 portal evento=ver_desprendible usuario=tomas.echeverri ip=198.51.100.20
+2026-11-13T17:12:14-05:00 portal evento=solicitar_vacaciones usuario=alejandro.toro ip=198.51.100.20
+2026-11-13T17:14:30-05:00 portal evento=solicitar_vacaciones usuario=alejandro.toro ip=198.51.100.20
+2026-11-13T17:25:40-05:00 portal evento=solicitar_vacaciones usuario=andres.gomez ip=198.51.100.25
+2026-11-13T17:32:32-05:00 portal evento=ver_desprendible usuario=tomas.echeverri ip=198.51.100.20
+2026-11-13T17:33:30-05:00 portal evento=cerrar_sesion usuario=alejandro.toro ip=198.51.100.20
+2026-11-13T17:52:51-05:00 portal evento=descargar_certificado usuario=tomas.echeverri ip=198.51.100.20
+2026-11-13T17:53:40-05:00 portal evento=cerrar_sesion usuario=andres.gomez ip=198.51.100.25
+2026-11-13T18:00:51-05:00 portal evento=cerrar_sesion usuario=tomas.echeverri ip=198.51.100.20
+2026-11-17T07:11:30-05:00 portal evento=inicio_sesion_ok usuario=jhon.montes ip=198.51.100.145 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-17T07:14:06-05:00 portal evento=descargar_certificado usuario=jhon.montes ip=198.51.100.145
+2026-11-17T07:22:26-05:00 portal evento=inicio_sesion_ok usuario=paula.cano ip=198.51.100.26 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-17T07:22:59-05:00 portal evento=descargar_certificado usuario=jhon.montes ip=198.51.100.145
+2026-11-17T07:42:55-05:00 portal evento=solicitar_vacaciones usuario=paula.cano ip=198.51.100.26
+2026-11-17T07:45:50-05:00 portal evento=ver_vacaciones usuario=jhon.montes ip=198.51.100.145
+2026-11-17T07:58:54-05:00 portal evento=ver_noticias usuario=paula.cano ip=198.51.100.26
+2026-11-17T08:00:35-05:00 portal evento=ver_desprendible usuario=paula.cano ip=198.51.100.26
+2026-11-17T08:07:50-05:00 portal evento=cerrar_sesion usuario=jhon.montes ip=198.51.100.145
+2026-11-17T08:23:21-05:00 portal evento=inicio_sesion_ok usuario=gloria.jaramillo ip=198.51.100.23 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-17T08:23:35-05:00 portal evento=cerrar_sesion usuario=paula.cano ip=198.51.100.26
+2026-11-17T08:42:31-05:00 portal evento=ver_perfil usuario=gloria.jaramillo ip=198.51.100.23
+2026-11-17T09:05:57-05:00 portal evento=descargar_certificado usuario=gloria.jaramillo ip=198.51.100.23
+2026-11-17T09:12:09-05:00 portal evento=solicitar_vacaciones usuario=gloria.jaramillo ip=198.51.100.23
+2026-11-17T09:18:09-05:00 portal evento=cerrar_sesion usuario=gloria.jaramillo ip=198.51.100.23
+2026-11-17T09:38:06-05:00 portal evento=inicio_sesion_ok usuario=angela.vargas ip=198.51.100.18 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-17T09:48:09-05:00 portal evento=ver_vacaciones usuario=angela.vargas ip=198.51.100.18
+2026-11-17T09:49:20-05:00 portal evento=inicio_sesion_ok usuario=claudia.hoyos ip=198.51.100.137 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-17T09:58:19-05:00 portal evento=inicio_sesion_ok usuario=fernando.salazar ip=198.51.100.16 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-17T10:03:48-05:00 portal evento=ver_noticias usuario=claudia.hoyos ip=198.51.100.137
+2026-11-17T10:06:48-05:00 portal evento=cerrar_sesion usuario=claudia.hoyos ip=198.51.100.137
+2026-11-17T10:08:25-05:00 portal evento=ver_desprendible usuario=angela.vargas ip=198.51.100.18
+2026-11-17T10:09:39-05:00 portal evento=ver_vacaciones usuario=angela.vargas ip=198.51.100.18
+2026-11-17T10:13:16-05:00 portal evento=solicitar_vacaciones usuario=fernando.salazar ip=198.51.100.16
+2026-11-17T10:18:37-05:00 portal evento=inicio_sesion_ok usuario=felipe.zuluaga ip=198.51.100.111 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-17T10:33:39-05:00 portal evento=cerrar_sesion usuario=angela.vargas ip=198.51.100.18
+2026-11-17T10:34:38-05:00 portal evento=solicitar_vacaciones usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-17T10:41:16-05:00 portal evento=cerrar_sesion usuario=fernando.salazar ip=198.51.100.16
+2026-11-17T10:49:18-05:00 portal evento=inicio_sesion_ok usuario=jorge.castano ip=198.51.100.18 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-17T10:50:21-05:00 portal evento=descargar_certificado usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-17T10:56:27-05:00 portal evento=inicio_sesion_ok usuario=nicolas.arbelaez ip=198.51.100.13 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-17T10:56:34-05:00 portal evento=ver_vacaciones usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-17T11:07:06-05:00 portal evento=descargar_certificado usuario=jorge.castano ip=198.51.100.18
+2026-11-17T11:10:10-05:00 portal evento=ver_desprendible usuario=nicolas.arbelaez ip=198.51.100.13
+2026-11-17T11:15:06-05:00 portal evento=cerrar_sesion usuario=jorge.castano ip=198.51.100.18
+2026-11-17T11:20:03-05:00 portal evento=inicio_sesion_ok usuario=beatriz.londono ip=198.51.100.15 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-17T11:20:34-05:00 portal evento=cerrar_sesion usuario=felipe.zuluaga ip=198.51.100.111
+2026-11-17T11:32:20-05:00 portal evento=inicio_sesion_ok usuario=ricardo.osorio ip=198.51.100.19 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-17T11:32:23-05:00 portal evento=ver_noticias usuario=nicolas.arbelaez ip=198.51.100.13
+2026-11-17T11:40:36-05:00 portal evento=ver_vacaciones usuario=nicolas.arbelaez ip=198.51.100.13
+2026-11-17T11:42:26-05:00 portal evento=descargar_reporte usuario=beatriz.londono ip=198.51.100.15 archivo="novedades-17-11.xlsx" tamano_kb=90
+2026-11-17T11:51:31-05:00 portal evento=ver_desprendible usuario=ricardo.osorio ip=198.51.100.19
+2026-11-17T11:55:54-05:00 portal evento=ver_vacaciones usuario=ricardo.osorio ip=198.51.100.19
+2026-11-17T12:04:05-05:00 portal evento=ver_vacaciones usuario=beatriz.londono ip=198.51.100.15
+2026-11-17T12:05:12-05:00 portal evento=solicitar_vacaciones usuario=ricardo.osorio ip=198.51.100.19
+2026-11-17T12:10:36-05:00 portal evento=cerrar_sesion usuario=nicolas.arbelaez ip=198.51.100.13
+2026-11-17T12:15:08-05:00 portal evento=inicio_sesion_ok usuario=luisa.arango ip=198.51.100.10 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-17T12:18:41-05:00 portal evento=inicio_sesion_ok usuario=valentina.rios ip=198.51.100.30 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-17T12:19:12-05:00 portal evento=descargar_reporte usuario=beatriz.londono ip=198.51.100.15 archivo="novedades-17-11.xlsx" tamano_kb=84
+2026-11-17T12:21:30-05:00 portal evento=inicio_sesion_ok usuario=daniela.henao ip=198.51.100.106 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-17T12:22:09-05:00 portal evento=inicio_sesion_ok usuario=mariana.ocampo ip=198.51.100.22 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-17T12:23:53-05:00 portal evento=inicio_sesion_ok usuario=diana.bedoya ip=198.51.100.24 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-17T12:25:52-05:00 portal evento=descargar_certificado usuario=ricardo.osorio ip=198.51.100.19
+2026-11-17T12:32:48-05:00 portal evento=inicio_sesion_ok usuario=alejandro.toro ip=198.51.100.13 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-17T12:33:19-05:00 portal evento=descargar_reporte usuario=luisa.arango ip=198.51.100.10 archivo="novedades-17-11.xlsx" tamano_kb=82
+2026-11-17T12:34:12-05:00 portal evento=cerrar_sesion usuario=beatriz.londono ip=198.51.100.15
+2026-11-17T12:34:17-05:00 portal evento=ver_desprendible usuario=valentina.rios ip=198.51.100.30
+2026-11-17T12:34:30-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.29 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-17T12:34:39-05:00 portal evento=ver_perfil usuario=mariana.ocampo ip=198.51.100.22
+2026-11-17T12:35:53-05:00 portal evento=ver_noticias usuario=daniela.henao ip=198.51.100.106
+2026-11-17T12:38:52-05:00 portal evento=cerrar_sesion usuario=ricardo.osorio ip=198.51.100.19
+2026-11-17T12:40:52-05:00 portal evento=solicitar_vacaciones usuario=luisa.arango ip=198.51.100.10
+2026-11-17T12:41:50-05:00 portal evento=solicitar_vacaciones usuario=diana.bedoya ip=198.51.100.24
+2026-11-17T12:45:55-05:00 portal evento=descargar_certificado usuario=daniela.henao ip=198.51.100.106
+2026-11-17T12:47:10-05:00 portal evento=ver_desprendible usuario=alejandro.toro ip=198.51.100.13
+2026-11-17T12:48:11-05:00 portal evento=ver_perfil usuario=luisa.arango ip=198.51.100.10
+2026-11-17T12:48:18-05:00 portal evento=ver_desprendible usuario=mariana.ocampo ip=198.51.100.22
+2026-11-17T12:48:38-05:00 portal evento=ver_vacaciones usuario=rosa.pineda ip=198.51.100.29
+2026-11-17T12:50:50-05:00 portal evento=cerrar_sesion usuario=diana.bedoya ip=198.51.100.24
+2026-11-17T12:58:11-05:00 portal evento=cerrar_sesion usuario=luisa.arango ip=198.51.100.10
+2026-11-17T12:58:37-05:00 portal evento=inicio_sesion_ok usuario=pablo.munoz ip=198.51.100.135 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-17T13:00:16-05:00 portal evento=ver_desprendible usuario=pablo.munoz ip=198.51.100.135
+2026-11-17T13:01:38-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.29
+2026-11-17T13:04:01-05:00 portal evento=solicitar_vacaciones usuario=alejandro.toro ip=198.51.100.13
+2026-11-17T13:04:17-05:00 portal evento=cerrar_sesion usuario=valentina.rios ip=198.51.100.30
+2026-11-17T13:05:55-05:00 portal evento=cerrar_sesion usuario=daniela.henao ip=198.51.100.106
+2026-11-17T13:10:11-05:00 portal evento=descargar_certificado usuario=alejandro.toro ip=198.51.100.13
+2026-11-17T13:11:46-05:00 portal evento=ver_vacaciones usuario=mariana.ocampo ip=198.51.100.22
+2026-11-17T13:22:46-05:00 portal evento=ver_desprendible usuario=alejandro.toro ip=198.51.100.13
+2026-11-17T13:24:16-05:00 portal evento=cerrar_sesion usuario=pablo.munoz ip=198.51.100.135
+2026-11-17T13:32:46-05:00 portal evento=cerrar_sesion usuario=alejandro.toro ip=198.51.100.13
+2026-11-17T13:33:46-05:00 portal evento=cerrar_sesion usuario=mariana.ocampo ip=198.51.100.22
+2026-11-17T13:50:15-05:00 portal evento=inicio_sesion_ok usuario=melissa.franco ip=198.51.100.10 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-17T13:54:18-05:00 portal evento=solicitar_vacaciones usuario=melissa.franco ip=198.51.100.10
+2026-11-17T13:54:49-05:00 portal evento=inicio_sesion_ok usuario=valeria.giraldo ip=198.51.100.25 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-17T14:14:16-05:00 portal evento=solicitar_vacaciones usuario=valeria.giraldo ip=198.51.100.25
+2026-11-17T14:14:35-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.112 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-17T14:17:05-05:00 portal evento=inicio_sesion_ok usuario=oscar.ramirez ip=198.51.100.129 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-17T14:17:54-05:00 portal evento=solicitar_vacaciones usuario=melissa.franco ip=198.51.100.10
+2026-11-17T14:18:45-05:00 portal evento=inicio_sesion_ok usuario=tomas.echeverri ip=198.51.100.10 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-17T14:21:19-05:00 portal evento=solicitar_vacaciones usuario=melissa.franco ip=198.51.100.10
+2026-11-17T14:25:52-05:00 portal evento=ver_perfil usuario=tomas.echeverri ip=198.51.100.10
+2026-11-17T14:27:58-05:00 portal evento=ver_noticias usuario=valeria.giraldo ip=198.51.100.25
+2026-11-17T14:31:06-05:00 portal evento=solicitar_vacaciones usuario=natalia.quintero ip=198.51.100.112
+2026-11-17T14:32:29-05:00 portal evento=ver_desprendible usuario=oscar.ramirez ip=198.51.100.129
+2026-11-17T14:34:05-05:00 portal evento=ver_vacaciones usuario=valeria.giraldo ip=198.51.100.25
+2026-11-17T14:34:18-05:00 portal evento=ver_perfil usuario=tomas.echeverri ip=198.51.100.10
+2026-11-17T14:37:15-05:00 portal evento=descargar_certificado usuario=valeria.giraldo ip=198.51.100.25
+2026-11-17T14:43:47-05:00 portal evento=ver_vacaciones usuario=oscar.ramirez ip=198.51.100.129
+2026-11-17T14:46:18-05:00 portal evento=cerrar_sesion usuario=tomas.echeverri ip=198.51.100.10
+2026-11-17T14:47:34-05:00 portal evento=inicio_sesion_ok usuario=juliana.cardona ip=198.51.100.104 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-17T14:50:02-05:00 portal evento=ver_noticias usuario=natalia.quintero ip=198.51.100.112
+2026-11-17T14:51:19-05:00 portal evento=cerrar_sesion usuario=melissa.franco ip=198.51.100.10
+2026-11-17T14:55:17-05:00 portal evento=ver_noticias usuario=oscar.ramirez ip=198.51.100.129
+2026-11-17T14:56:15-05:00 portal evento=cerrar_sesion usuario=valeria.giraldo ip=198.51.100.25
+2026-11-17T15:01:15-05:00 portal evento=ver_desprendible usuario=juliana.cardona ip=198.51.100.104
+2026-11-17T15:02:30-05:00 portal evento=ver_desprendible usuario=natalia.quintero ip=198.51.100.112
+2026-11-17T15:05:17-05:00 portal evento=cerrar_sesion usuario=oscar.ramirez ip=198.51.100.129
+2026-11-17T15:15:41-05:00 portal evento=ver_perfil usuario=juliana.cardona ip=198.51.100.104
+2026-11-17T15:28:14-05:00 portal evento=ver_vacaciones usuario=juliana.cardona ip=198.51.100.104
+2026-11-17T15:30:30-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.112
+2026-11-17T15:34:28-05:00 portal evento=ver_noticias usuario=juliana.cardona ip=198.51.100.104
+2026-11-17T15:40:28-05:00 portal evento=cerrar_sesion usuario=juliana.cardona ip=198.51.100.104
+2026-11-17T15:45:54-05:00 portal evento=inicio_sesion_ok usuario=carolina.mejia ip=198.51.100.116 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-17T15:47:08-05:00 portal evento=ver_desprendible usuario=carolina.mejia ip=198.51.100.116
+2026-11-17T15:51:08-05:00 portal evento=inicio_sesion_ok usuario=santiago.marin ip=198.51.100.30 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-17T15:56:23-05:00 portal evento=descargar_certificado usuario=santiago.marin ip=198.51.100.30
+2026-11-17T15:58:59-05:00 portal evento=ver_perfil usuario=carolina.mejia ip=198.51.100.116
+2026-11-17T16:13:23-05:00 portal evento=cerrar_sesion usuario=santiago.marin ip=198.51.100.30
+2026-11-17T16:16:10-05:00 portal evento=inicio_sesion_ok usuario=camilo.restrepo ip=198.51.100.103 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-17T16:21:30-05:00 portal evento=ver_vacaciones usuario=camilo.restrepo ip=198.51.100.103
+2026-11-17T16:23:48-05:00 portal evento=ver_perfil usuario=carolina.mejia ip=198.51.100.116
+2026-11-17T16:25:48-05:00 portal evento=cerrar_sesion usuario=carolina.mejia ip=198.51.100.116
+2026-11-17T16:41:38-05:00 portal evento=ver_desprendible usuario=camilo.restrepo ip=198.51.100.103
+2026-11-17T16:58:26-05:00 portal evento=ver_desprendible usuario=camilo.restrepo ip=198.51.100.103
+2026-11-17T17:02:26-05:00 portal evento=cerrar_sesion usuario=camilo.restrepo ip=198.51.100.103
+2026-11-18T07:13:59-05:00 portal evento=inicio_sesion_ok usuario=carolina.mejia ip=198.51.100.116 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-18T07:20:21-05:00 portal evento=descargar_certificado usuario=carolina.mejia ip=198.51.100.116
+2026-11-18T07:35:56-05:00 portal evento=inicio_sesion_ok usuario=alejandro.toro ip=198.51.100.27 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-18T07:43:37-05:00 portal evento=solicitar_vacaciones usuario=carolina.mejia ip=198.51.100.116
+2026-11-18T07:50:03-05:00 portal evento=inicio_sesion_ok usuario=julian.ospina ip=198.51.100.133 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-18T07:50:49-05:00 portal evento=ver_desprendible usuario=alejandro.toro ip=198.51.100.27
+2026-11-18T07:52:02-05:00 portal evento=descargar_certificado usuario=alejandro.toro ip=198.51.100.27
+2026-11-18T07:55:35-05:00 portal evento=descargar_certificado usuario=julian.ospina ip=198.51.100.133
+2026-11-18T07:59:37-05:00 portal evento=cerrar_sesion usuario=carolina.mejia ip=198.51.100.116
+2026-11-18T08:02:45-05:00 portal evento=ver_desprendible usuario=julian.ospina ip=198.51.100.133
+2026-11-18T08:08:03-05:00 portal evento=inicio_sesion_ok usuario=david.castro ip=198.51.100.11 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-18T08:13:45-05:00 portal evento=descargar_certificado usuario=alejandro.toro ip=198.51.100.27
+2026-11-18T08:17:45-05:00 portal evento=cerrar_sesion usuario=julian.ospina ip=198.51.100.133
+2026-11-18T08:19:27-05:00 portal evento=descargar_certificado usuario=david.castro ip=198.51.100.11
+2026-11-18T08:35:02-05:00 portal evento=inicio_sesion_ok usuario=andres.loaiza ip=198.51.100.122 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-18T08:35:45-05:00 portal evento=cerrar_sesion usuario=alejandro.toro ip=198.51.100.27
+2026-11-18T08:36:42-05:00 portal evento=ver_perfil usuario=david.castro ip=198.51.100.11
+2026-11-18T08:39:23-05:00 portal evento=ver_desprendible usuario=andres.loaiza ip=198.51.100.122
+2026-11-18T08:41:54-05:00 portal evento=ver_desprendible usuario=andres.loaiza ip=198.51.100.122
+2026-11-18T08:51:11-05:00 portal evento=inicio_sesion_ok usuario=tomas.echeverri ip=198.51.100.26 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-18T08:55:43-05:00 portal evento=ver_perfil usuario=david.castro ip=198.51.100.11
+2026-11-18T09:04:54-05:00 portal evento=cerrar_sesion usuario=andres.loaiza ip=198.51.100.122
+2026-11-18T09:10:27-05:00 portal evento=ver_perfil usuario=tomas.echeverri ip=198.51.100.26
+2026-11-18T09:10:43-05:00 portal evento=cerrar_sesion usuario=david.castro ip=198.51.100.11
+2026-11-18T09:14:42-05:00 portal evento=descargar_certificado usuario=tomas.echeverri ip=198.51.100.26
+2026-11-18T09:24:42-05:00 portal evento=cerrar_sesion usuario=tomas.echeverri ip=198.51.100.26
+2026-11-18T09:25:50-05:00 portal evento=inicio_sesion_ok usuario=paula.cano ip=198.51.100.29 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-18T09:26:45-05:00 portal evento=inicio_sesion_ok usuario=beatriz.londono ip=198.51.100.130 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-18T09:32:42-05:00 portal evento=solicitar_vacaciones usuario=beatriz.londono ip=198.51.100.130
+2026-11-18T09:33:24-05:00 portal evento=inicio_sesion_ok usuario=nicolas.arbelaez ip=198.51.100.147 mfa=ninguno dispositivo="macOS 15 · Chrome 131"
+2026-11-18T09:34:50-05:00 portal evento=ver_noticias usuario=nicolas.arbelaez ip=198.51.100.147
+2026-11-18T09:38:50-05:00 portal evento=ver_noticias usuario=beatriz.londono ip=198.51.100.130
+2026-11-18T09:41:11-05:00 portal evento=ver_noticias usuario=nicolas.arbelaez ip=198.51.100.147
+2026-11-18T09:42:06-05:00 portal evento=descargar_certificado usuario=paula.cano ip=198.51.100.29
+2026-11-18T09:46:37-05:00 portal evento=inicio_sesion_ok usuario=sebastian.rios ip=198.51.100.18 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-18T09:50:40-05:00 portal evento=ver_perfil usuario=sebastian.rios ip=198.51.100.18
+2026-11-18T09:52:50-05:00 portal evento=cerrar_sesion usuario=beatriz.londono ip=198.51.100.130
+2026-11-18T10:02:18-05:00 portal evento=inicio_sesion_ok usuario=valentina.rios ip=198.51.100.30 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-18T10:03:11-05:00 portal evento=ver_perfil usuario=paula.cano ip=198.51.100.29
+2026-11-18T10:05:11-05:00 portal evento=cerrar_sesion usuario=nicolas.arbelaez ip=198.51.100.147
+2026-11-18T10:06:11-05:00 portal evento=cerrar_sesion usuario=paula.cano ip=198.51.100.29
+2026-11-18T10:10:07-05:00 portal evento=descargar_certificado usuario=valentina.rios ip=198.51.100.30
+2026-11-18T10:11:09-05:00 portal evento=inicio_sesion_ok usuario=lina.agudelo ip=198.51.100.144 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-18T10:16:28-05:00 portal evento=descargar_certificado usuario=sebastian.rios ip=198.51.100.18
+2026-11-18T10:22:23-05:00 portal evento=descargar_certificado usuario=sebastian.rios ip=198.51.100.18
+2026-11-18T10:24:22-05:00 portal evento=descargar_certificado usuario=lina.agudelo ip=198.51.100.144
+2026-11-18T10:27:54-05:00 portal evento=inicio_sesion_ok usuario=mariana.ocampo ip=198.51.100.100 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-18T10:30:07-05:00 portal evento=cerrar_sesion usuario=valentina.rios ip=198.51.100.30
+2026-11-18T10:31:33-05:00 portal evento=ver_perfil usuario=lina.agudelo ip=198.51.100.144
+2026-11-18T10:32:56-05:00 portal evento=ver_noticias usuario=sebastian.rios ip=198.51.100.18
+2026-11-18T10:38:56-05:00 portal evento=cerrar_sesion usuario=sebastian.rios ip=198.51.100.18
+2026-11-18T10:42:43-05:00 portal evento=inicio_sesion_ok usuario=jhon.montes ip=198.51.100.19 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-18T10:43:01-05:00 portal evento=inicio_sesion_ok usuario=pablo.munoz ip=198.51.100.13 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-18T10:47:03-05:00 portal evento=inicio_sesion_ok usuario=oscar.ramirez ip=198.51.100.11 mfa=ninguno dispositivo="Android 15 · Chrome 131"
+2026-11-18T10:49:29-05:00 portal evento=ver_noticias usuario=pablo.munoz ip=198.51.100.13
+2026-11-18T10:50:53-05:00 portal evento=descargar_certificado usuario=oscar.ramirez ip=198.51.100.11
+2026-11-18T10:53:23-05:00 portal evento=solicitar_vacaciones usuario=mariana.ocampo ip=198.51.100.100
+2026-11-18T10:56:23-05:00 portal evento=cerrar_sesion usuario=mariana.ocampo ip=198.51.100.100
+2026-11-18T10:57:46-05:00 portal evento=inicio_sesion_ok usuario=rosa.pineda ip=198.51.100.29 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-18T10:58:33-05:00 portal evento=cerrar_sesion usuario=lina.agudelo ip=198.51.100.144
+2026-11-18T10:59:50-05:00 portal evento=ver_perfil usuario=jhon.montes ip=198.51.100.19
+2026-11-18T11:07:47-05:00 portal evento=ver_perfil usuario=pablo.munoz ip=198.51.100.13
+2026-11-18T11:15:28-05:00 portal evento=descargar_certificado usuario=oscar.ramirez ip=198.51.100.11
+2026-11-18T11:17:28-05:00 portal evento=cerrar_sesion usuario=oscar.ramirez ip=198.51.100.11
+2026-11-18T11:21:25-05:00 portal evento=ver_noticias usuario=rosa.pineda ip=198.51.100.29
+2026-11-18T11:25:02-05:00 portal evento=ver_noticias usuario=jhon.montes ip=198.51.100.19
+2026-11-18T11:28:21-05:00 portal evento=solicitar_vacaciones usuario=pablo.munoz ip=198.51.100.13
+2026-11-18T11:29:34-05:00 portal evento=ver_vacaciones usuario=jhon.montes ip=198.51.100.19
+2026-11-18T11:33:00-05:00 portal evento=descargar_certificado usuario=rosa.pineda ip=198.51.100.29
+2026-11-18T11:40:34-05:00 portal evento=cerrar_sesion usuario=jhon.montes ip=198.51.100.19
+2026-11-18T11:43:35-05:00 portal evento=ver_desprendible usuario=pablo.munoz ip=198.51.100.13
+2026-11-18T11:43:52-05:00 portal evento=inicio_sesion_ok usuario=claudia.hoyos ip=198.51.100.137 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-18T11:47:32-05:00 portal evento=inicio_sesion_ok usuario=angela.vargas ip=198.51.100.18 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-18T11:55:13-05:00 portal evento=ver_perfil usuario=angela.vargas ip=198.51.100.18
+2026-11-18T12:00:56-05:00 portal evento=inicio_sesion_ok usuario=natalia.quintero ip=198.51.100.18 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-18T12:01:44-05:00 portal evento=descargar_reporte usuario=claudia.hoyos ip=198.51.100.137 archivo="novedades-18-11.xlsx" tamano_kb=78
+2026-11-18T12:03:00-05:00 portal evento=cerrar_sesion usuario=rosa.pineda ip=198.51.100.29
+2026-11-18T12:05:44-05:00 portal evento=cerrar_sesion usuario=claudia.hoyos ip=198.51.100.137
+2026-11-18T12:07:55-05:00 portal evento=ver_noticias usuario=angela.vargas ip=198.51.100.18
+2026-11-18T12:12:35-05:00 portal evento=cerrar_sesion usuario=pablo.munoz ip=198.51.100.13
+2026-11-18T12:16:26-05:00 portal evento=ver_vacaciones usuario=natalia.quintero ip=198.51.100.18
+2026-11-18T12:25:10-05:00 portal evento=ver_vacaciones usuario=angela.vargas ip=198.51.100.18
+2026-11-18T12:26:48-05:00 portal evento=solicitar_vacaciones usuario=natalia.quintero ip=198.51.100.18
+2026-11-18T12:30:10-05:00 portal evento=cerrar_sesion usuario=angela.vargas ip=198.51.100.18
+2026-11-18T12:44:56-05:00 portal evento=ver_perfil usuario=natalia.quintero ip=198.51.100.18
+2026-11-18T12:44:58-05:00 portal evento=inicio_sesion_ok usuario=andres.gomez ip=198.51.100.30 mfa=sms dispositivo="Android 15 · Chrome 131"
+2026-11-18T12:46:56-05:00 portal evento=cerrar_sesion usuario=natalia.quintero ip=198.51.100.18
+2026-11-18T13:04:48-05:00 portal evento=descargar_certificado usuario=andres.gomez ip=198.51.100.30
+2026-11-18T13:06:18-05:00 portal evento=ver_desprendible usuario=andres.gomez ip=198.51.100.30
+2026-11-18T13:24:38-05:00 portal evento=ver_vacaciones usuario=andres.gomez ip=198.51.100.30
+2026-11-18T13:35:53-05:00 portal evento=solicitar_vacaciones usuario=andres.gomez ip=198.51.100.30
+2026-11-18T14:03:53-05:00 portal evento=cerrar_sesion usuario=andres.gomez ip=198.51.100.30
+2026-11-18T14:06:35-05:00 portal evento=inicio_sesion_ok usuario=alejandra.cifuentes ip=198.51.100.15 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-18T14:11:29-05:00 portal evento=ver_desprendible usuario=alejandra.cifuentes ip=198.51.100.15
+2026-11-18T14:26:29-05:00 portal evento=cerrar_sesion usuario=alejandra.cifuentes ip=198.51.100.15
+2026-11-18T14:36:51-05:00 portal evento=inicio_sesion_ok usuario=mateo.valencia ip=198.51.100.17 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-18T14:38:15-05:00 portal evento=descargar_certificado usuario=mateo.valencia ip=198.51.100.17
+2026-11-18T14:51:44-05:00 portal evento=ver_desprendible usuario=mateo.valencia ip=198.51.100.17
+2026-11-18T14:55:51-05:00 portal evento=ver_perfil usuario=mateo.valencia ip=198.51.100.17
+2026-11-18T14:58:00-05:00 portal evento=inicio_sesion_ok usuario=gloria.jaramillo ip=198.51.100.22 mfa=sms dispositivo="macOS 15 · Safari 18"
+2026-11-18T14:58:51-05:00 portal evento=cerrar_sesion usuario=mateo.valencia ip=198.51.100.17
+2026-11-18T15:01:45-05:00 portal evento=inicio_sesion_ok usuario=ximena.botero ip=198.51.100.140 mfa=sms dispositivo="Windows 11 · Edge 131"
+2026-11-18T15:10:21-05:00 portal evento=ver_noticias usuario=ximena.botero ip=198.51.100.140
+2026-11-18T15:22:25-05:00 portal evento=descargar_reporte usuario=gloria.jaramillo ip=198.51.100.22 archivo="novedades-18-11.xlsx" tamano_kb=41
+2026-11-18T15:32:38-05:00 portal evento=ver_noticias usuario=ximena.botero ip=198.51.100.140
+2026-11-18T15:33:25-05:00 portal evento=cerrar_sesion usuario=gloria.jaramillo ip=198.51.100.22
+2026-11-18T15:34:38-05:00 portal evento=cerrar_sesion usuario=ximena.botero ip=198.51.100.140
+2026-11-18T15:36:30-05:00 portal evento=inicio_sesion_ok usuario=jorge.castano ip=198.51.100.11 mfa=ninguno dispositivo="Windows 11 · Edge 131"
+2026-11-18T15:47:43-05:00 portal evento=inicio_sesion_ok usuario=felipe.zuluaga ip=198.51.100.23 mfa=ninguno dispositivo="Windows 10 · Chrome 130"
+2026-11-18T15:51:18-05:00 portal evento=ver_noticias usuario=felipe.zuluaga ip=198.51.100.23
+2026-11-18T15:59:38-05:00 portal evento=ver_noticias usuario=jorge.castano ip=198.51.100.11
+2026-11-18T16:10:27-05:00 portal evento=descargar_certificado usuario=felipe.zuluaga ip=198.51.100.23
+2026-11-18T16:12:45-05:00 portal evento=ver_perfil usuario=felipe.zuluaga ip=198.51.100.23
+2026-11-18T16:15:06-05:00 portal evento=ver_desprendible usuario=jorge.castano ip=198.51.100.11
+2026-11-18T16:22:48-05:00 portal evento=descargar_certificado usuario=jorge.castano ip=198.51.100.11
+2026-11-18T16:23:14-05:00 portal evento=solicitar_vacaciones usuario=felipe.zuluaga ip=198.51.100.23
+2026-11-18T16:26:33-05:00 portal evento=inicio_sesion_ok usuario=ricardo.osorio ip=198.51.100.117 mfa=sms dispositivo="Windows 10 · Chrome 130"
+2026-11-18T16:26:57-05:00 portal evento=ver_noticias usuario=jorge.castano ip=198.51.100.11
+2026-11-18T16:29:04-05:00 portal evento=descargar_certificado usuario=ricardo.osorio ip=198.51.100.117
+2026-11-18T16:32:14-05:00 portal evento=cerrar_sesion usuario=felipe.zuluaga ip=198.51.100.23
+2026-11-18T16:39:57-05:00 portal evento=ver_perfil usuario=ricardo.osorio ip=198.51.100.117
+2026-11-18T16:43:14-05:00 portal evento=inicio_sesion_ok usuario=miguel.rendon ip=198.51.100.10 mfa=sms dispositivo="macOS 15 · Chrome 131"
+2026-11-18T16:45:54-05:00 portal evento=ver_vacaciones usuario=miguel.rendon ip=198.51.100.10
+2026-11-18T16:49:57-05:00 portal evento=cerrar_sesion usuario=jorge.castano ip=198.51.100.11
+2026-11-18T16:51:54-05:00 portal evento=cerrar_sesion usuario=miguel.rendon ip=198.51.100.10
+2026-11-18T16:52:08-05:00 portal evento=inicio_sesion_ok usuario=kevin.arias ip=198.51.100.26 mfa=ninguno dispositivo="macOS 15 · Safari 18"
+2026-11-18T16:59:27-05:00 portal evento=ver_desprendible usuario=ricardo.osorio ip=198.51.100.117
+2026-11-18T17:02:19-05:00 portal evento=ver_noticias usuario=ricardo.osorio ip=198.51.100.117
+2026-11-18T17:11:34-05:00 portal evento=solicitar_vacaciones usuario=kevin.arias ip=198.51.100.26
+2026-11-18T17:15:19-05:00 portal evento=cerrar_sesion usuario=ricardo.osorio ip=198.51.100.117
+2026-11-18T17:31:27-05:00 portal evento=ver_vacaciones usuario=kevin.arias ip=198.51.100.26
+2026-11-18T17:54:17-05:00 portal evento=ver_noticias usuario=kevin.arias ip=198.51.100.26
+2026-11-18T18:04:17-05:00 portal evento=cerrar_sesion usuario=kevin.arias ip=198.51.100.26
