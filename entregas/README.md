@@ -1,13 +1,13 @@
 # Entregas
 
-Cada persona hace su propio fork y su propio PR. El grupo se reparte el trabajo de su frente.
+El trabajo es individual: cada persona elige un frente, hace su propio fork y su propio PR.
 
 ```
 entregas/
   PLANTILLA-REPORTE.md
   frente-N/
-    reporte-<usuario>.md      ← cada persona: lo que encontró, alimentado con lo que aprendió en clase
-    bitacora-<usuario>.md     ← la IA de cada persona: los hallazgos que la persona dijo, tal cual
+    reporte-<su-nombre>.md    ← cada persona: lo que encontró, alimentado con lo que aprendió en clase
+    bitacora-<su-nombre>.md   ← la IA de cada persona: los hallazgos que la persona dijo, tal cual
     incidente.md              ← el primer aviso, desde su frente
     incidente-2.md            ← el segundo aviso, desde su frente
     …                         ← lo que pida su frente en FRENTES.md

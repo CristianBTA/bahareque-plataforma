@@ -1,6 +1,6 @@
 # Los cinco frentes
 
-Cada grupo toma un frente. Lo que está mal no se dice: lo encuentran ustedes, con su IA y con las reglas de `CLAUDE.md`. Primero dicen qué sospechan y de qué tema del curso; después la IA corrige y redacta con ustedes.
+Cada persona elige un frente y trabaja sola, con su IA. Lo que está mal no se dice: lo encuentran ustedes, con su IA y con las reglas de `CLAUDE.md`. Primero dicen qué sospechan y de qué tema del curso; después la IA corrige y redacta con ustedes.
 
 | Frente | Tema |
 |---|---|
@@ -15,8 +15,8 @@ Reglas comunes:
 - **Lo que no se borra:** no borren evidencia (registros, correos ni tickets).
 - **Lo que no se cambia:** algunas cosas están bien. Si la cambian sin razón, el revisor lo cuenta en contra.
 - **Los avisos:** llegan dos. El primero se responde en `entregas/frente-N/incidente.md` y el segundo en `incidente-2.md`.
-- **El reporte de cada persona:** `entregas/frente-N/reporte-<usuario>.md`, con lo que encontró, alimentado con lo que aprendió en clase (plantilla en `entregas/PLANTILLA-REPORTE.md`). El revisor evalúa el frente y también la comprensión.
-- **La entrega:** cada persona hace su fork y su PR, titulado «Frente N · Grupo X · su nombre» (ver `README.md`).
+- **El reporte de cada persona:** `entregas/frente-N/reporte-<su-nombre>.md`, con lo que encontró, alimentado con lo que aprendió en clase (plantilla en `entregas/PLANTILLA-REPORTE.md`). El revisor evalúa el frente y también la comprensión.
+- **La entrega:** cada persona hace su fork y su PR, titulado «Frente N · su nombre» (ver `README.md`).
 
 
 ---

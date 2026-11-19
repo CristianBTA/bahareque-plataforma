@@ -1,4 +1,4 @@
-# Reporte de <su nombre> · Frente N · Grupo X
+# Reporte de <su nombre> · Frente N
 
 Este reporte es suyo. Cuenta lo que encontró y cómo lo resolvió, alimentado con lo que aprendió en clase. Su IA puede pasarlo a limpio, pero los hallazgos, los conceptos y las clases los dice usted.
 

@@ -23,27 +23,27 @@ La gerencia les pide ordenar la casa en **cinco frentes** (ver `FRENTES.md`), co
 
 ## Cómo se trabaja
 
-1. **Grupos de 3 (o 4).** Cada grupo toma un frente de `FRENTES.md`.
+1. **Trabajo individual.** Cada persona elige un frente de `FRENTES.md` (unas tres personas por frente) y trabaja sola, con su IA y en su propio fork.
 2. **Clonen el repositorio** (para clonar no hace falta cuenta) y creen su rama:
    ```bash
    git clone https://github.com/CristianBTA/bahareque-plataforma.git
    cd bahareque-plataforma
-   git switch -c frente-N-grupo-X
+   git switch -c frente-N-su-nombre
    ```
 3. **Abran su IA en la carpeta** con `claude`. El repositorio trae reglas para la IA en `CLAUDE.md`, y Claude Code las lee solo al abrirse:
    - Si le piden la respuesta, no se la da. Primero ustedes dicen qué sospechan y con qué tema del curso lo relacionan, y con eso los orienta.
    - Si dicen algo vago, como «sé que algo no se debe hacer con la data, es de la CIA», les responde con una pista sencilla, sin dar la respuesta.
    - Cuando ya tienen un hallazgo concreto, la IA hace el trabajo: corrige archivos y redacta la entrega.
    - Si usan Claude en la web, creen un Proyecto y peguen el contenido de `CLAUDE.md` como instrucciones del proyecto.
-4. **Trabajen solo en los archivos de su frente** y escriban su entrega donde diga `FRENTES.md`. Cada persona trabaja en su propio fork, con su IA, y el grupo se reparte el frente.
-5. **Cada persona escribe su reporte** en `entregas/frente-N/reporte-<usuario>.md`, con lo que encontró, alimentado con lo que aprendió en clase (ver `entregas/PLANTILLA-REPORTE.md`).
+4. **Trabaje solo en los archivos de su frente** y escriba su entrega donde diga `FRENTES.md`.
+5. **Cada persona escribe su reporte** en `entregas/frente-N/reporte-<su-nombre>.md`, con lo que encontró, alimentado con lo que aprendió en clase (ver `entregas/PLANTILLA-REPORTE.md`).
    Ejemplo: «El repo deja en evidencia que se filtraron tokens. En clase determinamos que se rotan de inmediato, porque hicimos una filtración».
    Su IA lleva la bitácora de lo que usted le dijo.
 6. **Hay dos avisos.** Cada vez que el profesor avise, traigan lo nuevo:
    ```bash
    git pull --no-rebase --no-edit origin main
    ```
-   Llega algo a `incidentes/`. Cada grupo responde el primer aviso en `entregas/frente-N/incidente.md` y el segundo en `incidente-2.md`, desde su frente.
+   Llega algo a `incidentes/`. Cada persona responde el primer aviso en `entregas/frente-N/incidente.md` y el segundo en `incidente-2.md`, desde su frente.
 7. **Cada persona entrega con un PR**, como se explica abajo.
 
 ## Reglas
@@ -64,15 +64,15 @@ Este repositorio no cambia las reglas ni la configuración de su Claude Code. `C
 
 ## Cómo entregar
 
-**Con cuenta de GitHub (recomendado).** Cada persona hace su propio fork, sube su rama y abre su PR contra este repositorio, con el título «Frente N · Grupo X · su nombre»:
+**Con cuenta de GitHub (recomendado).** Cada persona hace su propio fork, sube su rama y abre su PR contra este repositorio, con el título «Frente N · su nombre»:
 ```bash
 gh repo fork --remote --remote-name mio
 git add -A
-git commit -m "Frente N: ordenado por el grupo X"
-git push mio frente-N-grupo-X
-gh pr create --repo CristianBTA/bahareque-plataforma --title "Frente N · Grupo X · Su nombre" --body "Grupo: …"
+git commit -m "Frente N: hallazgos y reporte"
+git push mio frente-N-su-nombre
+gh pr create --repo CristianBTA/bahareque-plataforma --title "Frente N · Su nombre" --body "Mi reporte está en entregas/"
 ```
-Sin `gh`, haga lo mismo en la web: botón «Fork», `git remote add mio <url de su fork>`, `git push mio frente-N-grupo-X` y «Compare & pull request».
+Sin `gh`, haga lo mismo en la web: botón «Fork», `git remote add mio <url de su fork>`, `git push mio frente-N-su-nombre` y «Compare & pull request».
 
 **Sin GitHub.** Comprima la carpeta del repositorio y compártala con el profesor. Él corre el mismo revisor sobre su copia.
 
@@ -94,4 +94,4 @@ Sin `gh`, haga lo mismo en la web: botón «Fork», `git remote add mio <url de 
 | `contratos/` | clientes que se quieren procesar con IA, autorizaciones y contratos |
 | `incidentes/` | historial de incidentes |
 | `registros/` | registros de nube, proxy, correo y portal |
-| `entregas/` | lo que entrega cada grupo |
+| `entregas/` | lo que entrega cada persona |
