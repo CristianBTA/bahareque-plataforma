@@ -1,0 +1,179 @@
+Registro descargado de GitHub Actions · flujo «Pruebas» · ejecución 1287 · 6-nov-2026
+Lo guardó Felipe Zuluaga para revisar por qué falla pagos.test.ts (ticket MESA-2643).
+
+2026-11-06T15:31:04.8550956Z ##[group]Runner Image
+2026-11-06T15:31:05.0568957Z Image: ubuntu-24.04
+2026-11-06T15:31:05.0981784Z Version: 20261102.1.0
+2026-11-06T15:31:05.2410682Z ##[endgroup]
+2026-11-06T15:31:06.1264092Z ##[group]GITHUB_TOKEN Permissions
+2026-11-06T15:31:08.7953022Z Contents: write
+2026-11-06T15:31:10.4973132Z Metadata: read
+2026-11-06T15:31:11.8357448Z PullRequests: write
+2026-11-06T15:31:13.3419052Z ##[endgroup]
+2026-11-06T15:31:13.8197089Z Evento: pull_request_target · PR #212 «fix: estado de envíos en el panel» · desde hagudelo-contratista/bahareque-plataforma:fix/estado-envios
+2026-11-06T15:31:13.8673229Z Secret source: Actions
+2026-11-06T15:31:14.2710362Z Prepare workflow directory
+2026-11-06T15:31:16.5001727Z Prepare all required actions
+2026-11-06T15:31:18.6359702Z Getting action download info
+2026-11-06T15:31:18.7508811Z Download action repository 'actions/checkout@main' (SHA:9f4e1c2b7a0d3e5f6a8b1c2d3e4f5a6b7c8d9e0f)
+2026-11-06T15:31:20.7199151Z Download action repository 'actions/setup-node@main' (SHA:1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b)
+2026-11-06T15:31:21.7328645Z Download action repository 'bahareque/acciones-comunes@main' (SHA:5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d)
+2026-11-06T15:31:22.8614637Z Complete job name: pruebas
+2026-11-06T15:31:22.9420031Z ##[group]Starting postgres service container
+2026-11-06T15:31:23.7213470Z /usr/bin/docker pull postgres:16.4-alpine
+2026-11-06T15:31:25.2989617Z 16.4-alpine: Pulling from library/postgres
+2026-11-06T15:31:26.7741104Z Digest: sha256:4b9f2e1a7c3d5e6f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a7b8c9d0e1f
+2026-11-06T15:31:26.8655365Z Status: Downloaded newer image for postgres:16.4-alpine
+2026-11-06T15:31:28.0362023Z postgres service is healthy.
+2026-11-06T15:31:30.0292035Z ##[endgroup]
+2026-11-06T15:31:32.4246911Z ##[group]Run actions/checkout@main
+2026-11-06T15:31:34.1419894Z with:
+2026-11-06T15:31:35.8902159Z   ref: 8e2c41d07b9a3f56c1e0d2b4a6f8e1c3d5b7a9f0
+2026-11-06T15:31:36.2340838Z   repository: CristianBTA/bahareque-plataforma
+2026-11-06T15:31:37.0503581Z env:
+2026-11-06T15:31:39.6867876Z   DATABASE_URL: postgres://postgres@localhost:5432/guadua_pruebas
+2026-11-06T15:31:41.4849337Z   PAGOSYA_CLAVE_SECRETA: ***
+2026-11-06T15:31:43.9940557Z   PROVEEDOR_MODELOS_API_KEY: ***
+2026-11-06T15:31:45.1498715Z   NPM_TOKEN: ***
+2026-11-06T15:31:46.8609984Z ##[endgroup]
+2026-11-06T15:31:47.5526128Z Fetching the repository
+2026-11-06T15:31:48.8259001Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +8e2c41d07b9a3f56c1e0d2b4a6f8e1c3d5b7a9f0:refs/remotes/pull/212/merge
+2026-11-06T15:31:49.8650149Z HEAD is now at 8e2c41d fix: estado de envíos en el panel
+2026-11-06T15:31:50.9073777Z ##[group]Run actions/setup-node@main
+2026-11-06T15:31:51.4146322Z with:
+2026-11-06T15:31:51.6204897Z   node-version: 22
+2026-11-06T15:31:53.6687024Z ##[endgroup]
+2026-11-06T15:31:55.7423442Z Found in cache @ /opt/hostedtoolcache/node/22.21.0/x64
+2026-11-06T15:31:55.8115277Z ##[group]Run for paquete in app/api app/web app/asistente; do
+2026-11-06T15:31:56.9879745Z [36;1mfor paquete in app/api app/web app/asistente; do[0m
+2026-11-06T15:31:58.3988093Z [36;1m  (cd "$paquete" && npm ci)[0m
+2026-11-06T15:32:00.6802137Z [36;1mdone[0m
+2026-11-06T15:32:00.8826380Z ##[endgroup]
+2026-11-06T15:32:00.9981412Z npm warn deprecated w3c-hr-time@5.2.6: This package is no longer supported.
+2026-11-06T15:32:01.1036253Z npm warn deprecated domexception@5.6.1: This package is no longer supported.
+2026-11-06T15:32:01.2399662Z npm warn deprecated inflight@6.1.4: This package is no longer supported.
+2026-11-06T15:32:01.4788965Z npm warn deprecated rimraf@7.2.6: This package is no longer supported.
+2026-11-06T15:32:02.1453063Z npm warn deprecated glob@4.8.6: This package is no longer supported.
+2026-11-06T15:32:04.5476480Z 
+2026-11-06T15:32:05.9169784Z added 412 packages, and audited 413 packages in 14s
+2026-11-06T15:32:07.8650767Z 
+2026-11-06T15:32:09.6176042Z 159 packages are looking for funding
+2026-11-06T15:32:11.3570493Z   run `npm fund` for details
+2026-11-06T15:32:12.8327256Z 
+2026-11-06T15:32:13.6015315Z found 0 vulnerabilities
+2026-11-06T15:32:15.5603277Z npm warn deprecated domexception@2.4.6: This package is no longer supported.
+2026-11-06T15:32:15.5837354Z npm warn deprecated domexception@5.8.3: This package is no longer supported.
+2026-11-06T15:32:16.5265207Z npm warn deprecated rimraf@6.9.5: This package is no longer supported.
+2026-11-06T15:32:17.2123016Z npm warn deprecated glob@6.9.9: This package is no longer supported.
+2026-11-06T15:32:17.2796708Z npm warn deprecated w3c-hr-time@7.2.4: This package is no longer supported.
+2026-11-06T15:32:18.8796279Z npm warn deprecated domexception@2.6.1: This package is no longer supported.
+2026-11-06T15:32:19.9353806Z npm warn deprecated w3c-hr-time@6.1.3: This package is no longer supported.
+2026-11-06T15:32:20.1575323Z 
+2026-11-06T15:32:22.7176523Z added 688 packages, and audited 689 packages in 31s
+2026-11-06T15:32:23.5168553Z 
+2026-11-06T15:32:25.9303315Z 121 packages are looking for funding
+2026-11-06T15:32:26.1483713Z   run `npm fund` for details
+2026-11-06T15:32:27.5319468Z 
+2026-11-06T15:32:29.0378823Z found 0 vulnerabilities
+2026-11-06T15:32:30.2119249Z npm warn deprecated inflight@5.6.9: This package is no longer supported.
+2026-11-06T15:32:32.2256210Z npm warn deprecated inflight@3.3.5: This package is no longer supported.
+2026-11-06T15:32:32.3227930Z npm warn deprecated rimraf@4.9.2: This package is no longer supported.
+2026-11-06T15:32:34.2741197Z npm warn deprecated domexception@4.2.2: This package is no longer supported.
+2026-11-06T15:32:36.5458275Z npm warn deprecated domexception@6.5.8: This package is no longer supported.
+2026-11-06T15:32:38.1605063Z 
+2026-11-06T15:32:38.5439090Z added 203 packages, and audited 204 packages in 27s
+2026-11-06T15:32:40.3517671Z 
+2026-11-06T15:32:40.9563725Z 106 packages are looking for funding
+2026-11-06T15:32:41.0383312Z   run `npm fund` for details
+2026-11-06T15:32:41.9701372Z 
+2026-11-06T15:32:43.5768167Z found 0 vulnerabilities
+2026-11-06T15:32:44.8577084Z ##[group]Run npx --prefix app/api node-pg-migrate up --migrations-dir app/api/migraciones
+2026-11-06T15:32:44.9547732Z ##[endgroup]
+2026-11-06T15:32:45.1073365Z > Migrating files:
+2026-11-06T15:32:45.8639121Z > - 0001_inicial
+2026-11-06T15:32:47.8628225Z ### MIGRATION 0001_inicial (UP) ###
+2026-11-06T15:32:49.3184348Z > Migrating files:
+2026-11-06T15:32:50.9139869Z > - 0002_comercios
+2026-11-06T15:32:51.4542772Z ### MIGRATION 0002_comercios (UP) ###
+2026-11-06T15:32:53.9553426Z > Migrating files:
+2026-11-06T15:32:54.6475843Z > - 0003_productos
+2026-11-06T15:32:55.5450155Z ### MIGRATION 0003_productos (UP) ###
+2026-11-06T15:32:56.7485266Z > Migrating files:
+2026-11-06T15:32:56.7679132Z > - 0004_pedidos
+2026-11-06T15:32:57.8271403Z ### MIGRATION 0004_pedidos (UP) ###
+2026-11-06T15:32:58.3886868Z > Migrating files:
+2026-11-06T15:32:58.5045830Z > - 0005_pagos
+2026-11-06T15:32:59.3931378Z ### MIGRATION 0005_pagos (UP) ###
+2026-11-06T15:32:59.9042601Z > Migrating files:
+2026-11-06T15:33:01.3044418Z > - 0006_envios
+2026-11-06T15:33:03.5618549Z ### MIGRATION 0006_envios (UP) ###
+2026-11-06T15:33:04.2440659Z > Migrating files:
+2026-11-06T15:33:04.4396669Z > - 0007_cupones
+2026-11-06T15:33:06.7360737Z ### MIGRATION 0007_cupones (UP) ###
+2026-11-06T15:33:06.9323314Z > Migrating files:
+2026-11-06T15:33:07.3849212Z > - 0008_facturas
+2026-11-06T15:33:09.3934111Z ### MIGRATION 0008_facturas (UP) ###
+2026-11-06T15:33:09.7636309Z > Migrating files:
+2026-11-06T15:33:10.4376834Z > - 0009_resenas
+2026-11-06T15:33:12.0828961Z ### MIGRATION 0009_resenas (UP) ###
+2026-11-06T15:33:14.7418184Z > Migrating files:
+2026-11-06T15:33:16.3696376Z > - 0010_indices-pedidos
+2026-11-06T15:33:18.8127912Z ### MIGRATION 0010_indices-pedidos (UP) ###
+2026-11-06T15:33:19.6793273Z > Migrating files:
+2026-11-06T15:33:20.5016149Z > - 0011_auditoria
+2026-11-06T15:33:22.9186183Z ### MIGRATION 0011_auditoria (UP) ###
+2026-11-06T15:33:24.5492878Z > Migrating files:
+2026-11-06T15:33:24.8988914Z > - 0012_webhooks
+2026-11-06T15:33:25.1373171Z ### MIGRATION 0012_webhooks (UP) ###
+2026-11-06T15:33:25.6683133Z > Migrating files:
+2026-11-06T15:33:25.8703613Z > - 0013_asistente-tickets
+2026-11-06T15:33:27.3290295Z ### MIGRATION 0013_asistente-tickets (UP) ###
+2026-11-06T15:33:29.9533302Z > Migrating files:
+2026-11-06T15:33:30.1194204Z > - 0014_retiro-en-tienda
+2026-11-06T15:33:30.2428384Z ### MIGRATION 0014_retiro-en-tienda (UP) ###
+2026-11-06T15:33:30.9147392Z Migrations complete!
+2026-11-06T15:33:32.9694385Z ##[group]Run npm test -- --reporter=verbose
+2026-11-06T15:33:34.3558018Z [36;1mnpm test -- --reporter=verbose[0m
+2026-11-06T15:33:36.4618054Z ##[endgroup]
+2026-11-06T15:33:36.5966912Z 
+2026-11-06T15:33:38.7171410Z > @guadua/api@2.14.0 test
+2026-11-06T15:33:38.8861078Z > vitest run --reporter=verbose
+2026-11-06T15:33:40.4171373Z 
+2026-11-06T15:33:41.1738426Z  RUN  v3.2.4 /home/runner/work/bahareque-plataforma/bahareque-plataforma/app/api
+2026-11-06T15:33:41.3038357Z 
+2026-11-06T15:33:41.4528143Z  ✓ pruebas/pedidos.test.ts > GET /v1/pedidos > lista los pedidos del comercio de la sesión con paginación 48ms
+2026-11-06T15:33:42.7193676Z  ✓ pruebas/pedidos.test.ts > GET /v1/pedidos > rechaza un estado que no existe 9ms
+2026-11-06T15:33:43.2362483Z  ✓ pruebas/pedidos.test.ts > GET /v1/pedidos/:id > responde 404 si el pedido es de otro comercio 7ms
+2026-11-06T15:33:44.7540925Z  ✓ pruebas/pedidos.test.ts > GET /v1/pedidos/:id > valida el formato del identificador 4ms
+2026-11-06T15:33:46.4304890Z  ✓ pruebas/pedidos.test.ts > PATCH /v1/pedidos/:id/estado > no deja pasar de entregado a preparando 6ms
+2026-11-06T15:33:47.7785150Z  ✓ pruebas/pedidos.test.ts > PATCH /v1/pedidos/:id/estado > registra el evento cuando la transición es válida 12ms
+2026-11-06T15:33:47.8651075Z  ✓ pruebas/pedidos.test.ts > PATCH /v1/pedidos/:id/estado > el rol de lectura no puede cambiar estados 5ms
+2026-11-06T15:34:01.8798354Z  ✓ pruebas/pagos.test.ts > consulta de transacciones > arma la URL con la fecha 1ms
+2026-11-06T15:34:03.5362236Z  × pruebas/pagos.test.ts > consulta de transacciones > usa el ambiente de pruebas 3ms
+2026-11-06T15:34:03.5797913Z    → URL recibida: https://api.pagosya.example/v2/transacciones?desde=2026-11-01&clave=pagosya_live_FALSO_7c1e9a40b…: expected 'https://api.pagosya.example/v2/transacciones?desde=2026-11-01&clave=***' to contain 'sandbox.pagosya.example'
+2026-11-06T15:34:05.0841799Z  ✓ pruebas/pagos.test.ts > consulta de transacciones > rechaza fechas inválidas 0ms
+2026-11-06T15:34:06.1754405Z 
+2026-11-06T15:34:07.1472122Z ⎯⎯⎯⎯⎯⎯⎯ Failed Tests 1 ⎯⎯⎯⎯⎯⎯⎯
+2026-11-06T15:34:09.3965479Z 
+2026-11-06T15:34:11.7197173Z  FAIL  pruebas/pagos.test.ts > consulta de transacciones > usa el ambiente de pruebas
+2026-11-06T15:34:13.7614827Z AssertionError: URL recibida: https://api.pagosya.example/v2/transacciones?desde=2026-11-01&clave=pagosya_live_FALSO_7c1e9a40b…: expected 'https://api.pagosya.example/v2/transacciones?desde=2026-11-01&clave=***' to contain 'sandbox.pagosya.example'
+2026-11-06T15:34:14.7682651Z  ❯ pruebas/pagos.test.ts:20:56
+2026-11-06T15:34:16.4094926Z      18|     const url = urlTransacciones("2026-11-01");
+2026-11-06T15:34:16.6975239Z      19|     // Se recorta la URL para que el mensaje quepa en una línea del registro del CI
+2026-11-06T15:34:17.8729223Z      20|     expect(url, `URL recibida: ${url.slice(0, 96)}…`).toContain("sandbox.pagosya.example");
+2026-11-06T15:34:18.0952694Z        |                                                        ^
+2026-11-06T15:34:19.5695404Z 
+2026-11-06T15:34:20.0965204Z  Test Files  1 failed | 1 passed (2)
+2026-11-06T15:34:22.2541972Z       Tests  1 failed | 9 passed (10)
+2026-11-06T15:34:22.9513246Z    Duration  3.08s
+2026-11-06T15:34:23.0447708Z 
+2026-11-06T15:34:23.2447835Z ##[error]Process completed with exit code 1.
+2026-11-06T15:34:24.6395468Z ##[group]Run bahareque/acciones-comunes/subir-cobertura@main
+2026-11-06T15:34:24.6799007Z with:
+2026-11-06T15:34:24.7692274Z   directorio: app/api/coverage
+2026-11-06T15:34:24.8896680Z ##[endgroup]
+2026-11-06T15:34:26.2937600Z Subiendo cobertura de app/api/coverage a https://cobertura.bahareque.example/v1/guadua-api
+2026-11-06T15:34:26.4992041Z Cobertura: 61.4 % de líneas (sin cambios frente a main)
+2026-11-06T15:34:26.8248114Z Post job cleanup.
+2026-11-06T15:34:26.9459393Z Stop and remove container: postgres
+2026-11-06T15:34:28.5090945Z Cleaning up orphan processes

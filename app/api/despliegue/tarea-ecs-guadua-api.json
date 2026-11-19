@@ -1,0 +1,72 @@
+{
+  "family": "guadua-api",
+  "taskRoleArn": "arn:aws:iam::123456789012:role/guadua-api-tarea",
+  "executionRoleArn": "arn:aws:iam::123456789012:role/guadua-api-ejecucion",
+  "networkMode": "awsvpc",
+  "requiresCompatibilities": ["FARGATE"],
+  "cpu": "1024",
+  "memory": "2048",
+  "containerDefinitions": [
+    {
+      "name": "guadua-api",
+      "image": "123456789012.dkr.ecr.us-east-1.amazonaws.example/guadua-api:3.14.2",
+      "essential": true,
+      "portMappings": [
+        { "containerPort": 4000, "protocol": "tcp" }
+      ],
+      "command": [
+        "sh",
+        "-c",
+        "export PAGOSYA_WEBHOOK_SECRETO=$(echo \"$PAGOSYA_WEBHOOK_SECRETO_B64\" | base64 -d) && node dist/servidor.js"
+      ],
+      "environment": [
+        { "name": "NODE_ENV", "value": "production" },
+        { "name": "PUERTO", "value": "4000" },
+        { "name": "VERSION", "value": "3.14.2" },
+        { "name": "DB_HOST", "value": "guadua-db.interno.bahareque.example" },
+        { "name": "DB_PUERTO", "value": "5432" },
+        { "name": "DB_NOMBRE", "value": "guadua" },
+        { "name": "DB_USUARIO", "value": "guadua_api" },
+        { "name": "DB_MAX_CONEXIONES", "value": "20" },
+        { "name": "PAGOSYA_URL", "value": "https://api.pagosya.example/v2" },
+        { "name": "PAGOSYA_MODO", "value": "produccion" },
+        { "name": "PAGOSYA_WEBHOOK_SECRETO_B64", "value": "cGFnb3N5YV93aHNlY19GQUxTT185MWIzYzBkN2U0" },
+        { "name": "FACTURAR_ANDINO_URL", "value": "https://api.facturarandino.example/v1" },
+        { "name": "ENVIOS_URL", "value": "https://api.envioscafeteros.example/v1" },
+        { "name": "REDIS_URL", "value": "redis://cache.interno.bahareque.example:6379/0" },
+        { "name": "OBS_URL", "value": "https://obs.interno.bahareque.example" },
+        { "name": "CORS_ORIGENES", "value": "https://app.guadua.example,https://guadua.example,https://panel.guadua.example" },
+        { "name": "LIMITE_SOLICITUDES_MIN", "value": "600" },
+        { "name": "ZONA_HORARIA", "value": "America/Bogota" }
+      ],
+      "secrets": [
+        { "name": "DB_CLAVE", "valueFrom": "arn:aws:secretsmanager:us-east-1:123456789012:secret:guadua/api/db-clave-Qm81Lx" },
+        { "name": "JWT_SECRETO", "valueFrom": "arn:aws:secretsmanager:us-east-1:123456789012:secret:guadua/api/jwt-secreto-p2RtW9" },
+        { "name": "PAGOSYA_CLAVE_SECRETA", "valueFrom": "arn:aws:secretsmanager:us-east-1:123456789012:secret:guadua/pagosya/clave-secreta-Zk40Fa" },
+        { "name": "FACTURAR_ANDINO_TOKEN", "valueFrom": "arn:aws:secretsmanager:us-east-1:123456789012:secret:guadua/facturar/token-Hc7Ye2" },
+        { "name": "ENVIOS_LLAVE", "valueFrom": "arn:aws:secretsmanager:us-east-1:123456789012:secret:guadua/envios/llave-Vn3Ds8" }
+      ],
+      "logConfiguration": {
+        "logDriver": "awslogs",
+        "options": {
+          "awslogs-group": "/ecs/guadua-api",
+          "awslogs-region": "us-east-1",
+          "awslogs-stream-prefix": "api"
+        }
+      },
+      "healthCheck": {
+        "command": ["CMD-SHELL", "wget -qO- http://localhost:4000/salud || exit 1"],
+        "interval": 30,
+        "timeout": 5,
+        "retries": 3,
+        "startPeriod": 20
+      }
+    }
+  ],
+  "tags": [
+    { "key": "proyecto", "value": "guadua" },
+    { "key": "ambiente", "value": "produccion" },
+    { "key": "revision", "value": "41" },
+    { "key": "nota", "value": "Felipe Z. 9-oct-2026: el secreto de webhooks va en base64 para que no se vea en la consola de ECS" }
+  ]
+}

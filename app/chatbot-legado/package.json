@@ -1,0 +1,20 @@
+{
+  "name": "@guadua/chatbot-legado",
+  "version": "2.9.3",
+  "private": true,
+  "description": "Widget de Guadi (legado). Se compila a widget/guadi-widget.js",
+  "scripts": {
+    "build": "esbuild src/entrada.js --bundle --minify --outfile=widget/guadi-widget.js",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@guadua/estilos": "1.8.0",
+    "guadua-chat-nucleo": ">=2.4.0",
+    "dompurify": "3.2.6",
+    "marked": "16.3.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.10",
+    "vitest": "3.2.4"
+  }
+}

@@ -1,0 +1,63 @@
+# RACE-Eje · Red de Alertas del Comercio Electrónico del Eje Cafetero (red sectorial de empresas)
+# Boletín de indicadores 2026-45 · emitido 2026-11-04 16:50 -05:00 · destinatario: fernando.salazar@bahareque.example
+# TLP:AMBER — Puede compartirse solo dentro de la organización destinataria y con sus clientes que necesiten saberlo para protegerse. No publicar ni reenviar a grupos o empresas externas.
+# Columnas: nivel_piramide va de 1 (hash, trivial de cambiar para el atacante) a 6 (TTP, lo que más le cuesta cambiar).
+tipo,indicador,primera_vez,ultima_vez,campana,victimas_en_la_red,confianza,nivel_piramide,accion_sugerida,nota
+sha256,9d37643e2b01f1aff9df9012a2c59500ddb675fa50da26615a153b2172d1e18f,2026-10-10,2026-11-01,Factura falsa con PDF,2,media,1-hash,bloquear en antimalware,adjunto «FE-2026-0806.pdf.html»
+sha256,23b979e3cf98702cc834070c684835c545d4eb9d4deb193d34435ed558f1dd3b,2026-10-12,2026-11-02,Falsa pasarela de pagos,3,media,1-hash,bloquear en antimalware,adjunto «Liquidacion_566.html»
+sha256,5fcbcd8ee69baf538d9cbcb8ed937931834908a59bbccc6d9614b19d08e73e4d,2026-10-14,2026-11-03,Portal de nómina falso,4,media,1-hash,bloquear en antimalware,adjunto «Desprendible_787.iso»
+sha256,c61dbbba07e5ae3440d7b728fc677154c213637e87086c8569a19e1da8d64acb,2026-10-16,2026-11-04,Verificación de equipos (pegado de comandos),5,media,1-hash,bloquear en antimalware,adjunto «verificador_497.zip»
+sha256,e67f5d358acbb14307017787b5b47d0e3816a3e1c6a2c02076ec9381621a0aac,2026-10-18,2026-11-01,Imagen ISO de «actualización»,6,media,1-hash,bloquear en antimalware,adjunto «actualizacion_719.iso»
+sha256,0cb9b98f912d64d1f3e82d8fca0d46a7a2fdbbb079c6c9684f83f0f3c0a0caf9,2026-10-20,2026-11-02,Documento compartido,2,media,1-hash,bloquear en antimalware,adjunto «Contrato_179.pdf.html»
+sha256,2870a65229155ededc3c68115f373da722ee5d81b94f939fc4f705fd273c41bf,2026-10-22,2026-11-03,Factura falsa con PDF,3,media,1-hash,bloquear en antimalware,adjunto «FE-2026-0184.pdf.html»
+sha256,57a2cd4ece0ac75e1a7764f294994d28706338b2a7f4111bd9cccb4ce499e0fe,2026-10-24,2026-11-04,Falsa pasarela de pagos,4,media,1-hash,bloquear en antimalware,adjunto «Liquidacion_217.html»
+sha256,4fd5d3cbd0e7a3f0bf78f1908505feedb6b4c17c7fde231d804856e4b1f1f6b5,2026-10-26,2026-11-01,Portal de nómina falso,5,media,1-hash,bloquear en antimalware,adjunto «Desprendible_169.iso»
+sha256,1e23dfeff5a519e93d6e429b4b9a4489db6bd081e34594db83adedd443e30fad,2026-10-28,2026-11-02,Verificación de equipos (pegado de comandos),6,media,1-hash,bloquear en antimalware,adjunto «verificador_585.zip»
+sha256,a1095ece8754cd047c829cbe9fa2a5e2cf33e0443d0c686827c90c58be27cfa0,2026-10-10,2026-11-03,Imagen ISO de «actualización»,2,media,1-hash,bloquear en antimalware,adjunto «actualizacion_448.iso»
+sha256,31350dda472d7901f3b0ebca0f508fa8497b40a4ac7aacb257dd63e335bd55f4,2026-10-12,2026-11-04,Documento compartido,3,media,1-hash,bloquear en antimalware,adjunto «Contrato_112.pdf.html»
+sha256,be4449b8875e8d3f81aef70cf666f23deb3eb75582ad5553b4f2bc978a828364,2026-10-14,2026-11-01,Factura falsa con PDF,4,media,1-hash,bloquear en antimalware,adjunto «FE-2026-0199.pdf.html»
+sha256,aef5eb79f1a1e74cf39afb2bbab4ff84f126abcae77089a5886b61093131ffcc,2026-10-16,2026-11-02,Falsa pasarela de pagos,5,media,1-hash,bloquear en antimalware,adjunto «Liquidacion_905.html»
+dominio,envio-documentos.example,2026-10-25,2026-11-03,Documento pendiente de firma,5,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,pasarela-cobros.example,2026-10-07,2026-11-01,Falsa pasarela de pagos,5,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,soporte-ti-eje.example,2026-10-21,2026-11-02,Llamada falsa de mesa de servicio,2,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,nomina-segura.example,2026-10-02,2026-11-01,Portal de nómina falso,4,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,portal-bahareque.example,2025-09-22,2026-11-04,Portal de nómina falso (reincidente desde 2025-09),9,alta,3-dominio,bloquear en correo proxy y DNS,imita el Portal de una empresa de software de Manizales; pide usuario contraseña y código
+dominio,verificacion-equipos.example,2026-10-19,2026-11-03,Verificación de equipos (pegado de comandos),3,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,bahareque-soporte.example,2026-11-04,2026-11-04,Verificación de equipos (pegado de comandos),1,alta,3-dominio,bloquear en correo proxy y DNS,registrado el 2026-11-04; página con «No soy un robot» que pide pegar un comando en la Terminal
+dominio,correo-seguro.example,2025-11-02,2026-11-04,Destino de reglas de reenvío y de datos robados,11,alta,3-dominio,bloquear en correo proxy y DNS,los atacantes crean reglas de reenvío hacia buzones de este dominio después de entrar
+dominio,andina-facturas.example,2026-09-28,2026-11-04,Factura falsa con PDF,6,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,clientela-login.example,2026-10-12,2026-11-02,Inicio de sesión falso de CRM,3,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,envios-cafeteros-rastreo.example,2026-10-09,2026-11-02,Paquete retenido,6,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,facturar-andlno.example,2025-03-18,2026-11-04,Factura falsa con PDF,8,alta,3-dominio,bloquear en correo proxy y DNS,l en lugar de i; cambia la cuenta bancaria del proveedor
+dominio,firma-documentos.example,2026-10-25,2026-11-02,Documento pendiente de firma,4,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,lector-pdf-pro.example,2026-08-30,2026-11-04,Consentimiento de app OAuth (documento compartido),6,alta,3-dominio,bloquear en correo proxy y DNS,app «Lector PDF Pro» que pide permisos de correo sobre toda la organización
+dominio,guadua-pagos.example,2026-11-03,2026-11-04,Falsa pasarela de pagos,2,alta,3-dominio,bloquear en correo proxy y DNS,registrado el 2026-11-02 con MX; correos con el nombre de una pasarela
+dominio,actualiza-tu-firma.example,2026-10-14,2026-11-04,Firma electrónica falsa,2,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,portal-empleados-eje.example,2026-09-15,2026-11-01,Portal de nómina falso,7,media,3-dominio,bloquear en correo proxy y DNS,-
+dominio,cobros-urgentes.example,2026-10-30,2026-11-04,Cobro jurídico falso,2,media,3-dominio,bloquear en correo proxy y DNS,-
+ip,203.0.113.12,2026-10-13,2026-11-04,Préstamos y criptomonedas,4,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.19,2026-09-14,2026-11-03,Inicio de sesión tras SIM swap,5,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.33,2026-10-25,2026-11-04,Préstamos y criptomonedas,1,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.47,2026-10-23,2026-11-02,Envío de spam,6,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.52,2026-10-26,2026-11-04,Envío de spam,5,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.61,2026-10-16,2026-11-02,Fraude del CEO («¿Está disponible?», «Favor discreto»),6,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.77,2026-10-13,2026-11-03,Cambio de cuenta bancaria de proveedor,3,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.88,2026-09-12,2026-11-02,Inicio de sesión con contraseñas robadas y envío masivo desde la cuenta de la víctima,3,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.104,2026-09-22,2026-11-02,Préstamos y criptomonedas,1,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.140,2026-09-19,2026-11-02,Inicio de sesión después de que la mesa de servicio reinicia el MFA por teléfono,1,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.151,2026-09-10,2026-11-03,Escaneo de servicios de correo,6,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.166,2026-09-13,2026-11-04,Envío de spam,1,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.193,2026-10-11,2026-11-02,Correo masivo de premios,6,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.209,2026-09-27,2026-11-02,Envío de spam,4,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+ip,203.0.113.224,2026-10-13,2026-11-04,Préstamos y criptomonedas,2,media,2-IP,alertar y bloquear en el filtro y en la VPN,-
+url,/restablecer?u=<correo>,2026-09-22,2026-11-03,Portal de nómina falso,9,alta,4-artefacto,buscar en el proxy POST a esta ruta,un POST a esta ruta significa que la persona ENTREGÓ la contraseña
+url,/v (descarga) y /r (envío),2026-11-04,2026-11-04,Verificación de equipos (pegado de comandos),1,alta,4-artefacto,buscar en el proxy ua=curl hacia dominios sin categoría,el comando descarga y luego sube archivos del equipo
+artefacto,adjunto qr-*.png sin texto en el cuerpo,2026-10-20,2026-11-04,QR de nómina,4,media,4-artefacto,leer QR en imágenes,el QR lleva a un portal falso desde el celular (fuera del proxy de la oficina)
+artefacto,regla de buzón con nombre «.» o «Respaldo personal»,2025-11-02,2026-11-04,Destino de reglas de reenvío y de datos robados,11,alta,4-artefacto,revisar reglas de TODOS los buzones,las reglas se crean desde IMAP o la web justo después del inicio de sesión
+herramienta,cliente IMAP heredado «python-imaplib» para crear reglas,2026-08-01,2026-11-02,Inicio de sesión con contraseñas robadas,7,media,5-herramienta,apagar IMAP POP3 y SMTP autenticado,-
+ttp,T1566.004 · phishing por voz a la mesa de servicio,2026-08-10,2026-11-04,Llamada falsa de mesa de servicio,5,alta,6-TTP,la mesa NUNCA reinicia MFA por teléfono sin devolución de llamada al número registrado y aprobación de un segundo,el atacante llama como un administrador «sin celular»; responde cédula jefe y fecha de ingreso porque los saca de directorios filtrados
+ttp,T1621 · fatiga de MFA (muchas notificaciones push),2026-09-01,2026-11-03,Inicio de sesión con contraseñas robadas,4,media,6-TTP,push con número de coincidencia o llaves FIDO2,-
+ttp,T1204 · el usuario pega y ejecuta un comando («No soy un robot»),2026-10-19,2026-11-04,Verificación de equipos (pegado de comandos),4,alta,6-TTP,EDR en modo bloqueo y aviso a la gente,-
+ttp,T1114.003 · regla de reenvío en el buzón de la víctima,2025-11-02,2026-11-04,Destino de reglas de reenvío y de datos robados,11,alta,6-TTP,prohibir reenvío externo y alertar al crear reglas,-
+ttp,T1528 · robo de tokens con apps OAuth,2026-08-30,2026-11-01,Consentimiento de app OAuth,6,alta,6-TTP,solo el administrador aprueba apps,-
+ttp,T1656 · suplantación de proveedor o directivo para pagos,2025-03-18,2026-11-03,Cambio de cuenta bancaria de proveedor,12,alta,6-TTP,devolución de llamada al número del contrato y doble aprobación,-

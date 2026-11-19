@@ -1,0 +1,51 @@
+correo,nombre,rol_en_la_organizacion,tipo_de_puesto,estado,inicio_de_sesion,invitado_por,fecha_invitacion,ultima_actividad,ultima_sesion_claude_code,proyectos_propios,centro_de_costo
+mariana.ocampo@bahareque.example,Mariana Ocampo Villegas,Miembro,estándar,activo,SSO,sin registro,2026-03-02,2026-09-18,—,—,Dirección
+andres.gomez@bahareque.example,Andrés Gómez Salazar,Propietario,premium (incluye Claude Code),activo,SSO,Gustavo Herrera,2025-03-02,2026-09-21,2026-09-21,—,Dirección
+luisa.arango@bahareque.example,Luisa Fernanda Arango,Miembro,estándar,activo,SSO,Gustavo Herrera,2025-03-02,2026-10-15,—,—,Finanzas y nómina
+camilo.restrepo@bahareque.example,Camilo Restrepo Uribe,Miembro,premium (incluye Claude Code),activo,SSO,Andrés Gómez,2026-03-02,2026-10-15,2026-10-15,—,Desarrollo
+juliana.cardona@bahareque.example,Juliana Cardona Ríos,Miembro,premium (incluye Claude Code),activo,SSO,sin registro,2026-03-02,2026-11-17,2026-11-17,—,Desarrollo
+santiago.marin@bahareque.example,Santiago Marín López,Miembro,premium (incluye Claude Code),activo,SSO,Gustavo Herrera,2025-03-02,2026-11-03,2026-11-03,—,Desarrollo
+daniela.henao@bahareque.example,Daniela Henao Gil,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-03-02,2026-10-28,2026-10-28,—,Desarrollo
+sebastian.rios@bahareque.example,Sebastián Ríos Arango,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-03-02,nunca,—,—,Desarrollo
+valeria.giraldo@bahareque.example,Valeria Giraldo Mejía,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-03-02,2026-11-11,2026-11-11,—,Desarrollo
+mateo.valencia@bahareque.example,Mateo Valencia Ospina,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-03-02,2026-09-29,2026-09-29,—,Desarrollo
+laura.patino@bahareque.example,Laura Patiño Cardona,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-03-02,2026-10-15,2026-10-15,—,Desarrollo
+felipe.zuluaga@bahareque.example,Felipe Zuluaga Henao,Miembro,premium (incluye Claude Code),activo,SSO,sin registro,2026-03-02,2026-09-16,2026-09-16,—,Infraestructura
+natalia.quintero@bahareque.example,Natalia Quintero Duque,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-03-02,2026-09-18,2026-09-18,—,Desarrollo
+tomas.echeverri@bahareque.example,Tomás Echeverri Salazar,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-03-02,2026-11-09,2026-11-09,—,Desarrollo
+isabela.montoya@bahareque.example,Isabela Montoya Franco,Miembro,premium (incluye Claude Code),activo,SSO,Camilo Restrepo,2026-03-02,2026-09-23,2026-09-23,—,Desarrollo
+esteban.duque@bahareque.example,Esteban Duque Marín,Miembro,premium (incluye Claude Code),activo,SSO,Andrés Gómez,2026-03-02,2026-07-01,2026-07-01,—,Desarrollo
+carolina.mejia@bahareque.example,Carolina Mejía Toro,Miembro,premium (incluye Claude Code),activo,SSO,Fernando Salazar,2026-03-02,2026-10-09,2026-10-09,Guías de Guadua,Documentación
+ricardo.osorio@bahareque.example,Ricardo Osorio Patiño,Miembro,premium (incluye Claude Code),activo,SSO,sin registro,2026-03-02,nunca,—,—,Documentación
+paula.cano@bahareque.example,Paula Andrea Cano Gómez,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-03-02,2026-09-29,2026-09-29,—,Documentación
+diana.bedoya@bahareque.example,Diana Bedoya Arias,Miembro,estándar,activo,SSO,Gustavo Herrera,2025-03-02,2026-09-24,—,—,Soporte
+jorge.castano@bahareque.example,Jorge Iván Castaño Ruiz,Miembro,estándar,activo,SSO,Gustavo Herrera,2025-03-02,2026-10-22,—,—,Soporte
+melissa.franco@bahareque.example,Melissa Franco Giraldo,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,2026-10-22,—,—,Soporte
+andres.loaiza@bahareque.example,Andrés Felipe Loaiza,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,nunca,—,—,Soporte
+manuela.correa@bahareque.example,Manuela Correa Vélez,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,nunca,—,—,Soporte
+kevin.arias@bahareque.example,Kevin Arias Montoya,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-08-03,2026-11-18,2026-11-14,Respuestas rápidas de soporte,Soporte
+sara.velez@bahareque.example,Sara Vélez Cardona,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,2026-10-02,—,—,Soporte
+hernan.agudelo@bahareque.example,Hernán Agudelo Restrepo,Miembro,estándar,suspendido,SSO,Jhon Fredy Montes,2026-03-02,nunca,—,—,Soporte
+gloria.jaramillo@bahareque.example,Gloria Inés Jaramillo,Miembro,estándar,activo,SSO,Gustavo Herrera,2025-03-02,2026-10-09,—,—,Finanzas y nómina
+valentina.rios@bahareque.example,Valentina Ríos Ocampo,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-11-17,2026-11-18,—,—,Finanzas y nómina
+oscar.ramirez@bahareque.example,Óscar Ramírez Londoño,Miembro,estándar,activo,SSO,Gustavo Herrera,2025-03-02,2026-09-04,—,—,Finanzas y nómina
+beatriz.londono@bahareque.example,Beatriz Londoño Hoyos,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,2026-11-09,—,—,Finanzas y nómina
+alejandro.toro@bahareque.example,Alejandro Toro Gutiérrez,Miembro,estándar,activo,SSO,Gustavo Herrera,2025-03-02,2026-09-29,—,—,Comercial
+catalina.gutierrez@bahareque.example,Catalina Gutiérrez Serna,Miembro,estándar,activo,SSO,Gustavo Herrera,2025-03-02,nunca,—,—,Comercial
+julian.ospina@bahareque.example,Julián Ospina Castaño,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,nunca,—,—,Comercial
+liliana.serna@bahareque.example,Liliana Serna Botero,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,2026-05-19,—,—,Comercial
+pablo.munoz@bahareque.example,Pablo Muñoz Arbeláez,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,2026-09-22,—,—,Comercial
+angela.vargas@bahareque.example,Ángela María Vargas,Miembro,estándar,activo,SSO,sin registro,2026-03-02,2026-10-23,—,—,Comercial
+claudia.hoyos@bahareque.example,Claudia Patricia Hoyos,Miembro,estándar,activo,SSO,Mariana Ocampo,2026-03-02,2026-10-14,—,Selección y contratos laborales,Talento humano
+miguel.rendon@bahareque.example,Miguel Ángel Rendón,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-07-06,2026-11-13,2026-10-30,Hojas de vida y nómina (TH),Talento humano
+fernando.salazar@bahareque.example,Fernando Salazar Mejía,Miembro,estándar,activo,SSO,sin registro,2026-03-02,2026-11-05,—,—,Infraestructura
+ximena.botero@bahareque.example,Ximena Botero Quintero,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,2026-09-15,—,—,Datos
+david.castro@bahareque.example,David Castro Henao,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-03-02,2026-09-04,2026-09-04,—,Datos
+rosa.pineda@bahareque.example,Rosa Elena Pineda,Miembro,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,2026-10-23,—,—,Cumplimiento
+gustavo.herrera@bahareque.example,Gustavo Herrera Duque,Propietario principal,premium (incluye Claude Code),activo,SSO,—,2025-03-02,2026-01-14,2026-01-14,Infraestructura Guadua (runbooks y diagramas),Dirección
+lina.agudelo@bahareque.example,Lina Marcela Agudelo,Miembro,estándar,activo,SSO,Gustavo Herrera,2025-03-02,2026-09-16,—,—,Dirección
+jhon.montes@bahareque.example,Jhon Fredy Montes,Administrador,estándar,activo,SSO,Jhon Fredy Montes,2026-03-02,2026-10-08,—,—,Infraestructura
+alejandra.cifuentes@bahareque.example,Alejandra Cifuentes Mora,Miembro,estándar,activo,SSO,sin registro,2026-03-02,2026-10-14,—,—,Desarrollo
+nicolas.arbelaez@bahareque.example,Nicolás Arbeláez Toro,Miembro,premium (incluye Claude Code),activo,SSO,Jhon Fredy Montes,2026-11-17,2026-11-19,2026-11-19,—,Desarrollo
+hernan.agudelo@agudelo-consultor.example,Hernán Agudelo,Miembro,estándar,activo,correo y contraseña (sin SSO),Diana Bedoya,2025-03-04,2026-11-12,—,Respuestas de soporte (plantillas y tickets de ejemplo),Soporte
+soporte@bahareque.example,Soporte Bahareque,Miembro,estándar,activo,correo y contraseña (sin SSO),Diana Bedoya,2025-06-10,2026-11-19,—,Macros de la Mesa,Soporte

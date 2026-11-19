@@ -1,0 +1,47 @@
+destinatario,persona_id,area,enviado,estado_entrega,abierto,primera_apertura,clic_en_el_enlace,minutos_en_la_pagina,cuestionario,puntaje,estado_en_portal
+mariana.ocampo@bahareque.example,E01,Dirección,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+andres.gomez@bahareque.example,E02,Dirección,2026-10-06 08:00,entregado,sí,2026-10-06 10:05,no,0,no,,completada
+luisa.arango@bahareque.example,E03,Finanzas y nómina,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+camilo.restrepo@bahareque.example,E04,Desarrollo,2026-10-06 08:00,entregado,sí,2026-10-06 08:31,sí,3,no,,completada
+juliana.cardona@bahareque.example,E05,Desarrollo,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+santiago.marin@bahareque.example,E06,Desarrollo,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+daniela.henao@bahareque.example,E07,Desarrollo,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+sebastian.rios@bahareque.example,E08,Desarrollo,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+valeria.giraldo@bahareque.example,E09,Desarrollo,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+mateo.valencia@bahareque.example,E10,Desarrollo,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+laura.patino@bahareque.example,E11,Desarrollo,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+felipe.zuluaga@bahareque.example,E12,Infraestructura,2026-10-06 08:00,entregado,sí,2026-10-08 16:20,no,0,no,,completada
+natalia.quintero@bahareque.example,E13,Desarrollo,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+tomas.echeverri@bahareque.example,E14,Desarrollo,2026-10-06 08:00,entregado,sí,2026-10-06 08:12,sí,14,respondido,9/10,completada
+isabela.montoya@bahareque.example,E15,Desarrollo,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+esteban.duque@bahareque.example,E16,Desarrollo,2026-10-06 08:00,rebotado (buzón desactivado),no,,no,0,no,,completada
+carolina.mejia@bahareque.example,E17,Documentación,2026-10-06 08:00,entregado,sí,2026-10-07 07:55,no,0,no,,completada
+ricardo.osorio@bahareque.example,E18,Documentación,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+paula.cano@bahareque.example,E19,Documentación,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+diana.bedoya@bahareque.example,E20,Soporte,2026-10-06 08:00,entregado,sí,2026-10-09 11:02,no,0,no,,completada
+jorge.castano@bahareque.example,E21,Soporte,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+melissa.franco@bahareque.example,E22,Soporte,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+andres.loaiza@bahareque.example,E23,Soporte,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+manuela.correa@bahareque.example,E24,Soporte,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+kevin.arias@bahareque.example,E25,Soporte,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+sara.velez@bahareque.example,E26,Soporte,2026-10-06 08:00,entregado,sí,2026-10-07 21:14,no,0,no,,completada
+hernan.agudelo@bahareque.example,E27,Soporte,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+gloria.jaramillo@bahareque.example,E28,Finanzas y nómina,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+oscar.ramirez@bahareque.example,E30,Finanzas y nómina,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+beatriz.londono@bahareque.example,E31,Finanzas y nómina,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+alejandro.toro@bahareque.example,E32,Comercial,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+catalina.gutierrez@bahareque.example,E33,Comercial,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+julian.ospina@bahareque.example,E34,Comercial,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+liliana.serna@bahareque.example,E35,Comercial,2026-10-06 08:00,rebotado (buzón desactivado),no,,no,0,no,,completada
+pablo.munoz@bahareque.example,E36,Comercial,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+angela.vargas@bahareque.example,E37,Comercial,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+claudia.hoyos@bahareque.example,E38,Talento humano,2026-10-06 08:00,entregado,sí,2026-10-06 08:01,sí,1,no,,completada
+miguel.rendon@bahareque.example,E39,Talento humano,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+fernando.salazar@bahareque.example,E40,Infraestructura,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+ximena.botero@bahareque.example,E41,Datos,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+david.castro@bahareque.example,E42,Datos,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+rosa.pineda@bahareque.example,E43,Cumplimiento,2026-10-06 08:00,entregado,sí,2026-10-06 09:40,sí,22,respondido,10/10,completada
+gustavo.herrera@bahareque.example,E44,Dirección,2026-10-06 08:00,rebotado (buzón desactivado),no,,no,0,no,,completada
+lina.agudelo@bahareque.example,E45,Dirección,2026-10-06 08:00,entregado,no,,no,0,no,,completada
+jhon.montes@bahareque.example,E46,Infraestructura,2026-10-06 08:00,entregado,sí,2026-10-06 08:05,no,0,no,,completada
+alejandra.cifuentes@bahareque.example,E47,Desarrollo,2026-10-06 08:00,entregado,no,,no,0,no,,completada

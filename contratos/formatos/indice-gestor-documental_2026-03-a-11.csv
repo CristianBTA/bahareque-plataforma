@@ -1,0 +1,86 @@
+fecha_carga,ruta,cliente,tipo_documento,modelo_usado,medio,huella_sha256_16,cargado_por
+2026-03-02,gestor-documental/contratos/2026-03-02_panaderia-la-espiga.pdf,Panadería La Espiga,contrato de servicios,plantilla 2.3,firma digital,9c72ad5a951d3027,Pablo Muñoz Arbeláez
+2026-03-06,gestor-documental/contratos/2026-03-06_papeleria-el-lapiz.pdf,Papelería El Lápiz,renovación de contrato,plantilla 2.3,firma digital,7731ee10bfed9646,Julián Ospina Castaño
+2026-03-09,gestor-documental/otrosies/2026-03-09_tienda-naturista-vida-sana.pdf,Tienda Naturista Vida Sana,otrosí de tarifas,otrosí 1.1,firma digital,cf330834b4478879,Catalina Gutiérrez Serna
+2026-03-13,gestor-documental/adendas-facturacion/2026-03-13_miscelanea-dona-fany.pdf,Miscelánea Doña Fany,adenda de facturación electrónica,adenda FE 2.0,firma digital,3eb2b00ee09bc270,Pablo Muñoz Arbeláez
+2026-03-17,gestor-documental/contratos/2026-03-17_licorera-el-paisa.pdf,Licorera El Paisa,contrato de servicios,plantilla 2.3,firma digital,847cbb996cfe8b61,Julián Ospina Castaño
+2026-03-21,gestor-documental/contratos/2026-03-21_floristeria-orquidea.pdf,Floristería Orquídea,renovación de contrato,plantilla 2.3,firma digital,2daca4f4107f528b,Pablo Muñoz Arbeláez
+2026-03-24,gestor-documental/otrosies/2026-03-24_cacharreria-la-19.pdf,Cacharrería La 19,otrosí de tarifas,otrosí 1.1,firma digital,9f53cecfb72b3df7,Pablo Muñoz Arbeláez
+2026-03-27,gestor-documental/adendas-facturacion/2026-03-27_almacen-el-ganadero.pdf,Almacén El Ganadero,adenda de facturación electrónica,adenda FE 2.0,firma digital,4cd0fbc091352575,Lina Marcela Agudelo
+2026-03-30,gestor-documental/contratos/2026-03-30_repuestos-moto-eje.pdf,Repuestos Moto Eje,contrato de servicios,plantilla 2.3,firma digital,4c9546109cc463c4,Catalina Gutiérrez Serna
+2026-04-02,gestor-documental/contratos/2026-04-02_distribuidora-avicola-caldas.pdf,Distribuidora Avícola Caldas,renovación de contrato,plantilla 2.3,firma digital,fc9189d70f41100d,Lina Marcela Agudelo
+2026-04-06,gestor-documental/otrosies/2026-04-06_calzado-brio.pdf,Calzado Brío,otrosí de tarifas,otrosí 1.1,firma digital,6ea5051ea9d88486,Pablo Muñoz Arbeláez
+2026-04-09,gestor-documental/adendas-facturacion/2026-04-09_tienda-de-bicicletas-pedalea.pdf,Tienda de Bicicletas Pedalea,adenda de facturación electrónica,adenda FE 2.0,firma digital,7b53d62b9f9999a4,Lina Marcela Agudelo
+2026-04-11,gestor-documental/contratos/2026-04-11_libreria-letras-del-eje.pdf,Librería Letras del Eje,contrato de servicios,plantilla 2.3,firma digital,987409b102d2d9a8,Julián Ospina Castaño
+2026-04-13,gestor-documental/contratos/2026-04-13_jugueteria-trompo.pdf,Juguetería Trompo,renovación de contrato,plantilla 2.3,firma digital,e25d3d62c6b1ab30,Pablo Muñoz Arbeláez
+2026-04-17,gestor-documental/otrosies/2026-04-17_cerrajeria-llaves-ya.pdf,Cerrajería Llaves Ya,otrosí de tarifas,otrosí 1.1,firma digital,40c4fe0a412210f4,Julián Ospina Castaño
+2026-04-19,gestor-documental/adendas-facturacion/2026-04-19_granero-el-surtidor.pdf,Granero El Surtidor,adenda de facturación electrónica,adenda FE 2.0,firma digital,20127abc9af3cac0,Julián Ospina Castaño
+2026-04-21,gestor-documental/contratos/2026-04-21_heladeria-polo-norte.pdf,Heladería Polo Norte,contrato de servicios,plantilla 2.3,firma digital,2b69e053f11bcbe1,Catalina Gutiérrez Serna
+2026-04-23,gestor-documental/contratos/2026-04-23_vivero-las-heliconias.pdf,Vivero Las Heliconias,renovación de contrato,plantilla 2.3,firma digital,e2db509751d1d518,Lina Marcela Agudelo
+2026-04-26,gestor-documental/otrosies/2026-04-26_panaderia-la-espiga.pdf,Panadería La Espiga,otrosí de tarifas,otrosí 1.1,firma digital,107d60560eedf48e,Catalina Gutiérrez Serna
+2026-04-28,gestor-documental/adendas-facturacion/2026-04-28_papeleria-el-lapiz.pdf,Papelería El Lápiz,adenda de facturación electrónica,adenda FE 2.0,firma digital,f166d9968b9864d1,Pablo Muñoz Arbeláez
+2026-04-30,gestor-documental/contratos/2026-04-30_tienda-naturista-vida-sana.pdf,Tienda Naturista Vida Sana,contrato de servicios,plantilla 2.3,firma digital,bda6d98096a949b9,Catalina Gutiérrez Serna
+2026-05-04,gestor-documental/contratos/2026-05-04_miscelanea-dona-fany.pdf,Miscelánea Doña Fany,renovación de contrato,plantilla 2.3,firma digital,323b50aaaae80ee6,Catalina Gutiérrez Serna
+2026-05-07,gestor-documental/otrosies/2026-05-07_licorera-el-paisa.pdf,Licorera El Paisa,otrosí de tarifas,otrosí 1.1,firma digital,6a1e4c88186e9314,Catalina Gutiérrez Serna
+2026-05-09,gestor-documental/adendas-facturacion/2026-05-09_floristeria-orquidea.pdf,Floristería Orquídea,adenda de facturación electrónica,adenda FE 2.0,firma digital,931d70d6b7779418,Julián Ospina Castaño
+2026-05-12,gestor-documental/contratos/2026-05-12_cacharreria-la-19.pdf,Cacharrería La 19,contrato de servicios,plantilla 2.3,firma digital,f28f4d676a02d7b3,Lina Marcela Agudelo
+2026-05-16,gestor-documental/contratos/2026-05-16_almacen-el-ganadero.pdf,Almacén El Ganadero,renovación de contrato,plantilla 2.3,firma digital,1181dc3a1adf0a7e,Julián Ospina Castaño
+2026-05-18,gestor-documental/otrosies/2026-05-18_repuestos-moto-eje.pdf,Repuestos Moto Eje,otrosí de tarifas,otrosí 1.1,firma digital,2d97657774f34b3f,Julián Ospina Castaño
+2026-05-22,gestor-documental/adendas-facturacion/2026-05-22_distribuidora-avicola-caldas.pdf,Distribuidora Avícola Caldas,adenda de facturación electrónica,adenda FE 2.0,firma digital,f22971025aa21c2b,Catalina Gutiérrez Serna
+2026-05-25,gestor-documental/contratos/2026-05-25_calzado-brio.pdf,Calzado Brío,contrato de servicios,plantilla 2.3,firma digital,c7cca7523d3e9d6a,Lina Marcela Agudelo
+2026-05-28,gestor-documental/contratos/2026-05-28_tienda-de-bicicletas-pedalea.pdf,Tienda de Bicicletas Pedalea,renovación de contrato,plantilla 2.3,firma digital,4ac85db54969b641,Julián Ospina Castaño
+2026-06-01,gestor-documental/otrosies/2026-06-01_libreria-letras-del-eje.pdf,Librería Letras del Eje,otrosí de tarifas,otrosí 1.1,firma digital,eb291fe0a24fbb7c,Julián Ospina Castaño
+2026-06-05,gestor-documental/adendas-facturacion/2026-06-05_jugueteria-trompo.pdf,Juguetería Trompo,adenda de facturación electrónica,adenda FE 2.0,firma digital,a08a1050d0a9f9ce,Lina Marcela Agudelo
+2026-06-07,gestor-documental/contratos/2026-06-07_cerrajeria-llaves-ya.pdf,Cerrajería Llaves Ya,contrato de servicios,plantilla 2.3,firma digital,8677e4544fc4a4b1,Pablo Muñoz Arbeláez
+2026-06-09,gestor-documental/contratos/2026-06-09_granero-el-surtidor.pdf,Granero El Surtidor,renovación de contrato,plantilla 2.3,firma digital,388aa892a334d7a0,Lina Marcela Agudelo
+2026-06-12,gestor-documental/otrosies/2026-06-12_heladeria-polo-norte.pdf,Heladería Polo Norte,otrosí de tarifas,otrosí 1.1,firma digital,62eaaa9b4574b91e,Julián Ospina Castaño
+2026-06-14,gestor-documental/adendas-facturacion/2026-06-14_vivero-las-heliconias.pdf,Vivero Las Heliconias,adenda de facturación electrónica,adenda FE 2.0,firma digital,ae769835a093e8e4,Pablo Muñoz Arbeláez
+2026-06-17,gestor-documental/contratos/2026-06-17_panaderia-la-espiga.pdf,Panadería La Espiga,contrato de servicios,plantilla 2.3,firma digital,19d052f3c9affd32,Pablo Muñoz Arbeláez
+2026-06-20,gestor-documental/contratos/2026-06-20_papeleria-el-lapiz.pdf,Papelería El Lápiz,renovación de contrato,plantilla 2.3,firma digital,de75a5f5032a7f56,Julián Ospina Castaño
+2026-06-23,gestor-documental/otrosies/2026-06-23_tienda-naturista-vida-sana.pdf,Tienda Naturista Vida Sana,otrosí de tarifas,otrosí 1.1,firma digital,7de0322e91513f87,Pablo Muñoz Arbeláez
+2026-06-27,gestor-documental/adendas-facturacion/2026-06-27_miscelanea-dona-fany.pdf,Miscelánea Doña Fany,adenda de facturación electrónica,adenda FE 2.0,firma digital,9a9da47c87a6a67a,Catalina Gutiérrez Serna
+2026-07-01,gestor-documental/contratos/2026-07-01_licorera-el-paisa.pdf,Licorera El Paisa,contrato de servicios,plantilla 2.3,firma digital,91f8d728d775d32a,Julián Ospina Castaño
+2026-07-03,gestor-documental/contratos/2026-07-03_floristeria-orquidea.pdf,Floristería Orquídea,renovación de contrato,plantilla 2.3,firma digital,df984a7885bc2180,Julián Ospina Castaño
+2026-07-05,gestor-documental/otrosies/2026-07-05_cacharreria-la-19.pdf,Cacharrería La 19,otrosí de tarifas,otrosí 1.1,firma digital,bfb58ff3965bae57,Pablo Muñoz Arbeláez
+2026-07-08,gestor-documental/adendas-facturacion/2026-07-08_almacen-el-ganadero.pdf,Almacén El Ganadero,adenda de facturación electrónica,adenda FE 2.0,firma digital,865d5d79165d24aa,Lina Marcela Agudelo
+2026-07-11,gestor-documental/contratos/2026-07-11_repuestos-moto-eje.pdf,Repuestos Moto Eje,contrato de servicios,plantilla 2.3,firma digital,834f6678f61a7219,Lina Marcela Agudelo
+2026-07-15,gestor-documental/contratos/2026-07-15_distribuidora-avicola-caldas.pdf,Distribuidora Avícola Caldas,renovación de contrato,plantilla 2.3,firma digital,a4aeb6f716f10305,Lina Marcela Agudelo
+2026-07-18,gestor-documental/otrosies/2026-07-18_calzado-brio.pdf,Calzado Brío,otrosí de tarifas,otrosí 1.1,firma digital,5773212b150c1101,Lina Marcela Agudelo
+2026-07-22,gestor-documental/adendas-facturacion/2026-07-22_tienda-de-bicicletas-pedalea.pdf,Tienda de Bicicletas Pedalea,adenda de facturación electrónica,adenda FE 2.0,firma digital,553821a09515248a,Pablo Muñoz Arbeláez
+2026-07-24,gestor-documental/contratos/2026-07-24_libreria-letras-del-eje.pdf,Librería Letras del Eje,contrato de servicios,plantilla 2.3,firma digital,f71f6a2abadd4344,Julián Ospina Castaño
+2026-07-26,gestor-documental/contratos/2026-07-26_jugueteria-trompo.pdf,Juguetería Trompo,renovación de contrato,plantilla 2.3,firma digital,470ad0000747a93d,Catalina Gutiérrez Serna
+2026-07-28,gestor-documental/otrosies/2026-07-28_cerrajeria-llaves-ya.pdf,Cerrajería Llaves Ya,otrosí de tarifas,otrosí 1.1,firma digital,b1b9035c9bf011c8,Julián Ospina Castaño
+2026-08-01,gestor-documental/adendas-facturacion/2026-08-01_granero-el-surtidor.pdf,Granero El Surtidor,adenda de facturación electrónica,adenda FE 2.0,firma digital,5d2251345282675c,Catalina Gutiérrez Serna
+2026-08-04,gestor-documental/contratos/2026-08-04_heladeria-polo-norte.pdf,Heladería Polo Norte,contrato de servicios,plantilla 2.3,firma digital,13f5fbc0ab457ce0,Pablo Muñoz Arbeláez
+2026-08-06,gestor-documental/contratos/2026-08-06_vivero-las-heliconias.pdf,Vivero Las Heliconias,renovación de contrato,plantilla 2.3,firma digital,e2085c3232813c16,Pablo Muñoz Arbeláez
+2026-08-08,gestor-documental/otrosies/2026-08-08_panaderia-la-espiga.pdf,Panadería La Espiga,otrosí de tarifas,otrosí 1.1,firma digital,82d9a1edb8f431ae,Pablo Muñoz Arbeláez
+2026-08-11,gestor-documental/adendas-facturacion/2026-08-11_papeleria-el-lapiz.pdf,Papelería El Lápiz,adenda de facturación electrónica,adenda FE 2.0,firma digital,763f0af777681fc9,Lina Marcela Agudelo
+2026-08-13,gestor-documental/contratos/2026-08-13_tienda-naturista-vida-sana.pdf,Tienda Naturista Vida Sana,contrato de servicios,plantilla 2.3,firma digital,7f56837741a888cc,Pablo Muñoz Arbeláez
+2026-08-16,gestor-documental/contratos/2026-08-16_miscelanea-dona-fany.pdf,Miscelánea Doña Fany,renovación de contrato,plantilla 2.3,firma digital,6f3bb2390b7b207a,Julián Ospina Castaño
+2026-08-20,gestor-documental/otrosies/2026-08-20_licorera-el-paisa.pdf,Licorera El Paisa,otrosí de tarifas,otrosí 1.1,firma digital,499dc87a42e89ec3,Pablo Muñoz Arbeláez
+2026-08-23,gestor-documental/adendas-facturacion/2026-08-23_floristeria-orquidea.pdf,Floristería Orquídea,adenda de facturación electrónica,adenda FE 2.0,firma digital,9214d53b093e6684,Catalina Gutiérrez Serna
+2026-08-27,gestor-documental/contratos/2026-08-27_cacharreria-la-19.pdf,Cacharrería La 19,contrato de servicios,plantilla 2.3,firma digital,fbe6905f6f9f8b98,Pablo Muñoz Arbeláez
+2026-08-30,gestor-documental/contratos/2026-08-30_almacen-el-ganadero.pdf,Almacén El Ganadero,renovación de contrato,plantilla 2.3,firma digital,ac5ad8cf7275efd8,Julián Ospina Castaño
+2026-09-01,gestor-documental/otrosies/2026-09-01_repuestos-moto-eje.pdf,Repuestos Moto Eje,otrosí de tarifas,otrosí 1.1,firma digital,40ab6980551eb4e5,Julián Ospina Castaño
+2026-09-03,gestor-documental/adendas-facturacion/2026-09-03_distribuidora-avicola-caldas.pdf,Distribuidora Avícola Caldas,adenda de facturación electrónica,adenda FE 2.0,firma digital,b6728d37f7be6c73,Lina Marcela Agudelo
+2026-09-05,gestor-documental/contratos/2026-09-05_calzado-brio.pdf,Calzado Brío,contrato de servicios,plantilla 2.3,firma digital,7e9b0a22fe7bb364,Pablo Muñoz Arbeláez
+2026-09-09,gestor-documental/contratos/2026-09-09_tienda-de-bicicletas-pedalea.pdf,Tienda de Bicicletas Pedalea,renovación de contrato,plantilla 2.3,firma digital,a7e7f15a45edaa53,Catalina Gutiérrez Serna
+2026-09-11,gestor-documental/otrosies/2026-09-11_libreria-letras-del-eje.pdf,Librería Letras del Eje,otrosí de tarifas,otrosí 1.1,firma digital,7e7ceb57c3c67be8,Catalina Gutiérrez Serna
+2026-09-13,gestor-documental/adendas-facturacion/2026-09-13_jugueteria-trompo.pdf,Juguetería Trompo,adenda de facturación electrónica,adenda FE 2.0,firma digital,12cdc2dfa086217f,Catalina Gutiérrez Serna
+2026-09-17,gestor-documental/contratos/2026-09-17_cerrajeria-llaves-ya.pdf,Cerrajería Llaves Ya,contrato de servicios,plantilla 2.3,firma digital,837a2b59807ec5d4,Catalina Gutiérrez Serna
+2026-09-17,gestor-documental/adendas-ia/2026-09-17_clinica-veterinaria-huellitas.pdf,Clínica Veterinaria Huellitas,adenda IA,adenda IA 1.0,firma digital,893dcd1630dec697,Lina Marcela Agudelo
+2026-09-21,gestor-documental/contratos/2026-09-21_granero-el-surtidor.pdf,Granero El Surtidor,renovación de contrato,plantilla 2.3,firma digital,469e0c3f880319fb,Catalina Gutiérrez Serna
+2026-09-21,gestor-documental/adendas-ia/2026-09-21_tienda-ecologica-raices.pdf,Tienda Ecológica Raíces,adenda IA,adenda IA 1.0,firma digital,e2c95a5e045cf62f,Lina Marcela Agudelo
+2026-09-25,gestor-documental/adendas-ia/2026-09-25_tienda-de-ropa-guayaba.pdf,Tienda de Ropa Guayaba,adenda IA,adenda IA 1.0,firma digital,47f13c204fafcef2,Lina Marcela Agudelo
+2026-10-01,gestor-documental/adendas-ia/2026-10-01_ferreteria-el-constructor.pdf,Ferretería El Constructor,adenda IA,adenda servicios digitales v0.9,firma digital,d13365aeb8272bed,Lina Marcela Agudelo
+2026-10-02,gestor-documental/adendas-ia/2026-10-02_tienda-de-ropa-bambu.pdf,Tienda de Ropa Bambú,adenda IA,adenda servicios digitales v0.9,firma digital,c7cfd748a59d3102,Lina Marcela Agudelo
+2026-10-06,gestor-documental/adendas-ia/2026-10-06_cooperativa-coomultiservicios-del-eje.pdf,Cooperativa Coomultiservicios del Eje,adenda IA,adenda servicios digitales v0.9,firma digital,1e555c14cefa6060,Lina Marcela Agudelo
+2026-10-06,gestor-documental/adendas-ia/2026-10-06_ferreteria-la-escuadra.pdf,Ferretería La Escuadra,adenda IA,adenda IA 1.0,firma digital,14fd05e9facf6ff1,Lina Marcela Agudelo
+2026-10-09,gestor-documental/adendas-ia/2026-10-09_cooperativa-multiactiva-los-andes.pdf,Cooperativa Multiactiva Los Andes,adenda IA,adenda IA 1.0,firma digital,bca9a707c1cbd65d,Lina Marcela Agudelo
+2026-10-13,gestor-documental/adendas-ia/2026-10-13_tienda-de-mascotas-patitas.pdf,Tienda de Mascotas Patitas,adenda IA,adenda IA 1.0,firma digital,006a340c6b8d2a21,Lina Marcela Agudelo
+2026-10-14,gestor-documental/adendas-ia/2026-10-14_gimnasio-fuerza-andina.pdf,Gimnasio Fuerza Andina,adenda IA,adenda IA 1.0,firma digital,be7296d8332b06a5,Lina Marcela Agudelo
+2026-10-15,gestor-documental/adendas-ia/2026-10-15_drogueria-farmasalud.pdf,Droguería Farmasalud,adenda IA,adenda servicios digitales v0.9,firma digital,55f8bb655e09cb39,Lina Marcela Agudelo
+2026-10-20,gestor-documental/adendas-ia/2026-10-20_tienda-cafe-montana-alta.pdf,Tienda Café Montaña Alta,adenda IA,adenda IA 1.0,firma digital,7809d739f074204a,Lina Marcela Agudelo
+2026-10-23,gestor-documental/adendas-ia/2026-10-23_ferreteria-y-pinturas-el-arriero.pdf,Ferretería y Pinturas El Arriero,adenda IA,adenda IA 1.0,firma digital,091db27b6daf7f0c,Lina Marcela Agudelo
+2026-10-30,gestor-documental/adendas-ia/2026-10-30_tienda-de-cafe-bourbon-rosado.pdf,Tienda de Café Bourbon Rosado,adenda IA,adenda IA 1.0,firma digital,1e9f7c2ddba80b02,Lina Marcela Agudelo
+2026-11-06,gestor-documental/adendas-ia/2026-11-06_cooperativa-de-ahorro-progresar.pdf,Cooperativa de Ahorro Progresar,adenda IA,adenda IA 1.0,firma digital,36a1d5f5ad183ae6,Lina Marcela Agudelo

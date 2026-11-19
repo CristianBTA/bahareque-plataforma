@@ -1,0 +1,61 @@
+dispositivo,persona_id,nombre,tipo,sistema,propiedad,apps_de_bahareque,datos_de_bahareque_en_el_equipo,cifrado,bloqueo_de_pantalla,borrado_remoto,inscrito_en_gestion,ultima_sincronizacion,observaciones
+DISP-001,E01,Mariana Ocampo Villegas,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-19,
+DISP-002,E01,Mariana Ocampo Villegas,portátil personal,Linux,personal,correo (web),ninguno según el agente,sí,sí (10 min),no,no,2026-11-18,solo para revisar el correo en casa
+DISP-003,E02,Andrés Gómez Salazar,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-19,
+DISP-004,E03,Luisa Fernanda Arango,tableta personal,Android,personal,correo; portal (nómina),"nómina de octubre descargada (PDF con cédulas, salarios y cuentas bancarias)",no,no,no,no,2026-11-17,«la usan los niños para las tareas»
+DISP-005,E04,Camilo Restrepo Uribe,celular,iOS,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-17,
+DISP-006,E05,Juliana Cardona Ríos,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-18,
+DISP-007,E06,Santiago Marín López,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-17,
+DISP-008,E07,Daniela Henao Gil,celular,iOS,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-19,
+DISP-009,E08,Sebastián Ríos Arango,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-18,
+DISP-010,E08,Sebastián Ríos Arango,portátil personal,macOS,personal,correo (web),ninguno según el agente,sí,sí (5 min),no,no,2026-11-18,solo para revisar el correo en casa
+DISP-011,E09,Valeria Giraldo Mejía,celular,iOS,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-19,
+DISP-012,E09,Valeria Giraldo Mejía,portátil personal,Linux,personal,correo (web),ninguno según el agente,sí,sí (10 min),no,no,2026-11-18,solo para revisar el correo en casa
+DISP-013,E10,Mateo Valencia Ospina,portátil personal,Linux,personal,correo; repositorio; VPN,"volcado de guadua-db del 2026-10-17 (1,8 GB) en la carpeta personal",no,sí (5 min),no,no,2026-11-18,
+DISP-014,E10,Mateo Valencia Ospina,celular,Android,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-18,
+DISP-015,E11,Laura Patiño Cardona,celular,Android,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-18,
+DISP-016,E11,Laura Patiño Cardona,portátil personal,Windows,personal,correo (web),ninguno según el agente,sí,sí (5 min),no,no,2026-11-18,solo para revisar el correo en casa
+DISP-017,E12,Felipe Zuluaga Henao,celular,iOS,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-19,
+DISP-018,E13,Natalia Quintero Duque,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-18,
+DISP-019,E14,Tomás Echeverri Salazar,celular,Android,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-17,
+DISP-020,E14,Tomás Echeverri Salazar,portátil personal,Windows,personal,correo (web),ninguno según el agente,sí,sí (5 min),no,no,2026-11-12,solo para revisar el correo en casa
+DISP-021,E15,Isabela Montoya Franco,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-17,
+DISP-022,E17,Carolina Mejía Toro,celular,iOS,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-18,
+DISP-023,E18,Ricardo Osorio Patiño,celular,Android,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-19,
+DISP-024,E18,Ricardo Osorio Patiño,portátil personal,macOS,personal,correo (web),ninguno según el agente,sí,sí (10 min),no,no,2026-11-18,solo para revisar el correo en casa
+DISP-025,E19,Paula Andrea Cano Gómez,celular,Android,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-19,
+DISP-026,E20,Diana Bedoya Arias,celular,iOS,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-19,
+DISP-027,E20,Diana Bedoya Arias,portátil personal,Windows,personal,correo (web),ninguno según el agente,sí,sí (5 min),no,no,2026-11-14,solo para revisar el correo en casa
+DISP-028,E21,Jorge Iván Castaño Ruiz,celular,Android,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-19,
+DISP-029,E22,Melissa Franco Giraldo,celular,iOS,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-17,
+DISP-030,E23,Andrés Felipe Loaiza,celular,iOS,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-19,
+DISP-031,E24,Manuela Correa Vélez,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-17,
+DISP-032,E24,Manuela Correa Vélez,portátil personal,Windows,personal,correo (web),ninguno según el agente,sí,sí (10 min),no,no,2026-11-12,solo para revisar el correo en casa
+DISP-033,E25,Kevin Arias Montoya,celular,Android,personal,correo; chat; WhatsApp (grupo «Soporte Guadua»),"capturas de pantalla de tickets con cédulas en la galería, con copia automática a su nube personal",desconocido,no,no,no,2026-11-19,
+DISP-034,E26,Sara Vélez Cardona,celular,Android,personal,correo; Mesa (app),caché de la app de la Mesa con tickets de clientes,desconocido,patrón,no,no,2026-11-15,sigue sincronizando el correo corporativo
+DISP-035,E27,Hernán Agudelo Restrepo,portátil propio,Windows,personal,correo; Mesa (web); CRM Clientela (web),exportación de tickets de octubre (2.940 filas con cédula y teléfono) en Descargas,no,no,no,no,2026-11-16,contratista: equipo propio; nadie pidió borrar los datos al terminar el contrato
+DISP-036,E28,Gloria Inés Jaramillo,celular,Android,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-19,
+DISP-037,E29,Valentina Ríos Ocampo,celular,Android,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-18,
+DISP-038,E30,Óscar Ramírez Londoño,celular,iOS,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-19,
+DISP-039,E31,Beatriz Londoño Hoyos,celular,Android,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-18,
+DISP-040,E31,Beatriz Londoño Hoyos,portátil personal,Windows,personal,correo (web),ninguno según el agente,sí,sí (5 min),no,no,2026-11-18,solo para revisar el correo en casa
+DISP-041,E32,Alejandro Toro Gutiérrez,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-19,
+DISP-042,E33,Catalina Gutiérrez Serna,portátil personal,macOS,personal,correo; CRM Clientela (web),contactos-campana-sep.xlsx (3.214 contactos exportados del CRM),no,sí (30 min),no,no,2026-11-18,
+DISP-043,E33,Catalina Gutiérrez Serna,celular,Android,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-18,
+DISP-044,E34,Julián Ospina Castaño,celular,iOS,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-18,
+DISP-045,E35,Liliana Serna Botero,portátil personal,Windows,personal,correo; CRM Clientela (web),contactos-clientela-2026-05-27.csv (18.400 contactos de comercios y clientes finales),no,no,no,no,2026-05-27,último reporte del agente de inventario
+DISP-046,E36,Pablo Muñoz Arbeláez,celular,iOS,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-19,
+DISP-047,E36,Pablo Muñoz Arbeláez,portátil personal,Linux,personal,correo (web),ninguno según el agente,sí,sí (5 min),no,no,2026-11-14,solo para revisar el correo en casa
+DISP-048,E37,Ángela María Vargas,celular,Android,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-19,
+DISP-049,E38,Claudia Patricia Hoyos,celular,iOS,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-19,
+DISP-050,E39,Miguel Ángel Rendón,celular,Android,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-19,
+DISP-051,E40,Fernando Salazar Mejía,celular,Android,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-17,
+DISP-052,E41,Ximena Botero Quintero,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-17,
+DISP-053,E42,David Castro Henao,celular,iOS,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-18,
+DISP-054,E42,David Castro Henao,portátil personal,macOS,personal,correo (web),ninguno según el agente,sí,sí (10 min),no,no,2026-11-12,solo para revisar el correo en casa
+DISP-055,E43,Rosa Elena Pineda,celular,Android,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-17,
+DISP-056,E43,Rosa Elena Pineda,portátil personal,Windows,personal,correo (web),ninguno según el agente,sí,sí (10 min),no,no,2026-11-12,solo para revisar el correo en casa
+DISP-057,E45,Lina Marcela Agudelo,celular,Android,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-18,
+DISP-058,E46,Jhon Fredy Montes,celular,Android,personal,correo; chat,correo,sí (del sistema),rostro,solo el buzón (consola de correo),no,2026-11-17,
+DISP-059,E47,Alejandra Cifuentes Mora,celular,Android,personal,correo; chat,correo,sí (del sistema),huella,solo el buzón (consola de correo),no,2026-11-17,
+DISP-060,E48,Nicolás Arbeláez Toro,celular,Android,personal,correo; chat,correo,sí (del sistema),PIN,solo el buzón (consola de correo),no,2026-11-17,

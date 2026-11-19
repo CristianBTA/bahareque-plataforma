@@ -1,0 +1,106 @@
+# Reglas de todos los buzones de la suite · exportadas por fernando.salazar@bahareque.example el 2026-11-13 17:25 (consola > Buzones > Reglas)
+buzon,nombre_regla,condicion,accion,destino,creada,creada_por,origen,estado,ultima_ejecucion
+valeria.giraldo@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2023-10-27,valeria.giraldo@bahareque.example,web (198.51.100.17),activa,2026-11-10
+jhon.montes@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2023-07-14,jhon.montes@bahareque.example,web (198.51.100.21),activa,2026-11-10
+luisa.arango@bahareque.example,Clientela,remitente contiene clientela.example,mover a carpeta,Clientela,2023-10-25,luisa.arango@bahareque.example,web (198.51.100.11),activa,2026-11-09
+andres.loaiza@bahareque.example,Boletines,remitente contiene noticias-eje.example o periodico-manizales.example,mover a carpeta,Boletines,2025-09-25,andres.loaiza@bahareque.example,web (198.51.100.28),activa,2026-11-13
+julian.ospina@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2023-05-21,julian.ospina@bahareque.example,web (198.51.100.21),desactivada,-
+luisa.arango@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2025-04-10,luisa.arango@bahareque.example,web (198.51.100.11),activa,2026-11-09
+santiago.marin@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2025-02-26,santiago.marin@bahareque.example,web (198.51.100.30),desactivada,-
+mariana.ocampo@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2023-07-03,mariana.ocampo@bahareque.example,web (198.51.100.23),activa,2026-11-10
+valeria.giraldo@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2024-11-23,valeria.giraldo@bahareque.example,web (198.51.100.17),activa,2026-11-13
+carolina.mejia@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2023-02-08,carolina.mejia@bahareque.example,web (198.51.100.29),activa,2026-11-11
+ricardo.osorio@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2025-07-02,ricardo.osorio@bahareque.example,web (198.51.100.11),desactivada,-
+comunicaciones@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2023-06-02,comunicaciones@bahareque.example,web (198.51.100.20),activa,2026-11-11
+tomas.echeverri@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2024-09-15,tomas.echeverri@bahareque.example,web (198.51.100.10),activa,2026-11-10
+kevin.arias@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2024-11-11,kevin.arias@bahareque.example,web (198.51.100.29),activa,2026-11-10
+mateo.valencia@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2026-04-03,mateo.valencia@bahareque.example,web (198.51.100.25),activa,2026-11-12
+luisa.arango@bahareque.example,Clientela,remitente contiene clientela.example,mover a carpeta,Clientela,2025-12-15,luisa.arango@bahareque.example,web (198.51.100.11),activa,2026-11-10
+beatriz.londono@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2026-09-25,beatriz.londono@bahareque.example,web (198.51.100.22),desactivada,-
+laura.patino@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2026-08-19,laura.patino@bahareque.example,web (198.51.100.11),activa,2026-11-10
+sebastian.rios@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2025-08-26,sebastian.rios@bahareque.example,web (198.51.100.16),desactivada,-
+valeria.giraldo@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2026-08-20,valeria.giraldo@bahareque.example,web (198.51.100.17),desactivada,-
+paula.cano@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2024-01-21,paula.cano@bahareque.example,web (198.51.100.13),activa,2026-11-12
+alejandra.cifuentes@bahareque.example,Clientela,remitente contiene clientela.example,mover a carpeta,Clientela,2025-01-13,alejandra.cifuentes@bahareque.example,web (198.51.100.21),activa,2026-11-12
+mateo.valencia@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2026-07-28,mateo.valencia@bahareque.example,web (198.51.100.25),desactivada,-
+nomina@bahareque.example,Copia contabilidad,adjunto cuyo nombre contiene «nomina» o «desprendible» o «planilla»,reenviar copia,luisa.arango.finanzas@correo-seguro.example,2026-08-19 07:12,fernando.salazar@bahareque.example (consola de administración),web (203.0.113.19),activa,2026-10-28 16:03
+manuela.correa@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2023-08-22,manuela.correa@bahareque.example,web (198.51.100.24),desactivada,-
+isabela.montoya@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2024-11-28,isabela.montoya@bahareque.example,web (198.51.100.19),activa,2026-11-13
+ximena.botero@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2023-10-04,ximena.botero@bahareque.example,web (198.51.100.26),activa,2026-11-10
+diana.bedoya@bahareque.example,Boletines,remitente contiene noticias-eje.example o periodico-manizales.example,mover a carpeta,Boletines,2024-12-22,diana.bedoya@bahareque.example,web (198.51.100.26),activa,2026-11-13
+alejandra.cifuentes@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2023-08-20,alejandra.cifuentes@bahareque.example,web (198.51.100.21),activa,2026-11-11
+juliana.cardona@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2024-06-04,juliana.cardona@bahareque.example,web (198.51.100.26),activa,2026-11-09
+diana.bedoya@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2025-11-13,diana.bedoya@bahareque.example,web (198.51.100.26),activa,2026-11-09
+andres.gomez@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2025-08-05,andres.gomez@bahareque.example,web (198.51.100.26),desactivada,-
+gloria.jaramillo@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2024-04-02,gloria.jaramillo@bahareque.example,web (198.51.100.16),desactivada,-
+melissa.franco@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2024-03-16,melissa.franco@bahareque.example,web (198.51.100.17),activa,2026-11-13
+kevin.arias@bahareque.example,Clientela,remitente contiene clientela.example,mover a carpeta,Clientela,2026-01-18,kevin.arias@bahareque.example,web (198.51.100.29),activa,2026-11-12
+mesa@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2023-02-01,mesa@bahareque.example,web (198.51.100.20),activa,2026-11-09
+alejandro.toro@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2023-08-07,alejandro.toro@bahareque.example,web (198.51.100.13),activa,2026-11-13
+camilo.restrepo@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2023-04-09,camilo.restrepo@bahareque.example,web (198.51.100.12),activa,2026-11-12
+santiago.marin@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2026-03-20,santiago.marin@bahareque.example,web (198.51.100.30),activa,2026-11-10
+david.castro@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2026-03-25,david.castro@bahareque.example,web (198.51.100.24),activa,2026-11-10
+ximena.botero@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2024-11-09,ximena.botero@bahareque.example,web (198.51.100.26),activa,2026-11-13
+melissa.franco@bahareque.example,.,asunto o cuerpo contiene «firma» o «documento» o «no lo envié» o «hackeada»,eliminar definitivamente (sin papelera),-,2026-11-10 07:58,melissa.franco@bahareque.example,imap-heredado (203.0.113.88),activa,-
+natalia.quintero@bahareque.example,Boletines,remitente contiene noticias-eje.example o periodico-manizales.example,mover a carpeta,Boletines,2024-06-09,natalia.quintero@bahareque.example,web (198.51.100.17),activa,2026-11-13
+andres.gomez@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2023-11-19,andres.gomez@bahareque.example,web (198.51.100.26),activa,2026-11-09
+angela.vargas@bahareque.example,Clientela,remitente contiene clientela.example,mover a carpeta,Clientela,2023-09-16,angela.vargas@bahareque.example,web (198.51.100.26),activa,2026-11-10
+jorge.castano@bahareque.example,Boletines,remitente contiene noticias-eje.example o periodico-manizales.example,mover a carpeta,Boletines,2025-09-12,jorge.castano@bahareque.example,web (198.51.100.11),activa,2026-11-13
+claudia.hoyos@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2025-02-05,claudia.hoyos@bahareque.example,web (198.51.100.13),activa,2026-11-10
+julian.ospina@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2024-10-25,julian.ospina@bahareque.example,web (198.51.100.21),activa,2026-11-13
+santiago.marin@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2025-12-24,santiago.marin@bahareque.example,web (198.51.100.30),desactivada,-
+gloria.jaramillo@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2026-05-24,gloria.jaramillo@bahareque.example,web (198.51.100.16),activa,2026-11-13
+tomas.echeverri@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2024-09-23,tomas.echeverri@bahareque.example,web (198.51.100.10),activa,2026-11-09
+natalia.quintero@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2024-12-15,natalia.quintero@bahareque.example,web (198.51.100.17),activa,2026-11-11
+ricardo.osorio@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2023-10-02,ricardo.osorio@bahareque.example,web (198.51.100.11),activa,2026-11-13
+carolina.mejia@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2025-06-17,carolina.mejia@bahareque.example,web (198.51.100.29),desactivada,-
+catalina.gutierrez@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2025-06-05,catalina.gutierrez@bahareque.example,web (198.51.100.16),activa,2026-11-12
+beatriz.londono@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2023-09-22,beatriz.londono@bahareque.example,web (198.51.100.22),activa,2026-11-11
+andres.loaiza@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2023-04-01,andres.loaiza@bahareque.example,web (198.51.100.28),activa,2026-11-12
+andres.loaiza@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2026-01-17,andres.loaiza@bahareque.example,web (198.51.100.28),activa,2026-11-12
+claudia.hoyos@bahareque.example,Boletines,remitente contiene noticias-eje.example o periodico-manizales.example,mover a carpeta,Boletines,2026-07-14,claudia.hoyos@bahareque.example,web (198.51.100.13),activa,2026-11-12
+mesa@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2026-06-01,mesa@bahareque.example,web (198.51.100.20),activa,2026-11-09
+miguel.rendon@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2024-01-06,miguel.rendon@bahareque.example,web (198.51.100.10),activa,2026-11-10
+camilo.restrepo@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2023-08-21,camilo.restrepo@bahareque.example,web (198.51.100.12),activa,2026-11-12
+kevin.arias@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2026-01-04,kevin.arias@bahareque.example,web (198.51.100.29),desactivada,-
+camilo.restrepo@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2024-07-02,camilo.restrepo@bahareque.example,web (198.51.100.12),desactivada,-
+fernando.salazar@bahareque.example,Respaldo personal,todos los mensajes,reenviar copia,fsalazar.respaldo@correo-seguro.example,2026-08-19 06:41,fernando.salazar@bahareque.example,web (203.0.113.19),activa,2026-11-13 11:56
+daniela.henao@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2023-12-27,daniela.henao@bahareque.example,web (198.51.100.18),desactivada,-
+miguel.rendon@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2023-01-02,miguel.rendon@bahareque.example,web (198.51.100.10),activa,2026-11-09
+claudia.hoyos@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2025-04-24,claudia.hoyos@bahareque.example,web (198.51.100.13),desactivada,-
+mariana.ocampo@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2023-06-15,mariana.ocampo@bahareque.example,web (198.51.100.23),activa,2026-11-09
+facturas@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2026-05-04,facturas@bahareque.example,web (198.51.100.20),activa,2026-11-09
+lina.agudelo@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2024-05-09,lina.agudelo@bahareque.example,web (198.51.100.25),activa,2026-11-09
+felipe.zuluaga@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2025-12-15,felipe.zuluaga@bahareque.example,web (198.51.100.29),activa,2026-11-09
+felipe.zuluaga@bahareque.example,Boletines,remitente contiene noticias-eje.example o periodico-manizales.example,mover a carpeta,Boletines,2024-03-22,felipe.zuluaga@bahareque.example,web (198.51.100.29),activa,2026-11-12
+juliana.cardona@bahareque.example,Clientela,remitente contiene clientela.example,mover a carpeta,Clientela,2025-10-21,juliana.cardona@bahareque.example,web (198.51.100.26),activa,2026-11-11
+mariana.ocampo@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2024-12-07,mariana.ocampo@bahareque.example,web (198.51.100.23),activa,2026-11-12
+tomas.echeverri@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2025-12-05,tomas.echeverri@bahareque.example,web (198.51.100.10),desactivada,-
+melissa.franco@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2024-10-25,melissa.franco@bahareque.example,web (198.51.100.17),activa,2026-11-12
+manuela.correa@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2024-11-04,manuela.correa@bahareque.example,web (198.51.100.24),activa,2026-11-09
+natalia.quintero@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2025-07-07,natalia.quintero@bahareque.example,web (198.51.100.17),activa,2026-11-13
+comunicaciones@bahareque.example,Boletines,remitente contiene noticias-eje.example o periodico-manizales.example,mover a carpeta,Boletines,2026-03-16,comunicaciones@bahareque.example,web (198.51.100.20),activa,2026-11-13
+alejandro.toro@bahareque.example,Boletines,remitente contiene noticias-eje.example o periodico-manizales.example,mover a carpeta,Boletines,2026-07-12,alejandro.toro@bahareque.example,web (198.51.100.13),activa,2026-11-11
+jhon.montes@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2023-06-22,jhon.montes@bahareque.example,web (198.51.100.21),activa,2026-11-12
+melissa.franco@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2025-06-04,melissa.franco@bahareque.example,web (198.51.100.17),desactivada,-
+lina.agudelo@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2025-10-07,lina.agudelo@bahareque.example,web (198.51.100.25),desactivada,-
+manuela.correa@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2023-04-15,manuela.correa@bahareque.example,web (198.51.100.24),desactivada,-
+laura.patino@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2025-04-05,laura.patino@bahareque.example,web (198.51.100.11),activa,2026-11-11
+alejandra.cifuentes@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2023-06-05,alejandra.cifuentes@bahareque.example,web (198.51.100.21),activa,2026-11-10
+david.castro@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2026-07-24,david.castro@bahareque.example,web (198.51.100.24),activa,2026-11-10
+paula.cano@bahareque.example,Calendario,asunto contiene «Invitación:»,marcar con categoría,Reuniones,2023-09-08,paula.cano@bahareque.example,web (198.51.100.13),activa,2026-11-12
+comunicaciones@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2023-02-11,comunicaciones@bahareque.example,web (198.51.100.20),activa,2026-11-10
+sebastian.rios@bahareque.example,Boletines,remitente contiene noticias-eje.example o periodico-manizales.example,mover a carpeta,Boletines,2026-10-23,sebastian.rios@bahareque.example,web (198.51.100.16),activa,2026-11-09
+pablo.munoz@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2025-10-20,pablo.munoz@bahareque.example,web (198.51.100.10),activa,2026-11-12
+isabela.montoya@bahareque.example,Clientela,remitente contiene clientela.example,mover a carpeta,Clientela,2025-10-13,isabela.montoya@bahareque.example,web (198.51.100.19),activa,2026-11-13
+julian.ospina@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2024-04-04,julian.ospina@bahareque.example,web (198.51.100.21),activa,2026-11-13
+oscar.ramirez@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2025-05-23,oscar.ramirez@bahareque.example,web (198.51.100.24),desactivada,-
+david.castro@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2026-01-05,david.castro@bahareque.example,web (198.51.100.24),activa,2026-11-12
+miguel.rendon@bahareque.example,Git,remitente contiene plataforma-codigo.example,mover a carpeta,Notificaciones Git,2025-02-11,miguel.rendon@bahareque.example,web (198.51.100.10),activa,2026-11-11
+soporte@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2024-04-21,soporte@bahareque.example,web (198.51.100.20),desactivada,-
+alejandro.toro@bahareque.example,Tickets Mesa,remitente es mesa@bahareque.example,mover a carpeta,Mesa,2023-08-26,alejandro.toro@bahareque.example,web (198.51.100.13),activa,2026-11-13
+ricardo.osorio@bahareque.example,Facturas,asunto contiene «Factura electrónica»,mover a carpeta,Facturas,2024-10-20,ricardo.osorio@bahareque.example,web (198.51.100.11),desactivada,-
+lina.agudelo@bahareque.example,Boletines,remitente contiene noticias-eje.example o periodico-manizales.example,mover a carpeta,Boletines,2024-04-04,lina.agudelo@bahareque.example,web (198.51.100.25),activa,2026-11-11
+paula.cano@bahareque.example,Pedidos,asunto contiene «Pedido»,marcar con categoría,Pedidos,2023-01-15,paula.cano@bahareque.example,web (198.51.100.13),activa,2026-11-10
+angela.vargas@bahareque.example,Fuera de oficina,todos los mensajes (solo en vacaciones),respuesta automática,-,2025-07-19,angela.vargas@bahareque.example,web (198.51.100.26),desactivada,-
+juliana.cardona@bahareque.example,Clientela,remitente contiene clientela.example,mover a carpeta,Clientela,2025-03-17,juliana.cardona@bahareque.example,web (198.51.100.26),activa,2026-11-09

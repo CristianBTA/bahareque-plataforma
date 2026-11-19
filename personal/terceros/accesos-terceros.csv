@@ -1,0 +1,32 @@
+cuenta,tercero,contrato,persona_del_tercero,sistema,rol,privilegio,mfa,creada,ultimo_acceso,estado,pidio_el_acceso,observaciones
+pagosya-soporte,PagosYa S.A.S.,PAG-2023-001,mesa de soporte de PagosYa,mesa,solicitante externo,estándar,app,2023-02-01,2026-11-17,activo,Óscar Ramírez,tickets de conciliación
+pagosya-conciliacion,PagosYa S.A.S.,PAG-2023-001,analista de conciliación de PagosYa,facturación,consulta de conciliación,lectura,app,2023-02-10,2026-11-13,activo,Óscar Ramírez,
+pagosya-certificacion,PagosYa S.A.S.,PAG-2023-001,equipo de certificación,repositorio,lectura del módulo de pagos (solo durante la certificación),lectura,app,2023-03-01,2023-04-14,desactivado,Camilo Restrepo,se quitó al terminar la certificación
+clientela-implementador,Clientela (CRM),CLI-2024-007,equipo de implementación,CRM Clientela,implementador,administrador,app,2024-03-01,2024-04-30,desactivado,Alejandro Toro,se desactivó al terminar la implementación
+soporte-proveedor,Clientela (CRM),CLI-2024-007,soporte del proveedor,CRM Clientela,acceso de soporte del proveedor,administrador,—,2024-03-01,2026-10-19,activo,Alejandro Toro,«siempre habilitado» desde la implementación
+envios-cafeteros,Envíos Cafeteros S.A.S.,ENV-2025-004,coordinación de guías,mesa,solicitante externo,estándar,app,2025-01-15,2026-11-18,activo,Alejandro Toro,
+envios-guias,Envíos Cafeteros S.A.S.,ENV-2025-004,coordinación de guías,CRM Clientela,consulta de direcciones de entrega,lectura,app,2025-01-15,2026-11-18,activo,Alejandro Toro,solo pedidos con guía
+soporte.facturar,Facturar Andino S.A.S.,FA-2024-031,soporte de Facturar Andino,facturación,administrador de la plataforma,administrador,ninguno,2024-07-03,2026-11-10,activo,Gloria Inés Jaramillo,«arreglan las resoluciones de numeración»
+fa-implementacion,Facturar Andino S.A.S.,FA-2024-031,consultor de implementación,facturación,administrador de la plataforma,administrador,ninguno,2024-07-01,2024-09-30,activo,Gloria Inés Jaramillo,
+fa-mesa,Facturar Andino S.A.S.,FA-2024-031,soporte de Facturar Andino,mesa,solicitante externo,estándar,ninguno,2024-07-03,2026-11-10,activo,Gloria Inés Jaramillo,
+soporte-redeseje,Redes del Eje S.A.S.,OS-2025-019,técnico de turno (usuario compartido),VPN,administrador VPN,administrador,ninguno,2025-06-02,2026-11-14,activo,Gustavo Herrera,
+admin-redeseje,Redes del Eje S.A.S.,OS-2025-019,técnico de turno (usuario compartido),firewall de la oficina,administrador,administrador,ninguno,2025-06-02,2026-11-14,activo,Gustavo Herrera,
+revisoria.cae,Contadores Asociados del Eje,REV-2026-001,"equipo de revisoría (3 personas, un usuario)",facturación,consulta,lectura,ninguno,2026-01-20,2026-11-12,activo,Luisa Fernanda Arango,
+revisoria.cae,Contadores Asociados del Eje,REV-2026-001,"equipo de revisoría (3 personas, un usuario)",portal,"consulta de nómina (descarga cédulas, salarios y cuentas bancarias)",lectura,ninguno,2026-01-20,2026-11-05,activo,Luisa Fernanda Arango,
+revisoria-mesa,Contadores Asociados del Eje,REV-2026-001,equipo de revisoría,mesa,solicitante externo,estándar,ninguno,2026-01-20,2026-10-09,activo,Luisa Fernanda Arango,
+agencia.cafetal,Estudio Cafetal Diseño S.A.S.,DIS-2026-002,ejecutiva de cuenta de la agencia,CRM Clientela,exportación masiva de contactos,exportación,ninguno,2026-02-03,2026-11-03,activo,Ángela María Vargas,para las campañas de correo
+cafetal-disenador,Estudio Cafetal Diseño S.A.S.,DIS-2026-002,diseñador de la agencia,repositorio,colaborador externo (app/web),escritura,ninguno,2026-02-05,2026-08-29,activo,Ángela María Vargas,
+mgallego-consultor,Mauricio Gallego Ríos,OS-2026-004,Mauricio Gallego Ríos,nube AWS,AdministratorAccess,administrador,ninguno,2026-04-01,2026-10-28,activo,Andrés Gómez,
+mgallego,Mauricio Gallego Ríos,OS-2026-004,Mauricio Gallego Ríos,base de datos,guadua_admin (producción),escritura,ninguno,2026-04-02,2026-10-28,activo,Andrés Gómez,
+mgallego,Mauricio Gallego Ríos,OS-2026-004,Mauricio Gallego Ríos,VPN,usuario VPN,estándar,ninguno,2026-04-01,2026-10-27,activo,Andrés Gómez,
+practicas-u,Institución universitaria,CP-2026-003,docente asesor de prácticas,correo,invitado (solo calendario),estándar,app,2026-07-06,2026-10-30,activo,Claudia Patricia Hoyos,
+vigilancia-recepcion,Vigilancia Cordillera Ltda.,SEG-2026-003,guardas de la recepción,Wi-Fi de invitados,usuario de invitado,estándar,—,2026-03-01,2026-11-18,activo,Lina Marcela Agudelo,
+aseo-oficina,Aseo y Cafetería del Eje S.A.S.,LIM-2025-010,personal de aseo,Wi-Fi de invitados,usuario de invitado,estándar,—,2025-01-02,2026-11-18,activo,Lina Marcela Agudelo,
+invitado-20260211,auditoría de PagosYa,—,visitante,Wi-Fi de invitados,usuario de invitado (vence en 24 h),estándar,—,2026-02-11,2026-02-11,vencido,recepción,
+invitado-20260319,visita de Envíos Cafeteros,—,visitante,Wi-Fi de invitados,usuario de invitado (vence en 24 h),estándar,—,2026-03-19,2026-03-19,vencido,recepción,
+invitado-20260506,comercio cliente (reunión comercial),—,visitante,Wi-Fi de invitados,usuario de invitado (vence en 24 h),estándar,—,2026-05-06,2026-05-06,vencido,recepción,
+invitado-20260624,revisoría fiscal (visita),—,visitante,Wi-Fi de invitados,usuario de invitado (vence en 24 h),estándar,—,2026-06-24,2026-06-24,vencido,recepción,
+invitado-20260812,entrevista de practicantes,—,visitante,Wi-Fi de invitados,usuario de invitado (vence en 24 h),estándar,—,2026-08-12,2026-08-12,vencido,recepción,
+invitado-20260909,comercio cliente (capacitación),—,visitante,Wi-Fi de invitados,usuario de invitado (vence en 24 h),estándar,—,2026-09-09,2026-09-09,vencido,recepción,
+invitado-20261021,Facturar Andino (visita),—,visitante,Wi-Fi de invitados,usuario de invitado (vence en 24 h),estándar,—,2026-10-21,2026-10-21,vencido,recepción,
+invitado-20261110,comercio cliente (reunión comercial),—,visitante,Wi-Fi de invitados,usuario de invitado (vence en 24 h),estándar,—,2026-11-10,2026-11-10,vencido,recepción,

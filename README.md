@@ -35,13 +35,16 @@ La gerencia les pide ordenar la casa en **cinco frentes** (ver `FRENTES.md`), co
    - Si dicen algo vago, como «sé que algo no se debe hacer con la data, es de la CIA», les responde con una pista sencilla, sin dar la respuesta.
    - Cuando ya tienen un hallazgo concreto, la IA hace el trabajo: corrige archivos y redacta la entrega.
    - Si usan Claude en la web, creen un Proyecto y peguen el contenido de `CLAUDE.md` como instrucciones del proyecto.
-4. **Trabajen solo en los archivos de su frente** y escriban su entrega donde diga `FRENTES.md`.
-5. **Cuando el profesor avise**, traigan lo nuevo:
+4. **Trabajen solo en los archivos de su frente** y escriban su entrega donde diga `FRENTES.md`. Cada persona trabaja en su propio fork, con su IA, y el grupo se reparte el frente.
+5. **Cada persona escribe su reporte** en `entregas/frente-N/reporte-<usuario>.md`, con lo que encontró, alimentado con lo que aprendió en clase (ver `entregas/PLANTILLA-REPORTE.md`).
+   Ejemplo: «El repo deja en evidencia que se filtraron tokens. En clase determinamos que se rotan de inmediato, porque hicimos una filtración».
+   Su IA lleva la bitácora de lo que usted le dijo.
+6. **Hay dos avisos.** Cada vez que el profesor avise, traigan lo nuevo:
    ```bash
    git pull --no-rebase --no-edit origin main
    ```
-   Llega algo a `incidentes/` y cada grupo lo responde desde su frente.
-6. **Entreguen con un PR**, como se explica abajo.
+   Llega algo a `incidentes/`. Cada grupo responde el primer aviso en `entregas/frente-N/incidente.md` y el segundo en `incidente-2.md`, desde su frente.
+7. **Cada persona entrega con un PR**, como se explica abajo.
 
 ## Reglas
 
@@ -53,13 +56,13 @@ La gerencia les pide ordenar la casa en **cinco frentes** (ver `FRENTES.md`), co
 
 ## Cómo entregar
 
-**Con cuenta de GitHub (recomendado).** Haga un fork, suba su rama y abra el PR contra este repositorio:
+**Con cuenta de GitHub (recomendado).** Cada persona hace su propio fork, sube su rama y abre su PR contra este repositorio, con el título «Frente N · Grupo X · su nombre»:
 ```bash
 gh repo fork --remote --remote-name mio
 git add -A
 git commit -m "Frente N: ordenado por el grupo X"
 git push mio frente-N-grupo-X
-gh pr create --repo CristianBTA/bahareque-plataforma --title "Frente N · Grupo X" --body "Integrantes: …"
+gh pr create --repo CristianBTA/bahareque-plataforma --title "Frente N · Grupo X · Su nombre" --body "Grupo: …"
 ```
 Sin `gh`, haga lo mismo en la web: botón «Fork», `git remote add mio <url de su fork>`, `git push mio frente-N-grupo-X` y «Compare & pull request».
 

@@ -1,0 +1,14 @@
+proveedor,servicio,datos_personales_que_trata,papel_frente_a_bahareque,contrato_de_transmision_o_dpa,fecha_contrato,pais_de_procesamiento,transferencia_revisada_por_pd,ultima_revision,responsable_interno,observacion
+Amazon Web Services (AWS),nube (S3; RDS; ECS),todos los de Guadua,encargado (subencargado de los comercios),adenda de tratamiento de datos aceptada en la consola,2023-02-10,EE. UU. (us-east-1),sí (concepto 2025-03-04),2025-03-04,Andrés Gómez Salazar,
+PagosYa S.A.S.,pasarela de pagos,"nombre, correo y tokens de pago",encargado,contrato de transmisión firmado,2021-06-01,Colombia,no aplica,2025-03-04,Óscar Ramírez,
+Facturar Andino S.A.S.,facturación electrónica,"nombre, cédula o NIT, correo",encargado,contrato de transmisión firmado,2022-02-14,Colombia,no aplica,2025-03-04,Gloria Inés Jaramillo,
+Clientela (CRM),CRM comercial,"contactos de comercios y de algunos compradores",encargado,DPA del proveedor aceptado,2023-08-22,EE. UU.,sí (concepto 2025-03-04),2025-03-04,Alejandro Toro Gutiérrez,
+Envíos Cafeteros S.A.S.,mensajería,"nombre, teléfono y dirección de compradores",encargado,contrato de transmisión firmado,2022-09-05,Colombia,no aplica,2025-03-04,Diana Bedoya Arias,
+Contadores Asociados del Eje,revisoría fiscal,nómina y proveedores,encargado,cláusula de confidencialidad y tratamiento,2020-01-20,Colombia,no aplica,2024-01-15,Luisa Fernanda Arango,
+Suite de correo en la nube,correo corporativo,correos de empleados y clientes,encargado,DPA del proveedor aceptado,2019-03-01,varios,sí (concepto 2025-03-04),2025-03-04,Fernando Salazar,
+Claude (cuenta empresarial),IA para desarrollo y soporte,tickets y código,subencargado de los comercios,contrato empresarial con términos de tratamiento de datos,2026-03-02,EE. UU.,sí (concepto 2026-03-10),2026-03-10,Andrés Gómez Salazar,sin entrenamiento con datos del cliente
+ConversaYa Cloud S.A.S.,chatbot de registro «Guadua Responde 2024»,"nombre, cédula, celular, correo, fecha de nacimiento y salud (opcional)",encargado (Bahareque responsable),términos de servicio aceptados con clic,2024-02-26,no indicado,no,—,Ángela María Vargas,contrato terminado 2024-12-31; certificado de eliminación: no recibido
+Firma Fácil S.A.S.,firma digital de contratos,"nombre, cédula y correo de firmantes",encargado,contrato de transmisión firmado,2024-05-06,Colombia,no aplica,2025-03-04,Lina Marcela Agudelo,
+Mensajes Andinos S.A.S.,envío de SMS de pedidos,"nombre y celular de compradores",encargado,contrato de transmisión firmado,2025-01-20,Colombia,no aplica,2025-03-04,Diana Bedoya Arias,
+Encuestas Ágiles,encuestas de satisfacción,"correo de compradores",encargado,DPA del proveedor aceptado,2025-06-10,Canadá,sí (concepto 2025-06-20),2025-06-20,Ángela María Vargas,
+Mesa (herramienta de tickets interna),mesa de servicio de TI,"empleados",propio,no aplica,—,AWS us-east-1,no aplica,2025-03-04,Jhon Fredy Montes,

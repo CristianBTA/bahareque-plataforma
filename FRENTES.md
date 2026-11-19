@@ -14,8 +14,9 @@ Reglas comunes:
 - **Su frente:** corrijan solo los archivos de su frente y escriban sus documentos donde diga el encargo.
 - **Lo que no se borra:** no borren evidencia (registros, correos ni tickets).
 - **Lo que no se cambia:** algunas cosas están bien. Si la cambian sin razón, el revisor lo cuenta en contra.
-- **El incidente:** a mitad de la práctica llega uno. Cada grupo lo responde desde su frente en `entregas/frente-N/incidente.md`.
-- **La entrega:** un PR titulado «Frente N · Grupo X» (ver `README.md`).
+- **Los avisos:** llegan dos. El primero se responde en `entregas/frente-N/incidente.md` y el segundo en `incidente-2.md`.
+- **El reporte de cada persona:** `entregas/frente-N/reporte-<usuario>.md`, con lo que encontró, alimentado con lo que aprendió en clase (plantilla en `entregas/PLANTILLA-REPORTE.md`). El revisor evalúa el frente y también la comprensión.
+- **La entrega:** cada persona hace su fork y su PR, titulado «Frente N · Grupo X · su nombre» (ver `README.md`).
 
 
 ---

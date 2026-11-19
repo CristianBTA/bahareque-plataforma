@@ -1,0 +1,149 @@
+# Registro de auditoría de la suite de correo (inquilino bahareque.example) · extracto del 3 al 13 de noviembre de 2026
+# Exportado por fernando.salazar@bahareque.example el 2026-11-13 17:20, junto con los ajustes de la suite. Retención en la suite: 90 días.
+2026-11-03T06:48:23-05:00 suite-auditoria evento=inicio_sesion actor=diana.bedoya@bahareque.example ip=198.51.100.26 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-03T06:56:17-05:00 suite-auditoria evento=inicio_sesion actor=santiago.marin@bahareque.example ip=198.51.100.50 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-03T07:10:37-05:00 suite-auditoria evento=inicio_sesion actor=tomas.echeverri@bahareque.example ip=198.51.100.10 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-03T07:26:28-05:00 suite-auditoria evento=cambio_contrasena actor=carolina.mejia@bahareque.example ip=198.51.100.29 origen=autoservicio resultado=exito
+2026-11-03T07:51:46-05:00 suite-auditoria evento=inicio_sesion actor=beatriz.londono@bahareque.example ip=198.51.100.22 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-03T09:10:40-05:00 suite-auditoria evento=cambio_contrasena actor=diana.bedoya@bahareque.example ip=198.51.100.50 origen=autoservicio resultado=exito
+2026-11-03T10:31:37-05:00 suite-auditoria evento=compartir_archivo actor=julian.ospina@bahareque.example ip=198.51.100.21 archivo=plan-sprint.docx con=interno
+2026-11-03T10:33:25-05:00 suite-auditoria evento=inicio_sesion actor=laura.patino@bahareque.example ip=198.51.100.11 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-03T11:01:27-05:00 suite-auditoria evento=crear_regla_buzon actor=camilo.restrepo@bahareque.example ip=198.51.100.12 regla="Notificaciones Git" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-03T15:19:10-05:00 suite-auditoria evento=cambio_contrasena actor=david.castro@bahareque.example ip=198.51.100.24 origen=autoservicio resultado=exito
+2026-11-03T15:35:10-05:00 suite-auditoria evento=inicio_sesion actor=kevin.arias@bahareque.example ip=198.51.100.29 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-03T15:52:51-05:00 suite-auditoria evento=compartir_archivo actor=mateo.valencia@bahareque.example ip=198.51.100.25 archivo=manual-guadua.docx con=interno
+2026-11-03T16:23:40-05:00 suite-auditoria evento=inicio_sesion actor=julian.ospina@bahareque.example ip=198.51.100.50 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-03T16:35:09-05:00 suite-auditoria evento=inicio_sesion actor=alejandro.toro@bahareque.example ip=198.51.100.50 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-03T16:40:54-05:00 suite-auditoria evento=inicio_sesion actor=andres.gomez@bahareque.example ip=198.51.100.50 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-04T06:19:27-05:00 suite-auditoria evento=inicio_sesion actor=sebastian.rios@bahareque.example ip=198.51.100.16 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-04T06:36:27-05:00 suite-auditoria evento=compartir_archivo actor=sebastian.rios@bahareque.example ip=198.51.100.16 archivo=manual-guadua.docx con=interno
+2026-11-04T07:16:18-05:00 suite-auditoria evento=inicio_sesion actor=natalia.quintero@bahareque.example ip=198.51.100.17 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-04T08:01:03-05:00 suite-auditoria evento=cambio_contrasena actor=santiago.marin@bahareque.example ip=198.51.100.30 origen=autoservicio resultado=exito
+2026-11-04T08:23:51-05:00 suite-auditoria evento=crear_regla_buzon actor=oscar.ramirez@bahareque.example ip=198.51.100.24 regla="Notificaciones Git" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-04T09:57:40-05:00 suite-auditoria evento=crear_regla_buzon actor=miguel.rendon@bahareque.example ip=198.51.100.10 regla="Facturas" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-04T11:11:29-05:00 suite-auditoria evento=inicio_sesion actor=kevin.arias@bahareque.example ip=198.51.100.29 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-04T12:18:54-05:00 suite-auditoria evento=inicio_sesion actor=alejandro.toro@bahareque.example ip=198.51.100.13 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-04T13:30:46-05:00 suite-auditoria evento=inicio_sesion actor=oscar.ramirez@bahareque.example ip=198.51.100.24 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-04T13:40:43-05:00 suite-auditoria evento=inicio_sesion actor=alejandro.toro@bahareque.example ip=198.51.100.13 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-04T14:18:41-05:00 suite-auditoria evento=compartir_archivo actor=carolina.mejia@bahareque.example ip=198.51.100.50 archivo=agenda-comite.pdf con=interno
+2026-11-04T16:01:00-05:00 suite-auditoria evento=inicio_sesion actor=alejandro.toro@bahareque.example ip=198.51.100.13 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-04T16:01:33-05:00 suite-auditoria evento=inicio_sesion actor=mateo.valencia@bahareque.example ip=198.51.100.25 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-04T17:52:42-05:00 suite-auditoria evento=inicio_sesion actor=david.castro@bahareque.example ip=198.51.100.24 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-04T18:18:21-05:00 suite-auditoria evento=crear_regla_buzon actor=daniela.henao@bahareque.example ip=198.51.100.18 regla="Notificaciones Git" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-05T08:06:33-05:00 suite-auditoria evento=inicio_sesion actor=pablo.munoz@bahareque.example ip=198.51.100.50 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-05T10:03:30-05:00 suite-auditoria evento=cambio_contrasena actor=catalina.gutierrez@bahareque.example ip=198.51.100.16 origen=autoservicio resultado=exito
+2026-11-05T10:15:04-05:00 suite-auditoria evento=inicio_sesion actor=camilo.restrepo@bahareque.example ip=198.51.100.50 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-05T10:43:48-05:00 suite-auditoria evento=cambio_contrasena actor=juliana.cardona@bahareque.example ip=198.51.100.50 origen=autoservicio resultado=exito
+2026-11-05T11:30:46-05:00 suite-auditoria evento=crear_regla_buzon actor=kevin.arias@bahareque.example ip=198.51.100.29 regla="Tickets Mesa" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-05T13:27:46-05:00 suite-auditoria evento=inicio_sesion actor=andres.gomez@bahareque.example ip=198.51.100.26 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-05T13:32:14-05:00 suite-auditoria evento=cambio_contrasena actor=catalina.gutierrez@bahareque.example ip=198.51.100.50 origen=autoservicio resultado=exito
+2026-11-05T15:38:02-05:00 suite-auditoria evento=inicio_sesion actor=melissa.franco@bahareque.example ip=198.51.100.17 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-05T15:50:53-05:00 suite-auditoria evento=inicio_sesion actor=tomas.echeverri@bahareque.example ip=198.51.100.10 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-05T15:54:33-05:00 suite-auditoria evento=inicio_sesion actor=diana.bedoya@bahareque.example ip=198.51.100.50 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-05T16:09:54-05:00 suite-auditoria evento=cambio_contrasena actor=alejandra.cifuentes@bahareque.example ip=198.51.100.21 origen=autoservicio resultado=exito
+2026-11-05T16:41:30-05:00 suite-auditoria evento=inicio_sesion actor=diana.bedoya@bahareque.example ip=198.51.100.26 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-05T17:30:06-05:00 suite-auditoria evento=crear_regla_buzon actor=tomas.echeverri@bahareque.example ip=198.51.100.10 regla="Facturas" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-05T17:59:01-05:00 suite-auditoria evento=inicio_sesion actor=catalina.gutierrez@bahareque.example ip=198.51.100.16 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-06T06:24:03-05:00 suite-auditoria evento=inicio_sesion actor=claudia.hoyos@bahareque.example ip=198.51.100.13 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-06T07:39:06-05:00 suite-auditoria evento=inicio_sesion actor=ximena.botero@bahareque.example ip=198.51.100.26 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-06T08:43:10-05:00 suite-auditoria evento=inicio_sesion actor=melissa.franco@bahareque.example ip=198.51.100.17 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-06T10:22:24-05:00 suite-auditoria evento=inicio_sesion actor=melissa.franco@bahareque.example ip=198.51.100.50 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-06T11:38:26-05:00 suite-auditoria evento=inicio_sesion actor=gloria.jaramillo@bahareque.example ip=198.51.100.16 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-06T12:02:57-05:00 suite-auditoria evento=crear_regla_buzon actor=daniela.henao@bahareque.example ip=198.51.100.18 regla="Clientela" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-06T12:03:53-05:00 suite-auditoria evento=inicio_sesion actor=gloria.jaramillo@bahareque.example ip=198.51.100.16 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-06T12:13:51-05:00 suite-auditoria evento=inicio_sesion actor=catalina.gutierrez@bahareque.example ip=198.51.100.50 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-06T12:15:04-05:00 suite-auditoria evento=compartir_archivo actor=david.castro@bahareque.example ip=198.51.100.24 archivo=manual-guadua.docx con=interno
+2026-11-06T12:20:16-05:00 suite-auditoria evento=inicio_sesion actor=alejandra.cifuentes@bahareque.example ip=198.51.100.50 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-06T12:21:10-05:00 suite-auditoria evento=inicio_sesion actor=david.castro@bahareque.example ip=198.51.100.50 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-06T13:14:48-05:00 suite-auditoria evento=inicio_sesion actor=santiago.marin@bahareque.example ip=198.51.100.30 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-06T13:45:11-05:00 suite-auditoria evento=crear_regla_buzon actor=miguel.rendon@bahareque.example ip=198.51.100.10 regla="Notificaciones Git" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-06T14:33:05-05:00 suite-auditoria evento=inicio_sesion actor=claudia.hoyos@bahareque.example ip=198.51.100.13 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-06T14:59:59-05:00 suite-auditoria evento=compartir_archivo actor=julian.ospina@bahareque.example ip=198.51.100.21 archivo=plan-sprint.docx con=interno
+2026-11-06T17:14:32-05:00 suite-auditoria evento=inicio_sesion actor=david.castro@bahareque.example ip=198.51.100.24 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-09T07:14:29-05:00 suite-auditoria evento=inicio_sesion actor=alejandro.toro@bahareque.example ip=198.51.100.13 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-09T07:33:51-05:00 suite-auditoria evento=inicio_sesion actor=carolina.mejia@bahareque.example ip=198.51.100.29 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-09T08:20:43-05:00 suite-auditoria evento=inicio_sesion actor=santiago.marin@bahareque.example ip=198.51.100.30 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-09T10:08:12-05:00 suite-auditoria evento=inicio_sesion actor=camilo.restrepo@bahareque.example ip=198.51.100.12 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-09T10:38:36-05:00 suite-auditoria evento=inicio_sesion actor=santiago.marin@bahareque.example ip=198.51.100.30 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-09T10:41:32-05:00 suite-auditoria evento=crear_regla_buzon actor=lina.agudelo@bahareque.example ip=198.51.100.25 regla="Notificaciones Git" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-09T13:06:52-05:00 suite-auditoria evento=cambio_contrasena actor=daniela.henao@bahareque.example ip=198.51.100.18 origen=autoservicio resultado=exito
+2026-11-09T14:28:05-05:00 suite-auditoria evento=inicio_sesion actor=carolina.mejia@bahareque.example ip=198.51.100.29 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-09T15:28:40-05:00 suite-auditoria evento=inicio_sesion actor=natalia.quintero@bahareque.example ip=198.51.100.17 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-09T15:43:35-05:00 suite-auditoria evento=crear_regla_buzon actor=miguel.rendon@bahareque.example ip=198.51.100.10 regla="Clientela" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-09T16:17:34-05:00 suite-auditoria evento=cambio_contrasena actor=beatriz.londono@bahareque.example ip=198.51.100.22 origen=autoservicio resultado=exito
+2026-11-09T16:19:23-05:00 suite-auditoria evento=inicio_sesion actor=daniela.henao@bahareque.example ip=198.51.100.18 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-09T17:13:03-05:00 suite-auditoria evento=inicio_sesion actor=melissa.franco@bahareque.example ip=198.51.100.17 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-09T17:41:14-05:00 suite-auditoria evento=compartir_archivo actor=ricardo.osorio@bahareque.example ip=198.51.100.11 archivo=plan-sprint.docx con=interno
+2026-11-09T18:09:22-05:00 suite-auditoria evento=inicio_sesion actor=alejandra.cifuentes@bahareque.example ip=198.51.100.21 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-09T18:48:18-05:00 suite-auditoria evento=compartir_archivo actor=carolina.mejia@bahareque.example ip=198.51.100.29 archivo=manual-guadua.docx con=interno
+2026-11-10T06:36:59-05:00 suite-auditoria evento=inicio_sesion actor=mateo.valencia@bahareque.example ip=198.51.100.25 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-10T07:58:14-05:00 suite-auditoria evento=crear_regla_buzon actor=melissa.franco@bahareque.example ip=203.0.113.88 cliente=imap-heredado regla="." accion=eliminar_definitivamente
+2026-11-10T08:03:12-05:00 suite-auditoria evento=inicio_sesion actor=beatriz.londono@bahareque.example ip=198.51.100.22 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-10T08:06:46-05:00 suite-auditoria evento=inicio_sesion actor=alejandra.cifuentes@bahareque.example ip=198.51.100.50 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-10T08:14:48-05:00 suite-auditoria evento=inicio_sesion actor=camilo.restrepo@bahareque.example ip=198.51.100.12 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-10T08:27:34-05:00 suite-auditoria evento=inicio_sesion actor=catalina.gutierrez@bahareque.example ip=198.51.100.16 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-10T08:27:48-05:00 suite-auditoria evento=crear_regla_buzon actor=claudia.hoyos@bahareque.example ip=198.51.100.13 regla="Clientela" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-10T11:12:24-05:00 suite-auditoria evento=compartir_archivo actor=paula.cano@bahareque.example ip=198.51.100.13 archivo=plan-sprint.docx con=interno
+2026-11-10T11:44:58-05:00 suite-auditoria evento=cambio_contrasena actor=angela.vargas@bahareque.example ip=198.51.100.26 origen=autoservicio resultado=exito
+2026-11-10T12:28:56-05:00 suite-auditoria evento=inicio_sesion actor=juliana.cardona@bahareque.example ip=198.51.100.26 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-10T13:27:41-05:00 suite-auditoria evento=restablecer_mfa actor=jhon.montes@bahareque.example ip=198.51.100.22 objetivo=felipe.zuluaga@bahareque.example metodo_nuevo=sms:+57-31X-XXX-4417 motivo="llamada MESA-2664"
+2026-11-10T13:28:05-05:00 suite-auditoria evento=restablecer_contrasena actor=jhon.montes@bahareque.example ip=198.51.100.22 objetivo=felipe.zuluaga@bahareque.example envio=sms:+57-31X-XXX-4417
+2026-11-10T13:29:52-05:00 suite-auditoria evento=inicio_sesion actor=felipe.zuluaga@bahareque.example ip=203.0.113.140 cliente=navegador dispositivo=desconocido mfa=sms resultado=exito riesgo=alto alerta=solo_registro
+2026-11-10T13:31:20-05:00 suite-auditoria evento=sso_aplicacion actor=felipe.zuluaga@bahareque.example ip=203.0.113.140 app=aws-sso resultado=exito
+2026-11-10T13:36:44-05:00 suite-auditoria evento=admin_busqueda_de_contenido actor=felipe.zuluaga@bahareque.example ip=203.0.113.140 consulta="nómina OR \"cuenta bancaria\" OR contraseña OR token" alcance=todos_los_buzones resultados=1204
+2026-11-10T13:41:02-05:00 suite-auditoria evento=admin_exportar_busqueda actor=felipe.zuluaga@bahareque.example ip=203.0.113.140 tam=1.8GB
+2026-11-10T13:44:30-05:00 suite-auditoria evento=registrar_metodo_mfa actor=felipe.zuluaga@bahareque.example ip=203.0.113.140 metodo=app_autenticadora dispositivo=desconocido
+2026-11-10T13:52:12-05:00 suite-auditoria evento=cambio_contrasena actor=daniela.henao@bahareque.example ip=198.51.100.50 origen=autoservicio resultado=exito
+2026-11-10T14:02:15-05:00 suite-auditoria evento=inicio_sesion actor=felipe.zuluaga@bahareque.example ip=198.51.100.28 cliente=navegador dispositivo=BHQ-LT-12 mfa=sms resultado=fallo motivo="código no ingresado"
+2026-11-10T14:09:37-05:00 suite-auditoria evento=restablecer_mfa actor=jhon.montes@bahareque.example ip=198.51.100.22 objetivo=felipe.zuluaga@bahareque.example metodo_nuevo=sms:celular_del_directorio motivo="llamada MESA-2665" metodos_que_siguen_activos=app_autenticadora(dispositivo=desconocido) sesiones_revocadas=no
+2026-11-10T14:57:57-05:00 suite-auditoria evento=crear_regla_buzon actor=kevin.arias@bahareque.example ip=198.51.100.29 regla="Tickets Mesa" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-10T15:11:43-05:00 suite-auditoria evento=cambio_contrasena actor=paula.cano@bahareque.example ip=198.51.100.13 origen=autoservicio resultado=exito
+2026-11-10T16:15:08-05:00 suite-auditoria evento=compartir_archivo actor=luisa.arango@bahareque.example ip=198.51.100.50 archivo=agenda-comite.pdf con=interno
+2026-11-10T17:57:17-05:00 suite-auditoria evento=compartir_archivo actor=carolina.mejia@bahareque.example ip=198.51.100.29 archivo=tablero-ventas.xlsx con=interno
+2026-11-11T06:47:36-05:00 suite-auditoria evento=crear_regla_buzon actor=beatriz.londono@bahareque.example ip=198.51.100.50 regla="Tickets Mesa" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-11T07:25:07-05:00 suite-auditoria evento=cambio_contrasena actor=luisa.arango@bahareque.example ip=198.51.100.50 origen=autoservicio resultado=exito
+2026-11-11T08:11:10-05:00 suite-auditoria evento=inicio_sesion actor=felipe.zuluaga@bahareque.example ip=198.51.100.50 cliente=navegador dispositivo=BHQ-LT-12 mfa=sms resultado=exito riesgo=bajo
+2026-11-11T08:15:12-05:00 suite-auditoria evento=inicio_sesion actor=diana.bedoya@bahareque.example ip=198.51.100.26 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-11T08:18:45-05:00 suite-auditoria evento=crear_regla_buzon actor=valeria.giraldo@bahareque.example ip=198.51.100.17 regla="Notificaciones Git" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-11T10:20:01-05:00 suite-auditoria evento=inicio_sesion actor=valeria.giraldo@bahareque.example ip=198.51.100.17 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-11T10:36:11-05:00 suite-auditoria evento=crear_regla_buzon actor=andres.loaiza@bahareque.example ip=198.51.100.28 regla="Facturas" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-11T10:40:33-05:00 suite-auditoria evento=inicio_sesion actor=andres.loaiza@bahareque.example ip=198.51.100.28 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-11T11:05:52-05:00 suite-auditoria evento=inicio_sesion actor=pablo.munoz@bahareque.example ip=198.51.100.10 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-11T11:14:24-05:00 suite-auditoria evento=inicio_sesion actor=mariana.ocampo@bahareque.example ip=198.51.100.23 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-11T14:11:06-05:00 suite-auditoria evento=inicio_sesion actor=daniela.henao@bahareque.example ip=198.51.100.50 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-11T15:41:36-05:00 suite-auditoria evento=inicio_sesion actor=andres.loaiza@bahareque.example ip=198.51.100.28 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-11T16:05:06-05:00 suite-auditoria evento=crear_regla_buzon actor=tomas.echeverri@bahareque.example ip=198.51.100.50 regla="Boletines" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-11T17:09:09-05:00 suite-auditoria evento=inicio_sesion actor=ricardo.osorio@bahareque.example ip=198.51.100.11 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-11T18:37:10-05:00 suite-auditoria evento=compartir_archivo actor=oscar.ramirez@bahareque.example ip=198.51.100.24 archivo=tablero-ventas.xlsx con=interno
+2026-11-12T02:47:19-05:00 suite-auditoria evento=inicio_sesion actor=felipe.zuluaga@bahareque.example ip=203.0.113.140 cliente=navegador dispositivo=desconocido mfa=app_autenticadora resultado=exito riesgo=alto alerta=solo_registro
+2026-11-12T02:52:03-05:00 suite-auditoria evento=sso_aplicacion actor=felipe.zuluaga@bahareque.example ip=203.0.113.140 app=aws-sso resultado=exito
+2026-11-12T06:25:42-05:00 suite-auditoria evento=inicio_sesion actor=ricardo.osorio@bahareque.example ip=198.51.100.11 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-12T08:16:08-05:00 suite-auditoria evento=inicio_sesion actor=catalina.gutierrez@bahareque.example ip=198.51.100.16 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-12T08:47:40-05:00 suite-auditoria evento=inicio_sesion actor=angela.vargas@bahareque.example ip=198.51.100.26 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-12T09:31:45-05:00 suite-auditoria evento=cambio_contrasena actor=juliana.cardona@bahareque.example ip=198.51.100.26 origen=autoservicio resultado=exito
+2026-11-12T10:09:17-05:00 suite-auditoria evento=inicio_sesion actor=oscar.ramirez@bahareque.example ip=198.51.100.24 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-12T11:40:10-05:00 suite-auditoria evento=inicio_sesion actor=camilo.restrepo@bahareque.example ip=198.51.100.50 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-12T13:20:04-05:00 suite-auditoria evento=inicio_sesion actor=jorge.castano@bahareque.example ip=198.51.100.50 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-12T13:47:42-05:00 suite-auditoria evento=cambio_contrasena actor=alejandra.cifuentes@bahareque.example ip=198.51.100.21 origen=autoservicio resultado=exito
+2026-11-12T14:12:51-05:00 suite-auditoria evento=inicio_sesion actor=david.castro@bahareque.example ip=198.51.100.24 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-12T14:20:28-05:00 suite-auditoria evento=compartir_archivo actor=natalia.quintero@bahareque.example ip=198.51.100.17 archivo=agenda-comite.pdf con=interno
+2026-11-12T14:40:59-05:00 suite-auditoria evento=inicio_sesion actor=manuela.correa@bahareque.example ip=198.51.100.24 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-12T15:03:55-05:00 suite-auditoria evento=inicio_sesion actor=melissa.franco@bahareque.example ip=198.51.100.17 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-12T15:17:13-05:00 suite-auditoria evento=crear_regla_buzon actor=kevin.arias@bahareque.example ip=198.51.100.29 regla="Tickets Mesa" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-12T15:23:59-05:00 suite-auditoria evento=crear_regla_buzon actor=tomas.echeverri@bahareque.example ip=198.51.100.10 regla="Facturas" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-12T17:24:05-05:00 suite-auditoria evento=inicio_sesion actor=pablo.munoz@bahareque.example ip=198.51.100.50 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-12T17:49:06-05:00 suite-auditoria evento=inicio_sesion actor=angela.vargas@bahareque.example ip=198.51.100.26 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-12T18:39:56-05:00 suite-auditoria evento=compartir_archivo actor=ricardo.osorio@bahareque.example ip=198.51.100.11 archivo=manual-guadua.docx con=interno
+2026-11-13T07:15:22-05:00 suite-auditoria evento=inicio_sesion actor=ximena.botero@bahareque.example ip=198.51.100.26 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-13T09:04:38-05:00 suite-auditoria evento=compartir_archivo actor=andres.gomez@bahareque.example ip=198.51.100.50 archivo=tablero-ventas.xlsx con=interno
+2026-11-13T09:13:31-05:00 suite-auditoria evento=inicio_sesion actor=jorge.castano@bahareque.example ip=198.51.100.11 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-13T09:56:11-05:00 suite-auditoria evento=inicio_sesion actor=catalina.gutierrez@bahareque.example ip=198.51.100.50 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-13T13:40:01-05:00 suite-auditoria evento=inicio_sesion actor=miguel.rendon@bahareque.example ip=198.51.100.50 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-13T15:09:07-05:00 suite-auditoria evento=inicio_sesion actor=kevin.arias@bahareque.example ip=198.51.100.29 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-13T15:16:13-05:00 suite-auditoria evento=inicio_sesion actor=angela.vargas@bahareque.example ip=198.51.100.26 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-13T15:46:17-05:00 suite-auditoria evento=inicio_sesion actor=pablo.munoz@bahareque.example ip=198.51.100.10 cliente=navegador mfa=push resultado=exito riesgo=bajo
+2026-11-13T16:06:40-05:00 suite-auditoria evento=crear_regla_buzon actor=miguel.rendon@bahareque.example ip=198.51.100.50 regla="Clientela" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-13T16:07:00-05:00 suite-auditoria evento=crear_regla_buzon actor=julian.ospina@bahareque.example ip=198.51.100.21 regla="Tickets Mesa" accion=mover_a_carpeta destino=carpeta_interna
+2026-11-13T16:22:59-05:00 suite-auditoria evento=inicio_sesion actor=ricardo.osorio@bahareque.example ip=198.51.100.50 cliente=navegador mfa=no resultado=exito riesgo=bajo
+2026-11-13T16:48:05-05:00 suite-auditoria evento=inicio_sesion actor=diana.bedoya@bahareque.example ip=198.51.100.50 cliente=navegador mfa=sms resultado=exito riesgo=bajo
+2026-11-13T16:48:13-05:00 suite-auditoria evento=inicio_sesion actor=miguel.rendon@bahareque.example ip=198.51.100.10 cliente=navegador mfa=no resultado=exito riesgo=bajo

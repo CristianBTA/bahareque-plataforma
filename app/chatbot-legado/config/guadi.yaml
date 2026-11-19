@@ -1,0 +1,53 @@
+# Configuración de Guadi (chatbot legado de la web)
+# Versión 2.9.3 · última edición: Hernán Agudelo, 30-sep-2026
+
+servicio:
+  nombre: guadi
+  version: 2.9.3
+  url_publica: https://guadi.guadua.example
+  widget_cdn: https://cdn.guadua.example/chat/guadi-widget.js
+  # Se deja encendido mientras haya comercios con el widget pegado (ver README)
+  activo: true
+  origenes_permitidos:
+    - "*"
+
+modelo:
+  proveedor_url: https://api.modelos.example/v1/chat
+  nombre: modelo-chat-2025-04
+  temperatura: 0.4
+  maximo_tokens_respuesta: 600
+  maximo_mensajes_por_conversacion: 40
+  tiempo_maximo_seg: 25
+
+prompt:
+  archivo: prompts/sistema.md
+  version: 7
+
+memoria:
+  tipo: compartida
+  almacenamiento: redis://cache.interno.bahareque.example:6379/4
+  alcance: global
+  aprender_de:
+    - agente
+    - cliente
+  etiqueta_agente: "[agente]"
+  filtrar_secretos: false
+  retencion_dias: 730
+  maximo_hechos: 5000
+
+registro:
+  guardar_conversaciones: true
+  ruta: registros/
+  formato: jsonl
+  enmascarar_datos: false
+  rotacion: mensual
+
+respuestas_rapidas:
+  envios: "Los envíos salen en 24 a 48 horas hábiles con Envíos Cafeteros."
+  devoluciones: "Tiene 30 días para devolver un producto sin usar."
+  pagos: "Recibimos tarjeta, PSE y pago contra entrega donde el comercio lo active."
+  horario: "Soporte atiende de lunes a viernes de 8:00 a. m. a 6:00 p. m. y sábados hasta la 1:00 p. m."
+
+alertas:
+  correo: soporte@bahareque.example
+  umbral_errores_por_hora: 30

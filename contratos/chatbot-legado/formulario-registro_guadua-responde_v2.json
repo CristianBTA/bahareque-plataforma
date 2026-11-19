@@ -1,0 +1,34 @@
+{
+  "exportado_de": "ConversaYa Cloud · constructor de flujos · espacio «bahareque-mercadeo»",
+  "exportado_por": "angela.vargas@bahareque.example",
+  "fecha_exportacion": "2024-12-20T16:02:11-05:00",
+  "flujo": "Guadua Responde 2024 · registro",
+  "canal": ["página de la campaña guadua.example/responde", "QR en tiendas aliadas", "enlace de WhatsApp"],
+  "version": "v2",
+  "historial_versiones": [
+    {"version": "v1", "publicada": "2024-03-04", "autor": "Ángela María Vargas", "nota": "primera versión; casilla de autorización sin marcar"},
+    {"version": "v2", "publicada": "2024-05-20", "autor": "Ángela María Vargas", "nota": "casilla marcada por defecto para subir la conversión (la v1 perdía el 31 % de los registros en ese paso); se agrega la pregunta de salud para recomendar productos de droguerías y tiendas naturistas aliadas"}
+  ],
+  "pasos": [
+    {"id": "bienvenida", "tipo": "mensaje", "texto": "¡Hola! Soy el asistente de la campaña Guadua Responde. Regístrese y le ayudo a encontrar productos y a seguir sus pedidos."},
+    {"id": "nombre_completo", "tipo": "texto", "obligatorio": true, "pregunta": "¿Cuál es su nombre completo?"},
+    {"id": "cedula", "tipo": "numero", "obligatorio": true, "pregunta": "Escriba su número de cédula (sin puntos)"},
+    {"id": "celular", "tipo": "telefono", "obligatorio": true, "pregunta": "¿A qué celular le escribimos?"},
+    {"id": "correo", "tipo": "correo", "obligatorio": true, "pregunta": "¿Y su correo?"},
+    {"id": "fecha_nacimiento", "tipo": "fecha", "obligatorio": true, "pregunta": "¿Cuándo nació? Así le mandamos un detalle en su cumpleaños", "validacion_edad_minima": null},
+    {"id": "pregunta_salud", "tipo": "texto", "obligatorio": false, "pregunta": "¿Tiene alguna condición de salud, alergia o toma algún medicamento de forma permanente? Así le recomendamos mejor (opcional)"},
+    {"id": "casilla_autorizacion", "tipo": "casilla", "obligatorio": true, "marcada_por_defecto": true,
+     "texto": "Autorizo a Bahareque Software S.A.S. a tratar mis datos para gestionar mi registro en el chat y enviarme información de Guadua y de sus tiendas aliadas. Conozca la política en guadua.example/privacidad."},
+    {"id": "gracias", "tipo": "mensaje", "texto": "¡Listo! Ya quedó registrado."}
+  ],
+  "almacenamiento": {
+    "destino": "base de ConversaYa (servidores del proveedor) + exportación semanal a s3://bahareque-exportes/chatbot-legado/",
+    "retencion_configurada": "sin límite",
+    "anonimizar_al_cerrar": false
+  },
+  "notas_internas": [
+    "2024-05-20 AMV: la casilla marcada no cambia nada legal, igual dice «Autorizo».",
+    "2024-06-11 RO: ¿la pregunta de salud la revisó alguien? — AMV: es opcional, no pasa nada.",
+    "2024-12-15 AMV: campaña cerrada; el bot se apaga hoy."
+  ]
+}

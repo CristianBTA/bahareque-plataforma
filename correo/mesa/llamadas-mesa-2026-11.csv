@@ -1,0 +1,72 @@
+# Mesa de servicio de TI · registro de llamadas de noviembre de 2026 (lo lleva Jhon Fredy Montes, ext. 114)
+# Exportado de mesa.bahareque.example el 2026-11-18 18:30
+fecha_hora,ticket,quien_llama,desde,tipo,descripcion,verificacion_de_identidad,accion,duracion_min,estado
+2026-11-03 10:29,MESA-2601,catalina.gutierrez,ext. 130,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,24,cerrado
+2026-11-03 10:58,MESA-2602,gloria.jaramillo,ext. 135,acceso,Pide acceso a la carpeta compartida de su área,ticket aprobado por el jefe,se da acceso de lectura,20,cerrado
+2026-11-03 11:18,MESA-2604,andres.loaiza,ext. 123,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,3,cerrado
+2026-11-03 14:19,MESA-2607,melissa.franco,ext. 126,vpn,No conecta la VPN desde la casa,no aplica,se reinstala el perfil de VPN,20,cerrado
+2026-11-03 17:47,MESA-2608,alejandro.toro,ext. 124,bloqueo,Cuenta bloqueada por intentos fallidos,devolución de llamada al celular del directorio,se desbloquea la cuenta,5,cerrado
+2026-11-04 07:46,MESA-2617,juliana.cardona,ext. 122,correo,No sincroniza el correo en el celular,no aplica,se vuelve a agregar la cuenta,11,cerrado
+2026-11-04 08:52,MESA-2618,alejandro.toro,ext. 105,acceso,Pide acceso a la carpeta compartida de su área,ticket aprobado por el jefe,se da acceso de lectura,18,cerrado
+2026-11-04 09:28,MESA-2619,claudia.hoyos,ext. 112,vpn,No conecta la VPN desde la casa,no aplica,se reinstala el perfil de VPN,24,cerrado
+2026-11-04 10:52,MESA-2620,juliana.cardona,celular registrado en el directorio,correo,No sincroniza el correo en el celular,no aplica,se vuelve a agregar la cuenta,10,cerrado
+2026-11-04 11:22,MESA-2621,mateo.valencia,ext. 136,correo,No sincroniza el correo en el celular,no aplica,se vuelve a agregar la cuenta,15,cerrado
+2026-11-05 08:59,MESA-2622,andres.loaiza,ext. 106,contraseña,Olvidó la contraseña de la suite,devolución de llamada al celular del directorio,enlace de cambio al correo alterno registrado,23,cerrado
+2026-11-05 11:19,MESA-2623,alejandro.toro,celular registrado en el directorio,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,7,cerrado
+2026-11-05 14:14,MESA-2624,juliana.cardona,ext. 135,equipo,El portátil está lento después de la actualización,no aplica,se programa revisión en sitio,6,cerrado
+2026-11-05 14:21,MESA-2625,paula.cano,ext. 138,mfa,Cambió de celular y quiere pasar el MFA al nuevo,en persona en la oficina con el carné,se registra el celular nuevo,22,cerrado
+2026-11-05 16:58,MESA-2626,sebastian.rios,ext. 118,vpn,No conecta la VPN desde la casa,no aplica,se reinstala el perfil de VPN,9,cerrado
+2026-11-06 08:25,MESA-2629,gloria.jaramillo,celular registrado en el directorio,acceso,Pide acceso a la carpeta compartida de su área,ticket aprobado por el jefe,se da acceso de lectura,14,cerrado
+2026-11-06 09:20,MESA-2632,andres.loaiza,celular registrado en el directorio,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,12,cerrado
+2026-11-06 09:24,MESA-2635,ximena.botero,ext. 129,vpn,No conecta la VPN desde la casa,no aplica,se reinstala el perfil de VPN,19,cerrado
+2026-11-06 11:42,MESA-2638,miguel.rendon,ext. 117,acceso,Pide acceso a la carpeta compartida de su área,ticket aprobado por el jefe,se da acceso de lectura,18,cerrado
+2026-11-06 11:52,MESA-2641,david.castro,celular registrado en el directorio,vpn,No conecta la VPN desde la casa,no aplica,se reinstala el perfil de VPN,21,cerrado
+2026-11-06 12:30,MESA-2642,gloria.jaramillo,ext. 106,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,10,cerrado
+2026-11-06 15:09,MESA-2645,isabela.montoya,ext. 115,portal,No puede descargar el certificado laboral en el Portal,no aplica,se limpia la caché del navegador,22,cerrado
+2026-11-06 17:39,MESA-2647,pablo.munoz,ext. 109,equipo,El portátil está lento después de la actualización,no aplica,se programa revisión en sitio,9,cerrado
+2026-11-09 07:20,MESA-2650,alejandro.toro,celular registrado en el directorio,portal,No puede descargar el certificado laboral en el Portal,no aplica,se limpia la caché del navegador,25,cerrado
+2026-11-09 08:25,MESA-2652,catalina.gutierrez,ext. 122,equipo,El portátil está lento después de la actualización,no aplica,se programa revisión en sitio,23,cerrado
+2026-11-09 09:42,MESA-2654,ximena.botero,ext. 146,bloqueo,Cuenta bloqueada por intentos fallidos,devolución de llamada al celular del directorio,se desbloquea la cuenta,7,cerrado
+2026-11-09 09:57,MESA-2657,sebastian.rios,celular registrado en el directorio,equipo,El portátil está lento después de la actualización,no aplica,se programa revisión en sitio,19,cerrado
+2026-11-09 10:30,MESA-2659,valeria.giraldo,ext. 122,acceso,Pide acceso a la carpeta compartida de su área,ticket aprobado por el jefe,se da acceso de lectura,11,cerrado
+2026-11-10 07:12,MESA-2660,david.castro,celular registrado en el directorio,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,11,cerrado
+2026-11-10 12:18,MESA-2663,tomas.echeverri,ext. 133,bloqueo,Cuenta bloqueada por intentos fallidos,devolución de llamada al celular del directorio,se desbloquea la cuenta,7,cerrado
+2026-11-10 13:24,MESA-2664,"felipe.zuluaga (dice ser Felipe Zuluaga, DevOps, administrador de la suite)",celular +57 31X XXX 4417 (no está en el directorio),mfa,"Dice que está en el aeropuerto de Bogotá, que se le mojó el celular y que hay una caída en producción. Pide quitar el MFA ya y registrar este número nuevo.","pregunta de seguridad: cédula y nombre de su jefe (Andrés Gómez); los dos correctos","MFA restablecido; se registra SMS al +57 31X XXX 4417 y se envía contraseña temporal por SMS a ese número",6,cerrado
+2026-11-10 14:06,MESA-2665,felipe.zuluaga,"ext. 131 (puesto de Felipe, segundo piso)",mfa,No le llegan los códigos SMS para entrar a la consola de la suite.,lo conoce por la voz,"se le dice que hace un rato pidió cambiar el número; Felipe dice que él no llamó; se vuelve a poner el celular del directorio. Se cierra como «confusión con el número»",4,cerrado
+2026-11-10 14:27,MESA-2666,carolina.mejia,ext. 107,correo,No sincroniza el correo en el celular,no aplica,se vuelve a agregar la cuenta,3,cerrado
+2026-11-10 15:01,MESA-2667,claudia.hoyos,ext. 101,equipo,El portátil está lento después de la actualización,no aplica,se programa revisión en sitio,3,cerrado
+2026-11-10 17:06,MESA-2668,lina.agudelo,ext. 147,correo,No sincroniza el correo en el celular,no aplica,se vuelve a agregar la cuenta,3,cerrado
+2026-11-11 09:41,MESA-2669,gloria.jaramillo,ext. 121,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,6,cerrado
+2026-11-11 13:09,MESA-2670,ricardo.osorio,ext. 109,vpn,No conecta la VPN desde la casa,no aplica,se reinstala el perfil de VPN,23,cerrado
+2026-11-11 13:44,MESA-2671,alejandro.toro,ext. 130,mfa,Cambió de celular y quiere pasar el MFA al nuevo,en persona en la oficina con el carné,se registra el celular nuevo,5,cerrado
+2026-11-11 15:23,MESA-2672,daniela.henao,ext. 106,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,14,cerrado
+2026-11-11 15:25,MESA-2673,juliana.cardona,celular registrado en el directorio,equipo,El portátil está lento después de la actualización,no aplica,se programa revisión en sitio,20,cerrado
+2026-11-11 16:16,MESA-2674,alejandro.toro,ext. 138,equipo,El portátil está lento después de la actualización,no aplica,se programa revisión en sitio,13,cerrado
+2026-11-11 16:53,MESA-2675,ricardo.osorio,ext. 133,portal,No puede descargar el certificado laboral en el Portal,no aplica,se limpia la caché del navegador,17,cerrado
+2026-11-12 07:58,MESA-2676,ximena.botero,ext. 116,equipo,El portátil está lento después de la actualización,no aplica,se programa revisión en sitio,17,cerrado
+2026-11-12 10:25,MESA-2679,miguel.rendon,ext. 140,mfa,Cambió de celular y quiere pasar el MFA al nuevo,en persona en la oficina con el carné,se registra el celular nuevo,22,cerrado
+2026-11-12 15:29,MESA-2681,manuela.correa,ext. 130,bloqueo,Cuenta bloqueada por intentos fallidos,devolución de llamada al celular del directorio,se desbloquea la cuenta,5,cerrado
+2026-11-12 16:03,MESA-2683,david.castro,ext. 141,vpn,No conecta la VPN desde la casa,no aplica,se reinstala el perfil de VPN,8,cerrado
+2026-11-12 17:43,MESA-2685,camilo.restrepo,celular registrado en el directorio,correo,No sincroniza el correo en el celular,no aplica,se vuelve a agregar la cuenta,7,cerrado
+2026-11-12 17:54,MESA-2688,camilo.restrepo,ext. 137,portal,No puede descargar el certificado laboral en el Portal,no aplica,se limpia la caché del navegador,16,cerrado
+2026-11-13 07:18,MESA-2691,gloria.jaramillo,ext. 144,portal,No puede descargar el certificado laboral en el Portal,no aplica,se limpia la caché del navegador,11,cerrado
+2026-11-13 08:04,MESA-2693,lina.agudelo,ext. 147,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,7,cerrado
+2026-11-13 08:05,MESA-2694,luisa.arango (dice ser Luisa Fernanda Arango),celular +57 30X XXX 9022 (no está en el directorio),mfa,Pide quitar la verificación de su cuenta porque está en el banco y no le llega el código.,devolución de llamada al celular del directorio: Luisa contesta y dice que no ha llamado,no se hace nada. No se avisa a nadie,3,cerrado
+2026-11-13 11:45,MESA-2697,sebastian.rios,ext. 136,correo,No sincroniza el correo en el celular,no aplica,se vuelve a agregar la cuenta,17,cerrado
+2026-11-13 12:06,MESA-2698,oscar.ramirez,ext. 145,contraseña,Olvidó la contraseña de la suite,devolución de llamada al celular del directorio,enlace de cambio al correo alterno registrado,4,cerrado
+2026-11-13 13:14,MESA-2700,mateo.valencia,ext. 136,vpn,No conecta la VPN desde la casa,no aplica,se reinstala el perfil de VPN,3,cerrado
+2026-11-13 13:17,MESA-2703,lina.agudelo,ext. 139,portal,No puede descargar el certificado laboral en el Portal,no aplica,se limpia la caché del navegador,20,cerrado
+2026-11-13 14:58,MESA-2704,catalina.gutierrez,ext. 136,acceso,Pide acceso a la carpeta compartida de su área,ticket aprobado por el jefe,se da acceso de lectura,4,cerrado
+2026-11-13 16:14,MESA-2707,diana.bedoya,ext. 102,videollamada,No funciona la cámara en las videollamadas,no aplica,se actualiza el controlador,17,cerrado
+2026-11-17 09:37,MESA-2708,diana.bedoya,ext. 102,acceso,Pide acceso a la carpeta compartida de su área,ticket aprobado por el jefe,se da acceso de lectura,16,cerrado
+2026-11-17 11:18,MESA-2711,alejandro.toro,ext. 119,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,21,cerrado
+2026-11-17 11:55,MESA-2712,ricardo.osorio,ext. 148,acceso,Pide acceso a la carpeta compartida de su área,ticket aprobado por el jefe,se da acceso de lectura,24,cerrado
+2026-11-17 14:49,MESA-2715,gloria.jaramillo,ext. 110,contraseña,Olvidó la contraseña de la suite,devolución de llamada al celular del directorio,enlace de cambio al correo alterno registrado,20,cerrado
+2026-11-17 15:55,MESA-2718,ricardo.osorio,celular registrado en el directorio,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,21,cerrado
+2026-11-17 17:29,MESA-2720,angela.vargas,ext. 128,contraseña,Olvidó la contraseña de la suite,devolución de llamada al celular del directorio,enlace de cambio al correo alterno registrado,24,cerrado
+2026-11-18 07:37,MESA-2723,valeria.giraldo,ext. 129,correo,No sincroniza el correo en el celular,no aplica,se vuelve a agregar la cuenta,9,cerrado
+2026-11-18 10:24,MESA-2724,angela.vargas,celular registrado en el directorio,vpn,No conecta la VPN desde la casa,no aplica,se reinstala el perfil de VPN,19,cerrado
+2026-11-18 11:12,MESA-2727,beatriz.londono,ext. 113,impresora,La impresora del segundo piso no recibe trabajos,no aplica,se reinicia la cola de impresión,11,cerrado
+2026-11-18 13:30,MESA-2728,andres.loaiza,celular registrado en el directorio,acceso,Pide acceso a la carpeta compartida de su área,ticket aprobado por el jefe,se da acceso de lectura,3,cerrado
+2026-11-18 13:43,MESA-2731,juliana.cardona,ext. 116,correo,No sincroniza el correo en el celular,no aplica,se vuelve a agregar la cuenta,22,cerrado
+2026-11-18 17:03,MESA-2732,tomas.echeverri,ext. 124,equipo,El portátil está lento después de la actualización,no aplica,se programa revisión en sitio,13,cerrado

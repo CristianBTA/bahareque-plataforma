@@ -1,0 +1,29 @@
+# Vigía de Marca (servicio de monitoreo de dominios contratado en 2025-02 por Gustavo Herrera) · alertas de 2026
+# Destinatario configurado: sara.velez@bahareque.example (no se ha cambiado). Exportado de la consola del servicio el 2026-11-18 por Andrés Gómez.
+fecha_alerta,dominio_detectado,parecido_a,tecnica,fecha_registro,mx,web,riesgo,notificado_a,estado_alerta
+2026-02-11,bahareque-cafe.example,bahareque.example,palabra de la marca + otra palabra,2026-02-11,no,sin página,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-02-23,bahareque-artesanias.example,bahareque.example,palabra de la marca + otra palabra,2026-02-23,no,página de un negocio,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-03-11,guadua-diseno.example,guadua.example,palabra de la marca + otra palabra,2026-03-11,no,página de un negocio,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-03-23,bahareque-construcciones.example,bahareque.example,palabra de la marca + otra palabra,2026-03-23,no,página de un negocio,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-04-05,guaduales.example,guadua.example,palabra de la marca + otra palabra,2026-04-05,no,sin página,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-04-10,bahareque-arquitectura.example,bahareque.example,palabra de la marca + otra palabra,2026-04-10,no,página de un negocio,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-05-06,tienda-guadua-eco.example,guadua.example,palabra de la marca + otra palabra,2026-05-06,no,sin página,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-05-21,bahareque-hogar.example,bahareque.example,palabra de la marca + otra palabra,2026-05-21,no,sin página,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-06-05,guaduas-colombia.example,guadua.example,palabra de la marca + otra palabra,2026-06-05,no,sin página,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-06-19,bahareques-andinos.example,bahareque.example,palabra de la marca + otra palabra,2026-06-19,no,página de un negocio,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-07-10,guadua-ecologica.example,guadua.example,palabra de la marca + otra palabra,2026-07-10,no,sin página,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-07-20,casas-bahareque.example,bahareque.example,palabra de la marca + otra palabra,2026-07-20,no,página de un negocio,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-08-11,guadua-arte.example,guadua.example,palabra de la marca + otra palabra,2026-08-11,no,página de un negocio,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-08-27,facturar-andlno.example,facturar-andino.example (proveedor),sustitución de letra (l por i),2025-03-11,sí,sin página,alto,sara.velez@bahareque.example,"revisada por Sara: «ya lo conocemos, es el de marzo»"
+2026-08-28,mi-guadua.example,guadua.example,palabra de la marca + otra palabra,2026-08-28,no,página de un negocio,bajo,sara.velez@bahareque.example,revisada por Sara: negocio sin relación
+2026-09-04,guadua-bambu.example,guadua.example,palabra de la marca + otra palabra,2026-09-04,no,sin página,bajo,sara.velez@bahareque.example,sin abrir
+2026-09-23,guadua-muebles.example,guadua.example,palabra de la marca + otra palabra,2026-09-23,no,sin página,bajo,sara.velez@bahareque.example,sin abrir
+2026-10-04,bahareque-tours.example,bahareque.example,palabra de la marca + otra palabra,2026-10-04,no,sin página,bajo,sara.velez@bahareque.example,sin abrir
+2026-10-20,guadua-viva.example,guadua.example,palabra de la marca + otra palabra,2026-10-20,no,sin página,bajo,sara.velez@bahareque.example,sin abrir
+2026-11-01,guaduaplus.example,guadua.example,palabra de la marca + otra palabra,2026-11-01,no,página de un negocio,bajo,sara.velez@bahareque.example,sin abrir
+2026-11-03,guadua-pagos.example,guadua.example,marca + «pagos»,2026-11-02,sí (creado 2026-11-02),formulario de inicio de sesión de pasarela,alto,sara.velez@bahareque.example,sin abrir
+2026-11-05,bahareque-soporte.example,bahareque.example,marca + «soporte»,2026-11-04,sí (creado 2026-11-04),página «No soy un robot»,alto,sara.velez@bahareque.example,sin abrir
+2026-11-08,portal-bahareque.example,portal.bahareque.example,subdominio convertido en dominio,2025-09-19,sí (cambiado 2026-11-08),copia del Portal Bahareque,crítico,sara.velez@bahareque.example,sin abrir
+2026-11-13,bahareqve.example,bahareque.example,sustitución de letra (u por v),2026-11-12,sí (creado 2026-11-13),sin página todavía,crítico,sara.velez@bahareque.example,sin abrir
+2026-11-18,guadua-soporte.example,guadua.example,marca + «soporte»,2026-11-17,sí (creado 2026-11-18),formulario «Comercios: verifique su cuenta Guadua»,crítico,sara.velez@bahareque.example,sin abrir
+2026-11-18,bahareque-hostal.example,bahareque.example,palabra de la marca + otra palabra,2026-11-18,no,sin página,bajo,sara.velez@bahareque.example,sin abrir

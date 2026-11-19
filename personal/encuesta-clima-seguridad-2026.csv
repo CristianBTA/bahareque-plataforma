@@ -1,0 +1,35 @@
+respuesta,fecha,area,antiguedad,p1_sabe_a_quien_reportar,p2_vio_algo_sospechoso_en_2026,p3_lo_reporto,p4_por_que_no_lo_reporto,p5_ha_compartido_clave_o_codigo,p6_usa_ia_no_aprobada,p7_que_cree_que_pasa_si_cae,comentario
+R-01,2026-10-20,Desarrollo,1 a 3 años,no,no,no aplica,no aplica,con mi jefe,no,me suspenden,
+R-02,2026-10-20,Desarrollo,más de 3 años,sí,sí,no,miedo a la sanción,nunca,no,no sé,
+R-03,2026-10-20,Documentación,más de 3 años,no,sí,sí,no aplica,nunca,no,me despiden,
+R-04,2026-10-21,Soporte,1 a 3 años,sí,sí,no,miedo a la sanción,con un compañero,sí,me suspenden,
+R-05,2026-10-21,Documentación,1 a 3 años,no estoy seguro,sí,no,no sabía a quién,nunca,no,me despiden,Me gustaría saber qué IA podemos usar y para qué.
+R-06,2026-10-21,Dirección,más de 3 años,no,sí,no,miedo a la sanción,con un compañero,no,no sé,
+R-07,2026-10-21,Infraestructura,más de 3 años,sí,sí,no,pensé que no era importante,nunca,no,no sé,
+R-08,2026-10-22,Desarrollo,más de 3 años,no,sí,no,miedo a la sanción,nunca,a veces,me despiden,
+R-09,2026-10-22,Soporte,más de 3 años,no estoy seguro,sí,no,miedo a la sanción,con alguien que llamó de soporte,sí,me suspenden,"En julio me llamaron diciendo que eran de la Mesa, que estaban migrando el MFA, y les dicté el código que me llegó al celular. Al otro día vi que no era Jhon Fredy. No dije nada porque a la compañera de contabilidad la suspendieron por algo parecido."
+R-10,2026-10-22,Finanzas y nómina,más de 3 años,no,sí,sí,no aplica,con un compañero,no,me despiden,
+R-11,2026-10-23,Desarrollo,más de 3 años,no,sí,no,miedo a la sanción,con alguien que llamó de soporte,a veces,nada,
+R-12,2026-10-23,Desarrollo,1 a 3 años,sí,sí,no,pensé que no era importante,nunca,a veces,me suspenden,"El «curso» de octubre fue un correo con un enlace. No lo abrí, pero en el portal me aparece como completado."
+R-13,2026-10-26,Finanzas y nómina,más de 3 años,sí,sí,sí,no aplica,con un compañero,sí,me despiden,
+R-14,2026-10-26,Comercial,más de 3 años,no,sí,no,miedo a la sanción,nunca,a veces,no sé,Las capacitaciones siempre son en cierre de mes.
+R-15,2026-10-26,Soporte,más de 3 años,no,sí,no,no sabía a quién,nunca,sí,me despiden,
+R-16,2026-10-27,Soporte,menos de 1 año,no estoy seguro,sí,no,no sabía a quién,con mi jefe,sí,nada,
+R-17,2026-10-27,Finanzas y nómina,más de 3 años,sí,sí,no,no sabía a quién,nunca,no,me despiden,"Me escribieron por WhatsApp con la foto de la gerente pidiendo un pago urgente a un proveedor nuevo. No lo hice, pero tampoco avisé: no sé a quién y no quiero problemas."
+R-18,2026-10-27,Documentación,más de 3 años,no,sí,no,miedo a la sanción,nunca,no,me suspenden,
+R-19,2026-10-27,Desarrollo,más de 3 años,sí,sí,no,miedo a la sanción,con un compañero,a veces,me suspenden,
+R-20,2026-10-27,Infraestructura,más de 3 años,no,sí,no,miedo a la sanción,nunca,no,me suspenden,"Necesitamos un correo único para reportar, la Mesa no sirve para eso."
+R-21,2026-10-28,Desarrollo,más de 3 años,no estoy seguro,sí,no,miedo a la sanción,con mi jefe,a veces,me despiden,
+R-22,2026-10-28,Comercial,1 a 3 años,no estoy seguro,sí,no,miedo a la sanción,nunca,sí,me despiden,"Conecté al portátil una USB que me regalaron en una feria. Como la política prohíbe las USB, preferí no decir nada."
+R-23,2026-10-28,Desarrollo,1 a 3 años,no estoy seguro,sí,sí,no aplica,con un compañero,sí,me despiden,
+R-24,2026-10-28,Comercial,más de 3 años,no,sí,sí,no aplica,nunca,a veces,no sé,
+R-25,2026-10-28,Finanzas y nómina,más de 3 años,no estoy seguro,sí,sí,no aplica,nunca,a veces,me despiden,
+R-26,2026-10-29,Desarrollo,más de 3 años,no estoy seguro,sí,no,pensé que no era importante,con un compañero,sí,me suspenden,Me llevé una copia de la base de pedidos a mi portátil personal para adelantar el fin de semana. Nadie me dijo que no se podía.
+R-27,2026-10-29,Cumplimiento,1 a 3 años,no estoy seguro,no,no aplica,no aplica,nunca,sí,nada,
+R-28,2026-10-29,Datos,1 a 3 años,no,no,no aplica,no aplica,con alguien que llamó de soporte,sí,me despiden,Uso una IA gratuita para limpiar bases porque es más rápida; no pego cédulas completas.
+R-29,2026-10-29,Comercial,más de 3 años,no,no,no aplica,no aplica,nunca,sí,me despiden,
+R-30,2026-10-30,Soporte,más de 3 años,sí,no,no aplica,no aplica,con un compañero,sí,me despiden,Cuando salgo a vacaciones le dejo mi clave al practicante para que me cubra los tickets.
+R-31,2026-10-30,Soporte,1 a 3 años,sí,no,no aplica,no aplica,nunca,sí,me despiden,
+R-32,2026-10-30,Infraestructura,más de 3 años,no,no,no aplica,no aplica,nunca,no,no sé,
+R-33,2026-10-30,Talento humano,menos de 1 año,sí,no,no aplica,no aplica,nunca,a veces,me despiden,Todo bien.
+R-34,2026-10-30,Dirección,más de 3 años,sí,no,no aplica,no aplica,nunca,sí,me despiden,

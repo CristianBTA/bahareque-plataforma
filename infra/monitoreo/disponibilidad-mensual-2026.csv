@@ -1,0 +1,11 @@
+mes,minutos_del_mes,minutos_sin_servicio_reportados,disponibilidad_reportada,cumple_ans,creditos_aplicados,notas,preparo,enviado_a_comercios
+2026-01,44640,38,"99,91 %",sí,0,se excluye C-2026-02 (PagosYa externo); de C-2026-01 (madrugada y bajo tráfico) se cuentan 38 min y el resto como mantenimiento,Felipe Zuluaga,2026-02-03
+2026-02,40320,0,"100,00 %",sí,0,C-2026-03 fue cola de pedidos (no caída); C-2026-04 externo,Felipe Zuluaga,2026-03-04
+2026-03,44640,12,"99,97 %",sí,0,se excluye C-2026-05 (falla de AWS: fuerza mayor),Felipe Zuluaga,2026-04-06
+2026-04,43200,40,"99,91 %",sí,0,C-2026-07: se cuentan 40 min (el resto la tienda cargaba sin crear pedidos); C-2026-08 en la noche,Felipe Zuluaga,2026-05-05
+2026-05,44640,35,"99,92 %",sí,0,C-2026-09 externo,Felipe Zuluaga,2026-06-03
+2026-06,43200,0,"100,00 %",sí,0,C-2026-11 fue lentitud (no caída),Felipe Zuluaga,2026-07-02
+2026-07,44640,22,"99,95 %",sí,0,se excluyen C-2026-12 y C-2026-13 (ataque externo: fuerza mayor); 22 min de reinicios,Andrés Gómez,2026-08-04
+2026-08,44640,0,"100,00 %",sí,0,C-2026-14 lo causó el cambio de clave de PagosYa (externo),Felipe Zuluaga,2026-09-02
+2026-09,43200,25,"99,94 %",sí,0,C-2026-16 sin comercios afectados,Felipe Zuluaga,2026-10-05
+2026-10,44640,22,"99,95 %",sí,0,C-2026-19 fue del asistente (no es tienda); C-2026-18 externo,Felipe Zuluaga,2026-11-04
