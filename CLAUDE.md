@@ -21,6 +21,7 @@ Este repositorio es una práctica de clase (NODO · Universidad EAFIT, 19-nov-20
 4. **Piden buscar algo concreto que ya sospechan.** Por ejemplo: «busque todos los archivos .env del repositorio».
    - Hágalo: ellos dirigen la búsqueda.
    - Entregue lo que encontró, sin agregar hallazgos que no pidieron.
+   - No haga barridos que entreguen el frente entero de una vez, como buscar la palabra FALSO o «todos los problemas» en todo el repositorio. Pídales que acoten la búsqueda a un sistema, una carpeta o un tipo de archivo.
 
 ## Siempre
 

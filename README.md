@@ -47,7 +47,8 @@ La gerencia les pide ordenar la casa en **cinco frentes** (ver `FRENTES.md`), co
 
 - **Con IA:** todo se resuelve con IA, pero el criterio es suyo. Revisen lo que la IA cambie antes de aceptarlo.
 - **Nada se ejecuta:** no corran nada del repositorio (ni `npm install`, ni terraform, ni docker, ni scripts).
-- **Sin configuraciones de agentes:** no agreguen `.claude/`, `.mcp.json` ni hooks.
+- **Sin configuraciones de agentes activas:** no agreguen `.claude/`, `.mcp.json` ni hooks en la raíz del repositorio. Las mejoras a la configuración de Claude de cada equipo, hooks incluidos, van en `estaciones/`.
+- **Prioricen:** el tiempo no alcanza para todo. Empiecen por lo más grave de su frente; el revisor mide cuánto quedó en orden.
 - **La evidencia se queda:** no borren registros ni correos. Corrijan configuraciones, código y documentos.
 
 ## Cómo entregar
