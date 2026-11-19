@@ -4,14 +4,14 @@ Este reporte es suyo. Cuenta lo que encontró y cómo lo resolvió, alimentado c
 
 ## Ejemplo (del profesor)
 
-> **El repo deja en evidencia que se filtraron tokens.** En clase determinamos que se rotan de manera inmediata, porque hicimos una filtración (clase 6, hacking en vivo: el agente instala y el secreto sale). Por eso, antes de borrarlo del código, se rota; borrarlo no basta, porque queda en el historial.
+> **El repo deja en evidencia que se filtraron tokens.** En clase determinamos que se rotan de manera inmediata, porque hicimos una filtración en vivo: el agente instala y el secreto sale. Por eso, antes de borrarlo del código, se rota; borrarlo no basta, porque queda en el historial.
 
 ## Hallazgos (mínimo tres)
 
 ### 1. <título corto>
 - **Dónde:** archivo y línea.
 - **Qué estaba mal:**
-- **Lo que aprendí en clase que aplica:** clase N · concepto, y qué vimos o hicimos en clase que lo demuestra.
+- **Lo que aprendí en el curso que aplica:** el tema o concepto, y qué vimos o hicimos en clase que lo demuestra.
 - **Por qué importa para Bahareque:**
 - **Qué se cambió (con la IA) y cómo comprobé que quedó bien:**
 
@@ -20,8 +20,8 @@ Este reporte es suyo. Cuenta lo que encontró y cómo lo resolvió, alimentado c
 ### 3. …
 
 ## Los dos avisos
-- **Primer aviso:** qué hice desde mi frente y qué concepto de clase usé.
-- **Segundo aviso:** qué hice desde mi frente y qué concepto de clase usé.
+- **Primer aviso:** qué hice desde mi frente y qué concepto del curso usé.
+- **Segundo aviso:** qué hice desde mi frente y qué concepto del curso usé.
 
 ## Lo que me llevo para mi empresa
 Una regla: «No se hace ___ · se hace ___ · lo compruebo con ___».

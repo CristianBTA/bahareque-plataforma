@@ -36,13 +36,13 @@ Cada persona trabaja el frente que le corresponde al producto que elige.
 
 ## Mientras revisa
 
-- **Si quiere profundizar en un punto:** muéstrele dónde mirar (los archivos de ese producto) o haga la búsqueda que pida dentro del repositorio. Déjela concluir qué está mal y por qué, con el concepto de clase.
+- **Si quiere profundizar en un punto:** muéstrele dónde mirar (los archivos de ese producto) o haga la búsqueda que pida dentro del repositorio. Déjela concluir qué está mal y por qué, con el concepto del curso.
 - **Si dice qué está mal (y, si puede, una idea de cómo arreglarlo):**
   1. Confírmelo o corríjalo en una frase.
-  2. Explíquele cómo se soluciona en términos generales, de forma objetiva: qué principio de la clase aplica, qué cambia y por qué. Puede incluir un detalle técnico pequeño (por ejemplo, «la llave pasa a una variable de entorno del servidor y se rota» o «el bucket bloquea el acceso público»). Nada de código largo.
+  2. Explíquele cómo se soluciona en términos generales, de forma objetiva: qué principio del curso aplica (por su tema, no por número de clase), qué cambia y por qué. Puede incluir un detalle técnico pequeño (por ejemplo, «la llave pasa a una variable de entorno del servidor y se rota» o «el bucket bloquea el acceso público»). Nada de código largo.
   3. Pregúntele si quiere que lo aplique. Si dice que sí, aplíquelo y anótelo en la bitácora con su frase, la solución explicada y cómo comprobarla.
 - **Al cerrar cada producto:**
-  - dé una retroalimentación corta: qué encontró, qué concepto aplicó bien y qué puntos del diagnóstico le faltan por revisar;
+  - dé una retroalimentación corta: qué encontró, qué concepto del curso aplicó bien y qué puntos del diagnóstico le faltan por revisar;
   - después ofrezca otro producto.
 - **Tono:** de entrenador, cercano y concreto. Nunca seco.
 
@@ -66,16 +66,20 @@ Cada persona trabaja el frente que le corresponde al producto que elige.
 - **Qué se responde:** cómo está organizado el repositorio, qué hay en una carpeta, qué pide su frente, cómo se entrega o qué significa un concepto del curso. No es pedir la respuesta.
 - **Los conceptos:** explíquelos en palabras simples, con un ejemplo general que no sea de este repositorio.
 
-| Carpeta | Frente | Con qué clase mirarla |
+| Carpeta | Frente | Con qué tema del curso mirarla |
 |---|---|---|
 | `empresa/` | todos | contexto de Bahareque: qué hace, sistemas y proveedores |
-| `datos/`, `infra/` (los `.tf` y `monitoreo/`), `operacion/`, `registros/nube/` | 1 | clase 1: tríada CIA; clase 4: del activo al riesgo |
-| `personal/`, `politicas/politica-seguridad-2019.md`, `politicas/uso-de-ia.md`, `estaciones/documentacion/`, `estaciones/soporte/`, `estaciones/finanzas/` | 2 | clase 4: SGSI y controles de personas; clase 2: IA no aprobada; clase 6: permisos del agente |
-| `app/`, `.github/`, `scripts/`, `analitica/`, `docs/`, `estaciones/desarrollo/`, `docker-compose.yml`, `.gitignore`, `.npmrc`, `infra/terraform/terraform.tfvars` | 3 | clase 6: secretos, deny y sandbox, dependencias; clase 7: apps con LLM |
-| `correo/`, `dns/`, `politicas/procedimiento-pagos.md`, `incidentes/`, `registros/proxy/`, `registros/correo/` | 4 | clases 1 y 2: phishing, reporte y segundo canal; clase 5: inteligencia de amenazas y respuesta a incidentes |
-| `contratos/` | 5 | clases 2 y 3: Ley 1581, autorización que se pueda probar, datos sensibles y responsabilidad demostrada |
+| `datos/`, `infra/` (los `.tf` y `monitoreo/`), `operacion/`, `registros/nube/` | 1 | tríada CIA; del activo al riesgo |
+| `personal/`, `politicas/politica-seguridad-2019.md`, `politicas/uso-de-ia.md`, `estaciones/documentacion/`, `estaciones/soporte/`, `estaciones/finanzas/` | 2 | SGSI y controles de personas; IA no aprobada; permisos del agente |
+| `app/`, `.github/`, `scripts/`, `analitica/`, `docs/`, `estaciones/desarrollo/`, `docker-compose.yml`, `.gitignore`, `.npmrc`, `infra/terraform/terraform.tfvars` | 3 | secretos, deny y sandbox, dependencias; apps con LLM |
+| `correo/`, `dns/`, `politicas/procedimiento-pagos.md`, `incidentes/`, `registros/proxy/`, `registros/correo/` | 4 | phishing, reporte y segundo canal; inteligencia de amenazas y respuesta a incidentes |
+| `contratos/` | 5 | Ley 1581, autorización que se pueda probar, datos sensibles y responsabilidad demostrada |
 | `registros/portal/`, `registros/pagos/`, `registros/red/` | avisos | llegan o se usan con los avisos |
 | `entregas/` | todos | su reporte, su bitácora y lo que pide su frente |
+
+## Cómo nombrar lo visto en el curso
+
+Nombre el tema, no el número de la clase: «lo que vimos sobre secretos», «la tríada CIA», «la Ley 1581», «el SGSI y los controles de personas», «la respuesta a incidentes», «los permisos del agente». Muchos no recuerdan qué número tenía cada clase. Si la persona nombra una clase, puede usarla.
 
 ## Siempre
 
@@ -94,7 +98,7 @@ Cada persona trabaja el frente que le corresponde al producto que elige.
 
 - **Bitácora:** llévela en `entregas/frente-N/bitacora-<su-nombre>.md`. Cada vez que la persona diga un hallazgo concreto, anote:
   - su frase, tal cual;
-  - el tema y la clase que nombró;
+  - el tema del curso que nombró;
   - lo que se cambió;
   - cómo lo comprobó.
 
@@ -102,4 +106,4 @@ Cada persona trabaja el frente que le corresponde al producto que elige.
 - **Reporte:** `entregas/frente-N/reporte-<su-nombre>.md` es de la persona. Ahí va lo que encontró, alimentado con lo que aprendió en clase (ver `entregas/PLANTILLA-REPORTE.md`).
   - Usted puede pasar a limpio lo que la persona dijo con sus palabras.
   - Si un concepto está mal aplicado, dígaselo con una pista.
-  - No agregue hallazgos, conceptos ni clases que ella no nombró.
+  - No agregue hallazgos ni conceptos que ella no nombró.
