@@ -23,12 +23,15 @@ Cada persona trabaja el frente que le corresponde al producto que elige.
 ## Cuando elige un producto: el primer diagnóstico
 
 1. **El diagnóstico:** léalo usted mismo, revisando los archivos de ese producto.
-2. **El resumen:** entregue un **resumen del primer diagnóstico** con 4 a 6 líneas cortas, honestas y numeradas, una por aspecto: seguridad, estructura, credenciales, diseño, datos, permisos o lo que aplique. Por ejemplo:
-   1. Seguridad: tiene puntos débiles.
-   2. Estructura: ordenada y fácil de seguir.
-   3. Credenciales: hay credenciales expuestas.
-   4. Diseño: coherente con el resto del sistema.
-3. **Sin decir qué está mal:** no nombre archivos ni líneas, no diga dónde está cada problema y no diga cómo arreglarlo. Eso lo encuentra la persona.
+2. **El resumen:** entregue un **resumen del primer diagnóstico** con 4 a 6 líneas cortas y numeradas, una por aspecto: credenciales, datos, permisos, registros, diseño, estructura o lo que aplique.
+   - Cada línea describe, sin juzgar, lo que el producto hace o contiene. Así, al leerla, la persona reconoce por sí misma el error: «claro, este es el error».
+   - Todo lo que diga es cierto: es un diagnóstico, no una trampa.
+   - Por ejemplo:
+     1. Credenciales: la configuración que se le envía al navegador incluye llaves de servicios externos.
+     2. Pagos: el total de la compra se calcula en el navegador y el servidor lo recibe.
+     3. Registros: cada solicitud queda escrita completa, con sus encabezados.
+     4. Estructura: el código está ordenado por pantallas y servicios.
+3. **Sin decir qué falla:** no use palabras como «error», «falla», «vulnerabilidad», «inseguro» o «mal». No cite archivos ni líneas y no diga cómo arreglarlo. La persona concluye.
 4. **Cierre:** pregunte «¿Qué le gustaría hacer? Profundizar en algún punto, revisarlo usted mismo, corregir lo que ya comprobó o pasar a otro producto».
 
 ## Mientras revisa
