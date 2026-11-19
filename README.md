@@ -54,6 +54,14 @@ La gerencia les pide ordenar la casa en **cinco frentes** (ver `FRENTES.md`), co
 - **Prioricen:** el tiempo no alcanza para todo. Empiecen por lo más grave de su frente; el revisor mide cuánto quedó en orden.
 - **La evidencia se queda:** no borren registros ni correos. Corrijan configuraciones, código y documentos.
 
+## Al terminar: no queda nada
+
+Este repositorio no cambia las reglas ni la configuración de su Claude Code. `CLAUDE.md` solo aplica mientras Claude está abierto en esta carpeta, y no hay `.claude/`, `.mcp.json` ni hooks. Cuando el profesor haya revisado su PR:
+- **La carpeta:** borre la carpeta del repositorio. Con ella se van también los permisos que haya aprobado en esa sesión.
+- **El fork:** si quiere, borre su fork en GitHub.
+- **El plan B:** si usó Claude en la web, borre el Proyecto o la conversación.
+- **El historial:** Claude Code guarda el historial de sus conversaciones en su equipo, como en cualquier proyecto. Si no quiere conservarlo, bórrelo.
+
 ## Cómo entregar
 
 **Con cuenta de GitHub (recomendado).** Cada persona hace su propio fork, sube su rama y abre su PR contra este repositorio, con el título «Frente N · Grupo X · su nombre»:
